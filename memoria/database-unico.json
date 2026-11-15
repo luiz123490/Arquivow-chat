@@ -2,7 +2,7 @@
   "type": "urv-full",
   "version": 2,
   "appVersion": "URV-CORE v2.0",
-  "date": "2026-11-15T19:16:23.424Z",
+  "date": "2026-11-15T20:37:48.166Z",
   "config": {
     "aiName": "URV",
     "userName": "User",
@@ -58707,15 +58707,22 @@
   },
   "_consolidado": {
     "tipo": "urv-memory-database-unico",
-    "gerado_em": "2026-11-15T20:34:27.833Z",
-    "fonte": "/storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.harness/attachments/1115-172916-753c1df0-urv-full-backup-2026-11-15T19-16-23.json",
+    "gerado_em": "2026-11-15T20:39:57.132Z",
+    "fonte": "/storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.harness/attachments/1115-173755-135318b5-urv-full-backup-2026-11-15T20-37-47.json",
     "thread_ativa": "mw9m152stqmn44jis5",
     "total_personagens": 11,
     "total_threads": 8,
     "versoes_originais": {
       "appVersion": "URV-CORE v2.0",
       "version": 2,
-      "date": "2026-11-15T19:16:23.424Z"
+      "date": "2026-11-15T20:37:48.166Z"
+    },
+    "conteudo": {
+      "personagens": 11,
+      "threads": 8,
+      "lorebook_entradas": 123,
+      "lorebook_fixadas": 34,
+      "fatos_memoria": 25
     }
   }
 }
