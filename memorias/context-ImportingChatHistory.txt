@@ -50,3 +50,9 @@ Continuação da discussão técnica sobre memória, contexto, datafiles.
 
 === ESTADO ATUAL ===
 Thread de suporte técnico concluída. Usuário recebeu orientação sobre documentação oficial para entender janela de contexto e gestão de memória na plataforma URV AI.
+
+
+=== STANDING RECORD (V9 - última mensagem real) ===
+Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória:
+
+[URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
