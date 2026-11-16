@@ -1,17 +1,14 @@
-[MEMÓRIA CONDENSADA - Importing Chat History via Datafile]
+[MEMÓRIA - Importing Chat History via Datafile]
 Thread ID: mut0tz53i5pamnz66xd
-Total de mensagens: 10 (narrativas relevantes: 10)
 
-=== ESTADO ATUAL / STANDING RECORD ===
+ARCO ATUAL:
+Suporte/Importação
+
+STATUS ATUAL (retomar daqui):
 Conversa de suporte/importação sobre contexto dos bots. Última orientação: para manter contexto além das mensagens fixadas, consultar a documentação da plataforma sobre janela de contexto e gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md).
 
-=== ÚLTIMAS AÇÕES/INTENÇÕES DO USUÁRIO (resumo) ===
-- Eu posso importar histórico de chats bo datafile?
-- Eu não sei, se eu criar um datafile, o histórico de chat pode ser criado?
-- E caso eu escolha uma mensagem alternativa assim como um chatbot normal de I.A?
-- As suas mensagens são limitadas?
-- Como eu faço para os bots se lembrar de todo o contexto do chat já que só tem 5 mensagens fixadas?
+CONTEXTO DE FUNDO:
+Sem narrativa de RP.
 
-=== ÚLTIMA MENSAGEM NARRATIVA (trecho) ===
-[ASSISTANT @ 2026-11-08T20:34:52.155Z]
-Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
+ÚLTIMA MENSAGEM DE CENA (referência):
+[ASSISTANT @ 2026-11-08T20:34:52.155Z] Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)

@@ -1,10 +1,17 @@
 ================================================================================
-MEMÓRIA CONDENSADA — New Chat
+MEMÓRIA DE THREAD — New Chat / Schnell Studio
 ID: mwb2qgwkyvomee2o6cj
-Total mensagens: 0 | Narrativas: 0 | Referências fixadas omitidas: 0
+NÃO MISTURAR com outras threads/personagens.
 ================================================================================
 
-[STANDING RECORD / ESTADO ATUAL]
+>>> ARCO ATUAL
+Sem arco em andamento.
+
+>>> STATUS ATUAL (RETOMAR DAQUI)
 (sem standing record)
 
-[THREAD VAZIA OU SEM MENSAGENS NARRATIVAS]
+>>> CONTEXTO DE FUNDO (resumo breve)
+Thread vazia.
+
+>>> MENSAGENS RECENTES (referência de continuidade)
+(nenhuma mensagem narrativa)

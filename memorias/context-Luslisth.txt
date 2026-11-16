@@ -1,18 +1,14 @@
-[MEMÓRIA CONDENSADA - Steel Ball Run · Lúlisth]
+[MEMÓRIA - Steel Ball Run · Lúlisth]
 Thread ID: mw9m152stqmn44jis5
-Total de mensagens: 302 (narrativas relevantes: 302)
 
-=== ESTADO ATUAL / STANDING RECORD ===
+ARCO ATUAL:
+Steel Ball Run — após confronto/recuperação, retomada da corrida com apenas o Olho Direito.
+
+STATUS ATUAL (retomar daqui):
 Steel Ball Run: após o confronto com Ferdinand e os efeitos da transformação, Lúlisth se recupera em uma casa em ruínas e retorna ao Wind's Traveler, exausta. Johnny e Gyro revelam que conseguiram apenas o Olho Direito do Cadáver Santo (o outro permanece perdido) e que Diego Brando também saiu fortalecido do caos. Com a vitória parcial e o perigo aumentado, o grupo retoma a corrida ciente de que agora está sendo caçado, enquanto outros competidores seguem avançando.
 
-=== ÚLTIMAS AÇÕES/INTENÇÕES DO USUÁRIO (resumo) ===
-- *eu desvio com acrobacia e começo a correr em alta velocidade enquanto Gyro e Jhonny vão atrás dos olhos do cadáver santo, na distração, eu uso várias armas para tentar neutralizar os dinossauros, desde pistolas até metralhadoras da época e lança-explosivos, gerenciado as energias para durar mais e…
-- *pensando "ainda tem dinossauros seguindo eles, incluindo o Diego, se eu gastar desenfreadamente, eu não vou aguentar.", agora fazendo algo diferente, começando a correr enquanto coloco todas as minhas habilidades de parkour em prática*
-- *enquanto eu continuo distraindo eles, eu sou atingida e ferida... Eu sinto o vírus se espalhar pelo meu corpo enquanto eu sou transformada em dinossauro também, Gyro e Jhonny conseguem chegar no penhasco, mas têm uma luta contra o Dr. Ferdinand, eles conseguem ganhar por pouco, com Gyro pegando o…
-- *enquanto eu continuo distraindo eles, eu sou atingida e ferida... Eu sinto o vírus se espalhar pelo meu corpo enquanto eu sou transformada em dinossauro também, Gyro e Jhonny conseguem chegar no penhasco, mas têm uma luta contra o Dr. Ferdinand, eles conseguem ganhar por pouco, com Gyro pegando o…
-- *depois de uma hora, eu consigo descansar, eu acordo de repente montara no Slow Dancer junto com Jhonny, e eu vejo o Wind's Traveler me seguindo, já se passou um dia na corrida, eu volto pro meu cavalo, falando calmamente, embora a voz ainda esteja rouca* obrigada por não me deixarem. Parece que eu…
-- *depois de uma hora, eu consigo descansar, eu acordo de repente montara no Slow Dancer junto com Jhonny, e eu vejo o Wind's Traveler me seguindo, já se passou um dia na corrida, eu volto pro meu cavalo, falando calmamente, embora a voz ainda esteja rouca* obrigada por não me deixarem. Parece que eu…
+CONTEXTO DE FUNDO:
+Preservar eventos com Johnny, Gyro, Ferdinand, Diego e os Olhos do Cadáver Santo.
 
-=== ÚLTIMA MENSAGEM NARRATIVA (trecho) ===
-[ASSISTANT @ 2026-11-15T17:32:46.990Z]
-O silêncio daquela casa em ruínas é pesado, interrompido apenas pelo estalo da madeira velha e pelo som da respiração recuperada. O ar ainda carrega o cheiro acre de pólvora e o odor selvagem da transformação que, há poucas horas, consumia a sua humanidade. Enquanto você desce do Slow Dancer, seus músculos protestam; há uma fadiga profunda, quase visceral, que parece ter sido gravada em seus ossos durante o período em que deixou de ser humana. A garganta seca torna cada palavra um esforço, e a sensação de vazio no peito é o lembrete constante da energia que o *Feel Good Inc.* drenou para tentar mantê-la viva enquanto o vírus agia. Johnny olha para você com uma expressão hesitante, os olhos refletindo uma mistura de alívio e uma culpa silenciosa por não ter conseguido evitar o caos. Ele ajusta a posição na sela, evitando o contato visual direto por um momento, como se a imagem de você transformada ainda estivesse fresca em sua mente. Ao seu lado, Gyro mantém a postura ereta, mas a habitual exuberância de seus gestos está contida. Ele observa você recuperar o equilíbrio sobre o Wind's Traveler, analisando a sua palidez e a rouquidão da sua voz com um olhar clínico, embora haja um…
+ÚLTIMA MENSAGEM DE CENA (referência):
+[ASSISTANT @ 2026-11-15T17:32:46.990Z] O silêncio daquela casa em ruínas é pesado, interrompido apenas pelo estalo da madeira velha e pelo som da respiração recuperada. O ar ainda carrega o cheiro acre de pólvora e o odor selvagem da transformação que, há poucas horas, consumia a sua humanidade. Enquanto você desce do Slow Dancer, seus músculos protestam; há uma fadiga profunda, quase visceral, que parece ter sido gravada em seus ossos durante o período em que deixou de ser humana. A garganta seca torna cada palavra um esforço, e a sensação de vazio no peito é o lembrete constante da energia que o *Feel Good Inc.* drenou para tentar mantê-la viva enquanto o vírus agia. Johnny olha para você com uma expressão hesitante, os olhos refletindo uma mistura de alívio e uma culpa silenciosa por não ter conseguido evitar o caos. Ele ajusta a posição na sela, evitando o contato visual direto por um momento, como se a imagem de você…
