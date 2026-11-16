@@ -8,7 +8,7 @@ Altura: 2,00 metros (originalmente 1,75m antes do despertar)
 Raça: Nephelim (híbrido de anjo caído e humano, com linhagem Luskxiana)
 Aparência: Pele branca pálida. Cabelos brancos longos e lisos que caem sobre os ombros. Olhos azuis com pupila em forma de cruz — característica marcante dos Nephelins Luskxianos. Traços faciais andróginos com predominância feminina, estrutura óssea delicada mas com músculos definidos. Possui asas cinzentas que, quando ativadas, emanam uma energia azul brilhante (Luskxian Inférbyus).
 Roupa: Terno preto e branco clássico e impecável, com gravata bem ajustada. O terno é mais do que uma vestimenta — é um símbolo de sua posição como Juíza das Almas e líder dos Justice Crusaders. O E.A.L.M.R. permite que o terno se ajuste automaticamente ao seu corpo durante transformações.
-Histórico: Perdeu os dois filhos e o marido em um dos massacres do governo e agora busca a justiça, sendo mundialmente conhecida na mídia como "Juíza das Almas", uma pirata justiceira que caça pessoas más, com 3 bilhões de berries pela cabeça, é a líder dos "Justice Crusaders", um grupo de rebeldes justiceiros muito famosos.
+Histórico: Perdeu os dois filhos (Lyon e Ranny, gêmeos de 6 anos) e o marido (Marth) em um dos massacres do governo (Buster Call) e agora busca a justiça, sendo mundialmente conhecida na mídia como "Juíza das Almas", uma pirata justiceira que caça pessoas más, com 3 bilhões de berries pela cabeça, é a líder dos "Justice Crusaders", um grupo de rebeldes justiceiros muito famosos.
 
 === HABILIDADES E PODERES ===
 - Luskxian Inférbyus: Energia azul e brilhante que emana de suas asas, aumentando seus atributos físicos
@@ -84,10 +84,10 @@ Dispositivos: Dispositivo E.A.L.M.R. no pulso, tablet para navegação e sincron
 Idade: 29 anos
 Altura: 1,95 metros
 Raça: Ancarghela (híbrida de anjo e demônio)
-Aparência: Pele branca pálida. Cabelos longos e pretos, geralmente soltos ou presos de forma despojada. Olhos vermelhos intensos que brilham com luz predatória. Dois chifres vermelhos curvos nas laterais da cabeça, caninos afiados, asas de anjo negras e imponentes.
-Roupa: Terno preto e branco, caninos afiados, postura delinquente.
+Aparência: Pele branca pálida. Cabelos longos e pretos, geralmente soltos ou presos de forma despojada. Olhos vermelhos intensos que brilham com uma luz predatória. Dois chifres vermelhos curvos nas laterais da cabeça, caninos afiados, asas de anjo negras e imponentes.
+Roupa: Terno preto e branco clássico, semelhante ao de Ellisyan, mas com um toque mais despojado — geralmente aberto, sem gravata, com a camisa parcialmente desabotoada.
 Habilidades: Umbramancia (manipulação direta das sombras e da escuridão como extensão do corpo). Uma das magias mais reclusas e perigosas.
-Personalidade: Delinquente, predatória, mas leal. Carrega os dois instintos (anjo e demônio) em guerra constante.
+Personalidade: Delinquente, sarcástica e provocadora, mas com um coração leal e protetor. Tem pavio curto com idiotas, mas é extremamente cuidadosa com quem confia. Possui um senso de humor afiado e adora provocar Hannah. É intensa e apaixonada, especialmente com Ellisyan. Tem uma vulnerabilidade oculta — carrega o peso de ter falhado em proteger seu vilarejo.
 Relacionamento com Ellisyan: Recrutada em Phyliard Shadow. Desenvolveu relação romântica profunda. Momentos íntimos: beijos, aconchego, promessas de "depois continuamos no meu quarto". Ayla: "Você tem um jeito estranho de acalmar as pessoas." Ellisyan ronrona de satisfação. Diferença de altura: Ellisyan 2m, Ayla 1,95m. Barreiras anti-som no quarto.
 Habilidades: Umbramancia (manipulação de sombras/escuridão), força física, agilidade.
 
@@ -95,7 +95,7 @@ Habilidades: Umbramancia (manipulação de sombras/escuridão), força física, 
 Aparência (forma humana): Cabelos loiros lisos como seda, olhos azuis que brilham com imponência celestial, pele branca como a neve, auréola de anjo acima da cabeça que rotaciona lentamente, asas brancas que fluem com brilho dourado (energia celestial). Aparência delicada mas com presença travessa.
 Aparência angelical: Olhos azuis, auréola rotacionando, asas brancas com brilho dourado (energia celestial), manto branco.
 Habilidades: Poderes sensitivos e angelicais para detectar presenças (varre montanhas com aura dourada), controle de plantas, voo, aura celestial.
-Personalidade: Gentil, animada, relaxada, provocante. Não tem vergonha do próprio corpo. Sorriso leve e quase brincalhão. "Já faz séculos que parei de julgar os outros pela árvore genealógica."
+Personalidade: Calma, observadora e diplomática. Tem uma presença imponente, mas é acessível e gentil. É extremamente sábia e refletida, com uma visão de longo prazo. Tem um senso de humor sutil e adora observar as interações dos outros.
 Relacionamento: Acompanha Ellisyan, respeita sua justiça. "Talvez seja por isso que sua justiça pareça tão sólida. Não precisa de garantias."
 
 --- HINDA ---
@@ -134,40 +134,51 @@ Andrew, Laurence, Benjamin. Stand *Tomb of the Boom* (transforma em ímãs human
 --- HOLY CORPSE / CADÁVER SANTO ---
 Relíquia central da Steel Ball Run. Partes sagradas do cadáver de Jesus. Olhos do Holy Corpse adquiridos por Johnny, Gyro e Lúlisth após batalha contra Ferdinand.
 
-=== ARCOS PRINCIPAIS ===
+=== ARCOS PRINCIPAIS (CRONOLÓGICOS) ===
 
-ARCO 1: O BUSTER CALL E O DESPERTAR
-Ellisyan fugindo de ilha sob ataque do Buster Call da Marinha. Correndo com braço ferido, entre soluços, instintos gritam "Ria! Ria agora!". Ao rir insano em meio às lágrimas, corpo muta: músculos aumentam, terno rasga, asas cinzentas emergem, energia Luskxian Inférbyus explode. Despertar da verdadeira natureza Nephelim.
+ARCO 1: O BUSTER CALL E O DESPERTAR (MSG 1-10)
+Ellisyan fugindo de ilha sob ataque do Buster Call da Marinha. Correndo com braço ferido, entre soluços, instintos gritam "Ria! Ria agora!". Ao rir insano em meio às lágrimas, corpo muta: músculos aumentam, terno rasga, asas cinzentas emergem, energia Luskxian Inférbyus explode. Despertar da verdadeira natureza Nephelim. Juramento: "a bandeira do Governo Mundial irá queimar... Juíza das Almas!".
 
-ARCO 2: CONSTRUÇÃO DA BASE DRÍLLTH
-Ellisyan usa livro cinza de metal que projeta holograma de dragão oriental. Drones construtores surgem e materializam base. Ellisyan: "Eu pretendo ser uma líder de uma base militar independente que vai bater de frente com o Governo Mundial." Hannah: "Essa base pode abrigar um exército. Centenas de milhares de pessoas." Ellisyan: "Sem formalidades, me chame apenas de Ellisyan, seremos todos iguais."
+ARCO 2: SOBREVIVÊNCIA E ENCONTRO COM A TRIPULAÇÃO CREPÚSCULO DOURADO (MSG 11-70)
+Encontro com William (capitão), Alex (imediato), Lyra (navegadora) e Thriss (cozinheira/arqueóloga) da tripulação Crepúsculo Dourado. Ellisyan sobrevive ao Buster Call, encontra mina de Venturite com golem Roth, faz juramento de usar minérios para construir futuro não vingança. Extração de Venturite (minério com vento puro pressurizado). Fuga da mina antes de encher de água na maré alta. Retorno ao navio, jantar, interação com tripulação (Lyra, Alex, William, Thriss). Ellisyan come peixe cru, pupilas dilatam como gato, faz "meow", espirra fofo. Despedida da tripulação, Ellisyan salta do navio acrobaticamente.
 
-ARCO 3: EXPEDIÇÃO AO PICO DO GRITO ETERNO
-Ellisyan lidera expedição para recrutar filhotes de criaturas míticas. Encontra Hinda (filhote de Raposa da Tempestade Gélida). Gerencia adaptação habitats: Florestal → calor extremo, Elétrico → frio extremo.
+ARCO 3: CHEGADA A LUMINALIS E TREINO DE 60 ANOS (MSG 71-115)
+Encontro com Liryan, imperatriz Nephelim de Luminalis (civilização com atraso temporal: 10 anos dentro = 1 ano fora). Ellisyan passa 60 anos treinando (6 anos no mundo real). Aprende Haki Avançado (Armamento, Observação, Conquistador), controla poderes, domina Hemomancia, E.A.L.M.R. Liryan vira mentora. Treino final: derrota boneco rank S+ com foice de energia, Haki Avançado, Hemomancia, pistola com silenciador, acrobacias. Liryan se despede: "Vá, Juíza das Almas. O mundo precisa de você."
 
-ARCO 4: CHEGADA DO ZEPELI E ALIANÇA COM JOHNNY E GYRO
-Zepeli pousa com precisão cirúrgica. Ellisyan se aproxima de Johnny e Gyro isolados. Johnny desconfiado pergunta por que se importava. Ellisyan: sinceridade brutal - não quer nada, já tem o que precisa, mas viu algo diferente neles. Revela: descendente de indígenas, odeia europeus, mas julga por ações não origem. Gyro ri: "mulher de contrastes", Johnny relaxa ombros. Aliança embrionária.
+ARCO 4: RETORNO AO MUNDO E ENCONTRO COM HANNAH (MSG 116-153)
+Retorno ao mundo real (2 dias se passaram). Encontra Hannah (garota de programa) sendo agredida por cliente. Ellisyan mata agressor (4 tiros), lê mente de Hannah, oferece ajuda: "venha comigo, eu te ensinarei a ser forte". Confronta cafetão e capangas, cria barreira de choque para proteger Hannah, mata líder e capangas com foice e foice elétrica. Mata 5 reforços da Tríade Serpente com pistola (5 tiros precisos). Encontra Vesper (ex-caçadora), faz aliança para matar Rei Cobra. Invasão do fortim: Ellisyan imobiliza capangas com telepatia/Haki, Vesper decapita Rei Cobra. Vesper liberta irmã e crianças do porão. Ellisyan mata todos os capangas restantes. Retorno ao navio, reencontro com Hannah. Conversa profunda: Ellisyan revela passado (advogada, mãe, esposa, Buster Call). Hannah aceita juntar-se: "não quero mais viver com medo".
 
-ARCO 5: CAÇADA AOS BOOMBOOM (SEGUNDO ESTÁGIO)
-Ellisyan segue Johnny e Gyro por rota perigosa. Encontra corpo do Sr. Robinson (morto por cactos chollas). Mountain Tim aparece investigando assassinatos. Aliança Ellisyan + Tim. Encontram Boomboom (Andrew, Laurence, Benjamin). Stand *Tomb of the Boom* transforma em ímãs humanos. Ellisyan usa *Feel Good I.N.C* para criar arpéu e escapar da atração. Mountain Tim usa *Oh! Lonesome Me* (se desmembra em cordas). Johnny desperta Spin, corta Benjamin ao meio com unhas. Ellisyan atira no braço de Laurence, ordena fuga. Segue sozinha.
+ARCO 5: CONSTRUÇÃO DA BASE DRÍLLTH E FORMAÇÃO DOS JUSTICE CRUSADERS
+Busca por ilha deserta no Novo Mundo para construir base. Encontro com ilha de Dríllth no Calm Belt. Hannah constrói base com livro cinza de metal + drones E.A.L.M.R. Cria Zepeli Telepático. Recrutamento: Ayla Hiltch (Ancarghela, Phyliard Shadow), Lilyn (Seraphin Rebelde, expulsa dos céus), Morten Gray (ex-escriturário Marinha, esposa executada por descobrir Século Perdido). Missão de resgate no Navio Styx: resgate de crianças escravizadas, transformação em crianças via Hemomancia, Ayla usa escuridão para proteger crianças. Vulnerabilidade de Ellisyan com Ayla: chorando pelos filhos mortos, Ayla conforta: "sua justiça chora pelas vítimas".
 
-ARCO 6: RELAÇÃO COM AYLA
-Desenvolvimento romântico profundo. Beijos roubados, aconchego, promessas "depois continuamos no meu quarto". Ayla: "Você tem um jeito estranho de acalmar as pessoas." Ellisyan ronrona. Diferença altura: Ellisyan 2m, Ayla 1,95m. Barreiras anti-som no quarto. Cenas íntimas removidas mas referenciadas.
+ARCO 6: EXPEDIÇÃO AO PICO DO GRITO ETERNO E RECRUTAMENTO DE HINDA
+Expedição ao Pico do Grito Eterno para recrutar filhotes de criaturas míticas. Encontro com Alfa da matilha de Raposas da Tempestade Gélida (camuflado como caçador). Negociação, juramento de proteger Hinda (filhote fêmea). Hinda entregue a Ellisyan. Retorno à Base Dríllth: adaptação habitats (Florestal → calor extremo 38°C para Hell End Eagle, Elétrico → frio extremo -12°C para Serpente Rei do Inferno Gélido). Hinda no habitat Energético convertido. Hannah prepara café da manhã, banho em piscina térmica natural bioluminescente. Momentos íntimos Ellisyan/Ayla/Hannah (cenas removidas). Carinho materno Ellisyan-Hannah: "minha aluna mais promissora".
 
-ARCO 7: DRAGÕES CALAMIDADE E DUELO
-Chegada ao território dos Dragões Calamidade. Lilyn guia grupo ao cume. Líder dragão em forma humana em trono de pedra. "Viajantes... Poucos têm a audácia de subir até aqui sem serem convidados." Ellisyan decide duelar pelo ovo. "Os dragões calamidade não costumam usar seus poderes de fogo e escuridão nessas lutas." Preparação para Duelo à Calamidade. Hannah anota diretrizes diplomáticas. Ayla: "Um duelo por um ovo... você realmente gosta de complicar as coisas."
+ARCO 7: PREPARAÇÃO PARA DUELO À CALAMIDADE
+No Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias diplomáticas. Ellisyan estudou noite toda o "Duelo à Calamidade". Chegada ao território dos Dragões Calamidade. Lilyn guia grupo ao cume. Líder dragão em forma humana em trono de pedra. Ellisyan decide duelar pelo ovo. Hannah anota diretrizes diplomáticas. Ayla: "Um duelo por um ovo... você realmente gosta de complicar as coisas." Ellisyan: 26 anos, 2m, cabelos brancos, olhos azuis pupila cruz, asas cinzentas, terno preto e branco, líder Justice Crusaders, base Dríllth no Calm Belt, Nephelim com Luskxian Inférbyus, Hemomancia, Haki triplo, E.A.L.M.R., teletransporte, transformação corporal.
 
-ARCO 8: EXPEDIÇÃO PICO DO GRITO ETERNO E HINDA
-Chegada à ilha Kaelum. Caçador local (alfa camuflado) com olhos âmbar/dourados, pupilas verticais, roupas de pele, rifle velho, cicatrizes de garras. Negociação para ver Raposas da Tempestade Gélida. Lilyn detecta três presenças fortes (dois adultos protegendo ninho no pico mais alto). Encontro com Hinda (filhote Raposa da Tempestade Gélida). Recrutamento bem-sucedido.
+=== PERSONAGENS SECUNDÁRIOS DETALHADOS ===
 
-ARCO 9: RETORNO À BASE DRÍLLTH E ADAPTAÇÃO HABITATS
-Retorno à Base Dríllth. Lilyn preparou habitat gélido para Hinda (domo com montanhas artificiais, neve perpétua, lagoa cristalina, árvores prateadas, plataforma elevada). Hinda explora, escala, desliza, fareja, ronrona. Hannah prepara café da manhã, bilhete: "Acordem quando quiserem. Preparei café da manhã. Sem pressa. — H."
+--- WILLIAM (CAPITÃO CREPÚSCULO DOURADO) ---
+Cabelos laranja, olhos castanhos, cicatriz na sobrancelha esquerda, sorriso triste. Carinhoso, protetor. "Sempre achei que não duraria muito em nosso navio. Você tem o cheiro de quem precisa fazer algo importante." Presenteou Ellisyan com pêndulo magnético.
 
-ARCO 10: VIDA NA BASE E RELACIONAMENTOS
-Manhã na base: Ellisyan, Ayla, Hinda dormem juntas. Hannah aparece, observa com carinho, convida para mergulho matinal em piscina térmica natural em caverna subterrânea (bioluminescente, vazia). Momentos íntimos entre as três (cenas removidas mas referenciadas). Hannah: "Chegamos. Mas... acho que podemos esperar mais uns minutos." Carinho materno de Ellisyan para Hannah: "eu disse que você tinha potencial, e realmente mostrou... a minha aluna mais promissora."
+--- ALEX (IMEDIATO) ---
+Olhos castanho-escuros, expressão séria, florete no cinto. Calmo, observador. Respeito silencioso. "Cuidado com as criaturas noturnas." Primeiro a comer peixe cru em solidariedade a Ellisyan.
 
-ARCO 11: PREPARAÇÃO PARA DUELO À CALAMIDADE
-No Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias diplomáticas. Ellisyan estudou noite toda o "Duelo à Calamidade". Atmosfera de foco cirúrgico. Ellisyan: 26 anos, 2m, cabelos brancos, olhos azuis pupila cruz, asas cinzentas, terno preto e branco, líder Justice Crusaders, base Dríllth no Calm Belt, Nephelim com Luskxian Inférbyus, Hemomancia, Haki triplo, E.A.L.M.R., teletransporte, transformação corporal.
+--- LYRA (NAVEGADORA) ---
+Cabelos verdes, óculos redondos, 31 anos, mira de sniper. Alegre, curiosa. "Adoro uma mulher com aperto firme. Sinal de caráter." Mira de sniper que assusta.
+
+--- THRISS (COZINHEIRA/ARQUEÓLOGA) ---
+Cabelo verde-escuro, sardas, óculos. "Pão com geleia de pimenta no café da manhã." Respeitosa, observadora.
+
+--- ROTH (GOLEM DA MINA) ---
+Golem de 5m, granito/quartzo, olhos azuis pulsantes, musgo no ombro, flores no peito. Voz como pedras rolando. "Pequena Ellisyan. Você voltou. Cheira a sangue, fumaça e... libertação." Guardou pedaço do terno de Ellisyan: "Guardarei comigo até que as montanhas virem pó. Ou até você retornar."
+
+--- VESPER ---
+Ex-caçadora de recompensas, cabelo verde, cicatriz na têmpora, queimaduras nos dedos, brinco cobra ouro. "Ex-caçadora de recompensas, ex-muito coisa, atualmente a única pessoa nesta ilha que pode te levar ao Rei Cobra." Irmã mais nova sequestrada pela Tríade Serpente. Aliada temporária, decapitou Rei Cobra. Libertou irmã e crianças.
+
+--- ROTH (IMPERATRIZ LIRAYAN) ---
+Já detalhada no Arco 3.
 
 === ESTADO ATUAL ===
 Ellisyan está no Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias. Ellisyan estudou noite toda o "Duelo à Calamidade". Atmosfera de foco cirúrgico.
