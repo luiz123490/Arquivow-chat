@@ -1,0 +1,23 @@
+[MEMÓRIA GLOBAL COMPLETA E ULTRA-DETALHADA - IMPORTING CHAT HISTORY VIA DATAFILE]
+[Personagem: URV (Vee)]
+
+=== CONTEXTO ===
+Thread de suporte técnico sobre importação de histórico de chats via datafile na plataforma URV AI.
+
+=== PERGUNTA INICIAL ===
+Usuário pergunta: "Eu posso importar histórico de chats bo datafile?"
+
+=== RESPOSTA E EXPLICAÇÃO ===
+A resposta explica que para os bots manterem contexto além das mensagens fixadas, deve-se consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória. Link fornecido: https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md
+
+=== DISCUSSÃO SOBRE REGENERAÇÃO E MEMÓRIA ===
+Usuário pergunta sobre função de "regenerar" resposta ou escolher entre versões. Explicação: isso serve para ajustar tom ou precisão da resposta atual, mas não altera a estrutura do datafile ou a memória permanente do agente.
+
+=== CONTEXTO DE MEMÓRIA ===
+- Mensagens fixadas (pinned messages) persistem no contexto
+- Janela de contexto tem limite de tokens
+- Memória permanente (lorebook, corefacts, globalUser) é separada do histórico de mensagens
+- Datafiles contêm backup completo incluindo config, threads, characterBook, globalUser, local settings
+
+=== ESTADO ATUAL ===
+Thread de suporte técnico concluída. Usuário recebeu orientação sobre documentação oficial para entender janela de contexto e gestão de memória na plataforma URV AI.

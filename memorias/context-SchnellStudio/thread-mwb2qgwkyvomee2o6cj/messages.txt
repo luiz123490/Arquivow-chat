@@ -1,9 +1,0 @@
-THREAD: New Chat
-PERSONAGEM: Schnell Studio
-THREAD ID: mwb2qgwkyvomee2o6cj
-CHARACTER ID: char_preset_Schnell Studio
-CRIADO: 2026-11-10T19:19:26.996Z
-ÚLTIMA ATIVIDADE: None
-TOTAL MENSAGENS: 0
-================================================================================
-
