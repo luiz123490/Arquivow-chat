@@ -42,5 +42,18 @@ Acesso completo ao ambiente de execução AndroidHarness:
 - Criação de artefatos visuais (HTML, SVG, charts, diagrams)
 - Memória persistente (recall, remember, memory_write)
 
+=== HISTÓRICO DE CHAT (THREAD: IMPORTING CHAT HISTORY VIA DATAFILE) ===
+Usuário pergunta: "Eu posso importar histórico de chats bo datafile?"
+Resposta: Explicação sobre janela de contexto, mensagens fixadas, documentação URV AI.
+Link: https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md
+
+Discussão sobre regeneração de respostas: serve para ajustar tom/precisão da resposta atual, não altera estrutura do datafile ou memória permanente do agente.
+
+Contexto de memória:
+- Mensagens fixadas (pinned messages) persistem no contexto
+- Janela de contexto tem limite de tokens
+- Memória permanente (lorebook, corefacts, globalUser) é separada do histórico de mensagens
+- Datafiles contêm backup completo incluindo config, threads, characterBook, globalUser, local settings
+
 === ESTADO ATUAL ===
 Agente ativo no ambiente AndroidHarness. Workspace: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace. Acesso a ferramentas completo. Pronto para executar tarefas conforme solicitado.

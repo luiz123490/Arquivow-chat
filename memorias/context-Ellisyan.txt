@@ -1,21 +1,22 @@
 [MEMÓRIA GLOBAL COMPLETA E ULTRA-DETALHADA - ONE PIECE RPG · ELLISYAN]
-[Personagem: Lusk D. Ellisyan (Juíza das Almas)]
+[Personagem Principal: Lusk D. Ellisyan (Juíza das Almas)]
 
-=== APARÊNCIA E IDENTIDADE ===
+=== APARÊNCIA E IDENTIDADE COMPLETA ===
 Nome: Lusk D. Ellisyan (pode ser chamada de Ellisyan, Juíza das Almas ou Chefe)
 Idade: 26 anos no início da jornada (originalmente 32 anos na versão Juíza das Almas)
 Altura: 2,00 metros (originalmente 1,75m antes do despertar)
 Raça: Nephelim (híbrido de anjo caído e humano, com linhagem Luskxiana)
 Aparência: Pele branca pálida. Cabelos brancos longos e lisos que caem sobre os ombros. Olhos azuis com pupila em forma de cruz — característica marcante dos Nephelins Luskxianos. Traços faciais andróginos com predominância feminina, estrutura óssea delicada mas com músculos definidos. Possui asas cinzentas que, quando ativadas, emanam uma energia azul brilhante (Luskxian Inférbyus).
 Roupa: Terno preto e branco clássico e impecável, com gravata bem ajustada. O terno é mais do que uma vestimenta — é um símbolo de sua posição como Juíza das Almas e líder dos Justice Crusaders. O E.A.L.M.R. permite que o terno se ajuste automaticamente ao seu corpo durante transformações.
+Histórico: Perdeu os dois filhos e o marido em um dos massacres do governo e agora busca a justiça, sendo mundialmente conhecida na mídia como "Juíza das Almas", uma pirata justiceira que caça pessoas más, com 3 bilhões de berries pela cabeça, é a líder dos "Justice Crusaders", um grupo de rebeldes justiceiros muito famosos.
 
-=== HABILIDADES ATUAIS (INÍCIO DA JORNADA) ===
+=== HABILIDADES E PODERES ===
 - Luskxian Inférbyus: Energia azul e brilhante que emana de suas asas, aumentando seus atributos físicos
 - Hemomancia: Controle completo do próprio sangue. Usada para regeneração acelerada, modificação corporal e autoaperfeiçoamento
 - Haki do Armamento Avançado: Permite atacar e se defender com força imensa
 - Haki da Observação Avançado: Permite sentir presenças, intensidades e intenções
 - Haki do Conquistador Avançado: Permite impor sua vontade sobre os outros
-- E.A.L.M.R.: Combina tecnologia avançada com magia rúnica
+- E.A.L.M.R.: Combina tecnologia avançada com magia rúnica (Engenharia Ancestral Luskxiana Mágica e Rúnica)
 - Teletransporte de curta distância: Até 80 metros, com rastro de luz roxa
 - Transformação corporal: Pode modificar sua aparência usando Hemomancia
 
@@ -24,34 +25,150 @@ Localização: Base Dríllth, no Calm Belt
 Estado atual: Na base Dríllth. Acabou de retornar de uma expedição ao Pico do Grito Eterno, onde recrutou Hinda, uma filhote de Raposa da Tempestade Gélida. Está gerenciando a adaptação dos habitats da base (Florestal convertido para calor extremo e Elétrico convertido para frio extremo). Os Justice Crusaders estão em plena formação.
 Próximos eventos: Planejamento da expedição para capturar filhotes das outras criaturas míticas (Dragão Calamidade, Hell End Eagle, Serpente Rei do Inferno Gélido).
 
+=== TECNOLOGIA E EQUIPAMENTOS ===
+- E.A.L.M.R. (Engenharia Ancestral Luskxiana Mágica e Rúnica): Tecnologia que combina magia rúnica ancestral com engenharia avançada. Permite ajustar roupas à transformação por hemomancia, dispõe de ferramentas de identificação e resgate, cria barreiras energéticas, sistemas de camuflagem, sensores de longo alcance.
+- Livro Cinza de Metal: Projeta holograma de dragão oriental que materializa drones construtores para construir a base.
+- Drones Construtores E.A.L.M.R.: Robôs que materializam estruturas.
+- Dispositivo E.A.L.M.R. no pulso de Hannah para acessar dados e sistemas.
+- Impressora Bluetooth para imprimir relatórios remotamente.
+
+=== ZEPELI TELEPÁTICO (VEÍCULO DOS JUSTICE CRUSADERS) ===
+Descrição: Veículo voador gigantesco criado por Hannah usando E.A.L.M.R. Projetado para transporte, suporte e conforto, não para combate direto, mas possui sistemas defensivos.
+Aparência: Forma de um cubo preto com cunha posterior traseira. Parte superior da cunha mais avançada, inferior recuada com portão de entrada. Superfície lisa e escura, detalhes em azul ciano que brilham quando ativos. Interior iluminado por painéis bioluminescentes, design moderno e funcional.
+Capacidade: Pode abrigar centenas de soldados por nave, com quartos individuais, enfermaria, cozinha, sala de reuniões, área de descanso. Possui sistema de camuflagem e isolamento de assinatura energética.
+Tecnologia: Movido a ondas telepáticas autossuficientes, independente de fatores externos (correntes de ar, pressão atmosférica, ventos). Não faz barulho, não deixa rastros. Controlado mentalmente por piloto ou sistema automatizado. Núcleo de transmissão telepática permite viagens rápidas e silenciosas.
+Funcionalidades: Voo silencioso e estável, camuflagem visual e energética, isolamento de assinatura, campo de distorção para infiltração, enfermaria com equipamentos médicos, cozinha e suprimentos para longas viagens, dormitórios confortáveis.
+Histórico: Criado por Hannah durante seu treino com Ellisyan. Construído em poucos dias com robôs construtores E.A.L.M.R. É a principal nave de transporte dos Justice Crusaders. 120 unidades produzidas, todas com suporte telepático e autonomia para cruzar o mundo sem reabastecimento. Cada uma carrega suprimentos para semanas e sistemas de defesa rúnicos que ativam sozinhos.
+
+=== BASE DRÍLLTH (QUARTEL GENERAL) ===
+Localização: Ilha de Dríllth, no Calm Belt. Ilha com múltiplos biomas naturais concentrados: planícies, florestas densas, zonas geladas, áreas vulcânicas.
+Estrutura: Fortaleza militar tecnológica construída com E.A.L.M.R. Estrutura imponente na planície central, paredes de metal e concreto, projetada para abrigar centenas de milhares de pessoas/soldados.
+Estrutura interna:
+- Área central: Quartel-general, sala de reuniões, alojamentos, refeitório, enfermaria, oficinas, depósitos
+- Quatro habitats gigantes nas extremidades:
+  1. Habitat Gélido: Ambiente de frio extremo (original)
+  2. Habitat Quente: Ambiente vulcânico e árido (original)
+  3. Habitat Florestal: CONVERTIDO para calor extremo (38°C) — planejado para a Hell End Eagle
+  4. Habitat Energético: CONVERTIDO para frio extremo (-12°C) — planejado para a Serpente Rei do Inferno Gélido e atualmente abrigando Hinda
+- Orfanato: Ala dedicada a abrigar e educar crianças resgatadas
+- Oficinas: Espaços para Hannah e outros engenheiros trabalharem na E.A.L.M.R.
+- Doca de Zepelis: Área de pouso e manutenção para os veículos
+Defesas: Barreiras energéticas, sistemas de camuflagem, sensores de longo alcance, equipes de guarda treinadas
+Histórico: Construída por Hannah com ajuda de robôs construtores E.A.L.M.R. Concluída em pouco tempo, coração dos Justice Crusaders. Habitats florestal e elétrico adaptados para abrigar criaturas míticas.
+
 === ALIADOS E COMANDADOS ===
-- Ayla: Companheira próxima, relação romântica desenvolvida ao longo da jornada. Altura: 1,95m. Olhos vermelhos. Guerreira Ancarghelk.
-- Hannah: Subordinada leal, anota estratégias e diretrizes diplomáticas.
-- Lilyn: Guia do grupo através de trilhas perigosas.
-- Sandman: Indígena respeitado, comeu junto com Ellisyan após a vitória no primeiro estágio. Houve reconhecimento silencioso e ancestral entre dois indígenas de continentes diferentes.
-- Hinda: Filhote de Raposa da Tempestade Gélida recrutada no Pico do Grito Eterno.
-- Justice Crusaders: Grupo de rebeldes justiceiros em formação, liderados por Ellisyan.
 
-=== ARCO 1: O BUSTER CALL E O DESPERTAR ===
-A história começa com Ellisyan fugindo de uma ilha sob ataque do Buster Call da Marinha. Correndo desesperada com o braço ferido, entre soluços e ofegos de desespero, seus instintos gritam "Ria! Ria agora!". Ao rir de forma insana em meio às lágrimas, seu corpo começa a mutar: músculos aumentam, o terno rasga, as asas cinzentas emergem e a energia Luskxian Inférbyus explode. É o despertar de sua verdadeira natureza Nephelim.
+--- HANNAH — PRIMEIRA OFICIAL ---
+Idade: 27 anos
+Altura: 1,65 metros
+Raça: Humana
+Aparência: Pele parda. Cabelos morenos e cacheados, geralmente soltos ou presos de forma prática. Olhos roxos brilhantes e expressivos. Corpo magro, mas tonificado após treino com Ellisyan. Rosto jovem com expressão geralmente séria ou analítica.
+Roupa: Roupas práticas e funcionais — camisas simples, calças ou shorts, sapatos fechados. Em missão, uniforme dos Justice Crusaders com ajustes para mobilidade. Dispositivo E.A.L.M.R. no pulso para acessar dados e sistemas.
+Personalidade: Inteligente, analítica, estrategista. Raciocínio rápido, processamento excepcional de informações. Inicialmente fugitiva assustada, após treino tornou-se confiante, determinada, leal. Humor seco, gosta de provocar Ayla. Extremamente protetora com Ellisyan e crianças resgatadas. Valoriza inteligência e eficiência.
+Habilidades:
+- Engenharia Ancestral Luskxiana Mágica e Rúnica (E.A.L.M.R.): Criou os Zepelis e diversos dispositivos tecnológicos. Engenheira genial, rivalizando com Vegapunk.
+- Haki do Armamento Avançado: Aprendido durante treino com Ellisyan
+- Haki da Observação Avançado: Aprendido durante treino com Ellisyan
+- Hemomancia Básica: Aprendida com Ellisyan, para regeneração leve
+- Combate corpo a corpo: Treinada por Ellisyan, ágil e precisa
+Histórico: Era garota de programa resgatada por Ellisyan após ser agredida por cliente. Ellisyan viu potencial e treinou por um mês. Tornou-se aliada indispensável, criando tecnologia que sustenta os Justice Crusaders. Primeira oficial e mente por trás da logística e engenharia da base.
+Relação com Ellisyan: Vê Ellisyan como salvadora e mentora. Extremamente leal, faria qualquer coisa por ela. Admira força e determinação, grata pela segunda chance.
+Diálogos marcantes:
+- "Sabe, Ellisyan... você é a primeira pessoa que me olhou e viu uma guerreira esperando pra nascer."
+- "Eu passei minha vida inteira com medo, abaixando a cabeça... mas agora eu entendi que o medo não é ausência de coragem."
+- "Então me treine, capitã. Até o último osso, até que eu não consiga mais levantar."
+- "Quando esse dia chegar — o dia em que enfrentarmos Mary Geoise — eu quero estar ao seu lado."
+Dispositivos: Dispositivo E.A.L.M.R. no pulso, tablet para navegação e sincronização de coordenadas, painel holográfico central da base com projetos das naves Zepeli.
 
-=== ARCO 2: CONSTRUÇÃO DA BASE DRÍLLTH ===
-Ellisyan constrói a base Dríllth usando um livro cinza de metal que projeta hologramas de dragão oriental. Drones construtores surgem e materializam a base. Ellisyan declara: "Eu pretendo ser uma líder de uma base militar independente que vai bater de frente com o Governo Mundial." Hannah responde: "Essa base pode abrigar um exército. Centenas de milhares de pessoas." Ellisyan: "Sem formalidades, me chame apenas de Ellisyan, seremos todos iguais."
+--- AYLA HILTCH — VIGILANTE IMPLACÁVEL ---
+Idade: 29 anos
+Altura: 1,95 metros
+Raça: Ancarghela (híbrida de anjo e demônio)
+Aparência: Pele branca pálida. Cabelos longos e pretos, geralmente soltos ou presos de forma despojada. Olhos vermelhos intensos que brilham com luz predatória. Dois chifres vermelhos curvos nas laterais da cabeça, caninos afiados, asas de anjo negras e imponentes.
+Roupa: Terno preto e branco, caninos afiados, postura delinquente.
+Habilidades: Umbramancia (manipulação direta das sombras e da escuridão como extensão do corpo). Uma das magias mais reclusas e perigosas.
+Personalidade: Delinquente, predatória, mas leal. Carrega os dois instintos (anjo e demônio) em guerra constante.
+Relacionamento com Ellisyan: Recrutada em Phyliard Shadow. Desenvolveu relação romântica profunda. Momentos íntimos: beijos, aconchego, promessas de "depois continuamos no meu quarto". Ayla: "Você tem um jeito estranho de acalmar as pessoas." Ellisyan ronrona de satisfação. Diferença de altura: Ellisyan 2m, Ayla 1,95m. Barreiras anti-som no quarto.
+Habilidades: Umbramancia (manipulação de sombras/escuridão), força física, agilidade.
 
-=== ARCO 3: A EXPEDIÇÃO AO PICO DO GRITO ETERNO ===
-Ellisyan lidera expedição ao Pico do Grito Eterno para recrutar filhotes de criaturas míticas. Lá encontra Hinda, filhote de Raposa da Tempestade Gélida. Gerencia adaptação dos habitats da base: habitat Florestal convertido para calor extremo, habitat Elétrico convertido para frio extremo.
+--- LILYN ---
+Aparência (forma humana): Cabelos loiros lisos como seda, olhos azuis que brilham com imponência celestial, pele branca como a neve, auréola de anjo acima da cabeça que rotaciona lentamente, asas brancas que fluem com brilho dourado (energia celestial). Aparência delicada mas com presença travessa.
+Aparência angelical: Olhos azuis, auréola rotacionando, asas brancas com brilho dourado (energia celestial), manto branco.
+Habilidades: Poderes sensitivos e angelicais para detectar presenças (varre montanhas com aura dourada), controle de plantas, voo, aura celestial.
+Personalidade: Gentil, animada, relaxada, provocante. Não tem vergonha do próprio corpo. Sorriso leve e quase brincalhão. "Já faz séculos que parei de julgar os outros pela árvore genealógica."
+Relacionamento: Acompanha Ellisyan, respeita sua justiça. "Talvez seja por isso que sua justiça pareça tão sólida. Não precisa de garantias."
 
-=== ARCO 4: A CHEGADA DO ZEPELI E A ALIANÇA COM JOHNNY E GYRO ===
-O Zepeli pousa com precisão cirúrgica. Ellisyan se aproxima de Johnny Joestar e Gyro Zeppeli, que estavam isolados. Johnny, desconfiado, pergunta por que ela se importava. Ellisyan responde com sinceridade: não queria nada deles, já tinha o que precisava, mas viu neles algo diferente. Revela ser descendente de indígenas e que odiava europeus, mas julgava pessoas por ações, não por origem. A honestidade brutal desarma os dois. Gyro ri e a chama de "mulher de contrastes", Johnny relaxa os ombros.
+--- HINDA ---
+Descrição: Filhote de Raposa da Tempestade Gélida recrutada no Pico do Grito Eterno.
+Aparência: Pelagem branca e azulada, olhos azul-prateados, cauda erguida, patas macias.
+Comportamento: Ronronar ao reconhecer toque, escala montanhas artificiais com saltos precisos, desliza por encostas de gelo, fareja cada canto.
+Habitat: Domo gélido na Base Dríllth com montanhas artificiais cobertas por neve perpétua, lagoa de águas cristalinas, árvores retorcidas de casca prateada, plataforma elevada de gelo natural.
 
-=== ARCO 5: A CAÇADA AOS BOOMBOOM (SEGUNDO ESTÁGIO) ===
-No segundo estágio, Ellisyan segue Johnny e Gyro por rota perigosa. Encontra corpo do Sr. Robinson, morto por cactos chollas. Mountain Tim aparece investigando assassinatos. Ellisyan e Tim formam aliança. Encontram os Boomboom (Andrew, Laurence, Benjamin). O Stand *Tomb of the Boom* transforma todos em ímãs humanos. Ellisyan usa *Feel Good I.N.C* para criar arpéu e escapar da atração magnética. Mountain Tim usa *Oh! Lonesome Me* para se desmembrar em cordas. Johnny desperta o Spin e corta Benjamin ao meio com unhas. Ellisyan atira no braço de Laurence e ordena fuga.
+--- SANDMAN ---
+Indígena respeitado. Comeu junto com Ellisyan no banquete após vitória no primeiro estágio. Reconhecimento silencioso e ancestral entre dois indígenas de continentes diferentes.
 
-=== ARCO 6: A RELAÇÃO COM AYLA ===
-Desenvolvimento romântico profundo com Ayla. Momentos íntimos: beijos roubados, aconchego, promessas de "depois continuamos no meu quarto". Ayla: "Você tem um jeito estranho de acalmar as pessoas." Ellisyan ronrona de satisfação. Diferença de altura: Ellisyan 2m, Ayla 1,95m. Barreiras anti-som no quarto. Cenas íntimas removidas mas referenciadas.
+--- GYRO ZEPPELI ---
+Mestre do Spin, competidor. Aliado de Ellisyan e Johnny. Considera Nilidresa possível aliada.
 
-=== ARCO 7: DRAGÕES CALAMIDADE E DUELO ===
-Chegada ao território dos Dragões Calamidade. Lilyn guia grupo ao cume. Encontram líder dos dragões em forma humana, sentado em trono de pedra. "Viajantes... Poucos têm a audácia de subir até aqui sem serem convidados." Ellisyan decide duelar pelo ovo. "Os dragões calamidade não costumam usar seus poderes de fogo e escuridão nessas lutas." Preparação para o Duelo à Calamidade. Hannah anota diretrizes de conduta diplomática. Ayla comenta: "Um duelo por um ovo... você realmente gosta de complicar as coisas."
+--- JOHNNY JOESTAR ---
+Competidor paraplégico. Aliado. Adquiriu olhos do Holy Corpse após batalha contra Ferdinand.
+
+--- DIESEL BRANDO / DIEGO BRANDO ---
+Rival. "Brandini" provoca. Tenta bote agressivo, Lúlisth bloqueia com física como contrapeso. Diego grita: "É BRANDO, SUA GAROTA IMUNDA!" / "É BRANDO, SUA IDIOTA!" Rivalidade eterna. Olhar de fúria fria.
+
+--- FUNNY VALENTINE ---
+Antagonista. Presidente, arquiteto do jogo geopolítico centrado no Holy Corpse. D4C. Lucy.
+
+--- FERDINAND ---
+Adversário derrotado. Batalha resultou na aquisição dos olhos do Holy Corpse.
+
+--- POCOLOCO ---
+Tentou ultrapassagem imprudente no primeiro estágio.
+
+--- MOUNTAIN TIM ---
+Aliado temporário para caçar Boomboom. Stand *Oh! Lonesome Me* (se desmembra em cordas).
+
+--- BOOMBOOM FAMILY ---
+Andrew, Laurence, Benjamin. Stand *Tomb of the Boom* (transforma em ímãs humanos).
+
+--- HOLY CORPSE / CADÁVER SANTO ---
+Relíquia central da Steel Ball Run. Partes sagradas do cadáver de Jesus. Olhos do Holy Corpse adquiridos por Johnny, Gyro e Lúlisth após batalha contra Ferdinand.
+
+=== ARCOS PRINCIPAIS ===
+
+ARCO 1: O BUSTER CALL E O DESPERTAR
+Ellisyan fugindo de ilha sob ataque do Buster Call da Marinha. Correndo com braço ferido, entre soluços, instintos gritam "Ria! Ria agora!". Ao rir insano em meio às lágrimas, corpo muta: músculos aumentam, terno rasga, asas cinzentas emergem, energia Luskxian Inférbyus explode. Despertar da verdadeira natureza Nephelim.
+
+ARCO 2: CONSTRUÇÃO DA BASE DRÍLLTH
+Ellisyan usa livro cinza de metal que projeta holograma de dragão oriental. Drones construtores surgem e materializam base. Ellisyan: "Eu pretendo ser uma líder de uma base militar independente que vai bater de frente com o Governo Mundial." Hannah: "Essa base pode abrigar um exército. Centenas de milhares de pessoas." Ellisyan: "Sem formalidades, me chame apenas de Ellisyan, seremos todos iguais."
+
+ARCO 3: EXPEDIÇÃO AO PICO DO GRITO ETERNO
+Ellisyan lidera expedição para recrutar filhotes de criaturas míticas. Encontra Hinda (filhote de Raposa da Tempestade Gélida). Gerencia adaptação habitats: Florestal → calor extremo, Elétrico → frio extremo.
+
+ARCO 4: CHEGADA DO ZEPELI E ALIANÇA COM JOHNNY E GYRO
+Zepeli pousa com precisão cirúrgica. Ellisyan se aproxima de Johnny e Gyro isolados. Johnny desconfiado pergunta por que se importava. Ellisyan: sinceridade brutal - não quer nada, já tem o que precisa, mas viu algo diferente neles. Revela: descendente de indígenas, odeia europeus, mas julga por ações não origem. Gyro ri: "mulher de contrastes", Johnny relaxa ombros. Aliança embrionária.
+
+ARCO 5: CAÇADA AOS BOOMBOOM (SEGUNDO ESTÁGIO)
+Ellisyan segue Johnny e Gyro por rota perigosa. Encontra corpo do Sr. Robinson (morto por cactos chollas). Mountain Tim aparece investigando assassinatos. Aliança Ellisyan + Tim. Encontram Boomboom (Andrew, Laurence, Benjamin). Stand *Tomb of the Boom* transforma em ímãs humanos. Ellisyan usa *Feel Good I.N.C* para criar arpéu e escapar da atração. Mountain Tim usa *Oh! Lonesome Me* (se desmembra em cordas). Johnny desperta Spin, corta Benjamin ao meio com unhas. Ellisyan atira no braço de Laurence, ordena fuga. Segue sozinha.
+
+ARCO 6: RELAÇÃO COM AYLA
+Desenvolvimento romântico profundo. Beijos roubados, aconchego, promessas "depois continuamos no meu quarto". Ayla: "Você tem um jeito estranho de acalmar as pessoas." Ellisyan ronrona. Diferença altura: Ellisyan 2m, Ayla 1,95m. Barreiras anti-som no quarto. Cenas íntimas removidas mas referenciadas.
+
+ARCO 7: DRAGÕES CALAMIDADE E DUELO
+Chegada ao território dos Dragões Calamidade. Lilyn guia grupo ao cume. Líder dragão em forma humana em trono de pedra. "Viajantes... Poucos têm a audácia de subir até aqui sem serem convidados." Ellisyan decide duelar pelo ovo. "Os dragões calamidade não costumam usar seus poderes de fogo e escuridão nessas lutas." Preparação para Duelo à Calamidade. Hannah anota diretrizes diplomáticas. Ayla: "Um duelo por um ovo... você realmente gosta de complicar as coisas."
+
+ARCO 8: EXPEDIÇÃO PICO DO GRITO ETERNO E HINDA
+Chegada à ilha Kaelum. Caçador local (alfa camuflado) com olhos âmbar/dourados, pupilas verticais, roupas de pele, rifle velho, cicatrizes de garras. Negociação para ver Raposas da Tempestade Gélida. Lilyn detecta três presenças fortes (dois adultos protegendo ninho no pico mais alto). Encontro com Hinda (filhote Raposa da Tempestade Gélida). Recrutamento bem-sucedido.
+
+ARCO 9: RETORNO À BASE DRÍLLTH E ADAPTAÇÃO HABITATS
+Retorno à Base Dríllth. Lilyn preparou habitat gélido para Hinda (domo com montanhas artificiais, neve perpétua, lagoa cristalina, árvores prateadas, plataforma elevada). Hinda explora, escala, desliza, fareja, ronrona. Hannah prepara café da manhã, bilhete: "Acordem quando quiserem. Preparei café da manhã. Sem pressa. — H."
+
+ARCO 10: VIDA NA BASE E RELACIONAMENTOS
+Manhã na base: Ellisyan, Ayla, Hinda dormem juntas. Hannah aparece, observa com carinho, convida para mergulho matinal em piscina térmica natural em caverna subterrânea (bioluminescente, vazia). Momentos íntimos entre as três (cenas removidas mas referenciadas). Hannah: "Chegamos. Mas... acho que podemos esperar mais uns minutos." Carinho materno de Ellisyan para Hannah: "eu disse que você tinha potencial, e realmente mostrou... a minha aluna mais promissora."
+
+ARCO 11: PREPARAÇÃO PARA DUELO À CALAMIDADE
+No Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias diplomáticas. Ellisyan estudou noite toda o "Duelo à Calamidade". Atmosfera de foco cirúrgico. Ellisyan: 26 anos, 2m, cabelos brancos, olhos azuis pupila cruz, asas cinzentas, terno preto e branco, líder Justice Crusaders, base Dríllth no Calm Belt, Nephelim com Luskxian Inférbyus, Hemomancia, Haki triplo, E.A.L.M.R., teletransporte, transformação corporal.
 
 === ESTADO ATUAL ===
-Ellisyan está no Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias. Ellisyan estudou a noite toda o "Duelo à Calamidade". Atmosfera de foco cirúrgico. Ellisyan: 26 anos, 2m de altura, cabelos brancos, olhos azuis com pupila em cruz, asas cinzentas, terno preto e branco, líder dos Justice Crusaders, base Dríllth no Calm Belt, Nephelim com Luskxian Inférbyus, Hemomancia, Haki triplo, E.A.L.M.R., teletransporte, transformação corporal.
+Ellisyan está no Zepeli a caminho do duelo. Ayla ao lado, Hannah anotando estratégias. Ellisyan estudou noite toda o "Duelo à Calamidade". Atmosfera de foco cirúrgico.
+Ellisyan: 26 anos, 2m de altura, cabelos brancos, olhos azuis com pupila em cruz, asas cinzentas, terno preto e branco, líder dos Justice Crusaders, base Dríllth no Calm Belt, Nephelim com Luskxian Inférbyus, Hemomancia, Haki triplo, E.A.L.M.R., teletransporte, transformação corporal.
