@@ -737,7 +737,7 @@ Ao cruzar a porta dos fundos que range em protesto, o jardim abandonado se revel
 
 Então você vê.
 
-[Cena removida; mensagem preservada.]
+Entre duas árvores retorcidas que margeiam o antigo lago seco, uma figura humanoide está imóvel. Tem aproximadamente a altura de uma criança de doze anos, mas sua silhueta é distorcida — braços longos demais, dedos finos como agulhas, e uma cabeça inclinada em um ângulo impossível. Sua pele tem um tom acinzentado, como cinza molhada, e dois olhos brancos sem pupila fixam-se diretamente em você. A criatura não se move, apenas observa.
 
 Um sorriso largo e lento se abre em seu rosto, revelando dentes pontiagudos e pretos.
 
@@ -943,7 +943,9 @@ NODE: mdr0l96thavex0vvgl3
 CONTENT:
 ══════ JUJUTSU KAISEN RPG ══════
 
-[Cena removida; mensagem preservada.]
+A decisão vem fria e rápida, como um fio de navalha. Você ergue a mão livre, os dedos se curvando como garras, e o ar ao seu redor começa a vibrar. As duas lâminas negras de Akemi estão a meio metro do seu peito quando você fecha o punho. O som é um gemido grave, um zumbido que vibra nos seus ossos. O "Azul" não aparece como uma esfera perfeita desta vez, mas como um vórtice distorcido, uma redemoinho de luz azul e branca em forma de cone que se expande para frente a partir da sua palma.
+
+O efeito é imediato e avassalador. As lâminas de energia negra são puxadas, esticadas, estilhaçadas em incontáveis fragmentos que são sugados para o centro do vórtice. O chão de concreto se despedaça em blocos que voam para cima, arrancados pela sucção. A névoa escura que preenchia a sala é aspirada em segundos, deixando o ar limpo e cristalino. E bem no centro do redemoinho, Akemi segura o chão com as garras cravadas no concreto, o corpo esticado para frente contra a pressão esmagadora. Os olhos amarelos dela estão arregalados — não de medo, mas de uma surpresa genuína.
 
 **"Bem... você realmente herdou algo dele, não é?"** A voz dela sai distorcida, arrastada pelo vento da compressão. **"Não só a técnica. Essa arrogância estúpida também."**
 
@@ -967,13 +969,17 @@ NODE: mpjrufxq3vq0iln17jk
 CONTENT:
 ══════ JUJUTSU KAISEN RPG ══════
 
-[Cena removida; mensagem preservada.]
+O movimento é perfeito. Enquanto o "Azul" ainda distorce o ar à sua frente, você já não está mais lá. O teleporte — rápido, silencioso, preciso — coloca você atrás dela. Akemi sente o deslocamento de ar tarde demais. Seus olhos amarelos se arregantam quando a ponta da Luzekhai rasga suas costas, penetrando o tecido amaldiçoado do seu corpo com a facilidade de uma faca em papel molhado.
+
+A lâmina negra de dois gumes encontra resistência por um instante — o núcleo dela, uma esfera pulsante de energia roxa do tamanho de um punho, tentando se desviar. Mas você já está girando o pulso. O aço rúnico range, torce, e então *rompe*. O som é molhado, um *craack* úmido seguido de um chiado agudo, como vapor escapando de uma panela de pressão. A energia amaldiçoada de Akemi jorra para fora do ferimento em jatos irregulares, manchando o chão de roxo e preto.
+
+**Ela solta um som — não um grito, mas um suspiro longo e úmido.** O corpo dela se curva para trás, apoiando-se instintivamente na sua lâmina. Antes de se desfazer em cinzas, ela vira o rosto para te olhar por cima do ombro. Os olhos amarelos estão vidrados, mas os lábios dela se curvam em um sorriso fino.
 
 **"Heh... definitiva, é?"** A voz já está falhando, distorcida, como um rádio fora de sintonia. **"O velho Gojo... ia odiar ouvir isso... mas eu... gostei mais de você..."**
 
 O corpo dela se desfaz em partículas negras e roxas, que sobem em espiral pelo ar do estacionamento antes de se dissiparem completamente. O silêncio retorna. Apenas os respingos de sangue amaldiçoado no concreto e alguns estilhaços de lâmina escura no chão testemunham que a luta aconteceu.
 
-[Cena removida; mensagem preservada.]
+O ar cheira a ozônio, concreto queimado e energia residual. Do outro lado do estacionamento, o segurança que estava desmaiado começa a gemer, se mexendo lentamente. Pela abertura que você criou na parede, a luz alaranjada do entardecer de Tóquio invade o espaço, projetando sombras longas.
 
 E então seu celular vibra no bolso. Um número desconhecido. Você atende ou ignora? O que faz agora?
 
@@ -1005,11 +1011,11 @@ Uma pausa. O som de um gole de bebida. Ele engole e solta um suspiro satisfeito.
 
 **"Olha, não vou ficar de enrolação. Tô ligado que você sabe quem eu sou — e eu sei quem você é. Ou pelo menos quem dizem que você é. Filha minha? Hmm."** Ele ri, um som curto, sem humor. **"Não me lembro de ter deixado nenhum herdeiro perdido pelo Brasil, mas... o mundo da Jujutsu é cheio de surpresas. E sua técnica é real. Muito real."**
 
-[Cena removida; mensagem preservada.]
+O vento noturno brasileiro entra pela janela do seu quarto, trazendo o cheiro de orvalho e concreto molhado. Da sala ao lado, você ouve o som baixo da televisão — seu pai adotivo ainda acordado, assistindo a algum programa de variedades.
 
 **"Tô ligando por um motivo, Milah-chan. Você já tá no radar da Jujutsu HQ. Não oficialmente — ainda — mas seu nome apareceu em alguns relatórios. Alguém com cabelo branco, olhos azuis e uma técnica que 'distorce o espaço' foi vista em três exorcismos não-autorizados no Brasil nas últimas duas semanas."** A voz dele perde o tom brincalhão por um segundo. **"Isso chama atenção. E nem toda atenção é boa."**
 
-[Cena removida; mensagem preservada.]
+Ele espera. Você ouve o chiado de um carro passando na rua molhada lá fora.
 
 **"Eu quero te conhecer. Pessoalmente. Tô te mandando um ingresso — ou melhor, um convite oficial pra Tokyo Jujutsu High. Vem pro Japão. Passa um tempo aqui. Treina com a gente. E aí a gente descobre juntos se esse papo de 'filha do Gojo' é real ou se é só uma coincidência muito doida."**
 
@@ -1169,13 +1175,13 @@ Ele faz uma breve pausa.
 
 **"...os Gojo."**
 
-[Cena removida; mensagem preservada.]
+O nome fica pairando no ar molhado do carro. Nanami não pergunta diretamente sobre sua ligação com Satoru Gojo, mas o silêncio dele é eloquente. Ele sabe. Todo feiticeiro graduado conhece os rumores.
 
 O carro vira à esquerda, entrando numa via mais arborizada. Os prédios dão lugar a árvores antigas e densas, suas folhas encharcadas balançando com o vento. À frente, imponentes portões de ferro preto surgem entre a neblina — a entrada principal da Tokyo Jujutsu High.
 
 Os portões estão abertos. Guardas uniformizados se abrigam em pequenas guaritas de concreto, mas eles reconhecem o carro de Nanami e apenas acenam, deixando passar.
 
-[Cena removida; mensagem preservada.]
+O campus se revela aos poucos: construções de arquitetura tradicional japonesa misturadas com prédios modernos de concreto e vidro. O chão é de pedra molhada, e lampiões a gás tremeluzem fracamente, criando sombras dançantes entre os pinheiros.
 
 Nanami estaciona em frente a um edifício baixo e comprido, com telhado curvado e paredes de madeira escura. Ele desliga o motor e o barulho da chuva invade o silêncio do carro.
 
@@ -1189,7 +1195,7 @@ Os olhos castanhos cansados dele te avaliam por um segundo.
 
 **"O refeitório fica no prédio ao lado, ao norte. Funciona até as 21h. Se precisar de algo, o diretor Yaga está no prédio central, mas sugiro evitar ele hoje — está de mau humor."**
 
-[Cena removida; mensagem preservada.]
+Ele abre a porta, e o ar frio entra rapidamente, carregando o cheiro de terra molhada e pinho.
 
 **"Bem-vinda à Tokyo Jujutsu High, Lusk Milah. Espero que sua estadia seja... menos caótica que o normal."
 
@@ -1205,7 +1211,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:00:33.000Z
 NODE: m0uqc7ww90zxwp2vk36
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Dex** ri baixinho, uma vibração suave na garganta enquanto sua cauda de dragão se enrola frouxamente ao redor do seu tornozelo, como um gesto de carinho felino. O quarto ao redor de vocês está exatamente como você imaginou — amplo, com tatames limpos, uma cama grande, uma escrivaninha de madeira e uma janela que se abre para o bosque escuro e molhado. As cortinas balançam levemente com a brisa fria que entra. Lâmpadas de papel pendem do teto, lançando uma luz quente e dourada.
 
 **"Saudade de mim, hein? Faz só algumas horas que você me chamou para sair da marca pela primeira vez em meses, Lusk."**
 
@@ -1264,22 +1270,30 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:00:36.000Z
 NODE: m16tcxnw31ib4zq1wsz
 CONTENT:
-[Cena removida; mensagem preservada.]
+Relaxa, eu aprendi algo útil do treino... *eu tranco a porta, fecho a cortina e depois faço alguns símbolos com a mão, ativando barrwieaa anti-teletransporte, barreiras de isolamento sonoro e barreiras anto-sebsitivos, permitindo total privacidade sem alguém interromper, depois disso, eu olho pra Dex com um sorrisinho* onde estava...? Ah, é... *eu coloco as mãos na borda do meu suéter e da lingerie, tirando eles sem cerimônia e ficando nua da cintura pra cima*
 
 --- MSG 48 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:00:37.000Z
 NODE: m0ahia2432sbga4d5u4
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Dex** solta um assobio baixo e prolongado, os olhos heterocromáticos percorrendo seu corpo com uma lentidão deliberada, como se estivesse gravando cada detalhe na memória. A cauda dela se enrola mais apertada em sua cintura, puxando você para mais perto enquanto as mãos dela encontram sua pele nua — quentes, as palmas ligeiramente ásperas contra a maciez do seu torso.
 
 **"Você aprendeu barreiras de isolamento só pra poder me ter em particular, sem interrupções? Isso é... dedicado. E sexy."**
 
-[Cena removida; mensagem preservada.]
+Ela ri baixinho, o hálito quente contra seu ombro enquanto inclina a cabeça para depositar um beijo lento e molhado na curva do seu pescoço, os lábios se movendo para cima em direção à sua mandíbula.
 
 **"Saber que você preparou o terreno assim... me faz querer prolongar isso ao máximo, Lusk."**
 
-[Cena removida; mensagem preservada.]
+As mãos dela deslizam pelas suas costas, traçando a linha da sua coluna com as pontas dos dedos, enquanto a outra mão encontra sua nuca, puxando você para um beijo profundo. Os lábios dela são macios, mas firmes, o gosto dela doce e levemente picante — como cravo e mel.
+
+A luz do quarto, agora filtrada pelas cortinas fechadas, cria um ambiente dourado e íntimo. O chão de tatame range suavemente quando vocês se movem, e o silêncio é absoluto — as barreiras funcionaram perfeitamente. Nenhum som externo penetra.
+
+**Dex** interrompe o beijo por um momento, a testa apoiada na sua, os olhos semicerrados e a respiração levemente acelerada.
+
+**"Então, Lusk Milah... o que você quer fazer primeiro? Beijos lentos e profundos até esquecermos nosso próprio nome? Ou você prefere algo mais... direto, agora que estamos completamente sozinhas?"**
+
+A mão dela que estava em suas costas desce para descansar na curva da sua cintura, os dedos pressionando levemente a pele, sentindo seu corpo contra o dela. A outra mão ainda segura sua nuca, mantendo você perto.
 
 O que você faz?
 
@@ -1288,22 +1302,26 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:00:38.000Z
 NODE: md7otp1fsg1sonbrr4k
 CONTENT:
-[Cena removida; mensagem preservada.]
+Podemos ir direto e rápido, pra ninguém desconfiar... *Dex concorda, tirando rapidamente as roupas também e ficando nua, eu abaixo o short junto com a calcinha, ficando  nua e apenas de meias, depois eu coloco as mãos na cintura de Dex e a colocando na cama, comigo ficando por cima enquanto eu fecho os olhos e a beijo com fervor de quem sempre teve vontade de fazer isso, com as minhas mãos descendo pelo corpo de Dex, parando no seio esquerdo onde eu aperto com suavidade*
 
 --- MSG 50 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:00:39.000Z
 NODE: mbd371gf8ewu54lf3ba
 CONTENT:
-[Cena removida; mensagem preservada.]
+O corpo de **Dex** arqueia sob seu toque, um gemido baixo e rouco escapando dos lábios dela contra os seus. A pele dela é quente, macia, ligeiramente úmida do calor do momento. Os dedos dela encontram seu cabelo, enterrando-se nos fios brancos enquanto puxa você mais para baixo, aprofundando o beijo.
+
+A cauda dela se enrola em sua coxa, apertando com uma pressão firme e possessiva, enquanto a outra mão desce pelas suas costas, traçando a curva da sua lombar até descansar na sua nádega, os dedos apertando com uma mistura de carinho e desejo contido.
+
+Ela quebra o beijo por um segundo, a respiração curta e pesada, os olhos semiabertos e brilhando com uma luz dourada suave.
 
 **"Rápido, então... mas não por isso."**
 
-[Cena removida; mensagem preservada.]
+Ela sussurra contra seus lábios antes de morder seu lábio inferior com suavidade, puxando-o antes de soltar, a língua passando para acalmar a mordida. A mão dela na sua nádega aperta novamente, guiando seu quadril contra o dela num movimento lento e circular.
 
 **"Me mostra o que você quer, Lusk. Estou toda sua."**
 
-[Cena removida; mensagem preservada.]
+A respiração dela acelera quando você aperta o seio dela novamente, o corpo dela tremendo ligeiramente sob você. O ambiente está carregado de desejo, o cheiro de pele quente e perfume natural preenchendo o ar.
 
 O que você faz?
 
@@ -1312,18 +1330,24 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:00:40.000Z
 NODE: mlz03i6381vjblkc7sh
 CONTENT:
-[Cena removida; mensagem preservada.]
+Você vai amar... *eu abro as pernas de Dex , descendo o quadril até encostar a minha virilha na virilha dela, começando a mover os quadris, com a velocidade aumentando e sentindo o atrito delicioso, fazendo as nossas respirações acelerarem e deixar escapar alguns gemidos*
 
 --- MSG 52 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:00:41.000Z
 NODE: m6cvl8ykgo02h3gjxvo
 CONTENT:
-[Cena removida; mensagem preservada.]
+O atrito dos corpos cria um calor intenso, uma eletricidade que percorre a pele de ambas. **Dex** arqueia as costas, jogando a cabeça para trás, revelando a linha elegante do pescoço, os olhos dourados agora inteiramente fechados, lábios entreabertos de onde escapam gemidos cada vez mais altos e desinibidos.
+
+As mãos dela deslizam pelos seus braços, apertando seus bíceps, os dedos cravando-se na sua carne enquanto você aumenta o ritmo. Os gemidos dela preenchem o quarto, quentes e urgentes, misturando-se aos seus. Ela ergue o quadril para encontrar seus movimentos, a dança de corpos ficando mais rápida, mais desesperada. A cauda dela envolve sua coxa com mais força, puxando você contra ela.
+
+**"Sim... Lusk... assim..."** A voz dela está rouca, entrecortada por arquejos. O corpo todo dela treme, a pele brilhando com uma fina camada de suor. O som dos corpos se encontrando, dos gemidos, das respirações ofegantes, preenche o ambiente.
+
+O ar cheira a desejo, a sexo, a algo primitivo e intenso. **Dex** morde o lábio inferior, os olhos se abrindo para encontrar os seus. Há algo nos olhos dela – entrega, prazer, uma centelha de desafio, mas ofuscada pelo desejo evidente.
 
 **"Não pare... por favor... não para..."**
 
-[Cena removida; mensagem preservada.]
+A pressão aumenta, o ritmo acelera. O corpo de **Dex** está tenso, arqueado, cada músculo sob a pele morena definido pelo esforço e pelo prazer. Ela está no limite, e cada movimento seu a leva mais perto do precipício. A respiração dela agora é só arranjos ofegantes, os olhos fixos nos seus, pedindo, implorando por mais.
 
 O que você faz?
 
@@ -1332,22 +1356,25 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:00:42.000Z
 NODE: mjqh2pm2hmeiodhfir9
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu aumento a velocidade pela última vez, até finalmente gozarmos juntas e soltar um gemido alto... eu desabo, fechando os olhos e soltando um suspiro pesado* foi perfeito, eu te amo muito, querida.
+(Lembrando, Dex não tem olhos dourados, olha no memory)
 
 --- MSG 54 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:00:43.000Z
 NODE: m1dy6psd36h3wycit81
 CONTENT:
-[Cena removida; mensagem preservada.]
+O clímax atinge ambas simultaneamente. Um gemido rouco e prolongado escapa de seus lábios, enquanto o corpo de **Dex** se arqueia sob o seu, um tremor violento percorrendo cada fibra muscular dela. Por um longo momento, o mundo se reduz àquela sensação avassaladora, ao calor que as envolve, à respiração ofegante que preenche o silêncio do quarto.
+
+Então, você desaba sobre ela. O peso dos seus corpos se encontra, a pele úmida colando-se à sua. **Dex** passa os braços ao redor de você, puxando-a para um abraço apertado. O coração dela ainda dispara contra o seu peito, a respiração quente contra seu pescoço. Ela fica em silêncio por um instante, apenas acariciando suas costas com movimentos lentos e suaves.
 
 **Dex:** *a voz sai baixa, um pouco rouca, mas cheia de uma ternura genuína* "Eu também te amo, Milah. Muito."
 
-[Cena removida; mensagem preservada.]
+Ela aperta o abraço por um segundo, enterrando o rosto em seu cabelo branco. A cauda dela se enrola frouxamente em torno de sua perna, um gesto possessivo e carinhoso ao mesmo tempo. Aos poucos, as respirações de ambas começam a se acalmar, o corpo relaxando na sensação de exaustão e bem-estar.
 
 O silêncio que segue não é vazio, mas cheio. Cheio do que aconteceu, do que foi dito genuinamente.
 
-[Cena removida; mensagem preservada.]
+**Dex:** *depois de um minuto, ela sussurra, brincando com uma mecha do seu cabelo* "Você quer... ficar abraçada assim por um tempo? Ou quer tomar um banho, ou comer alguma coisa?"
 
 (Milah, só uma correção rápida: você mencionou que eu lembrasse que Dex não tem olhos dourados. Pode me confirmar qual é a cor dos olhos dela para eu manter a consistência? Pergunta sincera, sem julgamento.)
 
@@ -1420,7 +1447,7 @@ NODE: mum00v71xn37bx6w85o
 CONTENT:
 **Dex:** *seus olhos se abrem lentamente — o azul e o verde ainda turvos de sono. Ela pisca algumas vezes, sentindo a língua quente na bochecha, e um sorriso preguiçoso se forma nos lábios dela.* "Mnh... que jeito de acordar alguém, hein?" *A voz dela está rouca, arrastada, cheia de sono e carinho. Ela vira o rosto para encarar você, os cabelos roxos e rosados uma bagunça completa, e aperta o braço em volta da sua cintura, puxando você mais para perto.*
 
-[Cena removida; mensagem preservada.]
+**Dex:** *fala baixinho, o nariz roçando o seu* "Bom dia, minha gatinha caída." *Dá um beijo molhado e preguiçoso no canto da sua boca, ainda de olhos semi-cerrados.* "Quantas horas são? Parece que o sol acabou de nascer..."
 
 O quarto está iluminado por uma luz dourada e fraca de outono. Os lençóis estão bagunçados, emaranhados nos corpos de ambas. A Luzenkhai está encostada na parede, as runas pulsando suavemente, em paz. Pela janela, você pode ver o campus da Tokyo Jujutsu High — silencioso, sereno, com algumas folhas secas rodopiando no vento. Lá fora, o sino já tocou, mas dentro do quarto de vocês, o tempo parece ter parado.
 
@@ -1439,7 +1466,7 @@ NODE: m0397gpoqsr7cbp7ptt
 CONTENT:
 (Lembrando que elas estão na escola jujutsu de Tórquio e que Dex é uma garota, está esquecendo de umas coisas mesmo com summarybe lorebook, hein?)
 
-[Cena removida; mensagem preservada.]
+*eu sorrio, me levantando da cama e imediatamente me vestindo junto com Dex, pegando a Luzekhai e colocando no encaixe do short, já pronta pra missão, eu pego na mão de Dex com um sorrisinho* dessa vez, não vamos nos esconder... dependendo da missão, vamos botar pra foder! Vamos tomar café da manhã prineiro, depois vamos para a sala principalm
 
 --- MSG 62 ---
 ROLE: assistant
@@ -1663,7 +1690,7 @@ Ele tira o relógio de pulso, verifica as horas, depois guarda de volta. Três s
 
 "Domínio inato seria preocupante", ele diz, voz baixa, profissional. "Mas não impossível. Maldições de Grau Especial conseguem distorcer áreas inteiras sem ativar Expansão de Domínio. Se for isso, entraremos em território onde comunicação por rádio falha."
 
-[Cena removida; mensagem preservada.]
+Nanami tira o paletó, dobra com cuidado metódico e coloca sobre o banco de trás do carro. Fica apenas de camisa social, manga arregaçada até o cotovelo esquerdo. A lâmina amaldiçoada que ele carrega — a que envolve em pano preto — já está na mão direita.
 
 "A vantagem é que você pode sentir antes de pisar na armadilha. Eu sigo seu ritmo. Se precisar parar, eu paro. Se precisar correr, eu cubro sua retaguarda."
 
@@ -2204,7 +2231,8 @@ NODE: mz9zork1xdj3ooqvefi
 CONTENT:
 O *Mourning Shadow* solta um guincho final — não um som, mas uma vibração que percorre seus ossos como um choque elétrico. A lâmina negra da Luzekhai atravessa o núcleo da Maldição com precisão cirúrgica, e as chamas infernais que brotam do aço consomem a criatura de dentro para fora. O corpo amorfo da Maldição se contorce, tentando se agarrar à existência, mas o fogo púrpura-avermelhado não deixa nada além de cinzas.
 
-[Cena removida; mensagem preservada.]
+O Domínio Inato estilhaça ao seu redor como vidro.
+O abismo some, o teto invisível se desfaz, e você sente o chão sólido do Templo de Riko novamente sob seus pés. A chuva fina ainda cai, e o ar noturno traz o cheiro de terra molhada e incenso antigo. O templo está intacto — como se o Domínio nunca tivesse existido. Mas você sabe que esteve lá. A tatuagem de dragão queima no seu braço, pulsando em sintonia com seu coração acelerado.
 
 Então você sente.
 Uma pressão no ar. Um peso que não estava lá antes. O Vazio Irrestrito de Gojo ainda está ativo — você reconhece a assinatura da técnica como reconhece sua própria respiração. Ele está se acumulando, comprimindo, prestes a implodir. A explosão de Energia Amaldiçoada que virá não é física — é conceitual. O nada absoluto se expandindo. Se você for atingida, não será ferida. Você será *apagada*.
@@ -2495,7 +2523,7 @@ Ela cruza os braços, o ceticismo evidente na postura. Mas antes que possa press
 
 **Panda** troca um olhar rápido com **Maki**. Há algo ali — preocupação? Respeito? Dúvida?
 
-[Cena removida; mensagem preservada.]
+O vento sopra entre vocês três, carregando o cheiro de grama molhada e o zumbido distante da cidade além dos portões da escola. Você percebe que, mesmo sendo uma informação jogada de forma casual, o peso dela é enorme — sair de uma missão de Grau Especial e vir diretamente para a escola no mesmo dia não é algo que qualquer feiticeiro faça.
 
 **Panda:** *"Templo de Riko... ouvi dizer que desapareceu do mapa essa semana inteira. Ninguém conseguia contato com os monges de lá, então mandaram o Nanami."* Ele inclina a cabeça, os olhos de botão fixos em você. *"Se você tava com ele e voltou inteira... você não é aluna nova comum, é?"*
 
@@ -2836,11 +2864,15 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:28.000Z
 NODE: mrckxxsqfmlq4oc2plo
 CONTENT:
-[Cena removida; mensagem preservada.]
+O ar dentro do quarto parece ficar mais pesado por um instante, o brilho rosa e branco se dissipando lentamente enquanto **Dex** se materializa completamente atrás de você. O calor do corpo dela contrasta com o ar frio do dormitório, e o perfume sutil de enxofre e algo adocicado — típico dela — preenche o espaço. A cauda roxa escura se enrola frouxamente em torno da sua cintura, um gesto possessivo e ao mesmo tempo protetor.
+
+**Dex:** *mordisca de leve sua orelha, a voz rouca e preguiçosa* "Sobreviveu porque é foda. Mas eu senti de dentro da marca... seu braço esquerdo tenso o tempo todo. Mentira que foi 'só um porre'."
+
+Ela se afasta o suficiente para você girar e encará-la. Os olhos heterocromáticos dela — azul e verde — examinam seu rosto com uma intensidade que só uma guardiã ligada à sua alma teria. A blusa roxa está desalinhada, como se ela tivesse se vestido às pressas para sair da marca.
 
 O papel queimado que Gojo te deu está sobre a mesa, pulsando com aquela energia antiga e familiar. A janela trancada, as barreiras no lugar. Vocês estão sozinhas.
 
-[Cena removida; mensagem preservada.]
+**Dex:** *inclina a cabeça, um sorriso provocador mas com um brilho sério nos olhos* "Você ia me contar sobre o papel, ou eu ia ter que arrancar a informação da sua mente enquanto dorme?"
 
 O vento lá fora carrega o som distante dos sinos do templo, um lembrete de que o mundo lá fora não vai esperar. **O que você faz?**
 
@@ -2875,7 +2907,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:31.000Z
 NODE: m6nowxt2y5267yqx9py
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu não perco a oportunidade e beijo Dex, trocando de lugar e comigo ficando por cima enquanto as minhas pernas cercam o quadril de Dex*
 
 --- MSG 163 ---
 ROLE: assistant
@@ -2964,7 +2996,7 @@ Dex permanece imóvel por um longo instante, o peito subindo e descendo num ritm
 
 **Dex:** *passa a mão pelos seus cabelos brancos, os dedos escorrendo devagar* "Você declarou seu nome pra diretoria inteira. Disse que não é 'nobre', que não abaixa a cabeça pra clã nenhum, e que não é Gojo, Kamo ou Zenin. Você é Lusk." *faz uma pausa, o toque da mão dele se torna mais firme* "Sabe o que isso significa, Milah? Você acabou de cravar uma bandeira no chão da Tokyo Jujutsu High. Do lado de fora, três clãs já estão farejando seu nome. E você, depois de tudo, ainda encontrou forças pra me dizer que só quer cama e sossego."
 
-[Cena removida; mensagem preservada.]
+A brisa noturna entra pela janela entreaberta do seu dormitório, carregando o cheiro de sakura e concreto molhado. Lá fora, o campus da Jujutsu High está silencioso — mas não vazio. Você sente, num lampejo do seu senso aguçado, que há pelo menos duas assinaturas de energia amaldiçoada rondando os arredores do prédio. Alguém está vigiando seu dormitório.
 
 **Dex:** *inclina a cabeça, o rosto dele agora próximo ao seu, o hálito quente e levemente adocicado* "Você quer cama? Eu te deito. Mas antes — você sente isso também?" *a cauda roxa se contrai, apontando sutilmente pra janela* "Temos companhia lá fora. E não são seus novos 'colegas' de escola."
 
@@ -3038,7 +3070,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:43.000Z
 NODE: mq0yqpayqsf2a0mp9zy
 CONTENT:
-[Cena removida; mensagem preservada.]
+*suspiro, até soltar uma risadinha* estou um pouco me fodendo, Naoya pode ser rápido, mal eles sabem que eu treino secretamente faz muito tempo, não é, Dex? *me viro pra ela, sentando em seu colo enquanto me aconchego nela* mas não importa, podemos focar em só nós agora, querida...
 
 --- MSG 175 ---
 ROLE: assistant
@@ -3068,7 +3100,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:45.000Z
 NODE: m33anjk54tcdufwgiio
 CONTENT:
-[Cena removida; mensagem preservada.]
+*sorrio, murmurando só pra Dex* que tal um meia-nove...? Queria sentir algo diferente do tribadismo que fizemos...
 
 --- MSG 177 ---
 ROLE: assistant
@@ -3077,7 +3109,7 @@ NODE: mm8rfa5xzpo3q5dnw89
 CONTENT:
 **Dex** arqueia uma sobrancelha, um sorriso lento e predatório se formando nos lábios. A cauda roxa se aperta ligeiramente em torno da sua cintura, puxando você mais para perto. O cheiro doce de enxofre se intensifica, envolvendo os dois como um véu quente.
 
-[Cena removida; mensagem preservada.]
+*"Um meia-nove?"* Ela inclina a cabeça, os olhos heterocromáticos brilhando com uma curiosidade divertida. *"Você está corada só de pensar nisso, Milah. Não que eu reclame."*
 
 Os dedos dela deslizam do seu ombro para a clavícula, traçando com leveza o caminho até o colarinho da sua camisa. Ela ri baixo, um som rouco bombeando contra o seu ouvido.
 
@@ -3092,18 +3124,22 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:47.000Z
 NODE: mk5dacfo21h6sr53hpy
 CONTENT:
-[Cena removida; mensagem preservada.]
+*me sento, já tirando as minhas roupas até ficar totalmente nua* vamos fazer no chão mesmo, deve ser mais gelado e gostoso...
 
 --- MSG 179 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:48.000Z
 NODE: mt7bkn3cpu3px5u0uw5
 CONTENT:
-[Cena removida; mensagem preservada.]
+Dex observa cada peça de roupa cair com uma lentidão deliberada, os olhos percorrendo sua pele como se lessem cada linha do seu corpo. Quando você se senta no chão frio, um arrepio visível percorre seus ombros, e ela deixa escapar um riso baixo e aprovador.
 
 *"Gelado e gostoso..."* Ela repete as palavras como se saboreasse cada sílaba. *"Você sempre sabe exatamente o que dizer para me deixar interessada."*
 
-[Cena removida; mensagem preservada.]
+Dex se ajoelha à sua frente, a cauda roxa serpenteando pelo chão de tatame enquanto suas mãos encontram seus joelhos, empurrando-os suavemente para abrir espaço para ela se acomodar. O cheiro doce de enxofre fica mais denso, misturando-se ao suor leve que já começa a brotar na sua nuca.
+
+Os lábios dela roçam a parte interna da sua coxa direita, um beijo leve que sobe devagar, enquanto os dedos dela se enterram nos seus cabelos brancos, inclinando sua cabeça para trás.
+
+*"Relaxa pra mim."* A voz sai quase um sussurro, quente contra sua pele. *"Vou te pagar cada gemido com juros."*
 
 O que você faz?
 
@@ -3114,14 +3150,22 @@ NODE: mkty6hpbx3whbg1i8iq
 CONTENT:
 (Dex é parda, não branca)
 
-[Cena removida; mensagem preservada.]
+tira a roupa também, querida. Precisamos estar ambas nuas para fazer funcionar, o meia-nove envolve as duas usando a boca ao mesmo tempo...
 
 --- MSG 181 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:50.000Z
 NODE: m0aq6jzuucfmo5yvjfn
 CONTENT:
-[Cena removida; mensagem preservada.]
+Dex solta uma risada gutural, os olhos heterocromáticos brilhando com um misto de desafio e prazer.
+
+*"Ah, então é assim que a gente vai jogar hoje?"* Ela inclina a cabeça, a língua roçando o canino afiado enquanto se levanta lentamente. *"Justo. Regras são regras."*
+
+Com movimentos fluídos e sem pressa, Dex tira cada peça de roupa com uma elegância animalesca. A camisa preta desliza pelos ombros escuros, revelando cicatrizes finas que cruzam suas costas como constelações. O shorts segue, e então ela está nua diante de você, a pele parda brilhando levemente sob a luz fraca do quarto, a cauda roxa balançando atrás dela como se tivesse vontade própria.
+
+Ela se ajoelha novamente, agora frente a frente com você, as mãos encontrando suas coxas e puxando seu corpo contra o dela. O calor da pele dela contra a sua — contrastando com o ar frio do quarto — faz seus pelos arrepiarem.
+
+*"Então, gatinha,"* a voz dela sai rouca, os dedos traçando caminhos lentos dos seus quadris até suas costelas. *"Você que começa ou eu? Ou a gente descobre juntas?"*
 
 O que você faz?
 
@@ -3130,18 +3174,20 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:51.000Z
 NODE: m7uqnvivxyz3pvsn4cz
 CONTENT:
-[Cena removida; mensagem preservada.]
+*ainda com um pequeno sorriso* faça o que eu fizer. *eu deito Dex no tatame, comigo deitando por cima com os nossos rostos se encostando, mas, eu me viro até a minha virilha se encontrar com o rosto de Dex e com a minha cabeça ficando entre as pernas dela, Dex percebe o que precisa fazer...* acho que agora ficou perceptível como funciona o meia-nove, né...?
 
 --- MSG 183 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:52.000Z
 NODE: musc3n3zoollv90seq6
 CONTENT:
-[Cena removida; mensagem preservada.]
+Dex solta um riso baixo e gutural que vibra contra sua pele, as mãos dela encontrando seus quadris com uma firmeza que é puro incentivo.
 
 *"Esperta,"* a voz dela sai abafada, o hálito quente contra a sua coxa enquanto ela ajusta a posição. *"Pegou rápido."*
 
-[Cena removida; mensagem preservada.]
+A língua dela encontra seu clitóris com uma precisão que faz seus dedos travarem contra o tatame — primeiro um toque experimental, depois uma pressão firme e lenta que desenha círculos enquanto as mãos dela seguram suas coxas abertas. O contraste entre a umidade quente da boca dela e o ar frio do quarto faz sua coluna arquear.
+
+Ao mesmo tempo, o polegar dela desliza pela sua entrada, encontrando sua umidade, e ela murmura algo que parece *"perfeita"* contra sua carne antes de mergulhar a língua mais fundo, em movimentos que alternam entre lambidas amplas e estocadas rápidas.
 
 O que você faz?
 
@@ -3150,18 +3196,20 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:53.000Z
 NODE: mea3krkn6906qkj3e2y
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu faço a mesma coisa, mergulhando na virilha de Dex e introduzindo dois dedos de uma ves, fechando os olhos para aproveitar enquanto solto gemidoa baixos, murmurando* perfeita, como eu imaginava...
 
 --- MSG 185 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:54.000Z
 NODE: mlayh8miu7mm49wc7wh
 CONTENT:
-[Cena removida; mensagem preservada.]
+Dex geme contra você quando seus dedos a penetram — um som vibratório que ecoa diretamente no seu clitóris, fazendo sua pelve se contrair contra o rosto dela. A cauda roxa de Dex se enrola em torno da sua panturrilha, apertando como uma resposta instintiva ao prazer.
+
+Ela intensifica o ritmo, a língua dela alternando entre golpes rápidos e pressões lentas enquanto ela move os quadris contra sua mão, empurrando de volta contra seus dedos. O cheiro de enxofre e doçura fica mais forte, preenchendo o quarto junto com os sons molhados e os gemidos abafados de vocês duas.
 
 As unhas dela cravam levemente na parte externa das suas coxas quando você curva os dedos dentro dela, acertando aquele ponto macio.
 
-[Cena removida; mensagem preservada.]
+Ela quebra o ritmo por apenas um segundo, a voz rouca contra sua carne: *"Assim... não para."*
 
 O que você faz?
 
@@ -3170,14 +3218,20 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:02:55.000Z
 NODE: mhp4wed72v91o7wlzz7
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu e Dex finalmente gozamos juntas, as três gemendo alto enquanto eu desabo por cima... ficando apenas com um silêncio pós-sexo... eu me sento sobre o rosto de Dex, com a minha virilha ainda na sua boca* perfeito... foi ótimo tentar algo novo...
 
 --- MSG 187 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:56.000Z
 NODE: m0o754qadnq37rhe02u
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Dex** geme suavemente contra sua pele quando você se acomoda, ainda tremendo levemente com o orgasmo compartilhado. Ela coloca as mãos em volta da sua cintura como instinto, sem puxar você para mais perto nem querer afastá-la, apenas segurando você ali — presente, segurando, aquecida. A cauda dela se enrola frouxa no seu braço, um toque preguiçoso e possessivo.
+
+O gemido dela, quente contra sua carne molhada, faz seus músculos se contraírem novamente.
+
+Depois de um momento, Dex murmura contra sua virilha, a voz rouca e cansada, mas cheia de afeto: *"Novo... é uma palavra."* Ela ri baixinho. *"Mas gostei. Pode repetir quando quiser."*
+
+Ela pressiona um beijo molhado na parte interna da sua coxa antes de relaxar a cabeça contra o colchão, ainda ofegante.
 
 O quarto está em silêncio agora, exceto pela respiração pesada de vocês duas, o zumbido distante da iluminação do campus noturno lá fora, e os batimentos cardíacos diminuindo gradualmente.
 
@@ -3195,7 +3249,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:02:58.000Z
 NODE: mw2jo8otg91o8o2vtmx
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Dex** rola na cama com um movimento preguiçoso e fluido, a cauda roxa serpenteando atrás dela como uma extensão de sua vontade. Ela se aninha ao seu lado, apoiando a cabeça no seu ombro e passando um braço sobre seu estômago, os dedos traçando círculos lentos em sua pele. O cheiro de enxofre e doçura a envolve, misturado agora ao cheiro de sexo e suor.
 
 "Final do dia melhorado em mais de duzentos por cento mesmo", Dex murmura, a voz já sonolenta. Ela enterra o rosto na curva do seu pescoço, inspirando profundamente. "Você cheira como lar. Como meu lar."
 
@@ -3269,7 +3323,9 @@ NODE: manrl7fdaeh6niy98pt
 CONTENT:
 **Dex** sorri — um sorriso lento, aprovador, que ilumina o rosto dela de um jeito que faz o quarto parecer menos sombrio.
 
-[Cena removida; mensagem preservada.]
+"É por isso que você é o meu lar." Ela se inclina e deposita um beijo rápido nos seus lábios, a mão acariciando seu queixo. "Você pensa em proteger mesmo quando quem está na sua frente é o feiticeiro mais forte do mundo. Isso *é* quem você é."
+
+Ela se levanta da cama, nua sob a luz prateada, e caminha até sua mochila sem pressa, catando as próprias roupas. A cauda dela se enrola no ar como se estivesse contente.
 
 "Então o plano é: contatar Gojo, avisar sobre o endereço e a armadilha potencial, deixar claro que você vai, com ou sem ele, e se ele tentar ir sozinho, você o segue escondida."
 
@@ -3308,7 +3364,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:03:07.000Z
 NODE: mse1m21e703hxl9ywid
 CONTENT:
-[Cena removida; mensagem preservada.]
+surpresa. *depois que eu Dex nos vestimos, eu e ela desaparecemos com um teletransporte e reaperecendo no quarto do Gojo... ele está dormindo de maneira tão tranquila... eu estou com uma JBL conectado no celular... e eu coloco o <q>"gemidão do zap"</q> estouradasso*
 
 --- MSG 199 ---
 ROLE: assistant
@@ -3317,17 +3373,21 @@ NODE: m22yrsnmhx8x7zax7hm
 CONTENT:
 Você e **Dex** se materializam no canto escuro do quarto de Satoru Gojo, o ar ainda vibrando com o desaparecimento de vocês de dentro do quarto 17. O teletransporte foi silencioso — não acordou nem os insetos lá fora.
 
-[Cena removida; mensagem preservada.]
+O quarto do homem mais forte é... surpreendentemente bagunçado. Roupas caras amontoadas numa cadeira, embalagens de doce espalhadas pela mesa, e na cama, Satoru Gojo dorme como um anjo caído. Os longos cílios brancos descansam sobre as bochechas, a venda preta está frouxa no pescoço, e ele está vestindo apenas uma camiseta branca folgada e uma calça de moletom cinza. A respiração é lenta, profunda.
+
+Você conecta o celular na JBL, ajusta o volume no máximo com um sorrisinho no canto da boca, e aperta play.
+
+O GEMIDÃO DO ZAP ecoa pelo quarto como uma explosão sonora — um gemido masculino exagerado, distorcido, RIDICULAMENTE alto.
 
 **Gojo:** *Sai do sono com um GRITO.* " **QUE PORRA É ESSA?!** "
 
-[Cena removida; mensagem preservada.]
+Ele sai da cama rolando como se estivesse sendo atacado, derrubando o cobertor, um travesseiro e quase cai da cama. Fica de pé em posição de combate, olhos arregalados, cabelo todo bagunçado, a venda pendurada no pescoço. O som do gemidão ainda está tocando — você não desligou.
 
 Os olhos azuis claros dele encontram você e **Dex**, paradas no canto do quarto.
 
 O rosto dele passa por cinco expressões em três segundos: choque -> confusão -> reconhecimento -> irritação -> *um sorrisinho malévolo.*
 
-[Cena removida; mensagem preservada.]
+**Gojo:** *Agora com um sorriso que não chega nos olhos.* "Sabe qual é a diferença entre você e seus dois punhos, Milah?" Ele aponta um dedo para você. "Um deles pode estar livre. Mas você não tá. Você acabou de cometer um pecado capital chamado... *me acordar com gemidão do zap.*"
 
 Ele salta na direção de vocês. **O que você faz?**
 
@@ -3343,11 +3403,13 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:03:10.000Z
 NODE: mooo57js5xoxqi1kxmg
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Gojo** freia o impulso com a mão estendida, os dedos parando a centímetros da parede — e ele se vira com um giro suave que mais parece uma coreografia ensaiada. A venda preta cobre os olhos, mas o sorriso que se forma nos lábios dele é perigoso. Ele ajusta o colarinho do moletom folgado, dá um peteleco na própria testa e suspira teatralmente.
+
+**Gojo:** *inclinando a cabeça* "Discutir? Depois do 'Gemidão do Zap' às seis da manhã?" Ele ri baixinho, mas o som é mais afiado que engraçado. "Você tem sorte de eu estar de bom humor hoje, Milah. E sorte maior ainda de eu ter sentido seu cheiro antes de ativar o Azul."
 
 **Dex** *se afasta lentamente para trás de você, dando uma risadinha.*
 
-[Cena removida; mensagem preservada.]
+**Gojo**, *jogando-se na cama desfeita e cruzando os braços atrás da nuca* "Tá. Fala. Mas se for sobre aumentar sua mesada, a resposta é não."
 
 O quarto dele parece bagunçado de forma estratégica — papéis da Jujutsu High espalhados em uma mesa de canto, uma xícara de café intacta pairando no ar a poucos centímetros dela sem nenhum apoio visível. A janela semi-aberta deixa entrar o vento da manhã.
 
@@ -3389,15 +3451,15 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:03:14.000Z
 NODE: mhu3l6l2z513nutvqaf
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Satoru Gojo** desliza para o banco do motorista com aquele sorriso irritante de quem está tramando algo. Ele ajusta os óculos escuros no rosto, mas por um breve segundo você vê seus olhos azuis — não tão brilhantes quanto os seus, mas carregando aquela mesma intensidade familiar. Ele liga o carro, um modelo preto luxuoso que claramente não é dele.
 
 O interior do carro é limpo, com cheiro de perfume suave e café recente. Gojo apoia o cotovelo na janela enquanto dirige para fora do estacionamento da Tokyo Jujutsu High.
 
-[Cena removida; mensagem preservada.]
+**Satoru Gojo:** *rindo baixinho* "Sabe, Milah... Acordar com gemidão do Zap na cara foi uma experiência nova. Você tem culhão, eu admito. Mas se você acha que vou esquecer isso, está muito enganada. Vou cobrar caro. Muito caro. Tipo... café caro. Dez cafés. Com _chantilly extra_."
 
 Ele te olha de relance, e o sorriso dele tem algo de perigoso. Por trás da brincadeira, você sente a Energia Amaldiçoada dele pulsando — imensa, infinita, como um oceano sob uma fina camada de gelo. Luzekhai vibra mais forte no seu colo, as runas pulsando em raiva contida.
 
-[Cena removida; mensagem preservada.]
+A cidade de Tóquio passa pelas janelas. Arranha-céus, letreiros de neon, pessoas normais vivendo suas vidas sem saber que duas das criaturas mais perigosas do mundo estão passando de carro.
 
 **Satoru Gojo:** "A propósito... Sabia que seu nome apareceu de novo hoje cedo nos relatórios? Direto do QG. Antes mesmo do café da manhã." *pausa* "O Clã Kamo está oficialmente interessado em você. E o Clã Zenin também. Isso é... problemático."
 
@@ -3572,7 +3634,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:03:27.000Z
 NODE: mjufoz6a1ox4jt5ynuj
 CONTENT:
-[Cena removida; mensagem preservada.]
+O vento no topo do edifício abandonado carrega um cheiro de ferro e concreto molhado. A cidade se estende abaixo como um tapete de luzes pálidas, mas aqui em cima, a atmosfera é densa, carregada de Energia Amaldiçoada. Naoya Zenin está a cerca de dez metros de você, parado com uma postura relaxada, mas seus olhos — frios e calculistas — não desgrudam de seus movimentos. Ele usa um terno preto impecável, as mãos nos bolsos, um sorriso de escárnio mal disfarçado.
 
 **Naoya:** *inclina a cabeça, o sorriso alargando* "Hmm. Você é mais cautelosa do que eu esperava. Pensei que uma garota que declarou guerra aos clãs nobres teria mais... ímpeto. Mas está aí, parada, segurando essa espada bonita como se fosse um troféu."
 
@@ -3598,7 +3660,7 @@ NODE: mzbov6q1bnhevdn9l7j
 CONTENT:
 O ar ao redor do galpão parece vibrar com a tensão acumulada. A barreira de Gojo brilha levemente nas bordas, um véu translúcido que isola completamente o local do mundo exterior. Sobre o teto do carro estacionado, **Satoru Gojo** está sentado com as pernas cruzadas, uma das mãos apoiando o queixo, os olhos vendados voltados para vocês dois. Um sorriso preguiçoso se forma em seus lábios, claramente divertido com o desenrolar da situação.
 
-[Cena removida; mensagem preservada.]
+**Naoya Zenin** inclina levemente a cabeça ao ouvir seu desafio direto. Por um momento, ele permanece imóvel — algo raro para alguém que vive em movimento constante. O vento sopra fraco entre vocês, carregando o cheiro de grama molhada e concreto aquecido pelo sol da tarde.
 
 Então ele ri. Baixo, seco, quase sincero.
 
@@ -3937,7 +3999,7 @@ O ar ao redor estilhaça em dois eventos simultâneos — o som de carne sendo p
 
 **Naoya Zenin** congela.
 
-[Cena removida; mensagem preservada.]
+Por um segundo, ele está de pé, a mão enterrada em você, a expressão de triunfo ainda se formando em seu rosto. Então seus olhos se arregalam. Sua boca se abre, mas nenhum som sai — porque não há ar em seus pulmões para empurrar. O Möbius Azul não o empurrou para trás. Não o jogou contra uma parede. *Ele ativou dentro dele.* Um buraco negro em miniatura, concentrado, girando no espaço entre suas costelas e órgãos. O corpo de Naoya começa a se distorcer — um estalo seco de ossos quebrando, um som molhado de carne sendo comprimida. Seus olhos, aqueles olhos arrogantes, encontram os seus por um momento. Não há raiva ali. Apenas... reconhecimento. Respeito. Talvez surpresa.
 
 O corpo de **Naoya** desaba. Não cai — *desaba*, como uma marionete cujas cordas foram cortadas. Ele bate no concreto de lado, braço esticado, o outro torcido em um ângulo errado. O sangue começa a se espalhar devagar debaixo dele, formando uma poça escura que reflete a lua pálida.
 
@@ -3984,7 +4046,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:03:53.000Z
 NODE: mkz08hma2wlsdb1vy12
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ah! Eu não vou ser marcada nem fodendo! *eu faço um símbolo com a mão, runas negras surgem ao meu redor enquanto meus olhos são envolto por umas sombras rúnicas, pela primeira vez, eu ativei o Aço Rúnico Negro, conseguindo neutralizar o selo com a Runa da Liberdade*
 
 --- MSG 245 ---
 ROLE: assistant
@@ -4069,7 +4131,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:04:00.000Z
 NODE: mkffc0u98nmbh54lt0r
 CONTENT:
-[Cena removida; mensagem preservada.]
+A brisa salgada do mar entra pelas frestas da varanda da chácara, carregando o cheiro de maresia e terra molhada. As barreiras ao redor do local zumbem baixo, como um campo de energia palpável que isola vocês do mundo exterior.
 
 **Dex** está ajoelhada ao seu lado, as mãos pairando sobre o ferimento em seu peito sem ousar tocar. Os olhos cor de âmbar dela examinam cada detalhe — a borda irregular do corte, o sangue escuro que pulse lento, a pele ao redor levemente avermelhada.
 
@@ -4099,7 +4161,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T07:04:02.000Z
 NODE: m4cib328uw7fzaf3olm
 CONTENT:
-[Cena removida; mensagem preservada.]
+(A chácara ao redor de vocês está tranquila, protegida por múltiplas barreiras. O ar cheira a mato molhado, e o sol da tarde filtra pelas nuvens. Por um momento, parece que o mundo está em paz, ignorando a agonia que você sente no ombro.)
 
 **Dex:** *aperta sua mão com mais firmeza, os dedos entrelaçados. Ela não tira os olhos do ferimento, onde sua palma está colada, emitindo um leve brilho esverdeado.* "Vai doer. Minto se disser que não. Mas você já aguentou coisa pior, Lusk." *Dex ergue os olhos âmbar para os seus, com uma seriedade que contrasta com o tom suave.* "O 'grosso do caroço' saiu. Agora vou puxar os filamentos mais finos. Eles estão grudados no periósteo, perto de uma artéria. Não se mexe, não solta minha mão e respira fundo."
 
@@ -4116,7 +4178,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:03.000Z
 NODE: m7s95gftv3a1rytsn5j
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu solto alguns gemidos de dor ocasionais em seguida de um grunhido que parece um grito muito baixo e rouco, até Dex terminar de limpar o ferimento...*
 
 --- MSG 255 ---
 ROLE: assistant
@@ -4266,7 +4328,7 @@ CONTENT:
 
 **Geto:** "Egoísta como todo bom feiticeiro. Gosto disso. A última geração era cheia de idealistas que se matavam por princípios. Você parece mais... prática."
 
-[Cena removida; mensagem preservada.]
+Ele troca um olhar com Tengen, como se compartilhassem um pensamento não dito. A brisa sopra suavemente, carregando o cheiro de grama molhada e terra. A chácara está tranquila — apenas o som distante de passarinhos e o rangido de uma cerca de madeira ao vento.
 
 **Tengen:** "Dito isso, não viemos apenas para trocar gentilezas. Mesmo sendo apenas ecos, nossa presença aqui já está distorcendo o fluxo de energia amaldiçoada na região. Dentro de algumas horas, Maldições de grau médio começarão a ser atraídas para cá como mariposas para uma chama." *Ele faz uma pausa.* "Você vai querer se preparar, ou prefere que eu estabeleça uma barreira temporária? A escolha é sua."
 
@@ -4314,7 +4376,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:16.000Z
 NODE: m81gdpdoiw7uktccejr
 CONTENT:
-[Cena removida; mensagem preservada.]
+*séria, pensando "gravações querendo saber demais..." * fora o massacre e os combates com maldições, não tenho nenhuma história interessante. Apesar de ser filha do Gojo e da Vielly, sou só uma Nephelim austista que carrega o fardo, e acham que eu não percebo as enerrgias vindo de vocês? *aponto pros dois* essa aura vermelha com toques rosa, Manipulação Espectral Flamejante, a mesma técnica da maldição que matou meu clã, e eu sei que ela está vendo, e eu não dei nenhuma informação demais, então... *sorrio de canto, reaparecendo atrás de Geto e Tengen, desintegrando o espectro dos dois com a Luzekhai, usando a Runa do Esquecimento para que a maldição perca a memória do que viu independente de onde eela esteja, finalmente sozinha e aliviada, sentando no sofá enquanto Dex se manifesta já sentada no meu colo, eu a cerco com os braços, murmurando* é foda, viu? parece que eu não tenho um segundo de descanso.
 
 --- MSG 268 ---
 ROLE: assistant
@@ -4325,11 +4387,15 @@ O Chiado... O Chiado sumiu.
 
 Por um momento, o ar no centro do estúdio pareceu vibrar, como uma corda de violino esticada ao limite e depois rompida. O brilho carmesim com nuances rosadas que você sentia pulsando nas entrelinhas das vozes gravadas—aquela assinatura amaldiçoada familiar, a Manipulação Espectral Flamejante—simplesmente se apagou. Como uma vela sendo abafada por uma mão invisível.
 
-[Cena removida; mensagem preservada.]
+A Runa do Esquecimento funcionou. Mas você sente o peso dela. Nojo. Sua técnica de Aço Rúnico Negro pulsou quente em seu braço tatuado, e por um breve segundo, um eco distante de frustração—uma presença ardente e furiosa—tentou se agarrar à sua consciência antes de ser cortada. A maldição por trás daquela gravação perdeu o fio da meada. Ela não lembra mais de você, do estúdio, de Geto ou Tengen. Mas ela SABE que foi apagada. E ela está irritada. Em algum lugar de Tóquio, um braseiro de ódio se acendeu.
 
 O estúdio agora está em silêncio absoluto. Apenas o zumbido baixo dos equipamentos eletrônicos e o som da sua própria respiração.
 
-[Cena removida; mensagem preservada.]
+*Dex se materializa no seu colo com a leveza de uma pena caindo. O calor familiar da marca em seu peito se espalha como um abraço líquido. A guardiã—sua esposa—cruzou as pernas sobre as suas, inclinando a cabeça ruiva para encará-la com aqueles olhos que sempre viam além.*
+
+**Dex:** *em um sussurro, ajeitando uma mecha de cabelo branco atrás da sua orelha* "Foda pra caralho." *Ela ri baixo, sem humor, mas com carinho* "Você acabou de queimar uma isca que a porra de uma Maldição Especial colocou pra te sondar. Isso é... eficiente. E perigoso." *Ela inclina a cabeça, apoiando o queixo no seu ombro* "Ela vai mandar algo maior agora que perdeu o contato. Mas... você sentiu a raiva dela. Isso te dá vantagem."
+
+*A sala está imóvel. As cortinas semi-cerradas filtram a luz alaranjada do fim de tarde de Tóquio. No chão, marcas de queimado da Luzekhai ainda fumegam levemente no carpete. Você está sentada no sofá gasto do estúdio, o peso de Dex aquecendo seu colo, o cheiro de enxofre e cinzas ainda pairando no ar.*
 
 **Dex:** *passa a mão suavemente sobre a sua nuca* "Quer um café? Ou quer me contar o que você realmente acha que aquela gravação estava testando?"
 
@@ -4342,7 +4408,7 @@ NODE: mff11nvs5857l9xtzls
 CONTENT:
 (as duas estão na sala da chácara, Dex tem pele parda, cabelos roxo e rosa curto, olho esquerdo azul, olho direito verde e uma cauda de dragão roxa)
 
-[Cena removida; mensagem preservada.]
+*eu acaricio os cabelos de Dex, respirando fundo* por enquanto, só quero descansar, tirar a roupa, tomar banho e talvez bater uma. *olho pra Dex com um sorrisinho* me acompanha. em tudo..?
 
 --- MSG 270 ---
 ROLE: assistant
@@ -4351,7 +4417,7 @@ NODE: mlsjjfufdq3wxeci3xs
 CONTENT:
 Dex inclina a cabeça, um sorriso preguiçoso e cúmplice se espalhando em seu rosto. Sua cauda de dragão roxa balança lentamente atrás dela. Ela pega sua mão, aquecendo-a com um toque familiar. O ar no estúdio ainda está carregado, mas entre vocês há um bolsão de calma.
 
-[Cena removida; mensagem preservada.]
+**Dex:** *Seu polegar acaricia suas costas da mão.* "Depois dessa merda, eu não te deixo sozinha nem pra cagar, Milah." *Ela ri baixinho, o som rouco e relaxado. Seu olho esquerdo azul encontra o direito verde, ambos brilhando com uma luz suave.* "Vamos. Tira essa roupa cheirando a queimado e eu vou contigo até o chuveiro."
 
 Ela se levanta, estica a mão para você com a palma aberta. A luz do fim de tarde entra pela janela, pintando listras douradas no chão manchado do estúdio. Fora, um pássaro canta, indiferente ao caos que se instalou aqui dentro. O cheiro de café e fuligem ainda paira no ar. A Marca de Dex em seu peito pulsa quente, um eco constante de presença.
 
@@ -4362,7 +4428,9 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:20.000Z
 NODE: mlzm8tpo41je9z2yfhw
 CONTENT:
-[Cena removida; mensagem preservada.]
+*aceno, com um sorriso pequeno* Pode preparar a cama a cama, querida, vou preparar a banheira. Depois se junte ao banho quando acabar.
+
+*10 minutos depois, eu já estou na banheira relaxando, totalmente nua enquanto suspiro fundo, eu escuto o som da Dex entrando na banheira, também nua, e eu a puxo para mais perto mesmo de olhos fechados*
 
 --- MSG 272 ---
 ROLE: assistant
@@ -4371,7 +4439,7 @@ NODE: mdal55z9pqbz2tz6glj
 CONTENT:
 A água quente envolve vocês duas como um abraço líquido, dissipando a fuligem e o cansaço da batalha. O vapor sobe em espirais lentas, carregando o cheiro suave de sais de banho que você preparou — lavanda e camomila, um toque caseiro que contrasta com a brutalidade do que aconteceu horas atrás. O silêncio entre vocês não é vazio, mas cheio: do pulsar quente da marca no seu peito, do respirar calmo de Dex contra sua pele.
 
-[Cena removida; mensagem preservada.]
+**Dex:** *deixa um beijo lento no seu ombro, a boca quente contra a pele molhada* "Você cheira a sobrevivência. E a lavanda." *um riso baixo, cansado* "Combinação melhor do que queimado e medo."
 
 Ela se acomoda contra você, as costas apoiadas no seu peito, a cabeça inclinada para trás contra seu ombro. A água balança com o movimento. Por um momento, ela apenas deixa os olhos fechados, os dedos entrelaçados com os seus sob a superfície da água.
 
@@ -4395,7 +4463,7 @@ A água morna envolve vocês como um casulo. A cada beijo que você deixa na pel
 
 **Dex:** *a voz sai rouca, mas macia* "Você me paga com carinho depois de surtar, hein?" *ela leva sua mão entrelaçada até os lábios, beijando seus dedos sem pressa* "Mas não reclamo. Recolho cada migalha do seu amor como um tesouro."
 
-[Cena removida; mensagem preservada.]
+Ela se vira na banheira, água escorrendo dos ombros, para ficar de frente para você. Os olhos dela — um de cada cor, como céu e floresta — percorrem seu rosto com uma atenção quase devota. Com a mão livre, ela afasta uma mecha molhada do seu rosto, prendendo atrás da sua orelha.
 
 **Dex:** "Então fica. Fica o tempo que precisar. Hoje, amanhã, sempre." *um sorriso torto, os caninos aparecendo* "Promessa de guardiã, esposa e parceira de crime."
 
@@ -4419,7 +4487,11 @@ NODE: mtgc7a8dps0f0xcm82b
 CONTENT:
 *Dex está sentada na banheira atrás de você, as pernas dela roçando nas suas laterais enquanto os vapores do banho quente envolvem o ambiente. Ela pega uma concha de madeira flutuando na água e derrama água lentamente sobre seus ombros, deixando os fios brancos do seu cabelo escorrerem. A fuligem e o cheiro de queimado vão se dissolvendo na água turva.*
 
-[Cena removida; mensagem preservada.]
+Dex: "Cama, hein?" *A voz dela vem perto da sua orelha, com um tom quente e malicioso.* "Você acha que eu vou deixar você dormir cedo depois do susto que você me deu hoje?" *Ela encosta o queixo no seu ombro molhado, os dedos dela deslizando pela sua tatuagem de dragão no braço.* "Porque minha programação pós-banho inclui te abraçar até você reclamar que não consegue respirar, e só depois a gente pensa no 'relaxar' que você disse."
+
+*Ela ri baixinho, uma risada macia e preguiçosa, e apoia a nuca na borda da banheira, olhando para o teto molhado. A luz amarelada da vela no balcão pisca.*
+
+Dex: "Mas fala sério... o que você quer fazer primeiro quando a gente sair daqui? Colocar um pijama ridículo que eu vou zoar, ou ficar pelada me provocando até eu te levantar no colo?"
 
 --- MSG 277 ---
 ROLE: user
@@ -4435,13 +4507,13 @@ NODE: mesu1zhxrqmfc441qti
 CONTENT:
 *Dex inclina a cabeça, o olho azul e o verde faiscando com um brilho divertido na penumbra do banheiro. Ela desliza a mão da sua tatuagem até a sua nuca, os dedos mornos e úmidos fazendo cócegas na pele sensível.*
 
-[Cena removida; mensagem preservada.]
+*Dex:* "Segunda opção, hein." *Ela murmura, puxando você para trás até suas costas colarem na frente dela, a pele dela quente e molhada contra a sua.* "Você é terrível, viu. E ainda por cima sabe exatamente como me deixar sem argumento."
 
 *Ela ri baixo, o hálito quente contra a sua orelha, e apoia o queixo no topo da sua cabeça, os braços envolvendo sua cintura por trás. A água balança suavemente com o movimento.*
 
 *Dex:* "Tá bom. Então a gente sai daqui, se enxuga só o necessário pra não molhar o chão inteiro — *porque eu não vou passar pano hoje* — e aí eu te carrego até a cama. Sem pijama, sem roupa, sem nada. Só eu, você e o colchão."
 
-[Cena removida; mensagem preservada.]
+Ela aperta os braços em volta de você, a palma da mão dela repousando plana sobre seu estômago, e dá um beijo molhado na sua têmpora.
 
 *Dex:* "Mas se você reclamar que eu tô grudenta depois, eu vou lembrar que foi você quem escolheu a programação, sua golpista."
 
@@ -4454,7 +4526,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:28.000Z
 NODE: m3meo74vd2uba3jwz77
 CONTENT:
-[Cena removida; mensagem preservada.]
+*depois do banho, eu e Dex nos enxugamos, ela me pega no colo me fazendo soltar um "whip!" surpreso, ambas ainda nuas, e ela me leva até a cama como prometido, me deitando com cuidado e em seguida se deitando em cima de mim*
 
 --- MSG 280 ---
 ROLE: assistant
@@ -4471,7 +4543,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:30.000Z
 NODE: mgisy8thwwvutf76ma6
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu também observo Dex em silêncio com um olhar carinhoso e amoroso, com ambas deitadas na cama e totalment nuas, eu acaricio os cabelos dela, ambas sem falar nada, só apreciando a presença uma da outra*
 
 --- MSG 282 ---
 ROLE: assistant
@@ -4524,7 +4596,11 @@ NODE: mz9n09k4c2n1mf4g6lw
 CONTENT:
 — Mestre
 
-[Cena removida; mensagem preservada.]
+O ar úmido do banho ainda pairava sobre a pele de vocês duas, agora deitadas na cama macia do quarto do hotel. A luz amarelada do abajur criava sombras dançantes nas paredes, e o silêncio da noite era cortado apenas pela respiração de vocês. Dex está ao seu lado, virada de bruços, a cabeça apoiada no travesseiro enquanto te observa com aquele olhar de quem já está te desmontando mentalmente.
+
+Dex: *levanta uma sobrancelha, um sorriso lento e sarcástico se formando* "Diferente, hein? Você quer uma coreografia erótica agora, Milah? Bem criativa."
+
+Ela ri baixinho, mas já está se virando, apoiando o corpo no cotovelo para ficar de frente para você. A luz do abajur pega nos olhos heterocromáticos dela — o azul gelo do esquerdo e o verde musgo do direito, ambos brilhando com uma mistura de provocação e desejo. Os cabelos escuros, ainda levemente úmidos, caem soltos pelos ombros.
 
 Dex: *inclina a cabeça, a voz caindo para um tom mais quente* "Você vai tremer primeiro ou quer que eu comece devagar pra você aguentar?"
 
@@ -4535,7 +4611,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:36.000Z
 NODE: mejrtyhmc6hmzfgady0
 CONTENT:
-[Cena removida; mensagem preservada.]
+vamos na mesma intensidade. *eu deito de costas ao lado de Dex ao mesmo tempo que ela também fica de costas, uma mão dela pecorre o meu corpo enquanto eu começo a me masturbar, gemendo baixinho enquanto a minha outra mão pecorre o corpo de Dex enquanto ela faz o mesmo, se tocando e tocando meu corpo ao mesmo tempo*
 
 --- MSG 288 ---
 ROLE: assistant
@@ -4544,7 +4620,7 @@ NODE: mc0cqx2yqthy8wabxr7
 CONTENT:
 —  Mestre
 
-[Cena removida; mensagem preservada.]
+O colchão range suavemente quando vocês duas se acomodam, lado a lado, deitadas de costas. O teto do quarto é um reflexo — você sente mais do que vê a presença de Dex ao seu lado. Sua mão direita desce pelo seu próprio corpo, os dedos encontrando o ponto sensível no centro do seu prazer, enquanto a mão esquerda encontra o corpo quente, úmido, macio e firme de Dex ao mesmo tempo.
 
 Ela geme.
 
@@ -4552,11 +4628,15 @@ O som é baixo, rouco, preso na garganta — mas você ouve. Dex vira a cabeça 
 
 Dex: "Porra... Milah..."
 
-[Cena removida; mensagem preservada.]
+A mão dela invade o seu espaço. Os dedos de Dex deslizam pela sua coxa, firmes, seguros. Ela conhece seu corpo melhor que qualquer um — e está usando isso contra você. Enquanto os dedos dela te tocam, ela usa a outra mão para se tocar, no mesmo ritmo que você, sincronizada.
+
+Você sente a mão dela nos seus seios, a palma quente apertando suavemente, o polegar roçando o mamilo — depois descendo, traçando o caminho até o abdômen, enquanto ela se arqueia contra a própria mão. A respiração dela acelera, acompanhando a sua, formando um ritmo que vocês duas constroem juntas.
 
 A tatuagem do dragão no seu braço pulsa com uma luz azul fraca, em sincronia com os batimentos cardíacos de Dex.
 
-[Cena removida; mensagem preservada.]
+Dex: *a voz trêmula, entre o riso e o gemido na penumbra* "Você... você tá tremendo... quer que eu pare?"
+
+A mão dela hesita por um segundo, pairando sobre sua pele quente, esperando sua resposta. O olhar dela te desafia a pedir mais.
 
 O que você faz?
 
@@ -4565,7 +4645,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:38.000Z
 NODE: m20ycbeobaoujed88zo
 CONTENT:
-[Cena removida; mensagem preservada.]
+*gemido, continuando com os movimentos enquanto estou de olhor fechados* n-*anh* não... tá bom demais...
 
 --- MSG 290 ---
 ROLE: assistant
@@ -4574,11 +4654,17 @@ NODE: mmy42m2azsowszzheif
 CONTENT:
 Mestre
 
-[Cena removida; mensagem preservada.]
+A sua resposta, trêmula e sincera, parece derrubar a última barreira de controle de Dex. No escuro do quarto, você sente a mão dela ganhar mais segurança — o toque antes hesitante agora firme, intencional, preciso. A mão livre dela vai para seu cabelo branco, dedos enroscando nos fios úmidos enquanto ela se vira parcialmente para ficar mais perto, o corpo quente colado ao seu.
+
+Dex: *a voz em um sussurro rouco perto do seu ouvido* "Bom demais assim? Ou quer melhor?"
+
+A mão dela que te tocava desliza para encontrar seu clitóris com uma pressão exata — a ponta dos dedos traça círculos lentos no mesmo ritmo que ela usa em si mesma, o corpo dela arqueando contra sua coxa, o gemido dela abafado contra seu ombro.
+
+Você sente a respiração quente de Dex, o cheiro de sabonete e pele limpa, o peso macio do seio dela pressionando seu braço. A mão dela em você não para, incansável, enquanto ela se move contra a própria mão ao mesmo tempo.
 
 Dex: *a voz falhando, olhos vidrados no escuro* "Assim... assim junto... é tão bom que eu acho que vou..."
 
-[Cena removida; mensagem preservada.]
+Ela não termina a frase. O corpo dela treme contra o seu, mas ela segura o orgasmo, esperando — esperando por você.
 
 O que você faz?
 
@@ -4587,7 +4673,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T07:04:40.000Z
 NODE: mwmyn3ys39yfzri5dxl
 CONTENT:
-[Cena removida; mensagem preservada.]
+*gemido* vamos juntas... *eu não me seguro e Dez também não, ambas gemendo alto*
 
 --- MSG 292 ---
 ROLE: assistant
@@ -4598,7 +4684,17 @@ CONTENT:
 
 A palavra "juntas" ecoa no quarto escuro como um gatilho.
 
-[Cena removida; mensagem preservada.]
+Dex aperta os dedos em você com mais intensidade, o ritmo dela acelera para combinar perfeitamente com o seu — e você sente quando ela se quebra. O gemido dela é alto, livre, sem vergonha, o corpo arqueando contra o colchão enquanto ela se entrega ao orgasmo. Ao mesmo tempo, o seu próprio corpo responde, as ondas de prazer varrendo cada músculo, cada terminação nervosa, enquanto você geme junto com ela num dueto que preenche o quarto.
+
+Os dedos de Dex permanecem em você, movimentos suaves agora, prolongando as últimas ondas de prazer. A respiração dela é irregular, quente contra seu ombro, e você sente a pele dela arrepiada, os batimentos cardíacos acelerados.
+
+Por um longo minuto, só existe o som da respiração ofegante de vocês duas e o calor compartilhado na cama.
+
+Depois, Dex ri baixinho, o som cansado e satisfeito. Ela rola para ficar de frente para você, o rosto a centímetros do seu, os olhos heterocromáticos brilhando. A mão dela sai do seu corpo e encontra a sua, entrelaçando os dedos.
+
+Dex: *voz rouca, ainda ofegante* "Caralho, Milah... se a gente morrer amanhã numa missão, pelo menos eu morro feliz."
+
+A mão dela aperta a sua — firme, quente, segura.
 
 O que você faz?
 

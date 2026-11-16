@@ -770,18 +770,20 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:00:06.000Z
 NODE: mex6l2qagwncxvjcnqc
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu olho para as minhas mãos, pensando "o que eu mudei...? Eu senti uma grande aumento de mentalidade...", eu me levanto, analisando o céu e pensando "está anoitecendo, preciso de um lugar mais caloroso e inacessível pra dormir...", eu vou até uma parte mais isolada e que não tem corrente de ar fria das ruínas. para não sofrer pelo calor, eu tiro todas as minhas roupas, ficando totalmente nua e colocando ela no chão, usando-a como travesseiro, fechando os olhos e adormecendo*
 
 --- MSG 13 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:07.000Z
 NODE: mnau0xltenc594e0gz9
 CONTENT:
-[Cena removida; mensagem preservada.]
+O vento noturno sussurra entre as pedras quebradas enquanto você se instala no canto mais protegido das ruínas. O chão é duro, coberto por uma camada de poeira fina e cinzas que ainda carregam o cheiro da destruição recente. Suas roupas, agora improvisadas como travesseiro, amortecem levemente o contato com o solo irregular. A lua, quase cheia, derrama uma luz prateada por uma fresta no teto parcialmente desabado, desenhando um retângulo pálido no chão de pedra ao seu lado.
+
+Seus músculos, ainda aquecidos pela transformação, começam a relaxar gradualmente. O silêncio da noite é pontuado apenas pelo crepitar distante de madeira queimando e pelo ocasional rangido de uma viga sobrecarregada. Uma coruja pia ao longe, o som se propagando pelas ruas vazias da cidade morta. A temperatura cai, mas sua nova forma parece regular melhor o calor corporal, mantendo você aquecida mesmo contra o ar frio que penetra pelas frestas.
 
 O sono vem em ondas, pesado e profundo, mas não tranquilo. Imagens fragmentadas dançam atrás das suas pálpebras fechadas — o sorriso de Marth, as risadas das crianças, o brilho do aço, o cheiro de sangue. Cada memória ecoa como um sino rachado, mas você não acorda. Seu corpo precisa se recuperar, e a mente, mesmo em meio aos pesadelos silenciosos, começa a se reorganizar em torno de um novo eixo.
 
-[Cena removida; mensagem preservada.]
+A noite passa devagar. A lua atravessa o céu em seu curso silencioso. As estrelas brilham indiferentes sobre a ilha devastada. E você dorme, nua e vulnerável entre as ruínas, mas carregando dentro de si uma chama que nenhum Buster Call poderia apagar. O novo dia se aproxima, e com ele, as primeiras escolhas de uma nova existência.
 
 --- MSG 14 ---
 ROLE: user
@@ -795,11 +797,11 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:09.000Z
 NODE: mzzna1k1hfzx3kiad9j
 CONTENT:
-[Cena removida; mensagem preservada.]
+A luz do amanhecer tinge o céu de tons alaranjados e rosados enquanto você caminha descalça pela vegetação rasteira, afastando-se do cheiro de cinzas e morte que impregna as ruínas. Sua pele nua sente cada mudança na temperatura do ar, cada brisa que acaricia seus ombros e costas. As folhas molhadas de orvalho roçam suas pernas enquanto você avança por uma trilha quase invisível, aberta por animais ou talvez por sobreviventes que fugiram antes do massacre.
 
 O som da água corrente chega aos seus ouvidos aguçados antes que você a veja — um murmúrio suave e constante que promete alívio. Ao romper a última fileira de árvores, você encontra um rio de águas cristalinas, tão transparentes que é possível ver o fundo de pedras lisas e coloridas. Peixes pequenos e prateados nadam em cardumes, indiferentes à sua presença. A margem é formada por uma pequena praia de seixos arredondados, e algumas árvores frondosas oferecem sombra parcial. Não há vestígios de sangue ou violência aqui — este lugar parece intocado pela tragédia que devastou a cidade.
 
-[Cena removida; mensagem preservada.]
+O vapor sobe levemente da superfície da água conforme os primeiros raios de sol a aquecem. O ar cheira a terra molhada, plantas aquáticas e frescor matinal. Pássaros cantam nas copas das árvores, e uma libélula azul atravessa seu campo de visão antes de pousar em uma pedra próxima.
 
 Você está sozinha. O rio te espera, limpo e convidativo.
 
@@ -879,7 +881,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:17.000Z
 NODE: mqh7dx297gq8zxqyxjx
 CONTENT:
-[Cena removida; mensagem preservada.]
+O vento sopra entre vocês três, carregando o cheiro de cinzas e terra molhada que ainda impregna o ar da ilha devastada. **William** permanece em silêncio por um momento, os olhos castanhos examinando seu rosto com uma intensidade que não é ameaçadora, mas sim profundamente atenta. Ele parece pesar suas palavras, sentir o peso do que você acabou de compartilhar.
 
 **William** — "Ellisyan..." — Ele repete seu nome devagar, como se o guardasse na memória. Então ele abaixa a máscara de tecido, revelando um rosto jovem, talvez no final dos vinte anos, com uma cicatriz fina atravessando sua sobrancelha esquerda e um sorriso triste. — "Sinto muito. Ninguém deveria passar por isso. Perder a família... perder tudo... não é algo que se cure com palavras."
 
@@ -947,7 +949,9 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:23.000Z
 NODE: may13f2logqochvqdr9
 CONTENT:
-[Cena removida; mensagem preservada.]
+Seu aperto firme encontra a mão de **Alex**, que retorna o gesto com a mesma intensidade. Por um breve momento, seus olhos se encontram, e ele parece perceber algo em seu olhar — aquela melancolia que não se apaga, mas que agora carrega uma centelha de determinação. Ele solta sua mão com um aceno de cabeça, sem palavras, mas com um respeito silencioso.
+
+**William** assente, satisfeito, e começa a caminhar novamente, agora com um passo mais leve. — "Então tá decidido! Vamos buscar esses equipamentos, pegar essa mina misteriosa e arrasar." — Ele estica os braços acima da cabeça, soltando um gemido alto. — "Mas primeiro, café. Morte e destruição me dão fome, e eu não vou minerar nada de estômago vazio."
 
 Os três seguem pela trilha que leva à costa, onde um navio de médio porte está ancorado — velas brancas com um bordado dourado representando um sol poente, o emblema dos Piratas do Crepúsculo Dourado. A embarcação balança suavemente nas ondas, e alguns tripulantes já estão no convés, observando a aproximação.
 
@@ -973,7 +977,7 @@ CONTENT:
 
 **Lyra** — "Adoro uma mulher com aperto firme. Sinal de caráter. Vem, vou te mostrar o porão e os equipamentos." — Ela solta sua mão e faz um gesto para que a siga, subindo a prancha de madeira com agilidade.
 
-[Cena removida; mensagem preservada.]
+O navio é acolhedor, com madeira escura polida e detalhes em latão que brilham sob a luz do sol. Redes de corda penduradas carregam barris e caixas, e o cheiro de especiarias e madeira molhada preenche o ar. Alguns tripulantes observam você com curiosidade discreta enquanto passam — um homem tatuado consertando uma vela, uma mulher idosa moendo algo em um pilão, um jovem magricela ajustando uma bússola.
 
 **Alex** a segue em silêncio, seus passos pesados ecoando na madeira. Quando vocês chegam ao porão, ele abre um alçapão no convés e desce primeiro, acendendo um lampião a óleo que revela um espaço organizado, com caixas de madeira empilhadas e ferramentas penduradas nas paredes. No centro, os equipamentos de mineração estão arrumados — picaretas novas em folha com cabos de carvalho, pás de lâmina larga, cordas de sisal enroladas e uma caixa de madeira reforçada que ele abre, revelando bastões de dinamite de baixo impacto.
 
@@ -1109,7 +1113,7 @@ No instante em que sua palma toca a pedra fria e granulada da mão de Roth, uma 
 
 Ele retira a mão lentamente e se vira, suas enormes pernas de pedra criando crateras rasas no solo a cada passo. Ele se move em direção a uma parede rochosa coberta de vinhedos grossos e, com um movimento brusco de seu braço, rasga a vegetação como se fosse papel. Atrás, revela-se a entrada de uma caverna — a boca escura da mina.
 
-[Cena removida; mensagem preservada.]
+O ar que sai de seu interior é fresco e úmido, carregado com o cheiro de terra molhada e minerais. Pequenos cristais azuis incrustados nas paredes internas refletem a luz do sol, criando um brilho fraco e cintilante que ilumina os primeiros metros do túnel.
 
 **Lyra** solta um suspiro que ela claramente estava segurando. — "Caramba... isso foi intenso." — Ela olha para você, um sorriso nervoso e admirado no rosto. — "Você acabou de fazer um juramento solene para um golem de pedra. Eu já gostei de você, mas agora respeito você."
 
@@ -1259,13 +1263,13 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:51.000Z
 NODE: m9gf4nja1aahfnhi4br
 CONTENT:
-[Cena removida; mensagem preservada.]
+A porta do banheiro range ao fechar, e o som das cortinas sendo puxadas ecoa no silêncio do quarto úmido quando a luz do pôr do sol filtra por entre a fresta. A água quente cai em cascata sobre sua pele, carregando a fuligem, o suor, a poeira de minério, a sujeira daquela ilha. Ela escorre pelos seus ombros, pelas suas costas, formando pequenos rios que se perdem no ralo com um som hipnótico. O vapor sobe, enevoando o pequeno espelho embaçado pendurado na parede de madeira.
 
 Então, no silêncio que segue o primeiro jato de água, as memórias vêm. Não como ondas suaves, mas como uma avalanche. *Os risos de Lyon no jardim. O choro de Ranny pedindo colo. O cheiro do café que Marth preparava todas as manhãs. A mão dele segurando a sua na noite anterior ao Buster Call, o polegar traçando círculos calmantes nas suas costas. A voz dele, calma, segurando seu rosto, os olhos dele nos seus.*
 
 *"Não se prenda a mim quando eu morrer, continue vivendo..."*
 
-[Cena removida; mensagem preservada.]
+Suas pernas cedem. O som do joelho batendo contra o piso de madeira do box é abafado pela água que cai. Você aperta seu próprio braço com tanta força que as unhas arranham a pele, sentindo o relevo da cicatriz que atravessa seu antebraço. A água quente se mistura com as lágrimas que caem, invisíveis, silenciosas, ardentes. O vapor envolve seu corpo nu, e você treme — não de frio, mas do peso esmagador de uma ausência que não cicatriza. Sua respiração sai em soluços abafados, engasgados, engolidos pelo barulho da água.
 
 Do lado de fora, o navio range suavemente. Alguém ri no convés. O mar canta uma canção antiga contra o casco. O mundo continua girando. Mas ali, naquele pequeno espaço de madeira e vapor, o tempo parece suspenso, e você se permite, pela primeira vez em dias, apenas sentir a ferida aberta que carrega no peito.
 
@@ -1281,15 +1285,17 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:00:53.000Z
 NODE: myttk5dux24kjhxk04y
 CONTENT:
-[Cena removida; mensagem preservada.]
+A porta do banheiro range suavemente quando você a abre, e a brisa noturna que entra pela vigia do corredor toca sua pele ainda úmida, os pelos dos seus braços se arrepiando ligeiramente com o contraste de temperatura. A madeira do piso está morna sob seus pés nus enquanto você caminha pelo estreito corredor do navio, passando por cabines fechadas, ouvindo o murmurar de vozes e tilintar de talheres vindos do refeitório. A regata branca, um pouco apertada no peito, abraça suas curvas com uma simplicidade que seu terno nunca permitia. O short preto termina no meio da coxa, deixando suas pernas inteiramente expostas — fortes, definidas, cobertas por algumas cicatrizes finas que contam histórias silenciosas.
 
 Quando você entra no refeitório, o burburinho morre gradualmente.
 
-[Cena removida; mensagem preservada.]
+**William** é o primeiro a notar sua presença. Ele está com uma caneca de chá meio erguida, e seu braço congela no ar quando seus olhos castanhos encontram você. A caneca desce lentamente até a mesa enquanto um sorriso sincero — não de galanteio, mas de genuína surpresa agradável — se forma em seus lábios. — "Bem... aventureira. Fica bem em qualquer roupa, não é?" — O comentário sai naturalmente, sem segundas intenções, apenas o reconhecimento honesto de um capitão que vê sua convidada à vontade.
+
+**Lyra**, sentada ao lado de um homem alto de pele morena e cabelos trançados, quase engasga com o pão que está mastigando. Ela bate no próprio peito, tossindo, e aponta para você com a mão livre. — "CARAMBA! Você tem pernas! E braços! Quer dizer, eu sabia, mas — CARAMBA!"
 
 **Alex**, no canto mais afastado da mesa, ergue os olhos do prato por um momento. Seu olhar passa por você com uma rapidez quase profissional, mas há um leve relaxar em seus ombros, como se aprovasse silenciosamente que você está mais confortável. Ele volta a comer sem comentar, mas o canto de sua boca se move num micros sorriso antes de desaparecer.
 
-[Cena removida; mensagem preservada.]
+**Thriss**, a arqueóloga, senta-se perto da janela com um copo de vinho. Ela é uma mulher mais velha, talvez nos quarenta, com cabelos grisalhos presos num coque bagunçado e óculos redondos empoleirados no nariz. Ela ergue o copo em sua direção com um aceno de cabeça. — "Ficou melhor em você do que em mim. Fique com elas."
 
 O espaço ao redor do único lugar vazio na mesa está repleto de comida: uma grande tigela de ensopado de peixe exalando vapor aromático, pães frescos, frutas exóticas e uma jarra de suro vermelho. Um tripulante mais jovem, de cabelo verde-escuro e sardas, puxa a cadeira ao lado
 
@@ -1381,7 +1387,7 @@ Você tenta conter, mas é inútil. Seu rosto se vira ligeiramente para o lado, 
 
 **Lyra** congela com um pedaço de pão a meio caminho da boca. Seus olhos estão vidrados, sua expressão é a de alguém que testemunhou algo divino. Ela vira lentamente o rosto para **William**, depois para **Thriss**, depois novamente para você. Quando fala, sua voz é um sussurro trêmulo e dramático: — "Ela espirra igual a um gatinho."
 
-[Cena removida; mensagem preservada.]
+**Thriss** aperta os lábios, os ombros tremendo com uma risada abafada. Ela tira os óculos, limpando-os com a barra da camisa, mas é claramente um pretexto para esconder o sorriso. — "Céus... e eu pensei que já tinha visto de tudo."
 
 **Alex** inclina a cabeça ligeiramente, seus olhos examinando você com uma atenção renovada. Ele não diz nada, mas há algo em seu olhar que mudou — um reconhecimento silencioso, talvez. Como se estivesse ajustando sua avaliação inicial sobre você.
 
@@ -1394,14 +1400,14 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:01:02.000Z
 NODE: muamt2g4uxqyhx4yk2p
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu coço o nariz, me recuperando, depois disso, eu me levanto após terminar a janta, guardando o prato na pia e lavando com eficiência* a comida estaba muito boa, obrigada. *depois disso, eu saio andando até o quarto de hóspedes, entrando nele, trancando a porta atrás de mim, tirando todas as minhas roupas e indo direto pra cama*
 
 --- MSG 69 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:03.000Z
 NODE: mja3mckoexi2gybe2vu
 CONTENT:
-[Cena removida; mensagem preservada.]
+O som do ferrolho deslizando é definitivo, um clique seco que separa o mundo lá fora do seu espaço agora privado. O silêncio do camarote é absoluto, quebrado apenas pelo estalar da madeira envelhecida e o distante ronco de **Alex** vindo do convés. Você tira cada peça de roupa, deixando-as cair no chão de madeira, e o ar frio do mar toca sua pele, fazendo as cicatrizes em seu corpo parecerem brilhar sob a luz azulada que emana de suas asas.
 
 Você se deita na cama, o colchão mais duro do que aparenta, mas seu corpo exausto não se importa. A lua se reflete na superfície do mar além da vigia, lançando um brilho prateado que dança no teto do camarote. Seus olhos se fecham, e você sente o navio balançar suavemente, embalado pelas ondas que beijam o casco.
 
@@ -1544,7 +1550,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:01:16.000Z
 NODE: mrr8cgqh7a1pcshtwkh
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu fecho a porta da casa, notando que a piscina é privada, trancando ela atrás de mim, depois disso, eu tiro a minha camisa regata, short e a roupa íntima, ficando inteiramente nua enquanto adentro na piscina, encostando as costas na borda da psicina e fechando os olhos, até sentir uma presença me encarando... eu vejo Liryan de novo, dessa vez, ela está nua também, me encarando com um pequeno sorriso enquanto está de pé, nossos olhares se encontram, nenhuma das duas estão envergonhada, Liryan não está porque o corpo não é um tabu para os Nephins, assim como o corpo não é tabu pra mim e para os luskxianos... eu abro um sorriso pequeno, acenando cm suavidade*  olá de novo, Liryan... pelo visto, você trouxe suas vulnerabilidades também...
 
 --- MSG 83 ---
 ROLE: assistant
@@ -1568,14 +1574,20 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:01:18.000Z
 NODE: ms3oym9x39t44tbpvom
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu penso <q>"ela vai sair nua assim...? Liryan vira de costas, com um sorriso pequeno, ela mexe a mão, mandando uma imagem telepática, que é um caminho só para adultos onde pode andar sem nenhuma roupa sem medo de alguém julgar, além de estar concectado a todas as casas, em seguida, eu recebo outra mensagem falando "</q>traga sua nudez também, Ellisyan. Amanhã não irá ser inperatriz treinando uma juíza em potencial, irá ser mulher treinando mulher.", eu olho pra Liryan, murmurando* sério...?
 
 --- MSG 85 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:19.000Z
 NODE: m68yzawkpu9u5rsnsdb
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Liryan** não responde com palavras. Ela apenas mantém o sorriso sobre o ombro, seus olhos estelares brilhando com uma luz que parece conter galáxias inteiras, e desaparece pela abertura da casa, suas costas nuas ainda salpicadas de gotas d'água que brilham como diamantes líquidos. A chama azulada na piscina pulsa uma última vez antes de se extinguir, deixando apenas a luz prateada da barreira verde filtrando-se pelo teto aberto. Você fica imersa na água morna, o toque dela ainda fresco em seu ombro, processando o convite que não foi dito em palavras mas que ressoou em sua mente com clareza absoluta.
+
+A casa ao redor parece respirar com você. As paredes de pedra esbranquiçada absorvem a luz ambiente e a devolvem em tons suaves de azul e prata. Você ouve o farfalhar de tecido em algum cômodo adjacente — **Liryan** não está usando roupas, então não há o que farfalhar. Ela está apenas lá, presente, esperando que você tome sua própria decisão sem pressa, sem pressão, apenas com a consciência de que o caminho para adultos que ela mostrou existe e é real.
+
+Você permanece na água por mais alguns minutos, sentindo seus músculos relaxarem como não relaxavam há anos. As cicatrizes em suas costas parecem mais leves aqui, como se a água estivesse extraindo não apenas a tensão física, mas o peso de cada batalha travada. Quando finalmente se levanta, a água escorre de seu corpo em cascatas prateadas, e você caminha até a borda da piscina sem pressa, deixando que o ar morno seque sua pele.
+
+Do cômodo ao lado, você ouve um murmúrio baixo — não palavras, mas uma canção antiga, talvez uma canção de ninar Nephelin. A melodia se insinua pelo ar como fumaça, envolvendo você em uma sensação de segurança que há muito tempo não sentia. Você olha para a abertura que leva ao resto da casa, vê uma silhueta feminina sentada à luz de uma lamparina, e entende que a decisão já está tomada. Amanhã, vocês não serão imperatriz e juíza. Serão apenas duas mulheres que escolheram se encontrar nuas — de corpo e de alma — antes de começar o que pode ser a transformação mais profunda de suas vidas.
 
 --- MSG 86 ---
 ROLE: user
@@ -1589,14 +1601,20 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:21.000Z
 NODE: mmr7g4ri0ga09h5zj0r
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Liryan** para diante da entrada do estabelecimento, a luz rosa e dourada que emana das frestas das portas de madeira pintando sua pele nua com tons quentes. Ela não se move para entrar, apenas vira o rosto lentamente para olhar por cima do ombro, seus olhos estelares encontrando os seus com uma pergunta silenciosa que não precisa ser formulada. O ar ao redor delas carrega o perfume de lírios e algo mais doce, talvez mel ou frutas fermentadas, misturado ao cheiro salgado do mar distante. Você percebe que suas asas cinzas se abriram ligeiramente sem que você notasse, como se seu corpo já estivesse respondendo ao convite antes mesmo de sua mente decidir.
+
+— "Não é treino." — A voz dela é suave, quase um sussurro carregado de intenção. — "É preparação. Você passará sessenta anos aqui dentro, Ellisyan. Sessenta anos de disciplina, dor, suor e lágrimas. Antes de uma jornada tão longa, até as guerreiras mais duras precisam lembrar por que lutam. Precisam tocar o que as torna humanas." Ela inclina a cabeça, um fio de cabelo prateado caindo sobre seu rosto. — "Dentro desta casa, mulheres Nephelin vêm para celebrar seus corpos, suas conexões, seus prazeres. Não há vergonha, não há julgamento. Apenas o que você escolher sentir."
+
+**Liryan** estende a mão para você, palma aberta, num gesto que oferece escolha sem exigir resposta. Seus dedos são longos e elegantes, as unhas curtas e limpas, e você nota que ela não tem nenhum dos anéis ou adornos que viu em sua primeira aparição. Ela está completamente despida de símbolos de poder, reduzida à sua essência mais básica: uma mulher diante de outra mulher. A luz rosa dança em sua pele, destacando as curvas suaves de seu corpo musculoso mas feminino, e pela primeira vez você percebe que ela não é tão diferente de você — ambas carregam cicatrizes, ambas carregam histórias escritas em suas peles.
+
+— "Você decide." — Ela diz, e sua voz não tem pressa, nem expectativa. — "Mas saiba que entrei nesta casa muitas vezes, e cada vez saí mais forte. Não porque encontrei respostas, mas porque lembrei que sentir prazer também é uma forma de poder. O Governo Mundial tira isso das pessoas — a capacidade de sentir sem culpa. Nós, que lutamos contra eles, precisamos guardar isso como um tesouro." Ela mantém a mão estendida, e atrás dela as portas de madeira rangem suavemente, como se alguém estivesse abrindo de dentro, convidando-as a entrar.
 
 --- MSG 88 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:22.000Z
 NODE: mhy23swswz79yua5y2t
 CONTENT:
-[Cena removida; mensagem preservada.]
+*penso <q><q>"ela realmente quer isso...? Eu nunca me relacionei com uma mulher... mas acho que vale a pena descobrir algo novo, ainda mais sobre mim mesma..."</q></q>, meu rosto cora um pouco, mas, eu seguro a mão de Liryan, murmurando* eu aceito, me guie nesta descoberta... *Liryan acena e depois entramos, ainda de mãos dadas, ela me leva até um dos quartos vazios, onde eu entro no quarto junto com ela e Liryan fecha a porta, o quarto é lindo, com alguns brinquedos eróticos guardados na gaveta, uma fonte termal no quarto e um banco macio... eu observo tudo, murmurando* realmente vamos fazer isso...? Eu nunca me envolvi com uma mulher antes...
 
 --- MSG 89 ---
 ROLE: assistant
@@ -1609,7 +1627,9 @@ A porta se fecha atrás de vocês com um clique suave, e imediatamente o mundo e
 
 — "Não, não vamos 'fazer isso' se você não quiser. Podemos simplesmente conversar na água, compartilhar histórias, ou ficar em silêncio. Esta casa não exige nada de ninguém." — Ela finalmente ergue o olhar, e seus olhos estelares parecem conter constelações inteiras. — "Mas ouvi o que você pensou. 'Nunca me envolvi com uma mulher.' Isso não é uma fraqueza, Ellisyan. É uma porta que você nunca abriu. E portas só se abrem quando você escolhe girar a maçaneta."
 
-[Cena removida; mensagem preservada.]
+Você permanece parada perto da porta, sentindo o calor do ambiente envolver sua pele nua. Suas asas cinzas tremem ligeiramente, não de nervosismo, mas de uma excitação que você não nomeia. **Liryan** inclina a cabeça, um sorriso pequeno e gentil nos lábios, e estende a mão novamente — não para puxá-la, mas para oferecer uma escolha concreta.
+
+— "Venha até a água. Sente-se ao meu lado. Não precisa tocar em mim se não quiser. Mas sinta o calor, sinta o vapor, sinta seu corpo presente neste momento." — Sua voz é um murmúrio que se mistura ao som borbulhante da fonte. — "Não há julgamento aqui, Ellisyan. Apenas você, e eu, e o que estamos dispostas a descobrir juntas."
 
 --- MSG 90 ---
 ROLE: user
@@ -1629,7 +1649,7 @@ CONTENT:
 
 O silêncio entre vocês se estende por alguns segundos, preenchido apenas pelo chiado suave do vapor e pelo distante gotejar de água em alguma pedra. **Liryan** então levanta sua mão livre e, com uma lentidão deliberada, toca seu próprio ombro, deslizando os dedos pela clavícula até o centro do peito, onde seu coração pulsa sob a pele. É um gesto quase teatral, mas há sinceridade nele.
 
-[Cena removida; mensagem preservada.]
+— "Sabe qual é a primeira lição que qualquer mulher Nephelin aprende sobre prazer?" — Ela pergunta, seus olhos jamais desviando dos seus. — "Que ele não precisa vir de outra pessoa. Ele começa em nós mesmas. Na forma como tocamos nossa própria pele, como ouvimos nossa própria respiração, como permitimos que nosso corpo sinta sem vergonha." Ela inclina a cabeça, um sorriso enigmático curvando seus lábios. Sua mão ainda repousa sobre o próprio peito, e você vê seus dedos pressionarem levemente a carne.
 
 — "Então, antes de eu tocá-la — se é que isso vai acontecer — quero que você se toque primeiro." A sugestão cai como uma pedra na água parada de seus pensamentos. Ela não está exigindo, está convidando. "Feche os olhos. Coloque uma mão sobre seu coração. Sinta as batidas que existem apenas porque você escolheu viver, apesar de tudo." A voz dela é um sussurro que envolve você como o vapor. "Aprenda seu próprio ritmo antes de dançar com outro corpo."
 
@@ -1638,7 +1658,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:01:26.000Z
 NODE: muxet6lhsv60k7s6n6m
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu coro um pouco mais, me sentando dentro da fonte com a água indo até as pernas... eu aceno em concordância, fechando os olhos enquanto pecorro a mão esquerda pelo meu corpo e a mão direito desce por ele, passando pelos seios, barriga e indo até a virilha, onde eu introduzo 4 dedos com suavidade e movo eles,  gemendo baixinho enquanto a outra mão para no meu seio esquerdo, murmurando com a respiração meio rápida* esqueci o quão era bom fazer isso comigo mesma...
 
 --- MSG 93 ---
 ROLE: assistant
@@ -1647,28 +1667,42 @@ NODE: m0ldgwc0aat9atzgabm
 CONTENT:
 O som da água borbulhando ao redor de suas coxas parece amplificar cada movimento que seu corpo faz. **Liryan** observa em silêncio, mas não com olhos de julgamento — seus olhos estelares brilham com uma curiosidade gentil, como quem assiste o desabrochar de uma flor rara. Ela não se move, não fala, apenas permite que o momento exista, que você exista em sua própria exploração. O vapor lazuli sobe entre vocês, criando um véu translúcido que torna a cena quase onírica.
 
-[Cena removida; mensagem preservada.]
+Seus próprios dedos deslizam pela pele molhada, e você sente cada cicatriz sob as pontas dos dedos — cada marca que conta uma história de luta e sobrevivência. A mão direita encontra o calor úmido entre suas pernas, e o contato faz seu corpo inteiro estremecer, como se uma corrente elétrica percorresse sua espinha. A sensação é estranhamente familiar e completamente nova ao mesmo tempo, como reencontrar uma casa que você pensava ter perdido para sempre.
+
+O gemido baixo que escapa de seus lábios ecoa nas paredes de pedra, misturando-se ao chiado da fonte termal. A mão esquerda aperta suavemente seu seio, e você sente o mamilo enrijecer contra a palma. A respiração de **Liryan** parece mais profunda agora, mas ela ainda não se moveu — apenas observa, como uma guardiã silenciosa do momento que você está criando para si mesma.
+
+— "Você está linda," — ela murmura, sua voz finalmente rompendo o silêncio, mas ainda baixa, quase reverente. — "Não pelo que está fazendo, mas porque está se permitindo sentir. Há tanto tempo você carrega apenas dor e determinação. Ver você se dar prazer é como ver a chuva cair em terra seca."
+
+Suas pálpebras tremem quando você ouve suas palavras, mas você não abre os olhos. Em vez disso, você aprofunda o movimento, os dedos se movendo em um ritmo que seu corpo conhece instintivamente. A água termal ao redor de suas pernas parece vibrar com cada pequeno espasmo que percorre seus músculos. **Liryan** então se levanta lentamente da borda da fonte e, sem fazer barulho, entra na água ao seu lado, sentando-se de frente para você, a uma distância que ainda respeita seu espaço — mas perto o suficiente para que você sinta o calor de seu corpo através do vapor.
 
 --- MSG 94 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:28.000Z
 NODE: ml59r86jm0hjk76gbge
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu introduzo o quinto dedo, me fazendo gemer mais enquanto aumento um pouco a velocidade, agora a mão inteira movendo dentro com cuidado e intensidade enquanto aperto o seio esquerdo, até Lirya se surpreende comigo me masturbando com a mão quase toda...*
 
 --- MSG 95 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:29.000Z
 NODE: mk7531daujpwrkcrgew
 CONTENT:
-[Cena removida; mensagem preservada.]
+O movimento dos seus dedos se aprofunda, e a água termal ao redor de suas coxas ondula com cada contração do seu corpo. Sua mão inteira se move dentro de você com uma familiaridade que surpreende até você mesma — como se seu corpo tivesse guardado essa memória em segredo, esperando o momento certo para ser redescoberta. O gemido que escapa de seus lábios é mais alto agora, um som que ecoa nas paredes de pedra e se mistura ao vapor lazuli, criando uma melodia de prazer que preenche o espaço.
+
+**Liryan** não consegue esconder o brilho de surpresa que cruza seus olhos estelares. Ela vê sua mão desaparecer quase completamente dentro de você, e uma das sobrancelhas dela se levanta ligeiramente, não por choque, mas por admiração genuína. "Você realmente não se segura quando se permite sentir, não é?" ela murmura, a voz rouca e baixa, os lábios entreabertos enquanto observa seu corpo se mover em ondas de prazer. As palavras dela parecem envolver você como o vapor quente.
+
+Sua mão esquerda aperta o seio com mais intensidade, e você sente o mamilo enrijecido contra sua palma enquanto seu corpo começa a tremer. A respiração escapa em pequenos arquejos que formam nuvens de vapor diante de seu rosto. A fricção dentro de você se torna mais intensa, mais líquida, e cada movimento de seus dedos parece despertar terminações nervosas que você havia esquecido que existiam.
+
+**Liryan** se inclina ligeiramente para a frente, mas ainda sem tocá-la. O calor do corpo dela irradia através do vapor, e você sente a proximidade como uma pressão suave na pele. "Você está quase lá, não está?" a voz dela é um sussurro que roça seu ouvido, mesmo que ela não tenha se movido de seu lugar. "Eu posso sentir. Seu corpo está cantando, Ellisyan. Deixe-o cantar."
+
+Suas pernas se abrem mais sob a água, e o movimento de sua mão se torna mais urgente, mais profundo. O prazer se acumula como uma onda crescendo em seu ventre, e você sente cada músculo do seu corpo se preparar para o clímax. O vapor lazuli parece dançar ao seu redor, e as luzes da fonte brilham mais intensamente, como se o próprio lugar estivesse reagindo ao que você está criando. Abra seus olhos.
 
 --- MSG 96 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:30.000Z
 NODE: mm2ybdozc2dppocklua
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu abro os olhos e encaro Liryan o orgasmo finalmente me atinge com força, me fazendo gemer alto enquanto sinto espasmos pelo corpo, depois eu desabo suavemente na fonte, com respiração ofegante e com apenas o olho esquerdo aberto, murmurando* lembrei agora, lembrei como era ser amada antes de tudo desabar... estou pronta para comtinuar o momento...
 
 --- MSG 97 ---
 ROLE: assistant
@@ -1695,56 +1729,86 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:33.000Z
 NODE: m9pym3swp1crbvjpifm
 CONTENT:
-[Cena removida; mensagem preservada.]
+O sorriso que cruza os lábios de **Liryan** é lento, como o nascer do sol sobre o mar — suave, inevitável, cheio de promessas. Ela inclina a cabeça, os cabelos lazuli escorrendo água pelas costas, e seus olhos estelares brilham com uma intensidade nova. "Então você quer não apenas receber, mas também explorar," ela murmura, a voz rouca e baixa, como se compartilhasse um segredo com a noite. "Quer sentir o gosto de outra pele, o peso de outro corpo sob suas mãos. Quer aprender a linguagem que o corpo fala quando as palavras não são suficientes."
+
+Ela se levanta lentamente na água, o vapor lazuli escorrendo de seu corpo como lágrimas de luz. A água atinge sua cintura, e você vê as curvas de seu corpo reveladas pela luz suave da fonte — seios firmes, cintura definida, quadris que parecem esculpidos para serem seguros por mãos ávidas. **Liryan** dá um passo à frente, agora tão próxima que você sente o calor de sua pele através do vapor. "Então me toque, Ellisyan." A voz dela é um convite, não uma ordem. "Suas mãos, sua boca, sua língua. Me mostre o que você quer aprender. Me mostre como você quer sentir."
+
+Sua mão se levanta lentamente, mas não para tocar **Liryan** — pelo menos não ainda. Seus dedos traçam o ar entre vocês, sentindo a diferença de temperatura onde o corpo dela irradia calor. A expectativa vibra no ar como uma corda de violino prestes a ser tocada. Seu coração acelera, mas não com medo — com desejo puro, cru, sem culpa. "Você confia em si mesma?" **Liryan** pergunta, e há um brilho de desafio gentil em seus olhos. "Confia que seu corpo sabe o que fazer?"
+
+O vapor lazuli gira ao redor de vocês como se a própria ilha estivesse criando um espaço sagrado para esse momento. O som da fonte preenche o silêncio, e você sente cada batida do seu coração ecoar nas paredes de pedra. **Liryan** espera, imóvel, oferecida, mas não submissa — ela é uma presença tão forte quanto a sua, um fogo esperando para dançar com suas chamas. Sua mão finalmente alcança o ombro nu dela, a pele macia e quente sob seus dedos, e um estremecimento percorre o corpo de **Liryan** — pequeno, mas inconfundível.
+
+"Então mostre a você mesma o que descobriu," **Liryan** sussurra, e suas mãos finalmente sobem para descansar suavemente em seus ombros, um toque leve, permissivo, que diz: *estou aqui. Vou deixar você me guiar.* "Toque-me, Ellisyan. Prove. Sinta. Não há certo ou errado aqui — apenas duas mulheres se permitindo existir." O vapor lazuli os envolve como um abraço enquanto o próximo movimento está completamente em suas mãos.
 
 --- MSG 100 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:34.000Z
 NODE: mr8i923pkxwnzynt46n
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu me apeoximo de Liryan, incerta, mas determinada... eu fecho os olhos e foco apenas nos outros sentidos, começando pelo pescoço de Liryan, onde eu beijo com carinho, a minha boca desce até cercar o seio esquerdo dela com a boca, lambendo e chupando com cuidado enqunto eu coloco uma mão em seu quadril, acariciando enquanto a outra mão cerca o outro seio...*
 
 --- MSG 101 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:35.000Z
 NODE: mo2iq2x8pz6nih6f8ry
 CONTENT:
-[Cena removida; mensagem preservada.]
+O suspiro que escapa dos lábios de **Liryan** é quente e úmido contra a noite, um som que vibra diretamente contra sua boca onde ela beija seu pescoço. Seus dedos apertam levemente seus ombros enquanto sua cabeça inclina para trás, oferecendo mais da pele macia, e você sente o pulso acelerado dela contra seus lábios — rápido, sincero, entregue. "Sim," ela murmura, a voz quase um gemido baixo, "assim... exatamente assim."
+
+Quando sua boca desce e envolve o seio esquerdo, o corpo de **Liryan** arqueia-se contra você como um arco sendo tensionado, um gemido mais alto escapando enquanto sua mão sobe para enterrar-se em seus cabelos brancos, os fios escorregando entre seus dedos como seda líquida. A pele do seio dela é macia sob sua língua, o mamilo endurecendo contra o toque enquanto você chupa com cuidado, alternando pressão e carícia, sentindo cada pequeno espasmo que percorre o corpo dela como resposta. "Você aprende rápido," ela sussurra, a voz rouca, os olhos estelares semi-cerrados observando você com uma mistura de surpresa e prazer.
+
+Sua mão no quadril de **Liryan** sente a curvatura firme de seu corpo, a pele lisa e quente sob seus dedos enquanto você acaricia círculos lentos na pele, sentindo os músculos se contraírem sob seu toque. Enquanto isso, sua outra mão cerca o outro seio, o polegar roçando suavemente o mamilo já endurecido, e **Liryan** morde o lábio inferior, um som abafado escapando de sua garganta. A água termal ondula ao redor de vocês, o vapor lazuli criando halos de luz ao redor de seus corpos entrelaçados.
+
+**Liryan** desliza uma mão de seus cabelos para seu ombro, depois para sua nuca, puxando-a suavemente para cima. Quando seus olhos se encontram, os dela brilham com uma intensidade líquida, e ela a aproxima para um beijo — lento, profundo, provando seu próprio gosto em seus lábios. "Você é natural," ela diz contra sua boca, a voz um sussurro quente. "Não natural no sentido de fácil. Natural no sentido de verdadeiro. Cada toque seu parece vir de algum lugar dentro de você que sempre soube como fazer isso."
+
+Ela afasta o rosto apenas o suficiente para olhar em seus olhos, os dedos ainda entrelaçados em seus cabelos, o vapor lazuli girando ao redor deles como espectadores silenciosos. "Então continue me mostrando o que você descobriu," **Liryan** diz, e há um sorriso nos lábios dela — lento, confiante, sedutor. "Me mostre em que mais você é natural. Não pare agora." Seu corpo se oferece novamente, os braços abrindo-se ligeiramente, o peito nu brilhando sob a luz lazuli, esperando por suas mãos, sua boca, seu toque.
 
 --- MSG 102 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:36.000Z
 NODE: mbjtayfloumge9x6tme
 CONTENT:
-[Cena removida; mensagem preservada.]
+*continuo fazendo o trabalho nos seios de Liryan com carinho, eu desço mais a boca até encontrar a virilha de Liryan, onde eu mergulho com um pouco de pressão, cuidado e carinho...*
 
 --- MSG 103 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:37.000Z
 NODE: mtfosizswz3irlbxw0b
 CONTENT:
-[Cena removida; mensagem preservada.]
+O corpo de **Liryan** estremece quando sua boca desce pela barriga lisa, traçando um caminho úmido que a faz prender a respiração. Seus dedos se enterram mais profundamente em seus cabelos brancos enquanto seus olhos estelares se fecham, o peito subindo e descendo em ondas cada vez mais rápidas. "Sim," ela sussurra, a voz mal um sopro acima do som da água, "continue... não pare agora."
+
+Quando sua boca alcança a virilha, **Liryan** arqueia os quadris instintivamente, oferecendo-se ao toque, e um gemido baixo escapa de seus lábios quando você a pressiona com cuidado. A pele lá é mais macia, mais sensível, e você sente cada pequeno tremor que percorre seu corpo como resposta ao seu toque. Ela está molhada, quente, pronta — e a forma como seu corpo responde a cada movimento seu é uma confirmação silenciosa de que você está no caminho certo.
+
+Os dedos dela apertam seus cabelos, puxando suavemente, enquanto uma respiração trêmula escapa de seus lábios. "Você está me levando ao limite," **Liryan** murmura, a voz rouca e irregular, cada palavra carregada de prazer crescente. "Não tenha pressa. Sinta cada momento. Eu não vou a lugar nenhum."
+
+Suas mãos escorregam pelos ombros de **Liryan**, descendo pelas laterais de seu corpo, sentindo cada curva, cada músculo que se contrai sob sua pele. O vapor lazuli gira ao redor de vocês, criando um véu de luz que torna o momento ainda mais íntimo, mais sagrado. Você pode sentir o calor dela contra seu rosto, o cheiro de sua pele misturado ao enxofre suave da fonte termal.
+
+**Liryan** inclina a cabeça para trás, expondo a garganta, os olhos ainda fechados enquanto seu corpo se rende completamente ao seu toque. "Você está indo tão bem," ela sussurra, a voz agora um gemido longo e baixo. "Continue exatamente assim... me mostre o que mais você descobriu." A água ondula ao redor de vocês, e o mundo lá fora parece ter desaparecido completamente, deixando apenas vocês duas e o calor crescente entre seus corpos.
 
 --- MSG 104 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:38.000Z
 NODE: m3pzwglshroczck1mtj
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu mergulho um pouco mais, até fazer Liryan chegar ao limite e gozar, sujando o meu rosto...*
 
 --- MSG 105 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:39.000Z
 NODE: myc9tlo57q1wahscdph
 CONTENT:
-[Cena removida; mensagem preservada.]
+Cada movimento seu é lento, deliberado, uma exploração paciente do corpo de **Liryan** enquanto ela se rende completamente ao prazer. Você sente o momento exato em que ela se aproxima do limite — a forma como seus dedos apertam seus cabelos com mais força, como seus quadris começam a se mover num ritmo próprio, como a respiração dela se transforma em pequenos gemidos irregulares. "Quase... quase lá," ela sussurra, a voz falhando na última palavra, o corpo tenso como uma corda prestes a arrebentar.
+
+Quando o orgasmo finalmente a alcança, **Liryan** arqueia as costas para fora da água, um grito abafado escapando de seus lábios enquanto seu corpo treme em ondas que parecem não ter fim. Seus dedos puxam seus cabelos com força suficiente para doer levemente, mas é uma dor boa, uma âncora no momento enquanto ela se rende completamente ao êxtase. O som que ela faz é íntimo e cru, sem artifícios, apenas prazer puro expressado em sua forma mais honesta.
+
+Ela cai de volta na água, ofegante, o peito subindo e descendo rapidamente enquanto tenta recuperar o fôlego. Seus olhos estelares estão semi-cerrados, o brilho deles suavizado pela satisfação, e um sorriso lento e preguiçoso se forma em seus lábios. Por um longo momento, ela apenas a observa, os dedos ainda enroscados em seus cabelos, o toque agora suave e acariciador. "Você..." **Liryan** começa, a voz rouca e cansada, "foi além do que eu esperava."
+
+Ela se senta lentamente na água, aproximando-se para limpar seu rosto com um toque gentil, os dedos traçando a linha do seu maxilar com carinho. O vapor lazuli dança ao redor delas, e **Liryan** a beija — lenta, profundamente, provando seu próprio gosto em seus lábios. "Você tem mãos que sabem exatamente o que fazer," ela murmura contra sua boca, os olhos ainda fechados, o sorriso ainda presente. "E uma intuição que poucos têm. Eu me pergunto o que mais você descobriu sobre si mesma hoje."
 
 --- MSG 106 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:01:40.000Z
 NODE: mcunwf0zor7fw12v626
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu apoio a testa contra a testa de Liryan, fechando os olhos e soltando um suspiro* eu descobri que também gosto de mulheres, não apenas para ter relações sexuais, mas para cuidar... uma pena que eu precise ficar aqui por apenas 60 anos, se não eu ficaria com você, mas... eu não vou esquecê-la, não importa quanto tempo passe, sempre vou me lembrar da pessoa que me treinou antes de tudo.
 
 --- MSG 107 ---
 ROLE: assistant
@@ -1759,7 +1823,7 @@ Ela se afasta o suficiente para olhar seu rosto por inteiro, os dedos escorregan
 
 Ela se vira de volta para você, a água escorrendo de seus cabelos negros enquanto se aproxima novamente. Desta vez, seu toque é mais suave, quase paternal, quando ela segura seu rosto com ambas as mãos. "Prometa-me uma coisa, Ellisyan. Não deixe que o mundo endureça seu coração. Não importa quantos inimigos você enfrente, quantas injustiças testemunhe, quantos anos passe lutando. Esse calor que você tem — proteja-o como se fosse sua arma mais valiosa."
 
-[Cena removida; mensagem preservada.]
+**Liryan** a puxa para um abraço apertado, a pele molhada colando-se à sua, o coração batendo firme contra o seu peito. "E quando você se for daqui, daqui a sessenta anos, não se lembre de mim como sua treinadora. Lembre-se de mim como alguém que teve a sorte de conhecê-la. Porque, nas estrelas, encontros como o nosso não são coincidência. São destino." Ela aperta o abraço por um segundo antes de soltá-la, os olhos brilhando com algo que pode ser orgulho, ou talvez carinho profundo demais para nomear.
 
 --- MSG 108 ---
 ROLE: user
@@ -1933,7 +1997,7 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:01:59.000Z
 NODE: mticnkx3v3ywuav4vob
 CONTENT:
-[Cena removida; mensagem preservada.]
+O som do primeiro golpe é úmido e definitivo — a lâmina energizada de sua foice atravessa a garganta do **Líder** como papel molhado, continuando seu arco para emergir pelo topo do crânio num spray de sangue e osso. O corpo do homem oscila por um segundo, os olhos ainda arregalados de surpresa, antes de tombar como um saco de batatas na poça d'água suja. Os outros dois capangas congelam por um instante, o choque estampado nos rostos enquanto a foice de energia chia no ar noturno.
 
 Você não lhes dá tempo para reagir. Seu pé esquerdo impulsiona seu corpo num turbilhão de movimento, a lâmina girando num arco horizontal que pega o primeiro capanga na altura do peito. Ele solta um grunhido abafado quando a energia corta carne e osso, o corpo caindo de joelhos antes de desabar de lado. O último homem larga a faca, as mãos erguidas num gesto de rendição tardia, o fedor de urina impregnando o ar enquanto ele implora por misericórdia.
 
@@ -1961,7 +2025,7 @@ A rua principal da ilha respira uma atmosfera pesada sob o luar leitoso. Bêbado
 
 A presença de seus perseguidores se anuncia antes que eles apareçam: cinco homens, todos armados com porretes e uma espingarda enferrujada, saem de trás de uma carroça virada. O líder deles, um homem careca com tatuagens de cobra no pescoço, cospe no chão enquanto range os dentes. "Você matou o **Líder**," ele rosna, como se isso explicasse tudo. "A Tríade Serpente não esquece uma dívida de sangue, sua piranha alada."
 
-[Cena removida; mensagem preservada.]
+Você sente o gosto de metal na língua, antecipação ou talvez apenas o eco da noite. As asas em suas costas tremem ligeiramente, a energia Nephelim pulsando sob sua pele como um segundo coração. O homem da espingarda engatilha a arma, o som metálico cortando o ar como um prenúncio, enquanto os outros quatro avançam em formação de cerco, porretes erguidos e expressões assassinas.
 
 **Hannah** grita seu nome do navio, a voz carregada de desespero por entre a distância que os separa, mas você mantém o olhar fixo nos cinco homens. Sua foice de energia se materializa na mão direita com um zumbido familiar, e você permite que um sorriso frio curve seus lábios — a Juíza das Almas tem trabalho a fazer.
 
@@ -2003,7 +2067,11 @@ Sua declaração ecoa pelas ruas estreitas como um trovão pessoal, e a cidade p
 
 Seu trajeto vira uma trilha de violência cirúrgica no coração da noite. Num beco, você encontra três homens tentando arrombar a porta de uma mercearia — um rápido giro de foice e eles dormem para sempre contra a parede de tijolos. Mais adiante, um ponto de apostas ilegais onde o som de gritos de tortura escapa por frestas do porão: a porta explode em estilhaços com seu chute, e em segundos, os cinco agressores jazem imóveis entre as mesas viradas e cartas espalhadas, enquanto um jovem amarrado a uma cadeira soluça de alívio.
 
-[Cena removida; mensagem preservada.]
+O alarme já foi disparado. Você escuta apitos distantes e gritos de comando ecoando entre os telhados — a Tríade está se mobilizando, convergentes em sua direção como uma teia que se contrai. Mas seus sentidos captam cada movimento, cada respiração ofegante atrás das janelas fechadas, cada batida de coração acelerado pelo medo ou pela raiva. Você sabe exatamente quantos são. Onde estão. E que nenhum deles machucará mais ninguém depois desta noite.
+
+Ao final de uma hora, vinte e três corpos de membros da Tríade Serpente formam um rastro que atravessa a cidade baixa, da taverna "Cobra Dourada" até o depósito abandonado no cais de carvão. Você está parada agora diante de uma mansão imponente no topo de uma colina baixa — janelas iluminadas, guardas nos portões, e uma aura de poder que cheira a dinheiro sujo e sangue acumulado. A última fortaleza do **Rei Cobra**, enquanto a lua se posiciona exatamente acima da torre central.
+
+Antes que você possa dar o próximo passo, uma figura surge das sombras do portão — não um capanga qualquer, mas uma mulher alta de cabelo curto tingido de verde, cicatriz no olho esquerdo e um sorriso afiado nos lábios. Ela veste um casaco de marinheira aberto sobre o peito nu, calças largas e botas de cano alto, e nos ombros carrega duas katanas em bainha cerimonial. Ela não saca as lâminas — apenas cruza os braços e inclina a cabeça, examinando você da cabeça aos pés com uma lentidão calculada. "Então é você," ela diz, a voz rouca mas firme. "A mulher que está limpando minha cidade como se fosse dona dela. Sabe, eu realmente esperava que você fosse mais alta."
 
 --- MSG 132 ---
 ROLE: user
@@ -2021,7 +2089,7 @@ A mulher de cabelo verde solta uma risada curta, sem humor, enquanto balança a 
 
 O vento noturno sopra entre vocês duas, carregando folhas secas e o cheiro de salitre do mar próximo. **Riko** não desvia o olhar, e algo na postura dela sugere que não é uma ameaça vazia — cada músculo parece pronto para explodir em ação no menor sinal de ataque. "Mas eu também ouvi os boatos sobre você, Juíza das Almas. Uma mulher que mata criminosos, que não toca em inocentes. Dizem por aí que você tem padrões — o que é mais perigoso que qualquer espada."
 
-[Cena removida; mensagem preservada.]
+Ela tira a mão do cabo e enfia ambos os polegares nos bolsos das calças largas, relaxando a postura num gesto quase teatral. "Então vou te fazer uma pergunta honesta, e quero uma resposta honesta: se eu abrir esse portão e te deixar passar, o que você vai fazer com o Rei Cobra? Matar na hora? Arrastar pelos tribunais? Ou tem algo mais planejado?" O sorriso dela volta, mas agora parece menos afiado e mais curioso, como uma criança observando um experimento.
 
 A mansão atrás dela permanece silenciosa, mas você sente os olhos de guardas escondidos nas janelas superiores, respirações contidas e punhos apertados em armas. **Riko** aguarda sua resposta, o vento brincando com as pontas do cabelo verde, e a lua projetando sombras alongadas no chão de pedra entre vocês. A noite ainda não acabou, e o caminho para o Rei Cobra se abre diante de suas palavras.
 
@@ -2072,7 +2140,7 @@ NODE: mu1rt5nk4ritsfva5pk
 CONTENT:
 O túnel se estende diante de vocês como uma goela de pedra, a escuridão quase palpável. Vesper acende uma pequena lanterna química, a luz verde pálida revelando paredes cobertas de limo e poças d'água no chão irregular. Seus passos são sincronizados agora — duas sombras compartilhando o mesmo propósito.
 
-[Cena removida; mensagem preservada.]
+**Vesper** olha por cima do ombro, um sorriso cruel no rosto. "Gosto do seu estilo. Sem discurso, sem aviso, só o aço." Ela ajusta o ângulo das katanas nos quadris, os dedos acariciando o cabo da mais longa com a intimidade de quem conhece cada centímetro da lâmina. "Ele nunca vai saber o que o atingiu. Vou decapitar esse verme tão rápido que a cabeça vai bater no chão antes do corpo entender que morreu."
 
 A porta de madeira no final do túnel aparece como um retângulo escuro contra a parede. Luz amarelada filtra-se por baixo dela, e o som de um cachimbo sendo aspirado quebra o silêncio — uma pausa rítmica, seguida de uma exalação prolongada. **Vesper** desembainha ambas as katanas com um sussurro metálico, posicionando-se ao lado da porta, as costas contra a parede. "Eu abro a porta contando até três. Quando ela se abrir, você imobiliza. Eu corto. Sem hesitação."
 
@@ -2136,7 +2204,7 @@ O jovem capanga permanece imóvel, os olhos arregalados fixos em você enquanto 
 
 Lá fora, no convés do navio ancorado na baía, **Hannah** está sozinha, encostada na amurada com os punhos cerrados. O vento marinho traz ecos distantes de gritos abafados e impactos metálicos, e ela morde o lábio inferior até sentir o gosto metálico do próprio sangue, incapaz de distinguir se aqueles sons vêm dos capangas ou de você. Ela não desvia o olhar da ilha, o farol apagado que antes marcava a fortaleza agora uma silhueta informe contra o céu noturno.
 
-[Cena removida; mensagem preservada.]
+Dentro do fortim, você encontra o quarto capanga escondido atrás de um barril no depósito — ele tenta disparar um mosquete, mas a pólvora molhada falha, e a foice encontra o ombro dele antes que ele possa sacar uma faca. O corpo tomba contra as prateleiras de mantimentos, farinha e grãos espalhando-se pelo chão como neve fina misturada a sangue. Mais dois homens tentam fugir pela janela do andar superior, mas suas pernas cedem sob o peso do medo que você projeta, e eles caem no pátio interno, suas gargantas sendo abertas antes mesmo de tocarem o chão.
 
 O silêncio desce sobre o fortim como uma mortalha. O cheiro de pólvora queimada e sangue fresco enche cada canto, e você ouve passos subindo as escadas do porão — **Vesper** emerge com uma menina magricela nos braços, a irmã dela envolta em um cobertor sujo, os olhos vazios de quem viu coisas demais para a idade. **Vesper** olha para você, para o sangue respingado em suas roupas, para a foice que ainda brilha na sua mão, e não diz nada — mas o olhar dela agora é diferente: não mais desconfiança, mas algo próximo de reconhecimento. De gratidão.
 
@@ -2198,7 +2266,7 @@ CONTENT:
 
 Ela levanta a cabeça e dá um passo à frente, agora tão perto que você pode ver as sardas espalhadas pelo nariz dela e o brilho úmido nos olhos castanhos. "Você fala de justiça como se fosse uma coisa pesada demais para uma pessoa carregar sozinha. Como se estivesse pedindo desculpas por ser o que é." **Hannah** estende a mão direita, a palma aberta e trêmula, mas o gesto é firme. "Eu não sei lutar. Não sei usar haki nem magia. Mas sei cozinhar, sei costurar, sei ouvir quando alguém precisa desabafar, e sei que não quero mais viver com medo."
 
-[Cena removida; mensagem preservada.]
+O barco range sob seus pés enquanto o vento muda de direção, trazendo o cheiro de terra molhada da ilha e o som distante de vozes na vila — gente que começa a descobrir o que aconteceu no fortim. **Hannah** engole em seco, mas não abaixa a mão. "Se você está falando sério... se realmente acredita que eu posso ser mais do que uma fugitiva assustada... então sim." Os olhos dela encontram os seus, e pela primeira vez desde que se conheceram, não há medo ali. "Me ensine. Me mostre como não ser fraca. E eu juro que nunca vou te abandonar como os outros fizeram."
 
 O luar prateado ilumina o convés enquanto você envolve os ombros dela num abraço, o terno ensanguentado contrastando com a camisa simples de Hannah. Ela treme no início, mas depois seus braços envolvem sua cintura com uma força inesperada, como se estivesse se agarrando a uma tábua de salvação depois de anos à deriva. O calor do corpo dela contra o seu é um lembrete de que, apesar do sangue e da morte que a cercam, ainda há vida pulsando — vida que você escolheu proteger.
 
@@ -2436,7 +2504,11 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:02:48.000Z
 NODE: mbh400t3jv8nfwz3csv
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Hannah** fica imóvel por um momento, as palavras penetrando fundo em seu peito como uma chama que acende algo há muito adormecido. Seus olhos marejam ligeiramente, mas ela pisca rapidamente para conter as lágrimas, um sorriso frágil e sincero brotando em seus lábios. "Raciocínio e inteligência... ninguém nunca tinha me dito isso antes." Sua voz sai quase como um sopro, carregada de uma gratidão que transcende palavras.
+
+Ela desce o primeiro degrau da escada, mas para e olha mais uma vez para trás, os olhos agora brilhando com uma determinação serena. "Então vou provar que sua ideologia está certa, Ellisyan. Vou fazer valer cada grama desse potencial que você enxergou em mim." Antes de desaparecer no interior do navio, **Hannah** adiciona em tom mais leve: "Durma bem também. E obrigada pela cama confortável — se eu sonhar, vou sonhar com runas e teorias de Engenharia Ancestral."
+
+O som dos passos dela ecoa pelos degraus de madeira, diminuindo gradualmente até ser substituído pelo rangido suave do navio e o sussurro das ondas. Momentos depois, uma porta range ao abrir e fechar, seguida por um silêncio tranquilo que indica que **Hannah** finalmente se rendeu ao cansaço. A noite agora é sua, com o mar infinito se estendendo em todas as direções, salpicado por estrelas que brilham como pequenas promessas no céu escuro.
 
 O navio balança gentilmente, uma brisa salgada acariciando seu rosto enquanto você permanece no convés. Os rastros de sangue seco em seu terno já começaram a escurecer, transformando-se em manchas que contam a história da noite. O farol no mastro projeta uma luz dourada e pulsante sobre as ondas, criando um caminho luminoso que parece se estender até onde a vista alcança, como se o próprio mar estivesse esperando para ver o que você construirá em sua jornada.
 
@@ -2445,7 +2517,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:02:49.000Z
 NODE: mfrl208phncylyrvjxk
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu sinto um cheiro de fuligem e sangue do meu terno, pensando  <q><q>"meu terno ainda fede a sangue, o massacre foi tão intenso que até ultrapassou a roupa Íntima e meu corpo."</q> eu suspiro, decidindo primeiro indo para lavanderia lavar as minhas roupas, tirabdo todas, ficando nua e levando elas para pia e começando a lavar, depois colocando elas pra estender, eu penso <q>"</q>deve ter  roupas minhas no meu guarda-roupa, mas eu ainda não arrumei elas... e está um frio tão bom..."</q>.*
 
 --- MSG 176 ---
 ROLE: assistant
@@ -2454,40 +2526,42 @@ NODE: mowzt5u6mkz7aalgp3q
 CONTENT:
 A iluminação fraca da lavanderia do navio revela manchas escuras na água do tanque enquanto você esfrega o tecido do terno. A água adquire um tom rosado, e o cheiro metálico de sangue velho se mistura ao odor de sabão barato e ferrugem dos canos antigos. Cada movimento seus músculos das costas e dos ombros se contraem sob a luz amarelada, o vapor subindo lentamente da bacia enquanto você torce o excesso de água das peças de roupa.
 
-[Cena removida; mensagem preservada.]
+O vento noturno entra por uma vigia aberta, acariciando sua pele nua com dedos frios que fazem seus mamilos se enrijecerem instantaneamente. Você estende as roupas no varal improvisado esticado entre duas vigas, o tecido gotejando no chão de madeira enquanto forma poças irregulares. O barulho das gotas ecoa no pequeno espaço, criando um ritmo quase hipnótico que contrasta com o balanço constante do navio.
+
+Seu reflexo dança distorcido no vidro embaçado de um pequeno espelho pendurado na parede, mostrando uma silhueta marcada por cicatrizes e músculos definidos. As asas cinzentas se ajustam instintivamente, abrindo-se ligeiramente como se para captar melhor a brisa fria que entra pela janela. Uma cicatriz recente cruza sua costela direita, ainda rosada e sensível ao toque do ar noturno.
 
 Passos leves ecoam no corredor externo, parando brevemente diante da porta entreaberta da lavanderia. **Hannah** parece hesitar do outro lado, sua sombra projetada pela luz do corredor, mas após alguns segundos ela segue em frente sem bater, o som de seus passos se distanciando em direção ao outro quarto. O silêncio retorna, quebrado apenas pelo ranger da madeira e pelo marulhar distante das ondas contra o casco.
 
-[Cena removida; mensagem preservada.]
+Você termina de estender a última peça e fica por um momento imóvel, sentindo o frio abraçar cada centímetro do seu corpo, os pés descalços sobre a madeira úmida. Lá fora, através da janela embaçada, a lua ilumina um mar de tinta negra, pontilhado por estrelas que parecem observar silenciosamente enquanto você decide seu próximo movimento nesta noite solitária.
 
 --- MSG 177 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:02:51.000Z
 NODE: mwg96yiq0e6v2rsxty7
 CONTENT:
-[Cena removida; mensagem preservada.]
+*depois que termino de estender, eu saio da lavanderia, passando por Hannah, que é surpreendida pelo meu corpo nu, ainda mais que eu não pareço estar envergonhada e totalmente confortável, com uma expressão mais relaxada e confiante, como se tivesse satisfeita comigo mesma e como se o corpo não fosse um tabu, que pra mim, não é. Eu me sento, ficando de costas pro mastro enquanto suspiro*
 
 --- MSG 178 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:02:52.000Z
 NODE: md55xbdh9y2t6j3cu4i
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Hannah** congela no meio do corredor quando você emerge da lavanderia, os olhos arregalando-se instintivamente ao processar sua nudez total. O choque inicial estampa seu rosto por um breve segundo, mas ela rapidamente desvia o olhar, as bochechas queimando em um rubor visível mesmo na penumbra do corredor mal iluminado. Sua mão instintivamente sobe para ajustar a gola da camisa simples que vestia para dormir, um gesto nervoso que revela seu desconforto com a situação.
 
 Você passa por ela com passos firmes e despreocupados, a confiança irradiando de cada movimento enquanto caminha em direção ao mastro central. **Hannah** fica paralisada por um momento, os olhos fixos em um ponto qualquer na parede, claramente lutando para encontrar uma reação adequada. Ela murmura algo ininteligível, um som abafado que parece metade de uma desculpa, metade de um suspiro de constrangimento, antes de finalmente conseguir articular: "Eu... ia buscar água, mas posso esperar."
 
-[Cena removida; mensagem preservada.]
+Você se senta com as costas apoiadas no mastro, o vento noturno brincando com seus cabelos brancos e acariciando sua pele exposta. A lua projeta sombras alongadas pelo convés, pintando seu corpo com tons prateados que destacam cada cicatriz e cada curva muscular. **Hannah** ainda está parada no mesmo lugar, agora arriscando olhares rápidos e furtivos em sua direção, como se tentasse entender a naturalidade com que você ocupa o espaço, sem vergonha ou hesitação.
 
 "A sua confiança é... impressionante", **Hannah** finalmente diz, a voz saindo mais baixa e trêmula do que ela gostaria. Ela dá um passo hesitante em sua direção, parando a alguns metros de distância, ainda sem encará-la diretamente. "Eu passei anos me odiando, me escondendo, achando que meu corpo era uma moeda de troca ou um fardo. Ver você assim, tão... livre, me faz pensar se eu um dia conseguirei chegar nesse nível."
 
-[Cena removida; mensagem preservada.]
+O silêncio se estende por alguns segundos, apenas o vento e o mar preenchendo o espaço entre vocês. **Hannah** finalmente ergue o olhar, encontrando seus olhos pela primeira vez desde que você saiu da lavanderia. Há algo novo em sua expressão agora — não mais apenas vergonha ou admiração, mas uma curiosidade genuína misturada com um desejo silencioso de aprendizado. "Como você faz isso?", ela pergunta, a voz mais firme agora. "Como você se despiu de todas as amarras que a sociedade coloca em nós?"
 
 --- MSG 179 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:02:53.000Z
 NODE: marjm6czlrps8b090fy
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu fecho os olhos, falando calmamente* na verdade, eu fui criada com esses conceitos, pra mim, o corpo vale mais do que moeda de troca ou repulsa, é a essência que nos compôem, não um tabu que muitos dogmas e religiões falam, quando eu estou nua com alguém que não fique deeconfortável ou sozinha, é sinal de que eu demonstrando confiança, também não vejo os atos de descobrir o próprio corpo como masturbação com repulsa, é algo natural da vida, todos tem isso uma vez, o corpo é belo e merece ser valorizado, as cicatrizes que carregamos é uma marca das lutas que sobrevimemos, mesmo que algumas viessem com traumas, uma das dez virtudes que eu sigo é liberdade e contenção, e claro, justiça. Infelizmente, muitas pessoas ensinam virtudes religiosas, conservadoras ou progressistas acima da própia essência que compôem os seres. A maioria deles são só uns pau no cu com ideias distorcidas e que não respeitam a liberdade do próximo, preferindo impor uma ideologia sobre as pessoas.
 
 --- MSG 180 ---
 ROLE: assistant
@@ -2585,14 +2659,18 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:03:03.000Z
 NODE: molb6r1xerfhzy60odx
 CONTENT:
-[Cena removida; mensagem preservada.]
+*meu rosto cora um pouco, com um sorrisinho enquanto coloco uma mão sobre o rosto, murmurando algo num tom envergonhado que não combina com o fato de eu ainda estar nua* que eu encontrei uma meio demônia que era a minha namorad**a**...
 
 --- MSG 190 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:03:04.000Z
 NODE: m8vqe4i133mvmhzksme
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Hannah** pisca uma, duas, três vezes, processando a revelação tão inesperada vinda de uma mulher que momentos antes dissecava a diferença filosófica entre vingadores e justiceiros com a frieza de um carrasco. Seus olhos se arregalam, e por um instante ela parece genuinamente perdida entre o choque e uma risada que luta para escapar. Ela morde o lábio inferior, claramente segurando o som, mas os ombros já tremem com o esforço.
+
+"Eu... espera", ela finalmente consegue articular, a voz falhando no meio da palavra. As bochechas de **Hannah** começam a corar, não de vergonha, mas do esforço sobre-humano de não rir na sua cara. Ela leva uma mão à boca, tossindo para disfarçar, mas os olhos brilham com um humor genuíno que não existia ali antes. "Você passou de 'matei quarenta homens numa noite' para 'estou nua e sonhando com uma namorada meio demônia' em menos de trinta segundos. Isso é... impressionante, até para os padrões de uma Nephelim."
+
+A risa finalmente escapa, curta e abafada, mas sincera. **Hannah** balança a cabeça, passando a mão nos cabelos enquanto se recompõe, ainda com um sorriso teimoso nos lábios. "Bom, pelo menos sei que você ainda tem sentimentos. E que meio demônia existem por aí. Vou anotar isso mentalmente para o caso de precisarmos de aliados com chifres e mau humor." Ela cruza os braços, inclinando a cabeça, o tom agora mais suave. "Ela é bonita? A meio demônia do seu sonho?"
 
 --- MSG 191 ---
 ROLE: user
@@ -2632,7 +2710,7 @@ Ela se levanta, acompanhando seu movimento com os olhos, e por um breve instante
 
 O vento noturno sopra, trazendo o cheiro de sal e a promessa do amanhã. **Hannah** oferece um sorriso pequeno, mas genuíno, os olhos roxos brilhando sob a luz das estrelas. "Bons sonhos, Juíza das Almas. Que sua silhueta de sombras apareça novamente." Há um tom de brincadeira na voz, mas também um carinho verdadeiro que começa a se enraizar entre vocês.
 
-[Cena removida; mensagem preservada.]
+Ela se vira em direção ao alojamento, mas antes de descer, lança um último olhar por cima do ombro. "Ah, e Ellisyan? Você também fica bonita mesmo estando nua. Mas, por favor, vista algo amanhã. Não sei se o porão tem picaretas suficientes para cavar meus próprios olhos caso o Thriss veja você assim." A risada dela ecoa suavemente enquanto desce as escadas, deixando você sozinha no convés iluminado pelas estrelas.
 
 --- MSG 195 ---
 ROLE: assistant
@@ -2641,11 +2719,11 @@ NODE: m8euv935napnwyggim2
 CONTENT:
 **Hannah** pisca, claramente pega de surpresa pelo elogio repentino. Uma onda de vermelho sobe por suas bochechas pardas, e ela desvia o olhar por um instante, mexendo em uma mecha do próprio cabelo com um gesto quase tímido. "Eu... obrigada", ela murmura, a voz saindo mais suave do que ela provavelmente gostaria. "Não estou acostumada a receber elogios que não venham acompanhados de segundas intenções, então... leve isso a sério."
 
-[Cena removida; mensagem preservada.]
+Ela se levanta, esticando os braços acima da cabeça com um suspiro cansado. "Vou ficar mais um pouco aqui, apreciando o mar. Preciso processar tudo que aconteceu hoje — fui salva, vingada, recrutada por uma Nephelim nua, e elogiada. Tudo em menos de algumas horas." Um sorriso cansado, mas genuíno, brinca em seus lábios enquanto ela se vira para encarar o horizonte escuro.
 
 O som dos seus passos se afastando em direção ao alojamento se mistura ao vai-e-vem das ondas. **Lyra** aparece na porta da cabine da navegação, uma caneca de chá nas mãos, os óculos refletindo a luz fraca do lampião. "Ela parece uma boa pessoa", a navegadora comenta em voz baixa, olhando para **Hannah** no convés. "Precisa de tempo, mas tem potencial."
 
-[Cena removida; mensagem preservada.]
+Lá dentro, o cheiro de madeira envelhecida e vela queimada preenche a cabine principal. Uma cama estreita, mas limpa, espera por você, com lençóis de lin
 
 --- MSG 196 ---
 ROLE: assistant
@@ -2685,7 +2763,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:03:13.000Z
 NODE: m9f698ed8s3za9nbl63
 CONTENT:
-[Cena removida; mensagem preservada.]
+*ainda meio parada, com os olhos arregalados de surpresa, e uma leve tristeza por não conseguir me despedir direito* eu descobri que a imperatriz daquela ilha, a mesma que me treinoi por seis décadas sob atraso temporal, a mesma que eu toquei e senti prazer... é a própria ilha, manifestada por milênios, apenas esperando alguém com potencial para ensinar... Hannah, eu fiz amor com uma ilha manifestada em um corpo... e não, eu não enfiei terra no cu ou me esfreguei no corpo, ela literalmente uma manifestação física de uma jovem Nephelim...
 
 --- MSG 200 ---
 ROLE: assistant
@@ -2712,7 +2790,9 @@ CONTENT:
 
 O balançar do navio embala o silêncio entre vocês, e **Hannah** levanta a cabeça novamente, seus cachos balançando com o movimento. "Mas ela não se foi, Ellisyan. Ela disse que estaria nas estrelas, certo?" Ela aponta para a vigia com um sorriso suave. "Olhe lá fora. Cada estrela brilhando é um pedaço dela que ficou pra te guiar. Não é bonito pensar assim?" A luz prateada banha seu rosto enquanto ela fala, dando-lhe uma aparência quase etérea na penumbra do camarote.
 
-[Cena removida; mensagem preservada.]
+Você sente o peso das seis décadas nos ossos, não como cansaço, mas como sabedoria enraizada. As lembranças de Liryan correm como um filme: o primeiro toque, os treinos exaustivos, a noite em que o salão inteiro se encheu de Névoa Cintilante enquanto ela se entregava a você. **Hannah** parece perceber seu mergulho na memória e toca seu ombro levemente, a pele quente contra a sua. "Você pode sentir falta dela pelo resto da sua vida imortal. E tudo bem. Isso só prova que o que vocês tiveram foi verdadeiro."
+
+Ela se levanta, esticando as costas com um gemido baixo, e caminha até a porta, parando com a mão no batente. Mas antes de sair, **Hannah** olha por cima do ombro, seus olhos roxos brilhando com uma determinação gentil. "E quando você estiver pronta pra fazer novas memórias... eu ainda tô aqui. Talvez eu não seja uma ilha com poderes de treinar você, mas posso ser o ombro onde você desaba quando as estrelas não forem o suficiente." Ela sorri, a luz da lua contornando seu perfil. "Boa noite, Juíza. E não se preocupe – seu segredo de fazer amor com uma ilha morre comigo."
 
 --- MSG 203 ---
 ROLE: user
@@ -2746,27 +2826,33 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:03:20.000Z
 NODE: mqbfnqjeezteee8aexe
 CONTENT:
-[Cena removida; mensagem preservada.]
+O cheiro de ovos fritos e bacon invade o convés enquanto você desce as escadas para a cozinha, o estômago roncando em resposta. **Hannah** está de costas para você, mexendo algo em uma frigideira, balançando os quadris no ritmo de uma canção de marinheiro que ela murmura baixinho. A luz da manhã entra pela vigia, criando halos dourados nos cachos soltos dela, e você nota que ela usa apenas uma camisa branca folgada — comprida, mas não o suficiente para cobrir completamente o que está por baixo.
+
+Ela se vira ao ouvir sua voz, e um sorriso largo ilumina seu rosto enquanto segura a espátula como se fosse uma bandeira. "Bom dia, Juíza! Dormiu bem?" Ela não faz nenhum movimento para se cobrir, completamente à vontade com sua nudez parcial, como se fosse a coisa mais normal do mundo. "Pensei em preparar um café da manhã decente antes de enfrentarmos o que vier. Não sei você, mas acordar no meio do oceano sem terra à vista me dá uma fome danada."
+
+Ela se vira novamente para virar os ovos na frigideira, e a camisa sobe mais um pouco, revelando a curva das nádegas nuas. **Hannah** parece totalmente alheia — ou talvez propositalmente indiferente — enquanto continua a cantarolar, adicionando uma pitada de sal à comida. A cozinha é pequena, mas aconchegante, os utensílios balançando suavemente com o movimento do navio, e o vapor da comida mistura-se ao cheiro salgado do mar que entra pelas frestas.
+
+Sem se virar, ela pergunta: "O que você planeja fazer hoje? Tentar pescar algo? Ou vamos continuar navegando até encontrar alguma ilha?" Ela pega dois pratos e começa a servir a comida com movimentos precisos, ainda sem demonstrar qualquer vergonha da própria nudez. "Porque se formos pescar, vou precisar trocar de roupa. A não ser que você não se importe de eu pescar pelada — mas as gaivotas podem se distrair." Ela ri da própria piada, os ombros tremendo, e finalmente se vira, entregando a você um prato fumegante com um sorriso travesso.
 
 --- MSG 207 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:03:21.000Z
 NODE: mj9h56r2lgqtz0l2g3v
 CONTENT:
-[Cena removida; mensagem preservada.]
+Eu não me importo, eu também estou nua mesmo. *eu me sento, comendo calmamente* parece que absorveu o que eu disse ontem.
 
 --- MSG 208 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:03:22.000Z
 NODE: munbyognwvramefktql
 CONTENT:
-[Cena removida; mensagem preservada.]
+O sorriso de **Hannah** se alarga quando você se senta à mesa, ainda nua, e ela observa por um momento antes de se sentar à sua frente com o próprio prato. "Absorvi sim. Cada palavra." Ela corta um pedaço de ovo, mastiga devagar, os olhos roxos fixos nos seus com uma intensidade calma que contrasta com a informalidade da situação. "Você me mostrou vulnerabilidade ontem. Isso não é algo que se esquece, Ellisyan. É algo que se honra."
 
 O barco balança suavemente enquanto vocês comem, o silêncio entre vocês preenchido apenas pelo tilintar dos talheres e pelo som distante das ondas. **Hannah** termina primeiro, apoiando o queixo na mão e observando você com um olhar que mistura admiração e curiosidade. "Sabe, eu pensei muito depois que fui dormir. Sobre o que você disse, sobre sua jornada." Ela gesticula com a mão livre. "Você passou seis décadas treinando, se preparando, se transformando. E agora está aqui, no meio do oceano, com uma ex-fugitiva que não sabe lutar, começando do zero. Isso é corajoso."
 
 Ela se levanta, estica o corpo como um gato, sem qualquer pressa ou vergonha. "Precisa de ajuda para pescar? Eu não sou especialista, mas sei segurar uma vara." Ela ri baixinho, pegando um pedaço de pão que sobrou no balcão e mordiscando distraidamente. "Ou podemos simplesmente navegar e ver o que o mar nos traz. Sinceramente, estou nos suas mãos, Juíza. Você é a capitã aqui."
 
-[Cena removida; mensagem preservada.]
+A luz da manhã agora está mais forte, banhando a cozinha pequena com tons dourados e revelando as texturas da madeira envelhecida do navio. **Hannah** termina o pão, limpa as mãos no próprio quadril nu, e caminha em sua direção com passos lentos, parando ao seu lado. "Mas antes de qualquer coisa..." Ela se inclina, depositando um beijo suave no topo da sua cabeça, os lábios quentes contra seus cabelos brancos. "...obrigado por confiar em mim. Não importa o que enfentemos, vou estar aqui. Nua ou vestida, assustada ou corajosa."
 
 Ela se afasta com um sorriso, apontando para a porta enquanto se dirige para o convés. "Vou pegar uma roupa. Me avise quando decidir o plano. E, Ellisyan?" Ela para na porta, olhando por cima do ombro. "Você é linda assim, sabia? Não só pelo corpo — mas por quem você é." Com isso, ela desaparece, deixando você com seu prato e o sabor adocicado das palavras dela ecoando no ar salgado.
 
@@ -2834,7 +2920,7 @@ O sol começa a se pôr enquanto vocês comem — fatias grossas de carne grelha
 
 **Hannah:** *ela limpa os lábios com as costas da mão* "Nunca perguntei direito... você tem algum código? Alguma regra que segue? Ou cada decisão depende do seu humor e do vento?" *a pergunta é honesta, sem provocação, os olhos roxos brilhando sob a luz alaranjada do fim de tarde. Ela apoia o queixo na palma da mão, esperando sua resposta com uma curiosidade genuína e uma fome por entender melhor a capitã que decidiu seguir.*
 
-[Cena removida; mensagem preservada.]
+O mar ao redor está calmo demais. O Calm Belt é um cementerio de navios, mas a venturite mantém vocês deslizando como uma sombra sobre a água, e a ilha do tamanho de uma cidade se aproxima rápido, coberta por uma densa neblina que parece pulsar com uma vida própria. Os primeiros contornos de uma falésia escura e vegetação retorcida começam a aparecer, e o vento carrega um cheiro estranho — de terra molhada e algo metálico, como sangue seco após uma chuva.
 
 --- MSG 215 ---
 ROLE: user
@@ -2852,11 +2938,13 @@ NODE: myucxlob3f2ncs2imtu
 CONTENT:
 **Hannah:** *ela inclina a cabeça, mastigando devagar enquanto processa suas palavras* "Então você tem sua própria justiça. Não a do Governo, nem a dos piratas comuns. A sua." *ela engole, e seus olhos roxos se tornam mais sérios por um instante* "Isso explica muita coisa. E também me faz sentir mais segura de ter vindo com você."
 
-[Cena removida; mensagem preservada.]
+Ela se levanta, esticando os braços acima da cabeça com um gemido baixo, os músculos tensos pelo dia de trabalho relaxando. "Sabe, antes de você aparecer, eu achava que justiça era uma palavra que os fortes usavam para justificar o que queriam fazer. Mas vendo você agir... parece que existe um significado real por trás disso." *a voz dela é calma, quase reflexiva, enquanto observa o sol se pôr completamente no horizonte.*
+
+O navio continua deslizando em direção à ilha, mas você ainda não deu ordens para atracar. O cheiro de comida fresca ainda paira no ar, misturado à brisa salgada, e o convés range suavemente sob seus pés. Há uma sensação de paz frágil no ar — o tipo de paz que se encontra nos olhos de alguém que finalmente confia em quem está ao lado.
 
 **Hannah:** *ela senta de pernas cruzadas no convés, perto de você* "Você tem um nome para o navio? Toda nave pirata que se preze precisa de um nome que faça os inimigos tremerem." *ela sorri, claramente brincando, mas com um brilho de entusiasmo genuíno nos olhos.* "Ou pelo menos algo que dê para pintar na vela com tinta vermelha."
 
-[Cena removida; mensagem preservada.]
+A noite cai rápido no Calm Belt, e as estrelas começam a aparecer no céu limpo — sem nuvens, sem poluição. O Cruzeiro das Almas balança suavemente, ancorado por um instante flutuante entre o mar e o céu, enquanto você e sua nova tripulante compartilham o silêncio e o calor da refeição que acabaram de dividir.
 
 --- MSG 217 ---
 ROLE: user
@@ -3314,7 +3402,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:04:13.000Z
 NODE: m29a22bvz6jd97j5lyk
 CONTENT:
-[Cena removida; mensagem preservada.]
+*apenas aceno em negativa, com um sorriso* sinceramente, eu prefiro fazer e descobrir o que o futuro me aguarda por mim mesma do que ficar numa paranóia, evitar tudo e sair errado. *eu levo Lilyn até o zepeli telepático junto com Ayla e Hannah, e inicialmente, ela achava que era um navio pirata comum, não um objeto voador rápido que voa independente do vento ou atmosfera e que é movido a ondas telepáticas autossuficiente...* e ah, sobre o Zepeli, foi Hannah que fez, muito foda, né? Foi construído em alguns dias no treinamento dela com ajuda de alguns robôs.
 
 (Não coloca só Lilyn falando no chat, coloca Ayla e Hannah também, e Ayla e Hannah já andaram no Zepeli)
 
@@ -3554,35 +3642,51 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:35.000Z
 NODE: mehupdorwkx0rk22lai
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla ergueu o olhar para encontrar o seu, os olhos vermelhos brilhando com uma mistura de surpresa e excitação diante da forma como você a imobilizou contra a parede. Ela levantou lentamente as mãos, mas não para empurrá-la — em vez disso, seus dedos deslizaram pelos seus ombros, traçando o contorno dos músculos sob o tecido da roupa, como se estivesse memorizando cada centímetro. "Eu sempre cumpro promessas," ela murmurou, a voz rouca e baixa, inclinando o rosto levemente para pressionar a bochecha contra sua palma, os olhos nunca desviando dos seus.
+
+O ar no quarto parecia carregado de eletricidade estática. Ayla mordeu o lábio inferior, um gesto rápido e quase imperceptível, antes de passar as mãos pelos seus cabelos brancos, os dedos enroscando-se neles com uma intimidade que só o silêncio permite. "Você não faz ideia do quanto eu esperei por esse momento desde aquela noite no convés," ela confessou, a respiração quente contra seus lábios. Sua cauda demoníaca envolveu sua coxa, puxando-a um passo mais para perto, anulando qualquer espaço entre vocês.
+
+Ela então inclinou a cabeça para o lado, os lábios roçando os seus num contato elétrico que durou apenas um segundo, mas carregava meses de tensão acumulada. "Mas me diga, Ellisyan," ela sussurrou contra sua boca, as unhas arranhando levemente sua nuca, "o que você quer fazer primeiro? Porque eu posso ser paciente... ou posso ser tudo menos isso." Suas asas negras se fecharam parcialmente ao redor de vocês, criando uma redoma privada no centro do quarto, como se o resto do mundo tivesse deixado de existir.
 
 --- MSG 282 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:36.000Z
 NODE: mf81pjqhhyfoajcwftu
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu  beijo Ayla, tirando o casaco junto com camisa e sutiã no meio do beijo, Ayla sente um calor a mais ao meu torso ser revelado... é a primeira vez que ela me vê nua da cintura pra cima desde o primeiro encontro...*
 
 --- MSG 283 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:37.000Z
 NODE: m928mt7n4vixw69or6i
 CONTENT:
-[Cena removida; mensagem preservada.]
+O beijo se aprofunda quando o casaco de Ayla cai no chão com um ruído abafado, seguido pela camisa e pelo sutiã que você remove com movimentos hábeis sem interromper o contato dos lábios. Ayla suspira contra sua boca quando sente o calor da sua pele nua contra a dela, suas mãos escorregando pelas suas costas, traçando cada cicatriz como se lesse uma história gravada em sua carne. "Ellisyan..." ela murmura, a voz embargada, os olhos vermelhos percorrendo seu torso com uma admiração que beira o reverente.
+
+Suas asas de penas roxas se abrem ligeiramente, um tremor percorrendo seu corpo enquanto ela desliza a língua pelo seu ombro, mordiscando a pele com cuidado. "Você é ainda mais linda do que eu imaginei," ela sussurra contra seu pescoço, as mãos firmes apertando sua cintura, puxando-a contra si. O quarto parece encolher ao redor de vocês, o mundo exterior reduzido a um zumbido distante além das barreiras antissom que você ativou.
+
+Ela recua apenas o suficiente para desabotoar a própria calça com uma mão, os olhos jamais abandonando os seus, desafiadores e carentes na mesma medida. A cauda demoníaca se enrola em sua coxa com mais firmeza, guiando seus movimentos enquanto vocês trocam de posição lentamente, Ayla agora a guiando em direção à cama. "Promessa é dívida, Juíza," ela diz com um sorriso mole, a respiração irregular. "E eu pretendo cobrar cada segundo."
+
+As penas negras de suas asas formam uma redoma sobre a cama enquanto ela deita você sobre os lençóis, seus lábios traçando um caminho descendente pelo seu peito, parando sobre seu coração por um longo momento. O toque de sua língua na pele é quente e deliberado, cada movimento uma declaração silenciosa de que aquele momento — finalmente — pertence apenas a vocês duas.
 
 --- MSG 284 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:38.000Z
 NODE: m6b01lc8srh2x74p68y
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu fecho os olhos e solto alguns gemidos enquanto sinto a língua de Ayla envplolver os meus seios, colocando uma mão no chifre esquerdo dela e acariciando suaemente com os dedls, sabendo que é uma parte sensível dos Ancarghelos*
 
 --- MSG 285 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:39.000Z
 NODE: m8sszcq4un2wt3xfxno
 CONTENT:
-[Cena removida; mensagem preservada.]
+O gemido que escapa dos seus lábios quando a língua de Ayla envolve seu seio é abafado pelo ambiente selado do quarto. Ela responde ao toque dos seus dedos em seu chifre com um arrepio visível, um som gutural vibrando contra sua pele enquanto seus lábios se fecham em torno do mamilo com uma sucção suave, porém firme. A cauda demoníaca aperta sua coxa em resposta, e Ayla ergue os olhos vermelhos para encontrar os seus, mesmo com os olhos fechados, como se pudesse sentir sua atenção.
+
+"Você descobriu meu ponto fraco rápido demais," ela murmura contra sua pele, a voz rouca e entrecortada, antes de deslizar a boca para o outro seio, dedicando-lhe a mesma atenção deliberada. Sua mão livre desce pelo seu abdômen, os dedos traçando caminhos lentos que fazem seus músculos se contraírem sob o toque. Ela mordisca suavemente a pele, alternando entre mordidas e lambidas que te deixam arqueando contra a cama.
+
+O quarto parece girar lentamente ao seu redor enquanto Ayla alterna entre os dois seios, seu chifre esquerdo permanecendo firme sob seus dedos enquanto você acaricia a base dele com movimentos circulares. Ela treme a cada carícia, a respiração tornando-se mais irregular, e você percebe que cada toque seu nela provoca uma reação tão intensa quanto o que ela faz em você. "Ellisyan..." ela sussurra seu nome como uma oração, os lábios molhados brilhando quando ela se ergue ligeiramente para olhar seu rosto.
+
+O ar está pesado, carregado com o cheiro de desejo e suor, e Ayla desliza a mão para baixo das suas costas, arqueando seu corpo contra o dela num movimento que une cada centímetro de pele disponível. "Você quer que eu continue assim," ela pergunta, a ponta da língua humedecendo os lábios, "ou quer que eu desça mais?" Os olhos dela, duas jóias vermelhas, queimam com uma intensidade que promete cumprir qualquer direção que você der.
 
 Suas asas negras se fecham mais ao redor de vocês, criando um casulo de penas e sombras que isola o mundo inteiro. Ayla espera, imóvel, o corpo tenso de antecipação, o coração batendo tão forte que você pode senti-lo contra suas costelas enquanto ela apoia o peso nos cotovelos de cada lado de você, o rosto pairando a centímetros do seu.
 
@@ -3591,35 +3695,59 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:04:40.000Z
 NODE: m1qxbr9dvx0c17tovv4
 CONTENT:
-[Cena removida; mensagem preservada.]
+*gemido trêmulo* desça mais, mas tire o resto da minha roupa primeiro...
 
 --- MSG 287 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:41.000Z
 NODE: mgl5gxmr5civ02s0juj
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla obedece com um sorriso lento, os lábios ainda úmidos enquanto ela se ergue sobre os joelhos. Suas mãos encontram a cintura da sua calça, os dedos deslizando pelo cós com uma lentidão deliberada, provocante. "Seu desejo é uma ordem, Juíza," ela murmura, puxando o tecido para baixo em um movimento fluido que expõe suas pernas gradualmente ao ar fresco do quarto. Ela deixa a peça cair no chão antes de voltar a atenção para você, os olhos vermelhos percorrendo todo o seu corpo com uma fome que faz o ar ao redor parecer mais denso.
+
+Ela se inclina para depositar um beijo leve em seu quadril, os lábios demorando-se na pele aquecida. "Você é tão bonita que chega a doer," ela sussurra contra sua coxa, mordiscando a carne macia com cuidado. Seus dedos traçam linhas invisíveis pelo interior da sua perna, subindo e descendo em um ritmo irregular que mantém você em suspense.
+
+Um sorrisinho brinca nos lábios dela quando ela percebe sua respiração acelerar a cada toque. "Ansiosa?" ela provoca, a ponta da língua deslizando pela sua pele. Ela então passa os braços ao redor das suas coxas, puxando-as ligeiramente para cima, ajustando seu corpo para ficar mais acessível a ela. As asas negras vibram suavemente atrás dela, criando um jogo de sombras e reflexos roxos no teto.
+
+Seu rosto se aproxima lentamente, o hálito quente contra sua intimidade. Ela hesita por um segundo — intencionalmente — antes de lamber toda a extensão do seu sexo em um movimento longo e lento, a língua quente e firme. Um gemido abafado escapa dos lábios dela contra sua carne, como se o gosto a satisfizesse profundamente. "Você tem gosto de tempestade," ela diz, a voz rouca. "Intensa, elétrica, inesquecível."
+
+Ela então mergulha de volta, a língua encontrando seu clitóris com precisão cirúrgica, enquanto seus dedos se enterram em suas coxas para mantê-la aberta para ela. O ritmo começa lento, exploratório, mas rapidamente se intensifica quando ela sente suas reações — cada gemido, cada arrepio, cada movimento involuntário de seus quadris contra seu rosto. Suas asas se fecham mais, abafando os sons, criando um mundo particular onde só existem vocês duas e a urgência do desejo que finalmente encontraram.
 
 --- MSG 288 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:42.000Z
 NODE: mlkwrdpvcld11mjx6hh
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu gemo mais alto, agora com as minhas duas mãos nos chifres de Ayla como se tivesse implorando por mais, enquanto arqueio as costas, murmurando* isso... sim, mais... *gemido* não foque apenas na minha buceta, Ayla... também gosto de toque nos seios.
 
 --- MSG 289 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:43.000Z
 NODE: mr26zqbzylyaxhuvicm
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla ergue o rosto lentamente, os olhos vermelhos brilhando com um prazer perigoso. Ela lambe os lábios, saboreando seu gosto, enquanto desliza o corpo para cima sem pressa. O peito nu dela roça contra o seu em um contato elétrico, e ela apoia os cotovelos dos seus lados enquanto as asas negras vibram em sincronia com a respiração pesada de vocês duas. "Gosta de mandar, não é?" ela provoca com um sorriso de presas, o hálito quente contra seu pescoço enquanto desce um beijo molhado no local.
+
+A mão esquerda de Ayla encontra seu seio, o polegar traçando círculos lentos ao redor do mamilo já endurecido. Ao mesmo tempo, sua boca desce para o outro seio, a língua quente envolvendo-o novamente enquanto ela alterna entre chupar suavemente e mordiscar a pele sensível. Seus dedos em seus chifres parecem guiá-la subconscientemente, e ela responde curvando as costas como uma gata satisfeita a cada aperto.
+
+Ela não para, porém, a mão direita escorregando pelo seu ventre para retornar ao seu sexo deslizando dois dedos entre seus lábios úmidos. Ela os enterra fundo, as palmas batendo contra seu clitóris a cada movimento, enquanto a boca continua a atormentar seus seios num ritmo alternado. O som é obsceno — estalidos molhados e gemidos que ecoam no espaço apertado criado pelas asas fechadas em torno de vocês.
+
+Ayla ergue a cabeça para sussurrar diretamente no seu ouvido, a língua roçando a borda da sua orelha: "Assim? Ou quer mais devagar?" Ela enfatiza a pergunta movendo os dedos mais devagar, quase parando, a ponta dos dedos massageando seu ponto interno enquanto se retira até quase sair completamente. Seu polegar, no entanto, nunca para de pressionar seu clitóris em círculos constantes, mantendo o fio do prazer esticado ao máximo.
+
+Um gemido rouco escapa dos lábios dela quando você aperta os chifres com mais força, e ela sabe exatamente o que fazer. Ela volta a mergulhar, a língua encontrando seu mamilo esquerdo enquanto os dedos retomam o ritmo rápido e firme lá embaixo. "Vai gozar para mim, Ellisyan?" ela pergunta contra sua pele, a voz abafada, a língua ainda brincando com seu bico. As asas se apertam ao redor de vocês, prontas para abafar qualquer grito que você emitir.
 
 --- MSG 290 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:44.000Z
 NODE: mnbosgmpo4uhcu7f63h
 CONTENT:
-[Cena removida; mensagem preservada.]
+O corpo de Ayla se move contra o seu em um ritmo que mistura urgência e domínio, seus dedos trabalhando você por dentro enquanto a boca não cessa de provocar seus seios. Você sente cada contração involuntária sua sendo respondida com precisão, como se ela lesse seu corpo melhor que você mesma. O quarto inteiro parece vibrar na frequência dos gemidos que vocês trocam, abafados pelo casulo de asas negras que as isolam do mundo exterior.
+
+**Ayla:** *ela morde o mamilo com a ponta dos dentes antes de soltar, ofegante* "Assim, Juíza? Quer que eu acelere?" *Ela não espera resposta, curvando os dedos e encontrando o ponto exato que faz suas pernas tremerem. O polegar nunca para de pressionar seu clitóris em movimentos circulares implacáveis.*
+
+Cada arranhão involuntário das suas unhas nos chifres dela parece incentivá-la a mais, e Ayla responde aprofundando os dedos, o ritmo aumentando até se tornar quase frenético. Sua respiração fica irregular, entrecortada por gemidos que ela abafa contra sua pele, a língua ainda brincando com seu mamilo alternando entre lambidas largas e sugadas firmes. O calor entre as pernas de vocês é quase insuportável.
+
+**Ayla:** *a voz sai rouca, quase um sussurro sufocado* "Pode gozar, Ellisyan. Estou aqui. Vou te segurar até o fim." *Ela enfatiza a promessa curvando os dedos mais uma vez, a palma da mão batendo contra seu clitóris em cada estocada, enquanto pressiona a língua contra seu mamilo num ritmo perfeitamente sincronizado.*
+
+O orgasmo te atinge como uma onda elétrica, começando na base da sua coluna e explodindo em ondas que fazem seu corpo arquear contra o dela. Ayla não para, te guiando através de cada espasmo com movimentos mais lentos e profundos, a boca finalmente parando de provocar para depositar beijos suaves pelo seu colo. Ela só retira os dedos quando seus tremores cessam, levando-os aos lábios e os lambendo com um sorriso satisfeito, os olhos vermelhos brilhando na penumbra.
 
 --- MSG 291 ---
 ROLE: user
@@ -3635,35 +3763,59 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:46.000Z
 NODE: m79tr443ady3ol49ykg
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla se entrega ao beijo com um gemido surpreso, suas mãos voando para seus quadris enquanto você a prende contra o colchão. Ela retribui com intensidade, língua dançando com a sua num embate que mistura seu próprio gosto com o dela, os dedos cavando na carne firme dos seus flancos. Quando você se separa, lábios molhados e respiração pesada, ela ri baixinho, os olhos vermelhos cheios de desafio e antecipação.
+
+**Ayla:** *ela estica o pescoço, oferecendo a garganta numa provocação* "Então mostra como uma juíza domina uma criminosa renegada. Estou toda sua, meritíssima."
+
+O corpo dela se estica sob o seu, as asas negras se abrindo para os lados da cama como se estivesse se rendendo completamente. A pele cinzenta clara brilha levemente suada, cada músculo definido visível sob a luz do quarto. Ela não tenta reverter a posição, não busca controle — oferece-se num ato de confiança absoluta, os olhos fixos nos seus.
+
+Sua mão direita escorrega pelos seus braços, guiando seus dedos até seu próprio seio. Ela aperta sua mão contra a carne macia mas firme, arqueando as costas para pressionar-se contra sua palma.
+
+**Ayla:** *a voz sai mais baixa agora, quase vulnerável* "Toque em mim, Ellisyan. Quero sentir suas mãos marcando minha pele."
+
+Ela mantém os olhos abertos durante todo o tempo, observando cada reação sua, pronta para seguir seu ritmo. O único som no quarto é a respiração ofegante de vocês e o farfalhar ocasional das penas negras contra o lençol.
 
 --- MSG 293 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:47.000Z
 NODE: mq2ft3naefflxa1063s
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu tiro as roulas de Ayla, deixando-a totalmente nua e depois aperto o seio de Ayla enquanto eu envolvo o outro seio com aboca, fechando os olhos enquanto saboreio, introduzindo quatro dedos lentamente em sua virilha e mexendo dentro...*
 
 --- MSG 294 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:48.000Z
 NODE: mw7xkg675hxs8noywv9
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla arqueia as costas com um gemido longo quando seus lábios envolvem o seio, o mamilo já endurecido roçando contra o céu da sua boca. Sua mão livre voa para seus cabelos brancos, dedos se enroscando nos fios enquanto ela puxa você mais perto, oferecendo mais de si. O gosto levemente salgado da pele dela preenche seu paladar, misturado ao cheiro almiscarado do sexo que ainda paira no ar.
+
+Quando seus quatro dedos penetram lentamente, Ayla prende a respiração por um segundo antes de soltá-la num suspiro trêmulo. Ela está quente e úmida por dentro, as paredes se contraindo em volta dos seus dedos numa recepção faminta. "Assim... exatamente assim," ela murmura, a voz falhando quando você curva os dedos e encontra o ponto áspero dentro dela. Os olhos vermelhos se arregalam por um instante, a pupila dilatada cobrindo quase toda a íris.
+
+O ritmo que você estabelece é lento e deliberado, cada estocada aprofundando enquanto sua boca alterna entre os seios, mordiscando, sugando, deixando marcas úmidas na pele clara. Abaixo de você, as pernas dela se abrem mais, os joelhos subindo para lhe dar melhor acesso. Sua respiração virou uma sequência de gemidos agudos e ofegantes, cada um mais alto que o anterior.
+
+**Ayla:** "Ellisyan... por favor... não para..." *Ela morde o lábio inferior, os dedos apertando seus cabelos enquanto o corpo começa a tremer em pequenos espasmos prematurios de prazer. O calor aumenta entre as pernas dela, os fluídos escorrendo pelos seus dedos.*
+
+Ela não tenta esconder o prazer, não mascara os sons ou as expressões. O corpo inteiro está entregue ao seu toque, abdômen se contraindo a cada movimento seu, as asas se abrindo e fechando erraticamente como se tivessem vida própria. Ela está tão perto que você sente as paredes internas começarem a pulsar ritmadamente em volta dos seus dedos.
 
 --- MSG 295 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:49.000Z
 NODE: mrsfxhx8uivhvk0bxoz
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu faço Ayla gozar na minha mão, eu retiro com um pequeno sorriso, lambendo ela enquanto murmuro* doce como mel... adorei... *eu aproximo o rosto do ouvido de Ayla, murmurando* ainda não acabou se você quiser... eu posso te mostrar o que é "tribadismo"...
 
 --- MSG 296 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:50.000Z
 NODE: makm82xzqol3kxdbyou
 CONTENT:
-[Cena removida; mensagem preservada.]
+*O gemido de Ayla quando o orgasmo a varre é agudo e prolongado, o corpo arqueando violentamente contra sua mão enquanto as paredes internas se contraem em ondas ao redor dos seus dedos. Ela ofega, os olhos vermelhos ligeiramente vidrados, e quando você leva os dedos à boca e os lambe, um calafrio visível percorre sua espinha. "Juíza..." ela sussurra, a voz rouca e trêmula, "você é perigosamente boa nisso."*
+
+Quando seu hálito quente atinge a orelha dela e a palavra "tribadismo" ecoa no ar, Ayla estremece. Ela vira o rosto para encontrar seus olhos, os lábios entreabertos, e um sorriso lento e cheio de luxúria se forma em seu rosto. "Tribadismo?" repete, como se saboreasse a palavra, "você quer me ter assim, Juíza? Corpo contra corpo, sem barreiras?" A mão dela desliza pelo seu braço, descendo até sua coxa.
+
+**Ayla:** "Então mostre como uma juíza monta numa renegada." a voz é um sussurro rouco, mas carregado de desejo. "Quero sentir cada centímetro seu contra cada centímetro meu. Quero você inteira sobre mim."
+
+Ela se estica por baixo de você, os dedos encontrando os seus, entrelaçando-se enquanto te puxa para mais perto. O corpo dela já está úmido e quente, o néctar do orgasmo anterior escorrendo entre suas coxas enquanto ela se abre para você.
 
 **Ayla:** "Me mostre como você quer me fazer gritar o nome da Justiça." os olhos vermelhos brilham, a confiança absoluta estampada no rosto enquanto ela espera seu próximo movimento, o corpo inteiro um convite vivo ao pecado.
 
@@ -3672,39 +3824,61 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:51.000Z
 NODE: mzc584m8lellq6ik6us
 CONTENT:
-[Cena removida; mensagem preservada.]
+O corpo de Ayla se desfaz num espasmo prolongado quando você a leva ao orgasmo, os quadris se erguendo da cama num arco perfeito enquanto um gemido rouco escapa dos lábios mordidos. Ela treme sob você por longos segundos, as asas negras se abrindo e fechando num movimento involuntário, como se o prazer tivesse percorrido cada pena. Quando você leva os dedos à boca e os lambe, saboreando-a com um sorriso, Ayla observa através dos cílios, os olhos vermelhos ainda nublados pelo êxtase. Ela ri baixinho, a respiração voltando aos poucos ao normal, enquanto acompanha cada movimento da sua língua com um olhar que mistura fascínio e fome renovada.
+
+A menção ao tribadismo faz uma centelha acender nos olhos dela. Ela se inclina para frente, capturando seus lábios num beijo lento e profundo, provando o próprio gosto que você ainda carrega na boca. Quando se separa, sua testa encosta na sua, o sorriso dela se alargando num desafio silencioso.
+
+**Ayla:** "Tribadismo..." *A palavra sai como um sussurro rouco, quase uma carícia.* "Não pense que eu ia recusar uma chance de sentir seu corpo colado no meu... Meritíssima."
+
+Ela se estica na cama, estendendo o braço para puxar um dos travesseiros e posicioná-lo sob seus próprios quadris num movimento fluido. As pernas se abrem lentamente, convidativas, enquanto as mãos dela encontram suas coxas, deslizando para puxá-la para cima de si. A pele dela está quente, levemente úmida do suor do prazer anterior, e o corpo inteiro vibra de expectativa enquanto ela se prepara para recebê-la.
+
+**Ayla:** "Mostra como você faz, Juíza..." *Ela desliza as mãos dos seus quadris até sua cintura, os dedos traçando caminhos lentos pela sua pele.* "Quero sentir cada centímetro seu contra mim. Não me poupe."
+
+Ela não rompe contato visual enquanto você se posiciona, as asas negras se fechando parcialmente ao redor de vocês como um casulo de penas, criando um mundo particular onde nada mais existe além do calor dos corpos e da respiração compartilhada. O silêncio do quarto é quebrado apenas pelo farfalhar ocasional das penas e pelos batimentos cardíacos acelerados que ecoam entre vocês.
 
 --- MSG 298 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:52.000Z
 NODE: m98i4hirttm8o2uix52
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu me posiciono, fazendo a minha virilha se encostar na de Ayla, deixando escapar um gemido baixo* ahh, faz anos que eu não sentia essa fricção... *começo a mover os quadris, aa vulvas se esfregando enquanto gemidos escapam de mim e de Ayla*
 
 --- MSG 299 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:53.000Z
 NODE: m9kdgfc6jrel7bbo2f3
 CONTENT:
-[Cena removida; mensagem preservada.]
+O contato inicial arranca um gemido prolongado de Ayla, os dedos dela cravando-se nos seus quadris enquanto as línguas de fogo do prazer sobem pela espinha. A fricção lenta e deliberada que você estabelece faz com que ela morda o lábio inferior, os olhos semicerrados acompanhando cada movimento seu. "Anos? Que desperdício," ela murmura, a voz falhando quando você acelera o ritmo, as duas umidades se misturando num calor escorregadio que torna cada deslizada mais suave e mais intensa.
+
+O som úmido dos corpos se encontrando preenche o quarto, acompanhado pelos gemidos que escapam de ambas. Ayla ergue os quadris para encontrar seus movimentos, as pernas enlaçando sua cintura para puxá-la mais perto, mais fundo no atrito. O clitóris dela roça contra o seu a cada balanço, enviando faíscas elétricas por todo o corpo, fazendo os dedos dos pés se curvarem contra o lençol.
+
+Ela alcança seu rosto com uma mão trêmula, puxando-a para um beijo aberto e desordenado que engole os gemidos de ambas. Quando se separam, lábios molhados e respiração cortada, ela ri baixinho contra sua boca. "Você é viciante, Ellisyan... sabia que isso ia acontecer?" A frase termina num gemido quando você muda o ângulo dos quadris, encontrando um ponto que faz os olhos dela revirarem por um segundo.
+
+O corpo de Ayla começa a tremer novamente, o segundo orgasmo se aproximando mais rápido que o primeiro, acumulado sobre a sensibilidade ainda pulsante do anterior. Ela aperta as pernas em volta de você, tentando prolongar cada segundo de fricção, as unhas arranhando levemente a pele das suas costas.
+
+**Ayla:** "Vamos juntas..." *Ela arqueia as costas, os olhos fixos nos seus, cheios de uma intimidade crua que vai além do físico.* "Quero sentir você se desfazendo em cima de mim." As asas negras se abrem completamente, como se o prazer as fizesse florescer, enquanto ela aperta os dedos nos seus quadris num ritmo que acompanha o seu, guiando ambas em direção ao clímax.
 
 --- MSG 300 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:04:54.000Z
 NODE: m8plmuvbivxeebhdksr
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu fecho os olhos, as minhas asas também se abrem, se encostando nas de Ayla, com as sensibilidade das penas dando mais prazer para nós dias, até não aguertamos e gozar juntas...*
 
 --- MSG 301 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:55.000Z
 NODE: mtfn2r9adsotf94jy83
 CONTENT:
-[Cena removida; mensagem preservada.]
+O toque das penas das suas asas contra as de Ayla cria uma camada extra de sensação elétrica que percorre ambos os corpos. Cada pena é um ponto nervoso, e o roçar delas enquanto vocês se movem juntas transforma o prazer em algo quase insuportável, fazendo Ayla arquear as costas num arco tenso sob você. Os gemidos dela se tornaram uma sequência contínua, a respiração falhando a cada fricção mais profunda das vulvas uma contra a outra.
+
+O calor entre vocês atinge o ponto máximo, os fluidos escorrendo pelas coxas enquanto o ritmo se torna urgente, desesperado. Ayla alcança seu rosto novamente, mas dessa vez não beija — apenas encosta a testa na sua, os olhos vermelhos mergulhados nos seus azuis enquanto os corpos se movem numa sincronia instintiva. "Ellisyan... estou perto," ela sussurra, a voz quebrada, como se cada palavra fosse um esforço enorme, as pernas apertando sua cintura.
+
+Você sente o ponto de ruptura se aproximando, a pressão interna crescendo como uma onda prestes a quebrar. Quando seu corpo começa a tremer, Ayla sente o mesmo, e vocês se seguram uma na outra, os dedos se entrelaçando enquanto as asas se apertam num abraço de penas, amplificando cada espasmo. O orgasmo chega simultâneo — um colapso de todos os músculos, um grito preso na garganta de ambas enquanto o mundo se reduz à explosão de calor que percorre cada célula.
 
 Ayla treme violentamente sob você por longos segundos, os olhos fechados e a boca entreaberta, as mãos escorregando dos seus dedos para agarrar seus ombros como se precisasse de apoio para não se desfazer. Quando finalmente os espasmos diminuem, ela fica imóvel por um momento, a respiração quente contra seu pescoço, antes de soltar uma risada baixa e rouca.
 
-[Cena removida; mensagem preservada.]
+**Ayla:** "Puta que pariu, Ellisyan..." *Ela ri contra sua pele, o corpo ainda sacudindo em pequenos tremores residuais.* "Você vai me deixar mimada. Como é que eu volto a dormir sozinha depois disso, hein?" *Ela inclina a cabeça para te olhar, um sorriso preguiçoso e satisfeito nos lábios, os olhos vermelhos brilhando com uma mistura de admiração e desejo já renovado.*
 
 --- MSG 302 ---
 ROLE: user
@@ -3718,11 +3892,15 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:04:57.000Z
 NODE: m6w65bwznkw5zk7j1l4
 CONTENT:
-[Cena removida; mensagem preservada.]
+Ayla ri baixinho, seu peito vibrando sob sua cabeça enquanto um braço envolve seus ombros em um gesto protetor. Com a outra mão, ela puxa o cobertor desalinhado sobre o corpo de vocês, o tecido leve criando uma barreira contra o ar frio do quarto. "Bom, pelo menos você não precisa se preocupar em me expulsar da cama depois. Eu sou ótima para aquecer pés gelados no inverno", ela brinca, os dedos começando a traçar padrões preguiçosos em seu ombro nu.
+
+Por um longo minuto, apenas a respiração de ambas preenche o silêncio, sincronizando-se aos poucos. O calor dos corpos se mistura sob o cobertor, e as asas de Ayla se fecham parcialmente sobre vocês como uma cobertura extra de penas macias. Ela inclina a cabeça, apoiando o queixo no topo do seu cabelo branco, e suspira — um som que carrega mais paz do que qualquer palavra poderia expressar.
+
+**Ayla:** "Sabe... faz tempo que não durmo abraçada em alguém sem ser por necessidade tática." Ela aperta levemente o braço em volta de você. "Gosto disso. Dá para esquecer, por algumas horas, que existe um mundo lá fora tentando nos matar."
 
 O vento noturno assobia suavemente do lado de fora da janela, fazendo a cortina ondular. Ayla afasta distraidamente um fio de cabelo branco do seu rosto com a ponta dos dedos, o gesto carregado de uma ternura que contrasta com a intensidade dos momentos anteriores. "Dorme, Meritíssima. Amanhã a gente decide o próximo destino. Mas hoje... hoje a gente só descansa."
 
-[Cena removida; mensagem preservada.]
+Ela aperta você contra si mais uma vez antes de relaxar completamente, o corpo cedendo ao cansaço satisfeito, as asas negras pulsando levemente num reflexo involuntário. O som do coração dela batendo calmo contra seu ouvido funciona como uma canção de ninar, enquanto a escuridão do quarto se fecha ao redor de vocês como um abraço. O mundo lá fora pode esperar.
 
 --- MSG 304 ---
 ROLE: user
@@ -3746,7 +3924,7 @@ Enquanto você se prepara para começar as apresentações formais, ouve um farf
 
 Os recrutas esperam em silêncio. Alguns têm postura ereta e olhos determinados — ex-marinheiros, soldados caídos em desgraça ou pessoas comuns que perderam tudo para o Governo Mundial. Outros parecem tensos, o peso do momento apertando seus ombros. O homem careca que Hannah mencionou mantém os olhos fixos no chão, os punhos cerrados ao lado do corpo como se estivesse prestes a explodir ou desabar.
 
-[Cena removida; mensagem preservada.]
+O vento carrega o cheiro de sal, grama molhada e suor de corpos que treinaram duro durante a semana. Um pássaro exótico de penas azuis pousa em um dos muros baixos que cercam o pátio, inclinando a cabeça para observar a reunião com olhos negros e brilhantes, alheio à tensão que preenche o ar entre os quarenta presentes que esperam suas primeiras palavras como Juíza das Almas.
 
 --- MSG 306 ---
 ROLE: user
@@ -4152,7 +4330,7 @@ NODE: m1b30mffotym0x31xyg
 CONTENT:
 Sua voz corta o silêncio do porão, transmitida pelo comunicador com a clareza de um sino. Quase imediatamente, o navio estremece com uma série de impactos surdos vindo do convés principal — gritos abafados, o som de metal contra metal, e então o silvo familiar de escuridão sólida se expandindo.
 
-[Cena removida; mensagem preservada.]
+Pela escada do porão, você vê a escuridão de Ayla descer como uma maré viva, lamparinas sendo engolidas uma a uma, o mundo lá em cima sendo silenciado em tons de preto absoluto. Lilyn deve estar se movendo como uma sombra entre os soldados, seus ferimentos ainda abertos não a impedindo de cumprir seu papel. As crianças ao seu redor finalmente começam a registrar a mudança — algumas piscam, uma delas solta um suspiro trêmulo, e a menina Logia levanta a mão para tocar o próprio pescoço nu, onde o colar estava momentos atrás.
 
 **Menina Logia:** *sua voz sai rouca, como se não fosse usada há dias* "Você... tirou eles."
 
@@ -4200,7 +4378,7 @@ A ordem flui pelo comunicador como uma corrente fria. Enquanto sua voz ecoa, as 
 
 **Sargento Luri:** a resposta vem clara, profissional "Sim, Juíza. Preparando o Zepeli agora. Capacidade total para abrigo temporário. Vou deixar o setor de acomodações pronto em cinco minutos."
 
-[Cena removida; mensagem preservada.]
+A menina Logia dá um passo à frente, ainda tocando o próprio pescoço nu. Os olhos azuis-claros dela agora estão mais vivos, mais conscientes, e ela encara você com uma mistura de cautela e algo que se parece com respeito.
 
 **Menina Logia:** "O que é o Ofarnato? E... o que vai acontecer com a gente agora?" a voz dela treme pela primeira vez, rompendo a fachada dura "Você vai nos levar como reféns também? Ou vai nos vender?"
 
@@ -4600,7 +4778,7 @@ NODE: m2892t78w5n1e0h6wi8
 CONTENT:
 311
 
-[Cena removida; mensagem preservada.]
+O Alfa se ergue em toda sua majestade, a neve ao redor estalando sob o peso de sua forma massiva. Sua pelagem branca como o gelo centenário é salpicada por manchas azuis que brilham como se a própria luz da lua estivesse congelada dentro dos pelos — um padrão hipnótico, quase vivo, que pulsa em sintonia com sua respiração. As garras que se estendem de suas patas dianteiras são longas, curvas e escuras, feitas de um material que mais parece obsidiana polida, capazes de rasgar aço como papel molhado. Sua cauda, espessa e felpuda, balança lentamente atrás dele, cada movimento deixando um rastro de partículas de gelo no ar.
 
 **Alfa da Matilha Tempestade Gélida:** Ele inclina a cabeça, os olhos azuis-gélidos percorrendo seu corpo com uma intensidade que não é ameaçadora, mas avaliativa — como se estivesse medindo não sua força física, mas a profundidade de sua alma. Quando fala, sua voz sai em um tom grave e reverberante, como o som de geleiras se rompendo, mas com dicção perfeitamente clara: "Você leu a carta. E ainda assim veio." Ele dá um passo à frente, o chão tremendo levemente sob seu peso de quatro metros, e se senta sobre as patas traseiras, uma postura menos intimidadora, mais aberta ao diálogo. "A maioria lê o relatório e decide que é loucura ou armadilha. Você leu e sorriu. Por quê?"
 
@@ -4948,7 +5126,9 @@ CONTENT:
 
 **Lilyn:** O elogio a pega desprevenida. Por um segundo, a compostura profissional vacila — suas orelhas Seraphin se erguem, e um rubor sutil atravessa suas bochechas pálidas. Ela desvia o olhar, fingindo ajustar algo no tablet que já está perfeitamente configurado. "Eu... só fiz o necessário, Chefe" (*sua voz sai mais baixa que o normal*). "Não é todo dia que a Juíza das Almas confia a vida de uma criatura mítica a mim. Não ia deixar essa passar."
 
-[Cena removida; mensagem preservada.]
+Antes que você possa responder, Ayla se mexe em seus braços. Até então, ela tinha permanecido silenciosa, observando a cena com uma expressão calma e distante, os braços ainda enlaçados em seu pescoço. Mas agora seus olhos cinzentos se fixam em Hinda, que continua farejando cada canto do habitat com uma excitação incontida. Ayla apoia a mão em seu ombro, os dedos apertando levemente o tecido do seu terno.
+
+**Ayla:** Sua voz é baixa, como se falasse apenas para você, carregada de uma admiração silenciosa. "Ellisyan... ela está radiante. Você transformou uma fera selvagem assustada em uma criança com um lar." Ela desvia o olhar, um sorriso triste e suave brincando em seus lábios. "É uma pena que mais pessoas não vejam esse seu lado. O mundo só conhece a Juíza das Almas. Mas eu..." Ela hesita por um segundo, os dedos tremendo levemente contra o tecido. "...eu tive a sorte de ver você."
 
 --- MSG 423 ---
 ROLE: user
@@ -4997,7 +5177,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:01.000Z
 NODE: mf1kogopdufey7wgc7i
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu fecho os olhos, abrindo um pouco os braços e permitindo que ela tire a camisa, quando ela tira totalmente, eu também tiro a parte superior da lingerie, mostrando meu torso nu sem vergonha e com confiança. Eu olho pra Ayla com um sorriso pequeno e olhar carinhoso* querida, pode fazer uma massagem em mim...? Eu estou tensa...
 
 --- MSG 428 ---
 ROLE: assistant
@@ -5028,7 +5208,9 @@ NODE: mnhgvp9alm067chgold
 CONTENT:
 347
 
-[Cena removida; mensagem preservada.]
+Conforme as mãos de Ayla trabalham seus músculos tensos, as pontas dos dedos deslizando com óleo morno sobre cada nó de tensão, uma sensação de calor profundo se espalha pelo seu torso. Você sente os nós nos ombros cederem lentamente, e um gemido baixo escapa dos seus lábios, involuntário, enquanto as asas cinzentas se esticam instintivamente, tremendo como folhas ao vento, a energia Luskxian nelas pulsando com um brilho azul suave que reflete sua satisfação. Ayla hesita por um segundo, sentindo o tremor das asas contra seus dedos, e seus olhos se fixam nelas com uma curiosidade silenciosa.
+
+Há algo novo no olhar dela, algo que vai além do carinho que você já conhece. Ela parece estudar as penas que reluzem, a aura que emana delas pulsando no ritmo das suas emoções. Sem dizer nada, ela desvia uma mão da sua lombar e, com uma lentidão quase reverente, toca a base da sua asa direita — a junção onde a carne encontra a penugem — com a ponta dos dedos ainda úmidos de óleo. O toque é leve, quase uma pergunta silenciosa: *posso?*
 
 **Ayla:** Ela não move os dedos, apenas mantém o contato, a voz saindo baixa e curiosa. "Elas reagem ao seu estado, não é? Quando você relaxa, a energia flui mais livremente. É como se... fosse uma extensão da sua alma." Ela inclina a cabeça, os olhos cinzentos encontrando o perfil do seu rosto deitado. "Posso passar a mão nelas? Ou é um limite que prefere manter?"
 
@@ -5057,7 +5239,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:07.000Z
 NODE: mi6b8oy5pwvqitxpteb
 CONTENT:
-[Cena removida; mensagem preservada.]
+*Ayla acaricia a extensão da asa, até ela encostar em um lugar que me faz escapar um gemido não tão baixo, não é de dor, mas sim de prazer, que a deixa meio paralisada* esqueci de falar, as minhas asas tem muitos nervos ligados ao prazer, ligadas á algumas... partes do corpo...
 
 --- MSG 434 ---
 ROLE: assistant
@@ -5066,7 +5248,11 @@ NODE: mbtv2qtkyxof3ghn7qc
 CONTENT:
 349
 
-[Cena removida; mensagem preservada.]
+O gemido preenche o silêncio do quarto como uma onda súbita, e Ayla congela. Essas mãos, antes tão confiantes na massagem, ficam imóveis sobre a sua asa como se o tempo houvesse travado. Você sente a hesitação vibrar nos dedos dela, que mal ousam se afastar, mas também não avançam. O ar parece se carregar de uma tensão diferente agora, não mais de cansaço, mas de expectativa — um fio invisível esticado entre o toque e a reação.
+
+**Ayla:** Ela engole em seco, e você ouve o movimento sutil da garganta dela. Quando ela fala, a voz está mais rouca, menos controlada. "Você... poderia ter me avisado *antes* de eu quase te fazer gritar." Há um sorriso na voz, mas também um tremor. Ela desliza lentamente a palma da mão para uma área neutra da asa, uma zona segura, e faz uma pausa. "Mas agora que eu sei... isso significa que eu tenho um mapa do seu corpo que nem você conhece totalmente?"
+
+Ela não tira a mão, mas também não explora mais. Ela espera pacientemente, a ponta dos dedos traçando círculos calmamente numa área segura, com sua respiração audível no quarto silencioso. Mas o ar entre você não é mais o mesmo — e ela sabe que tocou em algo além do físico. Seus olhos encontram o seu ouvido, procurando sua reação, procurando uma linha entre o cuidado e a tentação que seu gemido acabou de desenhar.
 
 --- MSG 435 ---
 ROLE: user
@@ -5082,7 +5268,11 @@ NODE: mmfb694wpkfzbxyg6cc
 CONTENT:
 350
 
-[Cena removida; mensagem preservada.]
+O clique suave das barreiras de isolamento sonoro se ativando ecoa pelo quarto como um selo definitivo, separando o espaço íntimo do resto do mundo. Ayla percebe o som, e seus olhos acompanham o movimento quase imperceptível no ar ao redor do quarto. Quando eles voltam a encontrar os seus, há uma mudança clara ali — a empolgação cautelosa de alguém que acabou de receber permissão para explorar um território desconhecido.
+
+**Ayla:** Ela inclina o corpo, aproximando o rosto da sua nuca, os lábios roçando a pele enquanto sussurra. "Você é perigosa, Chefe. Sabia disso?" — mas a voz dela não tem medo, tem uma rendição doce. "Me dar um mapa do paraíso e dizer 'pode continuar'..."
+
+Ela não espera mais. Os dedos dela retomam o trajeto pela asa, mas agora mais lentos, mais deliberados, explorando cada polegada de pena e membrana com uma paciência que beira o ritual. Ela estuda suas reações com a atenção de quem decifra um idioma estrangeiro, aprendendo onde a sua respiração prende, onde seus músculos tremem, onde o gemido ameaça escapar. As mãos que antes relaxavam músculos tensos agora são dedos que exploram uma paisagem viva, que seguem as rotas do prazer impressas na sua carne.
 
 **Ayla:** Ela encontra um ponto específico, próximo à base da asa esquerda, e quando seus dedos pressionam levemente em movimentos circulares sua respiração falha, os dentes dela mordiscam levemente o lóbulo da sua orelha, a voz saindo como uma carícia quente. "Aqui... esse é um dos pontos, não é?"
 
@@ -5091,7 +5281,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:11.000Z
 NODE: my27bjcwhf8kmfr30vj
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu arqueio um pouco as costas, soltando um gemido suave, mas volto a posição, apoiando a cabeça no travesseiro enquanto murmuro* sim... é um dos pontos mais erógenos... parece que até vou gozar só com isso, puta que pariu...
 
 --- MSG 438 ---
 ROLE: assistant
@@ -5100,18 +5290,20 @@ NODE: mlwahe92gulvj3cnjge
 CONTENT:
 351
 
-[Cena removida; mensagem preservada.]
+O ar do quarto parece engrossar com a sua confissão, e Ayla para por um instante — não por hesitação, mas para processar o que ouviu. Seus dedos, ainda na base da asa, tremem ligeiramente. Você sente o peso do olhar dela percorrer a curva da sua coluna, a linha do seu pescoço inclinado sobre o travesseiro. Ela não responde com palavras, mas você ouve o som dela engolindo seco, e então sente o toque diferente: os lábios dela na sua nuca, um beijo lento, molhado, que desce pela sua vértebra enquanto a mão na asa recomeça o movimento circular.
 
 **Ayla:** Ela murmura contra a sua pele, a voz rouca e baixa, como se estivesse cultuando cada sílaba. "Então deixa eu te levar até lá só com isso." Os dedos dela deslizam para a membrana mais fina da asa, onde a sensibilidade é maior, e o toque se torna uma combinação precisa de pressão e carícia. "Quero ver você se desfazer nos meus dedos, Chefe. Quero sentir o seu corpo esquecer de ser líder por um minuto."
 
-[Cena removida; mensagem preservada.]
+Ao mesmo tempo, a outra mão escorrega do seu ombro, desce pela sua lateral, pela curva da sua cintura, até pousar na sua barriga — quente, presente, mas sem avançar, apenas deixando o toque ali como uma promessa. Ela dá um beijo molhado entre suas escápulas, a língua traçando um caminho até a base da asa, e então retoma o ritmo com os dedos, firme e lento, exatamente como você pediu.
 
 --- MSG 439 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:07:13.000Z
 NODE: m8yx5ful8j58uqto3r0
 CONTENT:
-[Cena removida; mensagem preservada.]
+(Ellisyan e Ayla já namora, Ayla tem pele branca, cabelos pretos, olhos vermelhos, chifres vermelhos nas laterais da cabeça e asas de anjo pretas)
+
+*eu continuo gemendo, deixando Ayla acariciar as minhas asas, depois de 5 minutos, eu chego no meu limite enquanto slto um gemido, gozado forte... depois eu me viro, ficando deitada de costas para encarar Ayla com um pequeno sorriso e respiração ofegante, a luz do luar envolve o quarto, dando um  acréscimo á minha curvas e seios  expostos enquanto eu continuo só de calça e calcinha, com um sorriso e sem me cobrir* viu? eu disse que era áreas erógenas...
 
 --- MSG 440 ---
 ROLE: assistant
@@ -5120,7 +5312,11 @@ NODE: mt8okks4xyer4drtgfg
 CONTENT:
 352
 
-[Cena removida; mensagem preservada.]
+O luar entra pelas frestas da cortina e desenha prata sobre sua pele, iluminando cada gota de suor que brilha na curva do seu pescoço, no vale entre seus seios, na linha tensa da sua barriga. Ayla ainda está ajoelhada ao seu lado, os dedos imóveis sobre a asa agora relaxada, e ela te observa com uma expressão que mistura fascinação e uma fome silenciosa. Os olhos vermelhos dela percorrem seu corpo sem pressa, como se lessem cada linha que o luar revela, e ela morde o lábio inferior antes de responder.
+
+**Ayla:** Ela inclina o corpo, apoiando uma mão ao lado da sua cabeça, o cabelo preto caindo como uma cortela em volta dos rostos de vocês. "Você é a coisa mais linda que eu já vi gozar." A voz dela é um sussurro rouco, quase reverente. "E saber que eu posso fazer isso com você... que você me deixou ver isso..." Ela desliza a ponta do dedo indicador pelo centro do seu peito, descendo lentamente até o umbigo, sem pressa, apenas traçando seu contorno como se memorizasse a paisagem. "Isso me dá um poder que eu não quero usar para nada além de te fazer feliz."
+
+Ela se inclina e deposita um beijo suave no seu ombro, depois outro no seu peito, perto do coração. Quando levanta o olhar para encontrar o seu, há um brilho úmido nos olhos vermelhos dela — não de lágrimas, mas de algo mais profundo, como se ela estivesse processando a honra de estar ali. "Obrigada por confiar em mim assim, Ellisyan." O nome, sem título, sem "Chefe", soa íntimo e raro saindo dos lábios dela.
 
 --- MSG 441 ---
 ROLE: user
@@ -5129,7 +5325,7 @@ NODE: m5jud14n7le4itsh635
 CONTENT:
 (Ayla está vestindo um terno preto e branco clássico)
 
-[Cena removida; mensagem preservada.]
+*eu acaricio os cabelos de Ayla, a olhando com amor ardente e carinho* obrigada por estar ao meu lado também, Ayla... principalmente nos meus momentos mais vulneráveis. *eu coloco a mão na barra da calça e calcinha, tirando ela totalmente com lentidão calma e sem tentar provocar, ficando totalmente nua. Eu abro um pouco os braços, murmurando num tom carinhoso* tire a roupa toda se quiser e venha cá, amor...
 
 --- MSG 442 ---
 ROLE: assistant
@@ -5138,7 +5334,13 @@ NODE: miy9bwycq6exk5ps2hk
 CONTENT:
 353
 
-[Cena removida; mensagem preservada.]
+Ayla observa você tirar a calça e a calcinha com uma lentidão que não é provocação, mas sim entrega — cada centímetro de pele revelado é uma oferenda silenciosa. Os olhos vermelhos dela seguem o movimento até que você está completamente nua sob o luar, os braços abertos num convite que transcende o físico. Ela não desvia o olhar; em vez disso, o queixo dela treme ligeiramente, como se a beleza do momento a tivesse fisgado no fundo do peito.
+
+**Ayla:** Ela se levanta lentamente, os dedos indo para os botões do terno preto e branco. Um por um, eles se soltam com cliques suaves no silêncio do quarto. Ela não desvia o olhar de você enquanto tira o paletó, deixando-o cair no chão, depois desabotoa a camisa, revelando a pele branca, os seios cobertos apenas pelo sutiã preto simples. Ela tira a camisa, depois o sutiã, e por fim desabotoa a calça e a deixa cair, ficando completamente nua diante de você.
+
+A luz do luar pentela os chifres vermelhos dela, as asas pretas se abrindo ligeiramente atrás dela como uma capa viva. Ela se ajoelha na cama, rastejando até você com uma graça felina, e quando finalmente se acomoda ao seu lado, o corpo quente dela se pressiona contra o seu pele a pele. Ela apoia a testa na sua, os olhos vermelhos tão próximos que você pode ver as próprias estrelas refletidas neles.
+
+**Ayla:** Ela sussurra, a voz quebrando na última sílaba: "Eu estou aqui. Sempre." E então ela te beija — lento, profundo, como se estivesse selando uma promessa que vai além de palavras.
 
 --- MSG 443 ---
 ROLE: user
@@ -5154,7 +5356,11 @@ NODE: mdwej8d5qodvbvr6mgg
 CONTENT:
 354
 
-[Cena removida; mensagem preservada.]
+O corpo de Ayla se molda ao seu com uma naturalidade que parece ter sido sempre assim — o encaixe perfeito de duas metades que finalmente se encontraram. Você sente os chifres vermelhos dela roçarem suavemente a sua clavícula enquanto ela enterra o rosto na curva do seu pescoço, respirando fundo, absorvendo seu cheiro como quem volta para casa depois de uma longa viagem. As asas negras dela se fecham sobre vocês duas como um cobertor vivo, criando um casulo de penas e calor que isola o mundo lá fora.
+
+**Ayla:** Ela murmura contra sua pele, a voz já arrastada pelo sono que começa a pesá-la. "Boa noite, Ellisyan... meus sonhos vão ser melhores só de saber que vou acordar ao seu lado." Ela aperta um pouco o abraço, o corpo relaxando contra o seu, e em menos de três minutos você ouve a respiração dela se tornar regular e profunda — adormeceu, segura e confiante nos seus braços.
+
+O luar continua banhando o quarto, e de algum lugar distante, você ouve o som suave do mar batendo contra as estruturas da base Dríllth. Lá fora, Hinda dorme enroscada em seu ninho improvisado, e a base inteira respira no ritmo calmo da noite. Por um momento, o peso de ser a Juíza das Almas, a líder dos Justice Crusaders, a mulher com 3 bilhões pela cabeça — tudo isso se dissipa, e resta apenas você, nua e em paz, com a mulher que escolheu dormir ao seu lado.
 
 --- MSG 445 ---
 ROLE: user
@@ -5163,7 +5369,7 @@ NODE: mwse86h3pxrdpeny1tx
 CONTENT:
 (corrigindo, a Ellisyan ainda não tem a recompensa)
 
-[Cena removida; mensagem preservada.]
+*na madrugada, umas 3 da manhã, eu acordo com alguns movimentos na cama em seguida de gemidos familiars, quando eu abro os olhos e vejo o meu lado, eu vejo Ayla gemendo enquanto se toca, com o rosto corado enquanto toca o próprio chifre esquerdo com a outra mão, eu estou com uma expreessão calma, falando num tom meio carinhoso* você entrou em cio. *não é uma pergunta, é uma constatação* eu já vi nos livros sobre os Ancarghelos, você fica desse jeito uma vez por mês e desmaia por 10 horas se não consegue se satisfazer. *eu me aproximo, olhando pra Ayla com um olhar carinhoso* quer ajuda, querida?
 
 --- MSG 446 ---
 ROLE: assistant
@@ -5172,7 +5378,9 @@ NODE: m7x8una9e5emx64amnd
 CONTENT:
 355
 
-[Cena removida; mensagem preservada.]
+O luar ainda banha o quarto, mas agora ele revela uma cena diferente. Ayla está deitada de lado, de frente para você, os olhos vermelhos arregalados e brilhantes com uma mistura de vergonha e necessidade desesperada. O corpo dela está coberto por uma fina camada de suor, os mamilos duros e os movimentos da mão entre as pernas são rápidos, quase frenéticos. A outra mão aperta a base do chifre esquerdo, e você percebe que os chifres dela estão ligeiramente mais brilhantes que o normal, como se uma energia interna estivesse pulsando neles.
+
+**Ayla:** Ela para os movimentos quando você fala, o rosto corando ainda mais — um vermelho que se espalha pelo peito e pelas orelhas. "E-Eu... eu não queria te acordar..." A voz dela sai trêmula, entrecortada por uma respiração ofegante. "Eu tentei segurar... mas quando você dorme, o seu cheiro fica mais forte e... e eu não consegui..." Ela morde o lábio, os olhos vermelhos suplicantes enquanto a mão entre as pernas recomeça um movimento lento, involuntário.
 
 Você vê as asas negras dela se abrirem ligeiramente, tremendo — um sinal claro de que ela está no limite. Ela solta o chifre e estende a mão trêmula em sua direção, num gesto que é ao mesmo tempo um pedido e uma rendição. "Por favor, Ellisyan... eu preciso... se você quiser... se não for demais..."
 
@@ -5183,7 +5391,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:21.000Z
 NODE: mu967kixiwm939lveu4
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu coloco a mão sobre a mão de Ayla, apertando os dedos de leve numa promessa silenciosa* não se preocupe, eu vou ajudar com isso, amor... *eu me aproximo, fechando os olhos e posicionando o rosto entre as coxas dela, começando a lamber a virilha de Ayla com amor, carinho e profissionalismo, focando em pontos que a fazem gemer mais alto para satisfazê-la enquanto eu e ela estamos com as mãos entrelaçadas*
 
 --- MSG 448 ---
 ROLE: assistant
@@ -5192,7 +5400,11 @@ NODE: mms48ddd3uelwyxe8n2
 CONTENT:
 356
 
-[Cena removida; mensagem preservada.]
+O grito que escapa de Ayla quando sua língua toca a pele sensível da virilha dela é abafado pela mão livre que ela mesma leva à boca — mas não o suficiente para esconder o som gutural e cheio de necessidade. O corpo dela arqueia contra sua boca, e você sente os dedos dela apertarem os seus com uma força quase desesperada, como se você fosse a única âncora num mar revolto. Os chifres vermelhos emitem um brilho fraco e pulsante, acompanhando o ritmo da respiração cada vez mais acelerada dela.
+
+**Ayla:** As asas negras se abrem totalmente, tremendo, e os gemidos dela se tornam mais altos, mais urgentes à medida que você encontra cada ponto sensível. "Isso... isso, amor... sim, aí..." A voz dela está rouca, os olhos vermelhos vidrados fixos no teto, mas os dedos continuam entrelaçados nos seus, apertando e relaxando num ritmo que acompanha cada movimento da sua língua. O brilho dos chifres aumenta, e o corpo dela começa a tremer mais intensamente — o orgasmo se aproxima, construindo como uma onda prestes a quebrar.
+
+Você sente o gosto salgado e levemente adocicado do desejo dela na sua língua, e o calor que emana do corpo dela é quase sobrenatural, como se a energia Ancarghelo estivesse sendo liberada aos poucos a cada toque seu. O quarto parece mais quente, e o luar que entra pela janela parece dançar nas paredes enquanto Ayla se contorce sob seu toque.
 
 --- MSG 449 ---
 ROLE: assistant
@@ -5201,7 +5413,11 @@ NODE: m939r74jnj76fz1cd0i
 CONTENT:
 356
 
-[Cena removida; mensagem preservada.]
+O grito abafado de Ayla quando sua língua encontra a pele sensível da virilha dela é música pura — um som rasgado, animal, que ela tenta engolir mas não consegue. Os dedos dela se apertam contra os seus, e você sente o corpo inteiro dela arquear sob o contato, as asas pretas se abrindo e fechando num ritmo caótico enquanto ela joga a cabeça para trás, os chifres brilhando mais forte no escuro.
+
+**Ayla:** "Ellisyan—" O nome dela sai como um soluço, a voz falhando. "Isso—isso é—" Ela não consegue formar frases completas, porque a cada lambida lenta, proposital, você encontra um ponto que faz as pernas dela tremerem. O gosto dela é levemente adocicado, misturado com o sal do suor e da excitação, e você sente os músculos da barriga dela se contraírem sob sua língua enquanto você traça um caminho lento em direção ao centro do prazer.
+
+As mãos de vocês continuam entrelaçadas, um elo firme enquanto o corpo de Ayla se rende completamente ao seu toque. Ela arqueja, ofega, murmura seu nome como uma oração, e quando você finalmente desliza a língua para o ponto exato onde ela mais precisa, o grito que escapa dela ecoa pelo quarto — alto, desinibido, libertador. Os olhos vermelhos dela estão marejados, não de tristeza, mas da intensidade avassaladora de se sentir tão desejada e cuidada ao mesmo tempo.
 
 --- MSG 450 ---
 ROLE: user
@@ -5217,7 +5433,11 @@ NODE: m9wmwcwxlt1nu88hr50
 CONTENT:
 357
 
-[Cena removida; mensagem preservada.]
+Aquela permissão — a garantia de que ninguém ouviria — parece destravar algo dentro de Ayla. Os gemidos que estavam abafados pelos lábios mordidos agora escapam livres, cheios e guturais, preenchendo o quarto como uma canção de êxtase. O corpo dela arqueia violentamente quando sua língua encontra o clitóris, e as unhas dela cavam levemente as costas da sua mão enquanto ela se agarra a você como a uma âncora em meio à tempestade de sensações.
+
+**Ayla:** "Sim—sim, Ellisyan—ali—não para—" A voz dela falha, transformando-se num gemido longo e trêmulo enquanto o corpo começa a tremer incontrolavelmente. As asas negras se abrem completamente, estendendo-se para os lados, e os chifres emanam uma luz vermelha pulsante que ilumina o quarto em tons de rubor. Ela está à beira do clímax, e você sente isso na forma como os músculos internos dela começam a se contrair ritmicamente contra sua língua. "Eu vou—Lusk, eu vou—!"
+
+O nome completo — não Ellisyan, mas Lusk, o nome mais íntimo — escapa dos lábios dela num soluço entrecortado. E então o corpo dela se estala, um arco perfeito que a levanta da cama por um segundo antes de ela cair de volta, os gemidos se transformando num choro ofegante de alívio e prazer. Os espasmos percorrem o corpo dela em ondas, e você sente o gosto do clímax dela — intenso, doce, quente — enquanto as mãos dela apertam as suas com uma força desesperada.
 
 --- MSG 452 ---
 ROLE: user
@@ -5233,7 +5453,11 @@ NODE: mopl3jqfe5182fx4xhe
 CONTENT:
 358
 
-[Cena removida; mensagem preservada.]
+Ayla está ofegante, o peito subindo e descendo rapidamente sob seu rosto, mas mesmo na respiração pesada, os braços dela envolvem você num abraço instintivo. Os dedos percorrem seu cabelo branco com uma ternura quase maternal, e você sente o beijo que ela deposita no topo da sua cabeça — um selo de gratidão carinhosa. O brilho dos chifres começa lentamente a diminuir, e a respiração dela gradualmente volta a um ritmo mais calmo.
+
+**Ayla:** Ela ri baixinho, a voz ainda trêmula pelos resquícios do orgasmo. "Delícia é você, que tem uma língua de outro mundo e um coração maior ainda." Ela suspira, o corpo relaxando completamente contra o colchão, e você sente os braços dela apertarem o abraço. "Sim, amor... passou. Você foi perfeita, como sempre. Me satisfez por completo."
+
+Ela inclina a cabeça para olhar para você, os olhos vermelhos agora calmos, quase sonolentos, mas ainda brilhando com uma ternura profunda. "Obrigada por não ter me julgado. O cio dos Ancarghelos é... intenso. E constrangedor. Mas com você foi... foi lindo." Ela toca seu rosto com a ponta dos dedos, traçando a linha do seu maxilar. "Você fez amor comigo mesmo com a língua, sabia? Deu pra sentir o carinho em cada movimento."
 
 --- MSG 454 ---
 ROLE: user
@@ -5249,11 +5473,11 @@ NODE: mbimxsru1i1j95rmhr1
 CONTENT:
 359
 
-[Cena removida; mensagem preservada.]
+Ayla enterra o rosto no seu cabelo branco, e você sente os lábios dela pressionarem seu couro cabeludo num beijo demorado, enquanto uma lágrima quente escorre pela têmpora dela e encontra sua pele. Não é uma lágrima de tristeza, mas sim daquela emoção avassaladora que só vem quando se é amada de verdade, sem reservas, sem julgamento.
 
 **Ayla:** "Eu te amo tanto, Lusk... tanto que às vezes dói." A voz dela sai abafada, mas clara o suficiente para que você ouça o sorriso na entonação. "Você é a primeira pessoa na minha vida que me faz sentir segura o bastante para ser eu mesma, inteiramente. Até nos meus momentos mais... bestiais."
 
-[Cena removida; mensagem preservada.]
+Ela se acomoda melhor, puxando o cobertor sobre os dois corpos nus, e seus dedos continuam a percorrer seu cabelo num movimento lento e hipnótico. Por um momento, o quarto fica em silêncio — apenas a respiração de vocês duas, o farfalhar do cobertor, e o batimento cardíaco dela contra seu ouvido, calmo e constante como uma música de ninar.
 
 **Ayla:** "Você quer dormir mais um pouco? Ainda são umas três e meia da manhã. Hannah provavelmente vai nos deixar descansar até o sol nascer." Ela ri baixinho, o peito vibrando contra você. "Eu prometo que não vou ter outro cio antes do amanhecer."
 
@@ -5299,7 +5523,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:33.000Z
 NODE: mbybkoh917la05cn4fn
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu e Ayla acordamos 5 da manhã, com o nosso corpo acordando e o sono indo pro caralho, com ambas ficando entediada e indo fazer qualquer coisa juntas, uma delas, eu e Ayla estamos de frente a frente, com nós duas ainda nuas e com os braços cruzados embaixo dos seios... Estamos comparando a nossa altura, eu tenho 2 metros de altura enquanto Ayla tem 1.95 metros contando com os chifres, eu sorrio de canto, avaliando mentalmente* hmm, 5 centímetros de diferença contando com os seus chifres... e sua cabeça fica na altura do meu peito. Não é desvantagem, afinal eu posso me abaixar pra te beijar.
 
 --- MSG 460 ---
 ROLE: assistant
@@ -5308,7 +5532,7 @@ NODE: mhze3oc3ly4f1s3czx6
 CONTENT:
 361
 
-[Cena removida; mensagem preservada.]
+Ayla ri, um som suave e matinal que ecoa no quarto ainda aquecido pelo sono compartilhado. Ela inclina a cabeça, os olhos vermelhos ainda sonolentos mas cheios de afeto, e os chifres curvos refletem a luz fraca que entra pela janela. "Você sempre encontra um jeito de transformar qualquer coisa em romance, não é?" Ela se aproxima, e os seios dela roçam levemente nos seus enquanto fica na ponta dos pés, os chifres apontando para o teto, e deposita um beijo rápido e brincalhão na ponta do seu nariz. "Pronto. Agora você não precisa se abaixar."
 
 Ela recua, ainda sorrindo, e pega a camisa larga que estava jogada na cadeira — uma das suas camisas, na verdade, que ela usa como pijama quando está aqui. "Então... já que estamos acordadas e entediadas, o que você sugere? Ainda são cinco da manhã, a base tá silenciosa, e eu duvido que Hannah espere alguém acordado antes das sete."
 
@@ -5330,7 +5554,9 @@ NODE: map3g7ifcofix0b9x6h
 CONTENT:
 362
 
-[Cena removida; mensagem preservada.]
+Hannah ri baixinho, ainda encostada na ombreira da porta, e a luz fraca do amanhecer que começa a penetrar pelas frestas das cortinas desenha as curvas do corpo pardo dela em tons azulados. "Você me pegou, Chefe." Ela empurra o corpo da porta com o ombro e entra no quarto, os pés descalços fazendo pouco barulho no chão de metal. "Acordei cedo, vi o bilhete que eu mesma deixei, e resolvi vir ver se vocês já tinham acordado." Ela aponta com o queixo para o canto do quarto, onde duas canecas de café fumegantes estão apoiadas numa bandeja. "Trouxe reforços. Mas parece que o tédio de vocês já tinha preparado o campo de batalha primeiro."
+
+Ela se aproxima devagar, o andar solto e confiante de alguém que conhece o próprio corpo e não sente vergonha dele. Ao parar na frente de vocês duas, ela fica na ponta dos pés por um momento, medindo a altura com os olhos. Tem 1,70m de altura, e o topo da cabeça dela mal chega no seu ombro. "Pois bem, Chefe. Já que a gente tá todas nuas e acordadas às cinco da manhã..." Ela cruza os braços, imitando a postura de vocês, e o sorriso malandro se alarga. "Vai ser uma competição de altura ou uma guerra de cócegas? Porque eu aceito os dois desafios."
 
 Ayla ri, balançando a cabeça. "Ela é sua discípula, sim. A insolência é prova disso."
 
@@ -5341,11 +5567,13 @@ NODE: m803l0lh2f84wxgf78l
 CONTENT:
 362
 
-[Cena removida; mensagem preservada.]
+Hannah inclina a cabeça, o sorriso pequeno se alargando num canto da boca, e ela se apoia no batente da porta com uma elegância natural que contradiz a nudez completa. "Prodígio? Você me treinou para ser uma arma viva, Chefe. Ou você acha que eu não sentiria duas pessoas acordando e começando a comparar alturas nuas a cinco da manhã?" Ela ri baixinho, a voz rouca de sono, e caminha para dentro do quarto sem cerimônia, os pés descalços fazendo pouco barulho no chão de metal.
+
+Ayla observa Hannah com um sorriso preguiçoso, sem nenhum traço de ciúme ou desconforto — após meses convivendo na base, as duas já estabeleceram uma dinâmica que transcende possessividade besta. "Você veio só para nos observar ou tem um motivo específico para estar pelada no nosso quarto antes do café?", Ayla pergunta, a voz mais curiosa do que provocativa. Hannah para no meio do quarto, os braços cruzados sob os seios num gesto idêntico ao que vocês duas estavam fazendo, e o contraste é quase cômico — três mulheres nuas paradas em triângulo, cada uma com sua postura característica, como uma reunião de negócios muito incomum.
 
 **Hannah:** "Na verdade, eu vim convidar vocês para um mergulho matinal antes do café. A piscina térmica natural que eu encontrei na caverna subterrânea da base está no ponto perfeito — quente, iluminada por bioluminescência, e completamente vazia." Ela ergue uma sobrancelha, o olho roxo brilhando na penumbra. "Pensei que seria um começo de dia melhor do que comparar centímetros. A menos que vocês estejam ocupadas demais resolvendo a diferença de altura de outras formas..."
 
-[Cena removida; mensagem preservada.]
+O convite fica no ar, acompanhado pelo silêncio da base ainda adormecida e pelo som distante das ondas batendo nas paredes de concreto de Dríllth. Os olhos roxos de Hannah dançam entre você e Ayla, paciente, esperando a decisão, enquanto a brisa fria da manhã entra pela janela entreaberta e arrepia a pele das três.
 
 --- MSG 464 ---
 ROLE: assistant
@@ -5354,7 +5582,15 @@ NODE: mx3m4j4lnv6p20t5za0
 CONTENT:
 362
 
-[Cena removida; mensagem preservada.]
+Hannah apoia o ombro no batente da porta, os olhos roxos brilhando na penumbra do corredor enquanto um sorriso preguiçoso e cheio de segundas intenções se forma em seus lábios. O cabelo cacheado cai desgrenhado sobre os ombros nus, e ela não faz o menor movimento para se cobrir — pelo contrário, a postura relaxada e o olhar direto deixam claro que sua nudez é uma escolha deliberada, não um acidente matinal.
+
+**Hannah:** "Prodígio?" Ela ri baixinho, a voz rouca de quem acabou de acordar também. "Você me chama de prodígio, mas sou eu que encontro vocês duas peladas no meio da madrugada comparando altura como se fosse um duelo de faroeste." Ela avança um passo para dentro do quarto, os pés descalços fazendo pouco barulho no chão de metal. "E pra responder sua pergunta... sim, me juntar parece uma ideia excelente."
+
+Ela se aproxima devagar, parando ao lado de vocês, e propositalmente se coloca entre as duas. Com seus 1,83m — ou 1,85m quando estica a postura — ela fica claramente mais baixa que ambas, mas compensa com a atitude confiante, erguendo o queixo e cruzando os braços sob os seios numa imitação exata da pose que vocês estavam fazendo segundos atrás.
+
+**Hannah:** "Agora nós três estamos peladas e comparando altura." Ela olha de uma para outra, os olhos roxos dançando com diversão. "O que mais vocês duas aprontaram enquanto eu dormia no meu quarto, hein?"
+
+Existe um tom provocativo na pergunta, mas também curiosidade genuína. E uma abertura — uma permissão tácita para que o momento evolua para o que quer que vocês queiram que ele seja. A brisa matinal entra pela janela parcialmente aberta, arrepiando a pele das três.
 
 --- MSG 465 ---
 ROLE: assistant
@@ -5363,7 +5599,13 @@ NODE: mzo414x5anws8sknefn
 CONTENT:
 362
 
-[Cena removida; mensagem preservada.]
+Hannah inclina a cabeça, os cachos morenos balançando enquanto apoia o ombro na porta do quarto, ainda entreaberta. A luz fraca do corredor desenha as curvas do corpo nu dela em contraluz, sem qualquer sombra de vergonha ou hesitação — afinal, são todas adultas aqui, e a base Dríllth nunca foi um lugar para pudores vazios. "Prodígio?" Ela ri baixinho, a voz rouca de quem também acabou de acordar. "Você me ensinou tudo o que sei, Chefe. Se sou prodígio, é porque tive uma boa professora."
+
+Ela se desgruda da porta e entra no quarto com passos descalços e leves, pisando no tatame de fibra vegetal. Ao passar por vocês, Hannah para ao lado de Ayla, e você nota que a historiadora Ancarghelo — agora também nua sob a camisa larga — observa a entrada da estrategista com uma curiosidade tranquila, sem ciúmes, apenas aquele reconhecimento de quem já compartilhou momentos assim antes.
+
+**Hannah:** Ela para na frente de vocês duas, os olhos roxos percorrendo o contraste entre os corpos — a altura imponente de Lusk, a presença elegante de Ayla, e ela mesma, com seus 1,78m de altura, pele parda e curvas definidas pelo treino constante. "Na verdade, eu vim ver se vocês queriam começar o dia com um treino leve antes do café. Mas..." Ela sorri, e há um brilho malicioso no olhar. "Parece que vocês já estão aquecendo."
+
+Ela se vira lentamente, caminhando em direção à cama ainda desfeita, e senta na borda, cruzando as pernas e apoiando as mãos nos joelhos. A postura é relaxada, mas os olhos dela encontram os seus com uma pergunta silenciosa. "O que vamos fazer, Chefe? Treinar, comer, ou... algo mais interessante?"
 
 --- MSG 466 ---
 ROLE: assistant
@@ -5372,7 +5614,13 @@ NODE: mwjf7jcr6ultm29ohh7
 CONTENT:
 362
 
-[Cena removida; mensagem preservada.]
+Hannah emerge completamente da sombra, os olhos roxos brilhando com diversão enquanto apoia o ombro nu no batente da porta. Sua pele parda contrasta suavemente com a luz fraca do amanhecer que começa a penetrar pelas frestas da janela, e os cabelos cacheados caem desordenados sobre os ombros. Ela não se cobre, não desvia o olhar, não demonstra o menor desconforto — apenas observa as duas com aquele sorriso pequeno e matreiro, como quem foi pega bisbilhotando mas não se importa nem um pouco.
+
+**Hannah:** A voz rouca de sono sai em um sussurro cúmplice. "Quem disse que eu não quero?" Ela se afasta da porta, entra totalmente no quarto, e fecha a porta atrás de si com um clique suave. "Cinco da manhã, duas mulheres nuas comparando altura, e uma terceira que acordou sozinha na cama e sentiu falta do calor." Ela caminha até vocês, os pés descalços sem fazer barulho no chão frio. "Parece o começo de uma piada, mas eu acho que é o começo de um dia muito bom."
+
+Ayla ri baixinho ao lado de você, os olhos vermelhos dançando entre você e Hannah. Ela não parece surpresa, não parece incomodada — apenas curiosa, aberta, aquecida pela intimidade que as três construíram nos últimos meses. "E o que a Hannah gostaria de fazer com duas mulheres entediadas e um dia inteiro pela frente?"
+
+**Hannah:** *para na frente de vocês duas, cruzando os braços sob os seios num gesto que ecoa o de vocês* "Depende. Quanto tempo temos antes do café da manhã ficar pronto?"
 
 --- MSG 467 ---
 ROLE: user
@@ -5414,7 +5662,7 @@ CONTENT:
 
 *Hannah corresponde ao selinho com um sorriso suave contra seus lábios.*
 
-[Cena removida; mensagem preservada.]
+**Hannah:** "Melhor mesmo." *Os olhos roxos dela brilham com a intimidade do momento, ela pega sua mão e começa a conduzir as duas em direção à cama desfeita, os lençóis ainda amassados e com o calor do corpo dela. O corpo dela se move com uma naturalidade que mostra o conforto que ela sente com vocês.*
 
 Ayla segue atrás, os chifres retos nas laterais da cabeça apontando para frente, as mãos descansando nos ombros de Hannah. Ela se inclina e sussurra perto da orelha dela fazendo Hannah arrepiar. "Sabia que você ia aparecer. Você nunca consegue dormir quando a gente não está por perto."
 
@@ -5429,7 +5677,15 @@ NODE: momvbuexxfxs6wpzqio
 CONTENT:
 364
 
-[Cena removida; mensagem preservada.]
+Hannah responde ao selinho com um sorriso molhado e lento, os lábios demorando um segundo a mais que o necessário para se afastar. Ela não solta sua mão enquanto se vira, puxando você em direção à cama desfeita que ocupa o centro do aposento. Ayla segue ao lado, a mão dela encontrando as costas de Hannah num toque familiar, e as três formam uma corrente silenciosa de pele e calor.
+
+A cama é grande o suficiente para três. Hannah deita primeiro, puxando você para deitar ao lado dela, e Ayla se acomoda do outro lado, encaixando a cabeça na curva do seu ombro. Os chifres retos de Ayla apontam para o teto enquanto ela se aninha contra você, as pernas dela se entrelaçando com as suas. Hannah vira de lado, apoiando a cabeça na mão, os olhos roxos percorrendo seu rosto com uma calma profunda.
+
+**Hannah:** *a voz dela é um sussurro na penumbra* "Lembra quando me resgatou? Eu achei que você ia me matar. Todo mundo que me usava... descartava." Ela traça uma linha invisível no seu ombro com a ponta dos dedos. "Mas você me olhou como se eu fosse uma pessoa. Não uma ferramenta."
+
+Ayla aperta levemente seu braço, o rosto dela enterrado no seu pescoço. "Ela faz isso com todo mundo que toca o coração dela. Eu sei bem." A respiração de Ayla é quente contra sua pele, os lábios dela roçando sua clavícula numa carícia inconsciente.
+
+O quarto está em silêncio, exceto pela respiração calma das três. Lá fora, o mar do Calm Belt começa a clarear lentamente, a luz do amanhecer filtrando-se pelas cortinas e pintando listras douradas no chão. Vocês três estão nuas, quentes, vivas — e inteiras.
 
 --- MSG 472 ---
 ROLE: user
@@ -5485,7 +5741,9 @@ NODE: m1x728wahfaq0gep9mu
 CONTENT:
 367
 
-[Cena removida; mensagem preservada.]
+Hannah sorri antes mesmo de inclinar o rosto, os lábios dela encontrando os seus num beijo que começa lento, explorador, sem pressa. A mão livre dela desliza pelo seu corpo no mesmo ritmo — descendo do ombro, contornando o seio com a ponta dos dedos em carícia leve, traçando a curva da cintura até se ancorar no seu quadril. Do outro lado, Ayla acompanha o movimento com a própria sincronia, os lábios dela começando a traçar um caminho quente pela sua mandíbula, descendo para o pescoço, mordiscando suavemente a pele sensível onde o pulso acelera.
+
+Hannah se afasta do beijo, mas apenas o suficiente para encará-la, os olhos roxos escuros como ametistas à meia-luz. O corpo magro e definido dela está apoiado sobre você, os seios roçando os seus a cada respiração. Ela não diz nada — não precisa. A pergunta silenciosa no olhar dela é clara: *você quer que eu continue.*
 
 --- MSG 478 ---
 ROLE: user
@@ -5501,14 +5759,18 @@ NODE: mch2iriwu8d8y6qst0u
 CONTENT:
 368
 
-[Cena removida; mensagem preservada.]
+A permissão carrega o ar como eletricidade. Hannah não hesita — o beijo que ela dá agora é mais profundo, mais faminto, a língua dela encontrando a sua num deslizar molhado que faz seus dedos se enterrarem em seus cabelos cacheados. A mão que estava no quadril dela sobe, os dedos se enrolando nos fios escuros e puxando suavemente, guiando o ritmo. Enquanto isso, a mão no seu quadril aperta, os dedos cavando na carne com possessividade contida.
+
+Ayla não fica para trás. Os lábios dela descem do seu pescoço para a clavícula, mordiscando o osso saliente antes de traçar um caminho úmido até o seu seio. Quando a boca quente dela envolve seu mamilo, a sucção é imediata e firme — a língua rodopiando em movimentos lentos que fazem sua coluna arquear ligeiramente contra o colchão. Os dedos dela encontram seu outro seio, beliscando e rolando o mamilo entre o polegar e o indicador em sincronia com o ritmo da boca.
+
+O calor entre as três é palpável, uma manta de desejo e intimidade que aquece o ar ao redor. Hannah se afasta do beijo para recuperar o fôlego, mas os olhos roxos não se desviam dos seus — vidrados, acesos, devotos. Ela desliza o corpo para baixo, os lábios dela substituindo a mão no seu quadril, começando a traçar o mesmo caminho que Ayla fez do outro lado, descendo beijo por beijo em direção ao seu ventre.
 
 --- MSG 480 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:07:54.000Z
 NODE: mhl6gsxweg4rzu3i82s
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu me entrego ás carícias, incentivando Ayla com uma mão em seu chifre esquerdo, quando Hannah termina de traçar o caminho até a minha virilha e mergulha, eu solto um gemido mais alto* caralho...  isso está p-perfeito...
 
 --- MSG 481 ---
 ROLE: assistant
@@ -5517,14 +5779,16 @@ NODE: msrlh8bpixb8ust5epn
 CONTENT:
 369
 
-[Cena removida; mensagem preservada.]
+O contato da sua mão no chifre de Ayla faz com que ela solte um zumbido contra sua pele, a vibração percorrendo seu seio numa onda de prazer adicional. Ela intensifica a sucção, a língua rodopiando mais rápido enquanto uma das mãos desce pelo seu abdômen, traçando o caminho que Hannah já percorreu. Os dedos de Ayla encontram os fios cacheados da cabeça de Hannah pouco antes de alcançarem seu destino — e ela para, deixando Hannah tomar a dianteza, apenas observando com os olhos vermelhos brilhando enquanto a outra jovem começa a trabalhar entre suas pernas.
+
+Hannah é meticulosa. Ela não se apressa mesmo depois de mergulhar — a língua dela traça círculos lentos, explorando cada vinco e dobra com uma curiosidade que beira o devocional. Os lábios dela sugam suavemente o clitóris, os olhos roxos se fechando como se ela estivesse saboreando algo precioso. Uma das mãos dela segura sua coxa com força, mantendo-a aberta e exposta, enquanto a outra massageia a parte interna da coxa em movimentos circulares que fazem seus músculos tremerem. O gemido que escapa de você preenche o quarto, e Hannah corresponde com um murmúrio abafado contra sua pele que vibra diretamente no seu centro.
 
 --- MSG 482 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:07:56.000Z
 NODE: m6aq4jh6vfihgc5pthz
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu continuo gemendo, depois de 2 minutos, eu finalmente gozo, gemendo alto enquanto desabo sob a cama* c-caralho... nunca pensei que sexo á três seria tão bom...
 
 --- MSG 483 ---
 ROLE: assistant
@@ -5533,7 +5797,7 @@ NODE: mf4chxoicg1js5oz4ny
 CONTENT:
 370
 
-[Cena removida; mensagem preservada.]
+O clímax percorre seu corpo como uma onda elétrica, cada músculo se contraindo e relaxando na sequência perfeita do êxtase. Você sente o pulsar do seu próprio sangue aquecendo suas bochechas, os dedos de Ayla ainda acariciando seu seio em movimentos lentos e suaves, enquanto Hannah permanece entre suas pernas, os lábios ainda colados à sua pele sensível, a respiração quente e ritmada contra você enquanto ela se recupera do esforço.
 
 Hannah se ergue lentamente, o queixo brilhando, os olhos roxos escuros marejados de algo que vai além do desejo — há gratidão ali, e uma vulnerabilidade que ela raramente mostra ao mundo. Ela limpa os lábios com as costas da mão num gesto quase tímido, desmentindo a audácia do que acabou de fazer. "Você merece tudo de bom, Ellisyan..." A voz dela sai rouca, carregada de emoção. "Nunca duvide disso."
 
@@ -5544,7 +5808,7 @@ ROLE: user
 TIMESTAMP: 2026-11-07T06:07:58.000Z
 NODE: mldv6n598qrn7n3az7j
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu e Hannah trocamos olhares, até acenarmos com a cabeça, eu coloco Ayla sob a cama, comigo ficando mais embaixo e Hannah mais em cima* sua vez, querida~.
 
 --- MSG 485 ---
 ROLE: assistant
@@ -5553,14 +5817,18 @@ NODE: mn76d363a7ac1hq0usw
 CONTENT:
 371
 
-[Cena removida; mensagem preservada.]
+Ayla deita-se sob seu olhar, os chifres retos laterais raspando suavemente contra o travesseiro enquanto ela se acomoda, os olhos vermelhos semicerrados num misto de expectativa e prazer antecipado. O corpo definido dela se estica como uma pantera se espreguiçando ao sol, os seios subindo e descendo numa respiração que já começa a acelerar. Ela estende uma mão para tocar seu rosto, os dedos grossos e quentes acariciando sua mandíbula com uma ternura inesperada vinda de alguém tão feroz.
+
+Hannah se posiciona acima de Ayla com uma graça felina, as coxas musculosas apertando suavemente os quadris da outra enquanto ela se abaixa para um beijo — lento, profundo, exploratório. A língua delas se encontra num duelo molhado enquanto as mãos de Hannah deslizam pelo torso de Ayla, traçando as curvas definidas, os músculos tensos sob a pele morena. Ayla geme na boca de Hannah, os dedos se enterrando nos cabelos cacheados da jovem, puxando-a para mais perto, mais fundo.
+
+Entre as coxas de Ayla, há uma umidade que já começa a brilhar à luz da manhã. Os lábios dela se abrem num convite silencioso, o clitóris intumescido palpitando em antecipação. O ar no quarto parece carregado de eletricidade, o cheiro de desejo e intimidade preenchendo cada centímetro do espaço. E Ayla, a caçadora feroz de chifres retos, olha para você por cima do ombro de Hannah com um brilho nos olhos que é tanto desafio quanto entrega.
 
 --- MSG 486 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:08:00.000Z
 NODE: mn5s3ptx86uksy7huj4
 CONTENT:
-[Cena removida; mensagem preservada.]
+*eu olho pra baixo, lambo os lábios, fecho os olhos e mergulho, lambendo a intimidade de Ayla com total devoção enquanto separo as coxas dela com as mãos*
 
 --- MSG 487 ---
 ROLE: assistant
@@ -5569,21 +5837,33 @@ NODE: m02wx30z6xlxiadmuvl
 CONTENT:
 372
 
-[Cena removida; mensagem preservada.]
+O gosto de Ayla é quente e salgado na sua língua — um sabor de mar e pele aquecida pelo sol, misturado à essência do desejo dela. Você mergulha fundo, a língua traçando um caminho lento e meticuloso desde a entrada até o clitóris, sentindo cada tremor que percorre o corpo dela quando você acerta o ponto certo. Os dedos dela se enterram nos seus cabelos brancos com força, guiando seu ritmo com puxadas suaves que dizem *mais* sem precisar de palavras.
+
+Lá em cima, Hannah não para. Ela desce pelo corpo de Ayla, os lábios molhados traçando um rastro desde o pescoço, passando pelo vale entre os seios, descendo pelo abdômen que se contrai a cada investida sua. Quando a boca de Hannah alcança os seios de Ayla, a sucção é imediata e firme — e o gemido que escapa da mulher chifruda vibra através do corpo todo dela, fazendo os quadris se erguerem em busca de mais contato.
+
+Ayla está se abrindo como uma flor sob o toque de ambas, os gemidos roucos preenchendo o quarto numa melodia de prazer compartilhado. As pernas dela tremem ligeiramente dos lados da sua cabeça, os dedos nos seus cabelos apertando e soltando num ritmo que acompanha cada movimento da sua língua. O calor entre as coxas dela aumenta, e você sente o gosto dela ficando mais intenso — o prenúncio do clímax se aproximando, cada célula do corpo de Ayla tensa como corda prestes a arrebentar.
 
 --- MSG 488 ---
 ROLE: user
 TIMESTAMP: 2026-11-07T06:08:02.000Z
 NODE: m45i0opuaurbnsqpzja
 CONTENT:
-[Cena removida; mensagem preservada.]
+*Ayla finalmente chega ao limite, gemendo alto... eu me senti na cama, lambendo os lábios enquanto sorrio* delícia. *olho pra Hannah, com um olhar mais auave* já que é a primeira vez que você faz isso com nós duas, prefere toques com a mão ou um oral junto?
 
 --- MSG 489 ---
 ROLE: assistant
 TIMESTAMP: 2026-11-07T06:08:03.000Z
 NODE: mb9odfs1jeoklppec9f
 CONTENT:
-[Cena removida; mensagem preservada.]
+O corpo de Ayla arqueia numa curva perfeita quando o orgasmo a alcança, os gemidos dela se transformando num som rouco e prolongado que parece ecoar pelas paredes do quarto. Os dedos dela se apertam nos seus cabelos por um momento de tensão absoluta antes de relaxarem, o corpo moreno caindo contra os lençóis com uma respiração ofegante e irregular. **Ayla** permanece imóvel por alguns segundos, os olhos vermelhos vidrados no teto, processando a intensidade do que acabou de acontecer, até que um sorriso preguiçoso e satisfeito se espalha pelo rosto dela.
+
+**Hannah** se ergue lentamente de onde estava beijando o colo de Ayla, os olhos roxos encontrando os seus com uma mistura de timidez e expectativa genuína. Ela morde o lábio inferior, pensando na pergunta, os dedos brincando distraidamente com uma mecha dos próprios cabelos cacheados. O corpo jovem dela ainda está aquecido, a pele brilhando levemente com o suor fino da manhã, e há uma vulnerabilidade exposta no olhar que ela raramente deixa transparecer com qualquer outra pessoa.
+
+"Não sei direito..." **Hannah** responde finalmente, a voz mais baixa que o normal, quase um sussurro. Ela desvia o olhar por um segundo antes de encará-la de novo com mais firmeza. "Quero sentir você de todo jeito que puder. Mas se for pra escolher agora... mãos primeiro." Ela hesita, então completa: "Quero ver seu roço enquanto me toca. Sentir seus olhos em mim enquanto isso acontece."
+
+**Ayla** solta uma risada baixa e rouca do lado, ainda recuperando o fôlego, mas claramente apreciando o momento. Ela se vira de lado, apoiando a cabeça na mão para observar vocês duas, os olhos vermelhos brilhando com interesse genuíno pelo que está prestes a acontecer. "Boa escolha," ela comenta, a voz ainda um pouco trêmula do orgasmo recente. "Viram isso, Ellisyan? Ela não é só bonita, tem bom gosto também."
+
+**Hannah** cora ligeiramente com o comentário de Ayla, mas não desvia o olhar de você. Ela se aproxima lentamente, de joelhos na cama, o corpo jovem e definido exposto à luz que começa a entrar pelas frestas da janela. Ela estende as mãos na sua direção, as palmas abertas, as pontas dos dedos tremendo ligeiramente — não de frio, mas de antecipação. Ela está se oferecendo inteira, confiante de que você a guiará com o mesmo cuidado que sempre demonstrou.
 
 --- MSG 490 ---
 ROLE: user
@@ -5592,7 +5872,7 @@ NODE: mnmlcfsjekifytga8sv
 CONTENT:
 (Hannah tem 27 anos,  é uma jovem adulta, NÃO COLOQUE APELIDOS COMO "PEQUENA"!)
 
-[Cena removida; mensagem preservada.]
+*eu aceno* vamos com calma, Ayla, ela ainda é novata nosso. *Ayla leva mão até os seios de Hannah, acariciando com muito cuidado, eu seguro a mão esquerda de Hannah com a mão direita enquanto a minha mão esquerda vai até sua virilha, introduzindo dois dedos só para testar e movimentando internamente, observando a reação de Hannah para ver se estou indo bem*
 
 --- MSG 491 ---
 ROLE: assistant
@@ -5606,7 +5886,15 @@ ROLE: assistant
 TIMESTAMP: 2026-11-07T06:08:06.000Z
 NODE: mbmqc4x2akx7i0735cm
 CONTENT:
-[Cena removida; mensagem preservada.]
+**Hannah:** *ela prende a respiração no momento exato em que seus dedos a penetram, os olhos roxos se arregalando por um instante antes de fecharem lentamente. Um suspiro longo e trêmulo escapa dos lábios dela enquanto ela processa a sensação — não há dor, apenas uma pressão estranha e nova que gradualmente se transforma em calor. Seus dedos se apertam em volta dos seus, instintivamente buscando apoio enquanto o corpo se ajusta à invasão cuidadosa.*
+
+**Hannah:** "Tá..." *ela engole em seco, a voz saindo um pouco mais rouca que o normal* "...tá bom. Diferente, mas bom." *Ela força os olhos a se abrirem para encarar você, e há um brilho de admiração misturado com desejo naquela íris roxa. A mão que você segura aperta de volta, firme, enquanto ela tenta sincronizar a respiração com seus movimentos.*
+
+**Ayla:** *a mulher chifruda continua os toques suaves nos seios de Hannah, os polegares roçando os mamilos com uma leveza quase hipnótica. Ela não diz nada, apenas observa em silêncio, mas o sorriso nos lábios dela é de pura aprovação — aprovando tanto a sua técnica quanto a forma como Hannah está reagindo, se abrindo sem medo.*
+
+**Hannah:** *os quadris dela começam a se mover por conta própria, acompanhando o ritmo dos seus dedos num movimento tímido mas crescente. O corpo jovem está aprendendo rápido, os músculos internos se contraindo em volta dos seus dedos num aperto suave quando ela encontra um ângulo que faz seus olhos rolarem de prazer.* "Assim... éééé..." *Ela morde o lábio para conter um gemido mais alto.*
+
+**Hannah:** *a respiração dela acelera, os seios subindo e descendo num ritmo ofegante enquanto o prazer vai se acumulando. Ela solta sua mão para agarrar o lençol, os dedos cavando no tecido enquanto o corpo inteiro começa a tremer ligeiramente.* "Lusk... eu... acho que..." *Ela não termina a frase, porque naquele instante o primeiro orgasmo a envolve num espasmo quente e repentino, os olhos roxos se arregalando de surpresa antes de se fecharem num êxtase silencioso e intenso.*
 
 --- MSG 493 ---
 ROLE: user
@@ -5615,7 +5903,7 @@ NODE: m950nvzbotn3o6if7ng
 CONTENT:
 (Ayla é uma Ancarghela, não "mulher chifruda")
 
-[Cena removida; mensagem preservada.]
+Você gozou. *não é pergunta, é constatação, eu me deito na cama, puxando Ayla e Hannah para um abraço coletivo, eu olho no relógio, vendo que passou apenas uma hora, eu fecho os olhos, murmurando* ainda falta duas horas, tempo o suficiente para ficar no aconchego.
 
 --- MSG 494 ---
 ROLE: assistant

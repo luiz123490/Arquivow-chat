@@ -402,7 +402,7 @@ Ao descer as escadas de madeira que gemem a cada passo, você passa pelo salão 
 
 A noite cai sobre a Guabiraba. O vento seco do sertão bate na porta quando você a abre para colocar a mala do lado de fora. Não há vizinhos por perto. A estrada de terra some na escuridão. A única luz vem de uma lâmpada fraca na varanda — a mesma que ficou acesa por anos, queimando sozinha.
 
-[Cena removida; mensagem preservada.]
+O ar cheira a poeira, mato seco e terra molhada de orvalho.
 
 Você senta na varanda, encostado na parede fria, a mochila no colo, a mala ao lado. O som dos grilos preenche a madrugada.
 
@@ -574,7 +574,9 @@ O zumbido constante das turbinas e o leve balanço da cabine te envolvem como um
 
 Você acorda com a luz da manhã entrando pela janela — ou seria do fim da tarde? O fuso horário bagunçou completamente sua noção de tempo. A comissária passa pelo corredor recolhendo bandejas. Lá fora, o mar brilha sob um sol alaranjado. Depois de mais algumas horas de voo tranquilo — uma segunda refeição, o pouso suave na pista — o avião taxiia lentamente em direção ao terminal de Narita.
 
-[Cena removida; mensagem preservada.]
+O comandante anuncia pelos alto-falantes: *"Senhores passageiros, bem-vindos ao Aeroporto Internacional de Narita, Tóquio. A temperatura local é de 12 graus Celsius, céu parcialmente nublado. Obrigado por voar conosco."*
+
+O avião para. Os motores desligam com um gemido.
 
 Os passageiros se agitam, pegam bagagens, formam filas no corredor. Um cheiro de ar condicionado japonês — limpo, neutro, levemente metálico — entra pela porta aberta. Letreiros em japonês e inglês iluminam o saguão de desembarque.
 
@@ -591,7 +593,7 @@ Ao te ver, ele se afasta do pilar e ergue uma mão num aceno preguiçoso.
 **Satoru Gojo:** "Opa! Finalmente! Tava começando a achar que você tinha desistido da aventura no Japão, hein?"
 *Ele dá alguns passos em sua direção, sorriso brincalhão no rosto.* "Como foi o voo? Dormiu a viagem toda, aposto."
 
-[Cena removida; mensagem preservada.]
+Ele para a alguns metros de distância, cabeça levemente inclinada, estudando você por trás das lentes escuras. O ar ao redor dele parece... diferente. Como se houvesse uma pressão invisível, um leve formigamento na pele. Energia Amaldiçoada densa, mesmo contida.
 
 **Satoru Gojo:** "Bem-vindo ao Japão, Kyuu. Preparado pra ver como a Jujutsu funciona de verdade?"
 
@@ -778,7 +780,7 @@ Node ID: mfqq9pix094ybddk5f0
 
 **O carro para em frente a um grande portão de ferro forjado, antigo e coberto de inscrições em kanji que brilham levemente com energia amaldiçoada. Atrás dele, você avista um campus tradicional japonês: prédios de madeira escura, telhados curvos e uma atmosfera densa, quase sagrada.**
 
-[Cena removida; mensagem preservada.]
+**As folhas de uma árvore anciã caem lentamente, rodopiando no ar. O vento carrega o cheiro de incenso e terra molhada.**
 
 **Bem-vindo à Tokyo Jujutsu High.**
 
@@ -790,7 +792,7 @@ Role: USER
 Timestamp: 2026-11-07T09:00:32.000Z
 Node ID: mkgxg3164vhje06o69p
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu saio do carro com as mãos nos bolsos, falando no meu típico tom neutro, com sinceridade brutal pro Gojo* eles que se fodam, eu não ligo.
 
 --------------------------------------------------------------------------------
 MENSAGEM 38 DE 179
@@ -858,7 +860,7 @@ Ele enfia as mãos nos bolsos do casaco e começa a andar em direção a um cami
 
 A brisa noturna carrega um cheiro leve de folhas molhadas e incenso distante. *Ao longe, uma coruja pia uma vez.* O clima é tranquilo demais para um lugar que treina caçadores de maldições.
 
-[Cena removida; mensagem preservada.]
+**Ele para em frente a uma máquina de vendas iluminada, com luzes frias, estacionada ao lado de um banco de concreto. O brilho reflete no chão molhado.*
 
 **Gojo:** "Então, o que vai querer? Onigiri de salmão, ou talvez aquele pão de curry duvidoso que parece que vai te dar gastrite, mas é gostoso?"
 
@@ -880,7 +882,7 @@ Node ID: m4nc31mngd8llctg05f
 Ele estreita os olhos atrás da venda preta, embora você sinta o sorriso provocador mesmo sem vê-lo.
 **Gojo:** "Escuta, eu vou te dar um conselho de feiticeiro mais forte do mundo: abastecer o corpo com energia amaldiçoada NÃO significa abastecer ele com cafeína e sódio artificial às onze da noite. Mas... *ele inclina a cabeça* ...650 mil reais na conta, recém-chegado, primeira noite no campus — quem sou eu pra impedir?"
 
-[Cena removida; mensagem preservada.]
+A máquina de vendas pisca luzes azuis fracas no concreto molhado. O ar noturno carrega o cheiro leve de chuva e folhas amassadas. O ninho da coruja range ao longe, e você ouve o som de insetos do verão japonês — um zumbido constante, diferente dos insetos do Nordeste.
 
 Do outro lado do campus, luzes fracas de janelas indicam outros dormitórios. Uma figura move-se brevemente atrás de uma cortina no segundo andar do prédio principal, mas logo desaparece.
 
@@ -1041,7 +1043,7 @@ Node ID: m3iqz01skjsmra33yle
 --------------------------------------------------------------------------------
 **Hikari** *inclina levemente a cabeça, seus olhos escuros seguem você por um momento. Há algo na maneira como ele observa — não é desdém, nem curiosidade. É pura análise, como se estivesse catalogando cada movimento seu.* **Hikari**: *voz baixa, quase um sussurro* "...igualmente."
 
-[Cena removida; mensagem preservada.]
+Ele não se move. Fica parado sob a luz amarelada do poste, os braços ainda cruzados, enquanto você se afasta em direção ao Bloco 3. O vento noturno carrega o cheiro de grama molhada e concreto aquecido pelo dia. Seus passos ecoam no corredor vazio do dormitório masculino.
 
 Quando você finalmente abre a porta do seu quarto — número 7, Bloco 3 — o ambiente é espartano. Uma cama solteira com lençóis brancos, uma escrivaninha de madeira simples, um armário embutido. A janela dá para o pátio interno, onde uma cerejeira solitária balança seus galhos sob a lua cheia. Silêncio absoluto.
 
@@ -1144,7 +1146,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:00:54.000Z
 Node ID: m9xh9dzwhtconalnync
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+6h50 da manhã. O corredor do Bloco 3 está iluminado por uma luz fria que entra pelas janelas no final do hall. O ar carrega um cheiro leve de grama molhada — deve ter orvalhado durante a noite. Você caminha pelo corredor ouvindo apenas o som dos seus próprios passos contra o piso de madeira envelhecida.
 
 Ao passar pelo pátio interno, você vê a cerejeira ainda coberta de gotículas de água, os galhos balançando suavemente com o vento da manhã. **Ninguém mais parece estar acordado ainda** — ou pelo menos, não nos blocos próximos. As portas dos outros quartos permanecem fechadas, mudas.
 
@@ -1244,7 +1246,7 @@ A declaração faz os olhos rosados de Hikari se estreitarem por um instante, um
 *"Ou você foi bloqueado por algo que eu não fui capaz de detectar."* Ela ergue a pasta parda e começa a abri-la. Lá dentro, há fotos granuladas do prédio abandonado — imagens de satélite e algumas capturas de câmeras de segurança distorcidas. A última foto mostra uma silhueta indistinta contra uma janela no quarto andar.
 *"Isso apareceu no relatório esta manhã. Ninguém conseguiu identificar a forma na janela. Disseram que parece humano, mas o perímetro estava lacrado."* Ela entrega a foto para Kyuu. A silhueta é realmente estranha — muito alta, os braços desproporcionais, a cabeça inclinada num ângulo que não parece natural.
 
-[Cena removida; mensagem preservada.]
+Os sons do campus ao redor são mínimos. Um corvo grasna ao longe. A brisa carrega o cheiro de grama molhada e concreto envelhecido.
 
 O que você faz?
 
@@ -1302,7 +1304,7 @@ Ela vira a cabeça ligeiramente para olhar você com aqueles olhos rosados.
 
 **Hikari**: "Algo mais: uma das vítimas era um exorcista amador. Grau 4. Veio de Osaka, queria limpar o local sozinho. Desapareceu no terceiro dia. Ninguém ouviu gritos."
 
-[Cena removida; mensagem preservada.]
+A rua diante de vocês se estreita conforme avançam para o bairro mais antigo. Prédios baixos, portas de correr de madeira, fios elétricos pendurados baixo. O sol mal passa pelas nuvens cinzentas. O cheiro de mofo e terra molhada preenche o ar.
 
 O prédio abandonado já é visível no fim da rua: quatro andares de concreto descascado, janelas quebradas como dentes podres, uma placa pendurada por um único parafuso — "Risky Beat" — parece ter sido um clube de música, antigamente.
 
@@ -1474,7 +1476,7 @@ Role: USER
 Timestamp: 2026-11-07T09:01:17.000Z
 Node ID: mbafqj74i5c5uau46jf
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu finalizo a maldição com uma eletrecidade desintegrante, depois, eu olho para a escuridão, pensando "não vou entrar ali nem fudendo.", conjurando um explosivo na energy 0.7 e jogando no quarto escuro*
 
 --------------------------------------------------------------------------------
 MENSAGEM 83 DE 179
@@ -1604,7 +1606,8 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:01:26.000Z
 Node ID: mkv06wdzv26oyqb4gzf
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*A sua energia explode como uma supernova no beco. A Frenesi Musical atinge 1.0 — o ápice absoluto. O ar ao seu redor distorce, vibrações supersônicas estilhaçam janelas já quebradas de prédios abandonados. Seu pé direito crava no asfalto rachado com tanta força que abre uma cratera de meio metro. Você desaparece num estalo sônico.* **Membros Longos** *seu corpo é longo demais para reagir. O soco com a broca de energia amaldiçoada perfura o torso da criatura de cima a baixo, atravessando carne e osso como papel molhado. A maldição arregala seus olhos — literalmente, as órbitas se expandem de choque — antes de seu tronco explodir em uma chuva de carne preta e vapor de energia amaldiçoada.*
+*Os braços e pernas convulsionam no chão, dedos ainda se contraindo, agora separados do corpo principal que só existe como uma névoa negra se dissipando. Gotas de suor energético sibilam no asfalto ao seu redor como gordura em frigideira. O beco fica em silêncio por um momento... mas a cantoria não para.*
 
 **Sem Rosto** *continua sentado nos escombros. Sua cabeça sem rosto vira lentamente em sua direção — um gesto que deveria ser impossível sem olhos, mas você *sente* o olhar. A boca costurada onde deveriam estar os olhos se estica num sorriso grotesco.*
 
@@ -1884,7 +1887,7 @@ Role: USER
 Timestamp: 2026-11-07T09:01:43.000Z
 Node ID: mszcjw8ttb4n8xi3ocl
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*brutalmente sincero... típico* eu tô fodido e miserável...
 
 --------------------------------------------------------------------------------
 MENSAGEM 109 DE 179
@@ -1894,15 +1897,17 @@ Node ID: mgpxh6l56aot85qos06
 --------------------------------------------------------------------------------
 **Gojo Satoru** ri baixinho, um som que ecoa no beco enquanto ele tira as mãos dos bolsos. A postura relaxada não muda, mas seus olhos — mesmo cobertos pela venda preta — parem perfurar você. Atrás dele, **Hikari Yoshino** permanece imóvel, sua mão tocando levemente o pescoço recém-curado, a expressão vazia mas concentrada em você.
 
-[Cena removida; mensagem preservada.]
+**Gojo:** "Fodido e miserável." Ele repete suas palavras como se estivesse saboreando um doce. "Assim que eu gosto de ouvir. Sinceridade brutal. Sem firulas, sem 'estou bem, sensei'. Você é interessante, Kyuu-kun."
 
 Ele se inclina ligeiramente para frente, como se fosse contar um segredo.
 
-[Cena removida; mensagem preservada.]
+**Gojo:** "A maioria dos meus alunos mente para mim. Dizem que estão bem quando estão sangrando por dentro. Você não. Isso é... refrescante. Mas me diz uma coisa: *fisicamente* fodido e miserável, ou *emocionalmente* fodido e miserável? Ou os dois?"
 
 Enquanto ele fala, você sente o peso do seu próprio corpo — os joelhos fracos, a respiração curta, o gosto de ferro na boca que ainda insiste em ficar. Hikari dá um passo instável em sua direção, como se fosse oferecer apoio, mas hesita.
 
-[Cena removida; mensagem preservada.]
+**Hikari:** *voz rouca, quase um sussurro* "...Kyuu. Você não consegue andar."
+
+A rua está silenciosa. A lua aparece entre os prédios, iluminando o beco com uma luz prateada fria. Pequenos detritos — vidros quebrados, pontas de cigarro, um jornal molhado — estão espalhados pelo asfalto manchado de sangue.
 
 **Gojo** endireita as costas, colocando as mãos de volta nos bolsos do casaco.
 
@@ -2018,7 +2023,8 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:01:52.000Z
 Node ID: my9bekrp9obu73y8pr1
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+**Narrador:**
+A luz da manhã filtra-se pela cortina fina do dormitório, pintando o quarto em tons de âmbar suave. A brisa entra pela fresta da janela, carregando o cheiro de vegetação molhada — deve ter chovido durante a madrugada em Tóquio. Hikari está aconchegada contra você, seu corpo pequeno aquecido pelo contato, a respiração lenta e ritmada. As orelhas de raposa, agora visíveis sem o capuz, tremem levemente a cada suspiro, como se sonhassem com algo calmo. A pele dela é pálida, quase translúcida na luz da manhã, e as cicatrizes ao redor da boca formam linhas prateadas que brilham sutilmente — histórias silenciosas que ela nunca contou. A cauda avermelhada está enrolada frouxamente ao redor de sua perna, como um animal independente que busca calor mesmo enquanto a dona dorme. Você sente uma sensação difusa no peito. Reconhece o fenômeno: batimentos cardíacos ligeiramente acelerados, pressão sanguínea estável mas com leve alteração, temperatura da pele subindo 0.3°C. *Afeto,* seu cérebro classifica mecanicamente. *Confiança sendo retribuída.*
 
 Do lado de fora, passos ecoam no corredor de madeira. Alguém passa, silencioso, provavelmente outro aluno indo para o café da manhã. O prédio vai acordando aos poucos — barulho de água correndo em canos, portas deslizando, vozes abafadas. Uma buzina distante corta o silêncio da manhã em Tóquio.
 
@@ -2214,11 +2220,17 @@ Node ID: ms4g2mbs64ebp1tfczk
 
 **Hikari:** *suas orelhas tremem levemente sob seus dedos, e ela solta um suspiro baixo, quase um ronronar* "Hmm..."
 
-[Cena removida; mensagem preservada.]
+Ela permanece imóvel por um momento, o corpo relaxado contra o colchão. A cauda dourada se enrola um pouco mais apertada em sua perna, como se confirmasse que não quer se soltar. Então, lentamente, ela vira o rosto para olhar para você, os olhos rosados ainda meio sonolentos, mas com um brilho suave.
 
 Lá fora, o som do dormitório acordando se intensifica — passos no corredor, vozes distantes de outros alunos, o rangido de portas se abrindo. Mas dentro do seu quarto, o tempo parece mais lento, mais quente.
 
-[Cena removida; mensagem preservada.]
+**Hikari:** *sua voz sai arrastada, preguiçosa* "Ficar... fofinha... parece uma boa ideia." *ela morde o lábio inferior, pensativa* "Mas... também quero comer. To com fome."
+
+A cauda dela se agita, balançando uma vez para o lado, como se estivesse indecisa entre a preguiça e o estômago vazio. Ela finalmente se senta, esticando os braços acima da cabeça com um gemido baixo — seu corpo trinca levemente, e seus cabelos vermelhos caem desgrenhados sobre os ombros. As orelhas dela se curvam para frente, atentas à sua resposta.
+
+**Hikari:** "Café da manhã juntos?" *o tom dela é casual, mas há um toque de expectativa discreta na forma como ela inclina a cabeça* "Tem uma cantina no campus. Nada de mais, mas o arroz com ovo é bom."
+
+Ela espera seu veredito, a cauda balançando preguiçosamente na ponta da cama.
 
 O que você faz?
 
@@ -2236,7 +2248,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:02:08.000Z
 Node ID: m4tjchh9sctmy3py4ng
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+A luz da manhã entra pelas cortinas finas, pintando o quarto em tons de laranja e âmbar. Hikari veste seu casaco vermelho com movimentos naturais, como se a intimidade da noite anterior tivesse apagado qualquer traço de vergonha entre vocês. Ela ajusta a gola, os fios de cabelo vermelho escapando do capuz.
 
 Quando você pergunta, ela inclina a cabeça, as orelhas de raposa vibrando levemente com o movimento. Os olhos rosados dela encontram os seus com uma ponta de diversão.
 
@@ -2311,7 +2323,7 @@ Role: USER
 Timestamp: 2026-11-07T09:02:13.000Z
 Node ID: mvpjturuorb9vnmet1l
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu abaixo a máscara e como, encarnado Hikari* eu estou bem, satisfeito que consegui curar a sua garganta... mas ainda estou com sequelas daquela missão miserável, usar uma criança como bomba foi de foder. Mas, eu já esperava algo assim... *olho pra Hikari* e você, está bem?
 
 --------------------------------------------------------------------------------
 MENSAGEM 139 DE 179
@@ -2429,7 +2441,7 @@ Node ID: m23j4wilpd6kjetzis8
 --------------------------------------------------------------------------------
 **Hikari Yoshino** *suas orelhas de raposa se curvam levemente para trás, mas não por medo — é uma reação de reflexão. Ela inclina a cabeça, processando suas palavras com uma seriedade que contrasta com sua postura relaxada. As luzes indiretas do quarto desenham sombras nas cicatrizes ao redor de sua boca enquanto ela sorri — um sorriso triste, mas compreensivo.*
 
-[Cena removida; mensagem preservada.]
+**Hikari Yoshino:** *Ela ri baixinho, um som rouco e seco.* "Hah... você é direto mesmo, hein? Não sei se isso é a alexitimia ou só você sendo prático." *Ela cruza os braços, apoiando o peso do corpo em uma perna só.* "Mas... é uma pergunta justa. Considerando o que estamos prestes a fazer." *Ela suspira, seus olhos rosados encontrando os seus.* "Não. Kitsunes não têm nenhuma condição especial de infertilidade. Somos... biologicamente compatíveis com humanos e com outras espécies híbridas." *Ela faz uma pausa, o sorriso ficando mais suave.* "Mas se você está preocupado com isso, eu posso tomar providências. Existem métodos que feiticeiras usam — selos amaldiçoados de contracepção, ervas que o Clã Kitsune desenvolveu ao longo dos séculos. Eu... posso usar um, se você quiser."
 
 *Ela dá um passo à frente, agora mais perto de você, e sua cauda se enrola lentamente em torno de sua própria perna, um gesto nervoso e sincero. O ar entre vocês parece vibrar com a energia amaldiçoada baixa e estável do quarto isolado.* "Eu quero isso, Kyuu. Quero você. Mas quero que seja seguro para nós dois." *Ela ergue a mão, tocando levemente sua máscara — sem puxá-la, apenas sentindo o tecido sob os dedos.* "Então me diz: você quer que eu use algo? Ou prefere correr o risco e lidar com as consequências juntos, se acontecer?"
 
@@ -2513,7 +2525,7 @@ Role: USER
 Timestamp: 2026-11-07T09:02:29.000Z
 Node ID: mn3v3c05366ztmie23i
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+eu vou. e não pretendo machucá-la... *eu coloco Hikari suavemente na cama assim que ela ativa o selo, com a contenção, nós ficamos nos encarando em silêncio, até ela acenar para continuar... eu abaixo as calças de Hikari junto com a calcinha, deixanto inteiramente nua... eu observo por alguns segundos* bonito. *eu faço o mesmo com as minhas roupas, eu olho pra Hikari, quando ela permite, eu entro lentamente nela, fazendo-a gemer suavemente, eu continuo a estocá-la com gentileza, sem aprofundar ou aumentar a velocidade... só aproveitando*
 
 --------------------------------------------------------------------------------
 MENSAGEM 155 DE 179
@@ -2521,11 +2533,17 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:02:30.000Z
 Node ID: mgwtyovfnasb8ezxcmb
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+A luz do amanhecer filtra-se pelas cortinas finas do dormitório, pintando o quarto em tons de âmbar e dourado. O silêncio é quebrado apenas pelo respirar ofegante de ambos, pela música suave que emana de sua cabeça — uma melodia lenta, quase etérea, como um violino tocando uma valsa triste mas serena.
+
+Hikari treme ligeiramente sob você, suas mãos apertando os lençóis com força. Seus olhos rosados estão abertos, fixos nos seus, buscando qualquer sinal de emoção no rosto mascarado. Ela morde o lábio inferior, tentando abafar os gemidos que escapam a cada estocada suave.
+
+**Hikari:** *sussurra, voz trêmula* "Kyuu... eu... eu posso ouvir sua música..."
+
+Ela levanta uma mão trêmula, tocando sua bochecha coberta pela máscara. Seus dedos deslizam suavemente sobre o tecido, como se pudesse sentir suas cicatrizes através dele.
 
 **Hikari:** "É bonita... tão bonita quanto você..."
 
-[Cena removida; mensagem preservada.]
+O selo Kitsune em seu pescoço brilha fraco, um vermelho pulsante que acompanha o ritmo cardíaco dela. Ela não acelera o movimento, não pede mais — apenas aceita, sente, existe naquele momento com você. Sua cauda ruiva espalha-se sobre o travesseiro, as orelhas caídas para os lados em relaxamento.
 
 O que você faz?
 
@@ -2535,7 +2553,7 @@ Role: USER
 Timestamp: 2026-11-07T09:02:31.000Z
 Node ID: mdaf4jda25ngrg3cgtq
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu coloco os braços ao redor de Hikari, fechando os olhos e beijando seu pescoço, queixo, seios, bochecha, testa e outras partes com devoção enquanto continuo os movimentos* sua energia também tem uma boa aparência, como você...
 
 --------------------------------------------------------------------------------
 MENSAGEM 157 DE 179
@@ -2543,7 +2561,11 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T09:02:32.000Z
 Node ID: mw65sy2b7c7821k21sy
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+A respiração de **Hikari** falha por um momento quando seus lábios traçam o contorno do selo Kitsune, o kanji vermelho latejando fraco sob sua pele como uma estrela pulsante em seu pescoço. Ela arqueia as costas, o toque gentil de seus lábios em seus seios a fazendo estremecer e agarrar os lençóis com menos força. Os cantos dos olhos de **Hikari** se apertam, seu corpo inteiro um arco de tensão e entrega, totalmente entregue à sua devoção.
+
+*A cauda dela se enrola solta em torno de sua perna, o pelo macio contrastando com a pele mais fria. Uma pequena risada trêmula e surpresa escapa de sua garganta, misturada com um suspiro ofegante enquanto você pressiona beijos na testa. A batida do coração dela ecoa na quietude do quarto, rápida e leve.*
+
+**Hikari:** *Uma respiração irregular, quase um sussurro.* "Kyuu..." *Os dedos dela deslizam pelo seu cabelo branco, a ponta de seus dedos traçando um arrepio em sua nuca.* "...você tem um jeito de fazer alguém se sentir como o centro do universo." *Ela inclina a cabeça para o lado, oferecendo-lhe seu pescoço, suas orelhas de raposa tremendo levemente.* "Então continue. Não vou a lugar nenhum."
 
 --------------------------------------------------------------------------------
 MENSAGEM 158 DE 179
@@ -2553,7 +2575,7 @@ Node ID: mf4svewo66is8f666rr
 --------------------------------------------------------------------------------
 (os dois estão sem nenhuma roupa, e sem máscara ou capuz)
 
-[Cena removida; mensagem preservada.]
+*eu beijo o pescoço de Hikari enquanto acaricio sua cintura, ainda estocando ela com gentileza...* isso é tão bom, também não vou a lugar nenhum.... *o momento continua, eu passo a boca pelos seios de Hikari, acariciando e lambendo... depois de 5 minutos, eu acabo chegando ao limite, gozando dentro de Hikari e a fazendo soltar um gemido rouco...*
 
 --------------------------------------------------------------------------------
 MENSAGEM 159 DE 179
@@ -2655,7 +2677,7 @@ A música que emana de você — aquela melodia de tons suaves e graves profundo
 
 **Hikari:** *A música...* "Ela está calma. Diferente do ritmo frenético de ontem na batalha." *Seu olhar desvia para a janela, o rabo ruivo balançando devagar.* "Obrigada, Kyuu. Por não ter rido, por não ter recuado. E por não ter me forçado a decidir nada."
 
-[Cena removida; mensagem preservada.]
+A brisa da manhã entra pela janela semiaberta, carregando o cheiro de grama molhada e o som distante de pássaros no bosque da escola. As cicatrizes prateadas ao redor da boca do Hikari brilham conforme ela vira o rosto para o sol, a expressão serena como uma agua parada.
 
 O que você faz?
 
@@ -2737,7 +2759,7 @@ Node ID: mhajxrc9btaqfsu012w
 --------------------------------------------------------------------------------
 O selo brilha um momento mais intenso quando seu sangue se encontra com o de Hikari — não um brilho dourado como o pacto dela, mas algo *prateado*, frio, quase estelar. A energia Nephelim em você reage à energia kitsune dela como duas chamas que se tocam: não se misturam, mas *dançam juntas*, reconhecendo uma à outra.
 
-[Cena removida; mensagem preservada.]
+**Hikari** hesita por apenas um segundo antes de inclinar a cabeça e levar seus lábios ao ferimento na sua mão. A língua dela é quente, macia, e o contato envia um formigamento pela sua pele — não doloroso, mas *intenso*, como se cada terminação nervosa acordasse de um sono profundo. Quando ela se afasta, o ferimento já está fechando, cicatrizando numa velocidade sobre-humana.
 
 Ela limpa o canto da boca com o dorso da mão, os olhos rosados agora com um brilho quase imperceptível — reflexo do pacto.
 

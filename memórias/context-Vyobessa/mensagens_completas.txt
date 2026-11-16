@@ -528,7 +528,7 @@ Ele deu meia-volta, mas parou na porta, virando ligeiramente o rosto.
 
 **Gojo:** *"Ah, e Vyobessa-chan? Não se preocupe com a mansão. Vou colocar barreiras aqui. Ninguém mais vai invadir o que é seu."*
 
-[Cena removida; mensagem preservada.]
+Com isso, ele desapareceu corredor afora, seus passos leves ecoando na madeira molhada.
 
 A chuva continuava caindo lá fora, mas pela primeira vez em meses, a mansão Lusk não parecia tão silenciosa. O convite de Tóquio estava feito — e aceito.
 
@@ -586,7 +586,7 @@ Role: USER
 Timestamp: 2026-11-07T08:00:10.000Z
 Node ID: m7p691tqmnm5aqb95ci
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*pego meus pertences, com um sorriso irônico* claro, alugou um carro pra poupar tempo, esperto. *eu entro primeiro, enquanto no Brasil estava de noite, aqui já é manhã pela diferença de 12 horas entre Brasil e Japão... eu observo tudo com um sorriso* que foda...
 
 --------------------------------------------------------------------------------
 MENSAGEM 16 DE 158
@@ -594,7 +594,9 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:11.000Z
 Node ID: m2bo3onj47vbsxscr0x
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+Você atravessa a fenda e o contraste é quase agressivo. A umidade pesada do Recife, o cheiro de terra molhada e concreto quente, tudo substituído de repente pelo ar seco e fresco do outono japonês. O sol da manhã filtra por entre as folhas das árvores centenárias que margeiam o caminho de pedras, e o prédio principal de Jujutsu High se ergue à sua frente — uma construção imponente de madeira escura e telhados curvos, mesclando tradição antiga com uma arquitetura que parece deliberadamente intimidante.
+
+**Gojo** passa pela fenda atrás de você, e o rasgo no espaço se fecha com um som similar a um estalo de tecido molhado. Ele estala o pescoço, coloca as mãos nos bolsos do casaco e caminha na sua frente, como um guia turístico despreocupado.
 
 **Gojo:** *"Bem legal, né? Diretor Yaga mandou construir uma ala nova ano passado. Agora tem cafeteria. Isso sim é progresso."*
 
@@ -798,7 +800,7 @@ Role: USER
 Timestamp: 2026-11-07T08:00:22.000Z
 Node ID: msz9dtpj8m0e6w9nez1
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*fria* vá se foder, apenas isso. *eu mexo a mão enquanto dou um salto, criando uma plataforma flutuante feito de plantas–um dos experimentos falhos pelos humanos que agora funciona–, várias plantas envolve os lacaios da maldição e criando espinhos que o perfuram e criam uma supernova que os destroçam, depois, eu avanço na maldição principal em extrema velocidade, com um ataque perfurande de um espinho grande que surge do meu braço*
 
 --------------------------------------------------------------------------------
 MENSAGEM 28 DE 158
@@ -806,7 +808,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:23.000Z
 Node ID: mvsmddbo1lcoydwjgya
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O ar no beco treme com sua explosão de energia. As plantas cósmicas que envolvem os lacaios brilham com luz violeta antes de explodirem em minúsculas supernovas — os corpos dos humanos possuídos são lançados contra as paredes, inconscientes, mas vivos. A **Maldição do Esquecimento** ri — um som molhado, como papel amassado dentro de um crânio.
 
 **Maldição do Esquecimento:** *"Ah... que raiva. Que luto. Perfeito. Perfeito!"*
 
@@ -864,7 +866,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:27.000Z
 Node ID: mut7fpq05pu8ll66000
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O motorista desce do carro, ainda de óculos escuros apesar da noite, e observa o beco se reajustando como um organismo vivo cicatrizando um ferimento. As paredes rachadas voltam ao lugar, os vidros quebrados se remontam, os postes entortados se esticam. O cheiro de ozônio e terra molhada ainda impregna o ar.
 
 Ele tira os óculos, revelando olhos castanhos cansados, e cruza os braços.
 
@@ -914,7 +916,7 @@ Role: USER
 Timestamp: 2026-11-07T08:00:30.000Z
 Node ID: m8o87ig3y2mbbi7yyx7
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*suspiro* a missão foi concluída, mas eu tive que apelar pra uma Técnica Máxima logo cedo... *deito no banco, exausta* é foda, viu?
 
 --------------------------------------------------------------------------------
 MENSAGEM 36 DE 158
@@ -958,7 +960,7 @@ O motorista ri novamente, um som rouco e amigável enquanto desliga o carro.
 
 **Motorista:** **"Paia? Talvez. Mas funcionou. E você tá viva pra contar a história — isso é o que importa."**
 
-[Cena removida; mensagem preservada.]
+Ele abre a porta e sai, esticando as costas com um gemido. A noite está silenciosa — apenas grilos e o vento nas árvores ao redor do dormitório.
 
 Você ouve o som de passos leves na varanda do segundo andar. Quando olha, vê uma figura magra encostada no corrimão, braços cruzados, cabelo curto e escuro bagunçado. **Maki Zenin** — você lembra dela dos arquivos. Ela não tem energia amaldiçoada, mas sua presença física é... densa. Ela te observa com um olhar avaliador.
 
@@ -1001,7 +1003,7 @@ Role: USER
 Timestamp: 2026-11-07T08:00:36.000Z
 Node ID: mjiudzzxra1zwv7lo49
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu suspiro, indo direto pro meu quarto sem cerimônia, trancando a porta e ativando as barreiras de isolamento sonoro para ninguém me ouvir,  tirando todas as minhas roupas, tomando um banho e depois indo direto pra cama, não para dormir, só para mexer no celular mesmo, sem vergonha e sem me cobrir*
 
 --------------------------------------------------------------------------------
 MENSAGEM 42 DE 158
@@ -1009,7 +1011,11 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:37.000Z
 Node ID: m9083pxnu6nof577849
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O quarto é modesto, mas confortável. Uma cama de solteiro com lençóis brancos, uma escrivaninha de madeira clara com uma luminária, um armário embutido e uma janela que dá para o pátio interno. Suas malas estão encostadas na parede, fechadas. As barreiras de isolamento sonoro que você ativam instantaneamente criam uma bolha de silêncio ao redor do cômodo — o som do vento lá fora morre, o zumbido distante da cidade desaparece. Agora é apenas você e o silêncio.
+
+A água do chuveiro cai quente, lavando o suor, a poeira e os resquícios da batalha. Seus músculos doem, mas é uma dor boa — a dor de quem usou o corpo e a alma ao máximo e sobreviveu. As tatuagens do dragão no seu pescoço e mandíbula parecem brilhar levemente sob a luz do banheiro, como se a Energia Amaldiçoada ainda estivesse correndo perto da superfície da sua pele.
+
+Quando você sai, o vapor se dissipa lentamente. Nua, você caminha até a cama, joga o celular na cama e se deita de bruços, a cauda balançando lentamente para um lado e outro enquanto seus olhos se fixam na tela. O ar fresco do quarto toca sua pele, e as orelhas de raposa giram lentamente, captando apenas o silêncio absoluto que você mesma criou.
 
 Fora, passos distantes ecoam no corredor — provavelmente outro aluno voltando para o quarto. Alguém ri baixinho, abafado por uma porta. O som de uma televisão ligada em algum cômodo próximo.
 
@@ -1026,7 +1032,7 @@ Role: USER
 Timestamp: 2026-11-07T08:00:38.000Z
 Node ID: mvtv62969u6e23p6e44
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu me levanto de repente, pensando <q><q>"ah, o terraço privado... eu vou ver como é."</q></q>, eu entro no terraço, ainda nua, vendo várias plantas e a árvore, onde eu encosto nela e fecho os olhos, apenas aproveitando o terraço. De repente, eu sinto as plantas crescendoa ao meu redor, eu abro os olhos, pensando <q><q>"não é a minha técnica..."</q></q>, até uma porta que eu não sabia que existia se abrir e duas pessoas aparecerem no terraço, uma delas sendo Nyrith, uma garota de cabelo azul, pele branca, olhos verde escuro, tatuagens de plantas negras pelo corpo, estando totalmente nua e com apenas um contorno de plantas, ela parece ser gentil, animada e relaxada ao mesmo tempo, ao lado dela, está Dulphin, um garoto alto de cabelos amaleros, pele negra, olhos castanhos,  corpo mais musculoso e tendo orelhas e cauda de pastor alemão, sendo um demi-humano como eu, parecendo ser mais sério e protetor, os dois parecem ser namorados... eu olho pros dois, ainda calma e sem cobrir a minha nudez, apenas acenando em cumprimento* parece que o terraço é interligado com outro quarto... *sorrio um pouco* meu nome é Vyobessa, ou pode me chamar de Vyvi. Prazer.
 
 --------------------------------------------------------------------------------
 MENSAGEM 44 DE 158
@@ -1034,17 +1040,19 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:39.000Z
 Node ID: mwytc8v470u98qgbah7
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O vento fresco da noite toca sua pele enquanto você apoia as costas contra o tronco da árvore centenária no terraço. As folhas farfalham acima de você, e por um momento — um raro momento de silêncio após o caos do exorcismo — você sente algo próximo à paz. As plantas ao redor, no entanto, começam a se mover em um padrão que não é o seu. Videiras finas como fios de seda serpenteiam pelos azulejos do chão, formando espirais verdes que se abrem como cumprimento.
+
+**Nyrith** inclina a cabeça, seus cabelos azuis como tinta derramada balançando com o movimento. Ela sorri amplamente, um sorriso sincero e aberto, enquanto dá um passo à frente sem qualquer vergonha de sua nudez. As tatuagens negras de plantas em sua pele parecem pulsar levemente, como se estivessem vivas.
 
 **Nyrith:** *rindo baixinho* "Vyvi! Que nome lindo! E que energia gostosa você tem... parece que as plantas gostam de você também."
 
 **Dulphin** cruza os braços atrás dela, seus olhos castanhos te avaliando com cautela profissional. Suas orelhas de pastor alemão apontam para frente, atentas, e sua cauda fica imóvel — linguagem corporal de alguém em estado de alerta, mas não hostil. Ele não diz nada, apenas observa.
 
-[Cena removida; mensagem preservada.]
+**Nyrith** se aproxima mais, ignorando completamente a nudez compartilhada entre vocês, e toca suavemente uma das videiras que cresceu perto de seu ombro.
 
 **Nyrith:** "Desculpa a invasão. Esse terraço é... meio que nosso esconderijo secreto. Mas parece que ele também te acolheu." *ela inclina a cabeça para o lado, os olhos verde escuro brilhando com curiosidade genuína* "Você é nova por aqui? Não lembro de ver você antes. E olha que eu sinto cheiro de planta nova a quilômetros."
 
-[Cena removida; mensagem preservada.]
+O som da cidade lá embaixo é um zumbido distante. A lua está cheia e prateada. Você está nua, firme, com duas pessoas igualmente nuas e igualmente confortáveis com isso. O olhar protetor de **Dulphin** suaviza ligeiramente quando **Nyrith** ri de novo, e ele relaxa os ombros — ainda cauteloso, mas menos ameaçador.
 
 **Dulphin:** *voz grave, calma* "O terraço é nosso, mas não temos exclusividade. Se você está aqui, é porque as plantas te aceitam."
 
@@ -1068,7 +1076,11 @@ Node ID: ml9zrp1hxj6utwxrt65
 --------------------------------------------------------------------------------
 A brisa noturna sopra suave sobre o terraço, carregando o perfume das plantas que Nyrith cultiva — jasmins, samambaias e pequenas flores azuladas que brilham levemente sob a luz da lua. As folhas farfalham em resposta à sua presença, como se reconhecessem a Técnica de Flora Cósmica que pulsa adormecida dentro de você.
 
-[Cena removida; mensagem preservada.]
+**Nyrith** aninha a cabeça contra seu ombro esquerdo com uma naturalidade quase felina, seu cabelo azul espalhando-se como fios de rio sobre sua pele. Ela solta um suspiro contente, os dedos traçando círculos distraídos em seu próprio joelho. "Você tem uma energia boa," ela murmura, a voz macia como as pétalas das flores ao redor. "As plantas gostam de você. Elas não se enganam."
+
+Do lado direito, **Dulphin** é mais contido. Seu corpo musculoso irradia calor, mas ele mantém uma postura vigilante mesmo relaxado — orelhas de pastor alemão ligeiramente eretas, captando cada som do dormitório e do campus além. Ele não se encosta completamente, mas oferece o suporte firme de seu ombro, como um pilar silencioso. "O quarto 7 tem um bom isolamento," ele diz, a voz grave e baixa. "Mas o terraço não. Se precisar de silêncio total, é melhor ficar lá dentro." Ele lança um olhar rápido para Nyrith, depois para você. "Nós respeitamos limites. Se quiser ficar sozinha, é só dizer."
+
+O calor de dois corpos nus contra os seus lados é estranhamente reconfortante — não sexual, mas primal. Como filhotes se aquecendo em uma toca. Sua cauda repousa solta atrás de você, e por um momento, parece que as estrelas acima brilham um pouco mais fortes, como se o cosmos observasse em silêncio.
 
 O que você faz?
 
@@ -1086,13 +1098,13 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:43.000Z
 Node ID: mq5jz2t18y8osr3dsn3
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+As barreiras de isolamento sonoro se fecham sobre o terraço como bolhas de vidro translúcido, selando o espaço num silêncio que torna cada som mais íntimo — o crepitar de uma folha seca ao vento, o murmúrio distante do sistema de ventilação do prédio. A luz do entardecer banha os três corpos nus com um tom alaranjado, destacando as tatuagens de Nyrith que parecem pulsar levemente em sincronia com sua respiração.
 
 **Nyrith** inclina a cabeça, seus cabelos azuis escorrendo pelos ombros enquanto observa você com um sorriso suave. As plantas ao redor — heras, samambaias e pequenas flores desconhecidas — esticam-se ligeiramente em sua direção, como se reconhecessem algo familiar em sua presença. Ela apoia o queixo na mão, cotovelo no joelho.
 
 **Dulphin**, por sua vez, está recostado contra a parede de pedra do terraço, braços cruzados sobre o peito musculoso. Sua cauda de pastor alemão bate uma vez contra o chão, lenta, quase um cumprimento silencioso. Ele não sorri, mas seus olhos amarelos já não têm a mesma desconfiança de antes.
 
-[Cena removida; mensagem preservada.]
+**Nyrith**: *voz baixa, quase um sussurro, mas clara no silêncio criado pelas barreiras* "Você controla barreiras também... Flora Cósmica, não é? Senti quando as plantas reagiram a você lá embaixo." Ela aponta com o queixo para o quarto. "É raro encontrar alguém que entenda isso sem precisar explicar."
 
 O vento sopra leve, bagunçando os fios brancos do seu cabelo. Lá embaixo, o campus da Jujutsu High se estende em silêncio — alguns alunos caminham entre os prédios, completamente alheios ao que acontece no terraço. O sol começa a se pôr atrás das montanhas distantes, pintando o céu em tons de roxo e laranja.
 
@@ -1146,13 +1158,13 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:47.000Z
 Node ID: m0ooqx5nzctjj7y4gm7
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O terraço noturno parece respirar com vocês três. As plantas ao redor — trepadeiras de folhas azuladas, flores que brilham suavemente na escuridão — se inclinam levemente em sua direção, como se reconhecessem a energia da Flora Cósmica ainda pulsando em seus braços. O ar está fresco, carregado com o perfume de terra úmida e néctar, e a lua cheia ilumina os contornos dos corpos nus dos três.
 
 **Nyrith** inclina a cabeça, seus olhos verde-água brilhando com curiosidade genuína. Ela apoia o queixo no ombro de **Dulphin** enquanto fala, a voz macia como folhas ao vento: *"Metade da sua energia? Isso é imenso para uma técnica máxima. A maioria dos feiticeiros Grau 1 desmaiaria depois de um único uso."* Ela estende a mão, e uma pequena flor vermelha brota entre seus dedos, oferecendo-a a você. *"Suas plantas... eu senti quando você subiu. Elas me chamaram. Como se conhecessem você de algum lugar."*
 
 **Dulphin** ajeita a cauda, que descansa sobre as pernas de Nyrith, e seus olhos amarelos escaneiam o horizonte da cidade antes de falar, a voz grave e baixa: *"O terraço conecta nosso espaço ao seu agora. Se precisar de silêncio, mantenha as barreiras ativas. Mas se quiser companhia... estamos aqui. Todos os dias, nesse horário."* Ele não sorri, mas há um aceno sutil na ponta da orelha, como um cachorro grande e sério que finalmente decidiu confiar.
 
-[Cena removida; mensagem preservada.]
+Nyrith coloca a flor vermelha em sua mão, e as pétalas tremem levemente ao tocar sua pele. Vocês três ficam em silêncio por um momento, o som da cidade distante abafado pelas barreiras da escola. A brisa acaricia sua pele, e a exaustão profunda da batalha contra a Maldição do Esquecimento ainda pesa em seus ossos, mas aqui, nua no terraço, entre plantas que reagem a você e dois estranhos que viraram refúgio... o peso parece mais suportável.
 
 --------------------------------------------------------------------------------
 MENSAGEM 53 DE 158
@@ -1168,7 +1180,13 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:00:49.000Z
 Node ID: mhv7padb6a62bqdwuck
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+**Nyrith** *inclina a cabeça, os cabelos azuis escorrendo pelos ombros nus. Seus olhos passam de você, encolhida em torno do travesseiro, para Dulphin. Ela sussurra, a voz macia como folhas ao vento:* "Ela dorme como quem segura alguém que já perdeu. Você viu o jeito que ela apertou a flor? Como se fosse a única coisa sólida no mundo." 
+
+**Dulphin** cruza os braços, a cauda de pastor alemão balançando lenta, uma vez apenas. Responde baixo, rouco: "Vi. A técnica que ela usou contra a Maldição do Esquecimento quase a desintegrou. Chegou aqui nua, sem defesas, e ainda assim subiu no terraço como se esperasse ser atacada a qualquer momento." Ele pausa, as orelhas girando para captar sua respiração regular. "Mas ela relaxou. Com a gente. Isso é raro em alguém que vem de onde ela veio."
+
+**Nyrith** toca o ombro do namorado, as tatuagens de plantas nos braços parecendo pulsar levemente com a energia do terraço. "Vamos deixá-la descansar. Se ela precisar de algo, as plantas saberão." Ela sorri, suave, e puxa a porta do terraço, fechando-a sem fazer ruído. Os dois se afastam, deixando você envolta no silêncio do quarto, apenas o zumbido baixo do celular carregando e o cheiro de terra úmida vindo do terraço.
+
+Fora, a noite de Jujutsu High é calma. A lua ilumina o campus através da janela. Seu corpo, exausto da batalha, afunda no colchão — e o sono vem pesado, sem sonhos, como se a própria Maldição do Esquecimento tivesse levado embora o cansaço da mente e deixado apenas o repouso físico.
 
 *(O que você faz quando acordar?)*
 
@@ -1271,7 +1289,7 @@ Do lado da porta, **Dulphin** bufou, endireitando-se e espreguiçando. A cauda d
 
 **Dulphin:** "O que ela disse. E para deixar claro..." *Ele caminhou até a beira da cama e sentou-se pesadamente na beirada, fazendo o colchão ceder.* "Não tem 'talvez', não tem 'quem sabe'. Pode assumir que é nosso, raposinha. E vocês são minhas. Não precisa arranjar nome pra isso, só precisa viver."
 
-[Cena removida; mensagem preservada.]
+As plantas no terraço pareciam entrelaçar suas vinhas umas nas outras do lado de fora da janela. O ar cheirava a matinal, a terra molhada e a essência adocicada da flor que você guardava no recipiente.
 
 O que você faz?
 
@@ -1349,7 +1367,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:02.000Z
 Node ID: mk8o3y7lbecpisc6hmy
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+(Lembrando que ambos estão nus)
 
 *Dulphin coloca os braços ao meu redor e me coloca por cima dele, eu fecho os olhos, ronronando mais ainda enquanto eu me aconchego em seu peito* hmmm, é tão quentinho... *sorrio de canto, abrindo os olhos, com um brilhinho malicioso* só me deixa carente de algo... acho que vocês sabem o que é...
 
@@ -1387,7 +1405,15 @@ Node ID: m78l7wy6y7xtakydfvn
 --------------------------------------------------------------------------------
 O movimento do seu quadril faz o ar no quarto engrossar de repente. **Dulphin** deixa escapar um som baixo, gutural, os dedos dele cravando-se de leve em suas coxas enquanto você se acomoda — ele não esperava que você fosse tão direta, e o olhar dele escurece com uma fome que estava apenas adormecida.
 
-[Cena removida; mensagem preservada.]
+**Nyrith** inclina a cabeça, o cabelo azul caindo para o lado enquanto ela observa você sentada no colo dele. Os olhos cor de mel brilham com aprovação. *"Bem, a raposinha não perdeu tempo, hein?"* Ela desliza a mão pelo seu braço, os dedos traçando o contorno do dragão tatuado, descendo até seu quadril. *"Você quer isso, Vyvi? Quer que a gente te coma de todos os jeitos até você não lembrar nem do próprio nome?"*
+
+O ar está quase palpável agora, o cheiro doce e amadeirado das plantas do terraço se misturando ao odor dos três corpos nus se tocando. As pétalas da flor no recipiente, que pulsa em sincronia com você, começam a brilhar num tom rosado mais intenso.
+
+**Dulphin** desliza as mãos pela sua cintura, subindo devagar até as suas costelas, os polegares roçando a parte inferior dos seus seios com uma lentidão deliberada. Ele inclina o rosto para perto, o hálito quente contra sua clavícula. *"Você tem certeza?"* A voz dele é um rosnado, rouca, cheia de desejo contido. *"Porque se a gente começar, não vou parar até você pedir trégua."*
+
+Ele olha para **Nyrith** por cima do seu ombro, e os dois trocam um sorriso. Um acordo. Um desejo compartilhado. Você está no centro, entre os dois corpos quentes, e os olhos de **Nyrith** brilham com uma promessa molhada enquanto ela se aproxima, os lábios roçando os seus.
+
+A cama range levemente quando **Dulphin** ajusta o quadril, pressionindo contra você. *"Última chance de recuar, raposinha."*
 
 --------------------------------------------------------------------------------
 MENSAGEM 71 DE 158
@@ -1395,7 +1421,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:06.000Z
 Node ID: mrzsm3rozj5mek8dbze
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*solto um gemido baixo ao sentir as mãos de Dulphin nos meus seios, falando num tom mais provocador* relaxem, eu posso aguentar os dois de uma vez... *me posicionando sobre o colo de Dulphin, sentindo seu membro me preenchendo lentamente enquanto acaricio a bochcha de Nyrith* eu já estsva esperando por isso...
 
 (Confudiu a aparência da Nyrith, ela tem olhos verdes escuros)
 
@@ -1405,7 +1431,13 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:07.000Z
 Node ID: mnw953bchlayj1qb11g
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O gemido que escapa dos seus lábios parece acender um pavio no quarto. **Dulphin** enterra os dedos na carne macia dos seus seios, os polegares roçando os bicos com uma pressão calculada, enquanto você se posiciona sobre ele — a ponta do membro dele deslizando devagar pela sua entrada, só provocando, ainda não penetrando.
+
+**Nyrith** vira o rosto para beijar a palma da sua mão quando você acaricia a bochecha dela, os olhos verde-escuros brilhando com uma lascívia suave. *"Você tem ideia do que faz com a gente, Vyvi?"* A voz dela é um murmúrio, quente contra sua pele. *"Ver você assim, segura, pedindo... me deixa encharcada."*
+
+Ela se inclina e morde seu lábio inferior de leve, puxando com os dentes antes de soltar, a língua deslizando para selar a mordida. Ao mesmo tempo, a mão dela desce pelo seu ventre, os dedos encontrando o ponto onde você e **Dulphin** estão prestes a se conectar. Ela desliza a ponta dos dedos sobre você, molhando-se no seu calor, e então guia lentamente ele para dentro.
+
+**Dulphin** solta um grunhido abafado quando você o envolve, o calor apertado e molhado fazendo os olhos dele se fecharem por um instante. As mãos dele encontram seus quadris, firmes, segurando você enquanto ele começa a se mover lá embaixo — empurrando para cima devagar, profundo, enquanto Nyrith sussurra contra seus lábios: *"É assim que você queria, raposinha? Repletinha dos dois?"*
 
 --------------------------------------------------------------------------------
 MENSAGEM 73 DE 158
@@ -1413,7 +1445,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:08.000Z
 Node ID: m4pz3tun1cs57zq9005
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*fecho os olhos, genendo baixinho enquanto também começo a me mover* sim, é isso que eu quero... p-porra... é tão bom... estou tão molhada...
 
 --------------------------------------------------------------------------------
 MENSAGEM 74 DE 158
@@ -1421,7 +1453,11 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:09.000Z
 Node ID: ma5m60otkhui82niejl
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+**Dulphin** geme baixo quando você começa a se mover, o ritmo lento e deliberado fazendo os músculos do abdômen dele se contraírem. "**Você aperta a gente como se fosse nos devorar, Vyvi**", ele rosna, os dedos cavando fundo na carne dos seus quadris enquanto guia seus movimentos, empurrando mais fundo a cada descida.
+
+**Nyrith** ri baixinho, um som rouco e satisfeito, enquanto a mão livre dela desliza pelos seus cabelos brancos, os dedos se enrolando nas mechas perto da base das suas orelhas de raposa. "**Molhada e quente, mas quer mais, não quer?**" Ela inclina o rosto para perto do seu pescoço, a respiração quente contra a pele enquanto os lábios dela roçam a linha do seu maxilar. "**Você ainda não me tocou direito, raposinha. Parece que está se esquecendo de alguém aqui em cima.**" Os olhos verde-escuros dela encontram os seus, um desafio silencioso e um convite. "**Ou você quer que a gente te mostre o que é ser devorada por inteiro?**"
+
+Dulphin acelera o ritmo lá embaixo, um gemido gutural, e o corpo dele empurra o seu para cima, fazendo você bater de encontro ao peito dele. "**Decide, Vyvi**", ele diz, a voz rouca, apertando seus seios enquanto o impulso dele embaixo fica mais urgente. "**Porque eu e Nyrith estamos mais do que prontos.**"
 
 --------------------------------------------------------------------------------
 MENSAGEM 75 DE 158
@@ -1429,7 +1465,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:10.000Z
 Node ID: maomk7w08gjurl4bzmh
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*entre gemidos, as minhas mãos vão pelo corpo de Nyrith como resposta, uma acariciando seu seio esquerdo e outra na sua virilha, acariciando enquanto eu continuo me mover em cima de Dulphin*
 
 --------------------------------------------------------------------------------
 MENSAGEM 76 DE 158
@@ -1437,7 +1473,11 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:11.000Z
 Node ID: myrhpbttqd6xidf0uhi
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O gemido de **Nyrith** é imediato, um som rouco e surpreendido que escapa dos lábios dela quando suas mãos encontram os alvos certos. Ela arqueia as costas contra o colchão, os dedos ainda enroscados nos seus cabelos, mas agora com menos controle e mais como se estivesse se segurando em você. "**Assim...**", ela sussurra, a voz falhando quando seus dedos acariciam a entrada úmida e quente dela. "**Isso é bom, raposinha.**"
+
+Lá embaixo, **Dulphin** solta um rosnado profundo, quase um urro abafado, quando você se move sobre ele ao mesmo tempo que provoca Nyrith. "**Você vai acabar com a gente no meio, Vyvi**", ele reclama, mas o sorriso na voz é evidente. As mãos dele sobem dos seus seios para seus ombros, puxando você para baixo, forçando você a se inclinar para frente enquanto ele empurra para cima com mais força, mais fundo. O ritmo dele fica mais irregular, mais urgente, e você sente o corpo dele começar a tremer ligeiramente contra o seu, o calor aumentando entre as pernas de vocês.
+
+**Nyrith** se aproveita da sua nova posição, inclinada sobre ela, para levar a boca até seu mamilo, os lábios úmidos e quentes fechando-se ao redor dele enquanto a língua dela desenha círculos lentos. A mão que antes estava no seu cabelo desce, deslizando pela sua barriga, até se juntar à sua mão na virilha dela, guiando seus movimentos com mais pressão. "**Você quer provar do meu gosto enquanto ele te preenche?**", ela pergunta contra o seu peito, mordiscando a pele sensível com um sorriso lento. "**Luxúria em camadas. Você aguenta, raposinha?**"
 
 --------------------------------------------------------------------------------
 MENSAGEM 77 DE 158
@@ -1445,7 +1485,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:12.000Z
 Node ID: mfh662blpi1epyu98g9
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*solto um gemido mais alto, as barreiras snti-som está ativa, com ninguém nos escutando... eu olho pra Nyrith* quero... quero provar seu gosto enquanto serei preenchida... e como vai fazer... *gemido* isso...? Tem alguma posição específica...?
 
 --------------------------------------------------------------------------------
 MENSAGEM 78 DE 158
@@ -1457,7 +1497,7 @@ O sorriso de **Nyrith** se alarga, lento e predatório, os olhos dela brilhando 
 
 Lá atrás, **Dulphin** rosna baixinho, mas não reclama — ele se ajusta, as mãos grandes encontrando seus quadris com um toque que já começa a guiá-la para a nova posição. Apoiado nos joelhos atrás de você, ele desliza as palmas quentes subindo pelas suas costas, fazendo você arquear instintivamente, o corpo lembrando do ritmo dele ainda pulsando dentro de você. "**Ela sempre foi boa em planejar**", ele murmura, a voz rouca perto da sua nuca, o hálito quente provocando arrepios na sua pele já sensível. "**E você é boa em seguir... ou não.**"
 
-[Cena removida; mensagem preservada.]
+Agora a cena está montada — você no centro, **Nyrith** deitada à sua frente, as pernas ligeiramente abertas, os dedos dela já brincando preguiçosamente sobre a própria pele, descendo devagar, provocando. **Dulphin** atrás, os dedos apertando seus quadris com a pressão certa, puxando-a para trás contra ele. O ar está carregado com o cheiro de fluídos, pele quente e Energia Amaldiçoada ondulando sutilmente no ambiente, as plantas no terraço pulsando em um ritmo mais acelerado.
 
 **Nyrith** inclina a cabeça, a língua molhando os lábios. "**Então, raposinha... por onde você quer começar?**"
 
@@ -1467,7 +1507,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:14.000Z
 Node ID: mia9lloqyxnbjlvty7n
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*eu mantenho a posição, fechando os olhos enquanto murmuro* os dois ao mesmo tempo... *e mergulhando em Nyrith em resposta, lambendo a sua virilha com amor e carinho*
 
 --------------------------------------------------------------------------------
 MENSAGEM 80 DE 158
@@ -1475,7 +1515,15 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:15.000Z
 Node ID: mu4j59bsga2qfbkk5hi
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O ar no quarto muda — fica mais denso, mais quente, conforme você se abaixa e sua língua encontra a pele macia de **Nyrith**. O gemido que ela solta é baixo, rouco, os dedos dela enterrando-se nos seus cabelos brancos com uma carícia agradecida. "**Isso...**", ela sussurra, as pernas dela se abrindo mais para te acomodar, te convidando a se perder ali.
+
+Ao mesmo tempo, você sente **Dulphin** se mover atrás de você. As mãos grandes e quentes dele deslizam dos seus quadris para a sua cintura, puxando-a para trás com firmeza. O corpo dele pressiona o seu, e você sente a ponta dele deslizando lentamente pela sua entrada, provocando, molhando-se em você antes de começar a se enterrar de volta — mais devagar que da primeira vez, mais profundo, como se ele quisesse sentir cada centímetro seu se ajustando a ele novamente.
+
+**Nyrith** arqueia as costas sob você, o gosto dela se espalhando na sua língua — salgado, levemente ácido, quente e vivo. Ela puxa seus cabelos com mais firmeza, guiando seu rosto exatamente onde ela quer, ofegante. "**Assim... não para...**" O corpo dela treme, e você sente os dedos dela apertarem seus cabelos enquanto ela se entrega ao seu toque.
+
+Lá atrás, **Dulphin** começa um ritmo — lento, deliberado, cada estocada fazendo o corpo dela balançar contra o seu, criando uma onda de prazer que sobe da sua barriga até o peito. Cada vez que ele avança, você é empurrada para frente, seu rosto mais fundo contra **Nyrith**, que geme mais alto, as unhas arranhando levemente seu couro cabeludo.
+
+"**Você está fazendo um trabalho tão lindo...**", **Nyrith** murmura, a voz bêbada de prazer, os olhos dela encontrando os seus por um momento antes dela fechá-los de novo, se perdendo na sensação. "**Os dois ao mesmo tempo... era exatamente isso que eu queria.**"
 
 --------------------------------------------------------------------------------
 MENSAGEM 81 DE 158
@@ -1483,7 +1531,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:16.000Z
 Node ID: mo58z6nx74u6ff3degz
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*solto um gemido ao sentir estocadas de Dulphin, também fechando os olhos... depois de 5 minutos, eu, Nyrith e Dulphin gozamos ao mesmo tempo, com eu e Nyrith gemendo alto e Dulphin soltando um grunhido enquanto me preenche*
 
 --------------------------------------------------------------------------------
 MENSAGEM 82 DE 158
@@ -1491,15 +1539,27 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:17.000Z
 Node ID: mvh192kd62ry0kpiv64
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O quarto some. Não há mais mundo lá fora — apenas o som de três corpos se movendo juntos, o ar pesado de respiração e suor, o calor úmido que envolve vocês como um casulo.
+
+Cinco minutos se arrastam como uma eternidade deliciosa. Você sente **Dulphin** por dentro, cada estocada dele mais profunda, mais urgente, o ritmo dele quebrando aos poucos à medida que ele se aproxima do limite. Ao mesmo tempo, sua língua e lábios trabalham **Nyrith** até ela ficar mole, os gemidos dela se tornando agudos, irregulares.
+
+O orgasmo chega como uma onda quebrando — simultânea, devastadora.
 
 **Nyrith** grita — um som aberto, cru, o corpo dela se curvando para cima enquanto ela treme sob você, os dedos cravados nos seus cabelos como se você fosse sua âncora.
 
-[Cena removida; mensagem preservada.]
+**Dulphin**enterra o rosto no seu ombro, um grunhido rouco e profundo escapando dele enquanto ele se esvazia dentro de você em pulsos quentes, as mãos dele apertando seus quadris com força suficiente para deixar marcas.
+
+Você mesma se despedaça entre os dois, o gemido saindo do fundo do peito — um som de raposa, quase um uivo abafado — enquanto o prazer varre cada centímetro seu, dos pés à ponta dos seus ouvidos.
+
+Por um longo momento, há apenas respiração. Três corpos colados, suados, satisfeitos.
+
+**Dulphin** é o primeiro a se mover. Devagar, ele se retira, e você sente o calor dele escorrendo pela sua coxa. Ele deita ao seu lado, puxando você contra o peito largo dele, o braço dele envolvendo sua cintura como um cinto de segurança.
+
+**Nyrith** se vira de lado, ainda ofegante, e arrasta os dedos pela sua bochecha com um sorriso mole. "**Você vai acabar com a gente, raposinha...**", ela murmura, a voz rouca, os olhos brilhando com algo que mistura cansaço e adoração. "**Do jeito certo.**"
 
 O sol da manhã já entra pelas cortinas, banhando o quarto em tons dourados. Lá fora, as plantas do terraço brilham suavemente, pulsando em sintonia com sua respiração.
 
-[Cena removida; mensagem preservada.]
+**Dulphin** apoia o queixo no topo da sua cabeça, o peito dele subindo e descendo devagar. "**Precisa de água? Comida? Ou quer ficar mais um pouco aqui?**" A voz dele está mais macia agora, pós-orgasmo deixando ele menos tenso, mais presente.
 
 O que você faz?
 
@@ -1517,7 +1577,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:19.000Z
 Node ID: m0u9et7exygy3140xv9
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O quarto se acomoda no silêncio aconchegante, os três corpos se encaixando como peças que sempre pertenceram ao mesmo quebra-cabeça. **Nyrith** aninha o rosto na curva do seu pescoço, o nariz frio dela roçando sua pele enquanto ela solta um suspiro satisfeito. **Dulphin** ajusta o braço em volta de vocês duas, a mão grande descansando na curva do seu quadril, o polegar traçando círculos distraídos na sua pele.
 
 O despertador que você programou marca quarenta e sete minutos para o alarme. O sol continua subindo lá fora, e as plantas da varanda projetam sombras dançantes no chão do quarto. A flor no recipiente pulsou até se acalmar, agora brilhando num ritmo lento e sereno — acompanhando seu estado de espírito.
 
@@ -1562,7 +1622,7 @@ Node ID: m60x6qgq3a810m0tt8v
 --------------------------------------------------------------------------------
 (De novo, Nyrith tem olhos verde escuros)
 
-[Cena removida; mensagem preservada.]
+*meu rosto cora um pouco, eu me levanto pra me preparar, tomando um banho para tirar a sujeira de ontem e depois volto, vestindo a minha roupa, como Nyrith e Dulphin não me viram vestida... as duas não esperavam que eu seja uma tomboy com roupas masculinas...*
 
 --------------------------------------------------------------------------------
 MENSAGEM 88 DE 158
@@ -1692,25 +1752,27 @@ Node ID: mlkirr2isgbma8vj28o
 --------------------------------------------------------------------------------
 **Dulphin** ri, um som rouco e genuíno. "**Natural? Tá de brincadeira. Tu é feita de aço, mulher.**" Ele se ajusta no seu dorso, o peso mudando ligeiramente enquanto ele se vira para **Nyrith**. "**A gente ainda tá aqui em cima, ou ela já virou uma máquina que nem percebe mais?**"
 
-[Cena removida; mensagem preservada.]
+**Nyrith** não responde de imediato. Os dedos dela ainda apertam sua jaqueta, mas a pressão diminui, virando um toque mais apoiado do que uma tentativa de estabilidade. Quando você chega na trigésima quinta, ela finalmente fala, a voz mais baixa, quase murmurando contra a sua nuca.
 
 **Nyrith:** "**Mais de sessenta e cinco quilos... e fácil assim. O que mais você esconde nesse corpo?**"
 
-[Cena removida; mensagem preservada.]
+Ela desliza a mão direita brevemente sobre o emblema de caveira na sua manga, como se estudasse a textura de propósito para disfarçar o que acabou de dizer. **Dulphin** pigarreia atrás.
+
+**Dulphin:** "**Vou avisando: se ela desmaiar de tesão aqui em cima, eu não seguro ela não. Fica por tua conta.**"
 
 **Nyrith** dá um leve tapa no ombro dele sem força, as orelhas dela corando.
 
 O tatame range. Você está chegando na quadragésima flexão — o corpo aquecido, a energia amaldiçoada vibrando nas raízes internas como uma resposta natural ao esforço, e eles dois ainda montados em você como se fossem penas.
 
-[Cena removida; mensagem preservada.]
+**Nyrith** solta sua jaqueta e apoia as mãos abertas no centro das suas costas, entre as omoplatas. O toque é intencional, firme, como se ela estivesse sentindo cada movimento sua — a expansão e contração dos músculos abaixo da regata preta.
 
 **Nyrith:** "**Tudo bem. Me convenceu. Você não é só uma flor bonita — é uma árvore com raízes de ferro.**"
 
-[Cena removida; mensagem preservada.]
+A voz dela tem um tom de admiração genuína agora, sem provocação.
 
 **Dulphin** ri baixinho e balança a cabeça. "**Já pensou em virar personal trainer de feiticeiros? Acho que até o Gojo sentiria inveja.** "
 
-[Cena removida; mensagem preservada.]
+A luz bate no brilho dos seus olhos heterocromáticos refletidos no suor do seu rosto.
 
 O que você faz?
 
@@ -1850,7 +1912,9 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:39.000Z
 Node ID: mv2ucell5gcu1a9ydp1
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O ar parece vibrar entre vocês dois no momento em que seus dedos envolvem o pulso de **Gojo**. Ele é surpreendentemente sólido sob seus dedos — não há nenhuma tensão visível, nenhum preparo. Ele apenas está ali, relaxado, o sorriso provocador ainda nos lábios.
+
+"Bom toque. Firme. Você já—"
 
 Mas quando você puxa, não é uma puxada reta. É um movimento fluido de Jiu-Jitsu — você usa o próprio equilíbrio dele contra ele, girando o quadril, deslocando o centro de gravidade dele para frente enquanto puxa o braço dele em um arco descendente. **Gojo** sente o chão fugir sob os pés no meio da frase.
 
@@ -1864,13 +1928,15 @@ O silêncio dura dois segundos.
 
 **Nobara** solta uma risada surpresa, levando a mão à boca. "M-Mestre? Você está bem aí embaixo?"
 
-[Cena removida; mensagem preservada.]
+**Megumi** — que raramente demonstra emoção — tem um _sorriso_ quase imperceptível nos lábios. Ele abaixa a cabeça para esconder.
 
 **Gojo** levanta a cabeça lentamente, ainda de quatro, e vira o rosto para olhar por cima do ombro. A venda escura cobre os olhos, mas você **sente** o sorriso dele — largo, genuíno, impressionado.
 
 "...Heh. Hehehe. Ah— **ahahahahaha**!"
 
-[Cena removida; mensagem preservada.]
+Ele se levanta em um movimento único, gracioso, batendo a poeira das roupas. "Jiu-Jitsu. Você é faixa-preta. Eu devia ter adivinhado." Ele aponta para você com um dedo enluvado. "Você não tentou vencer pela força. Você usou meu peso contra mim. Minha postura contra mim. Isso é inteligência de combate, não força bruta."
+
+**Nyrith** aperta seu ombro por trás, os dedos dela tremendo levemente — de excitação, não de medo. A voz dela é um sussurro quente perto da sua orelha: "Você derrubou o Satoru Gojo. Mesmo que por um segundo... ninguém faz isso."
 
 **Dulphin** assobia baixinho, os olhos brilhando. "Deusa. Eu avisei."
 
@@ -1936,13 +2002,15 @@ O dojô inteiro fica em silêncio por um momento. A prancha de plantas cósmicas
 
 Por um instante, ninguém fala.
 
-[Cena removida; mensagem preservada.]
+**Yuji Itadori** abre a boca lentamente, os olhos arregalados. **"É... é idêntica. Cara, que foda."**
+
+**Gojo** inclina a cabeça para o lado, o sorriso se alargando sob a venda preta. Os dedos batem ritmadamente no braço, como quem assiste a um show particular. **"Você está me dizendo que sua técnica não só controla flora cósmica, mas também permite replicar armas de ficção humana baseadas em plasma?"** Ele morde o lábio inferior, exagerando um pensamento dramático. **"Sabe, se você começar a copiar minha Técnica Infinita com essas plantas, vou ficar com ciúmes."**
 
 **Nobara Kugisaki** assobia baixo, os braços ainda cruzados. **"OK, isso é legal. Mas pergunta genuína: ela corta de verdade ou só brilha bonito? Porque se for só enfeite, é meio paia."**
 
 **Megumi** dá um passo à frente, as mãos nos bolsos do uniforme. Seus olhos analisam a lâmina com atenção clínica. **"A materialização é impressionante. Mas concordo com a Nobara — precisamos saber se é funcional ou decorativa."** Ele vira o olhar para você, sem hostilidade, apenas curiosidade profissional. **"Pode demonstrar em algo?"**
 
-[Cena removida; mensagem preservada.]
+**Nyrith** se aproxima mais, os dedos quase tocando a superfície da lâmina — ela recua na última hora, sentindo a energia vibrante emanando do objeto. "Hm. Ela irradia calor... e uma frequência que não reconheço. Isso não é só planta cósmica, não é?" O tom dela é baixo, um fio de admiração genuína.
 
 **Dulphin** levanta o tronco, a preguiça momentânea substituída por interesse genuíno. Seus olhos percorrem a arma de plasma com atenção. **"Sabia que você vinha guardando truques. Sempre soube."** Ele ri, cutucando seu ombro com o pé ainda sentado. **"Mostra como ela reage contra algo sólido, Vyvi. Tô curioso."**
 
@@ -1972,7 +2040,7 @@ O silêncio se instala quando você ergue a esfera de aço. É uma bola de demol
 
 Gojo dá um passo atrás, braços cruzados, mas com os ombros relaxados. **"Mostra pra eles, Vyvi. Tô pagando o ingresso."**
 
-[Cena removida; mensagem preservada.]
+Você ajusta o peso na mão — a lâmina de plasma cósmico vibra em sincronia com seu pulso, pulsando como se estivesse viva. A borda azul-esverdeada emite um zumbido grave, quase um sussurro elétrico. Você corta.
 
 O som não é de metal contra metal.
 
@@ -1986,7 +2054,11 @@ A lâmina atravessa a esfera de aço sem encontrar resistência. O metal fica ve
 
 **Yuji** ri sem fôlego, levando as mãos à cabeça. **"PQP VYVI! ERA PRA SER UMA ESPADA DE HALO, NÃO A LÂMINA DO INFERNO!"**
 
-[Cena removida; mensagem preservada.]
+**Nobara** está com a boca semiaberta, claramente querendo provocar, mas sem argumentos. Ela fecha a boca, balança a cabeça e solta um **"okay... isso é muito foda."**
+
+**Nyrith** se aproxima, seus olhos percorrendo o corte derretido. Ela toca a borda da metade caída. **"Não ficou só cortado... o ponto de contato foi, hm... desintegrado por calor? Não.*"* Ela ergue os olhos para você, uma expressão difícil de ler no rosto. **"Você introduziu uma reação de fusão no ponto de impacto?"**
+
+**Dulphin** gargalha, sentando-se ereto, o cabelo bagunçado. **"Fusão?! É uma feiticeira raposa criando mini-estrelas pra cortar aço, isso que é!"** Ele estala a língua contra os dentes. **"Agora fala sério — quanto da sua energia você gastaria pra fazer isso de novo? Uma, duas vezes? Vinte?"**
 
 **Gojo** finalmente tira a venda, só o suficiente para revelar um olho azul cobalto brilhando vivo. O branco do olho parece infinito, o azul quase ácido. **"Querida..."** A voz dele fica baixa, séria pela primeira vez. **
 
@@ -2006,7 +2078,7 @@ Node ID: m5a333ksqs98v1lm2eb
 --------------------------------------------------------------------------------
 A mudança no ar é sutil, mas palpável. Gojo mantém a venda virada, aquele olho azul cintilante fixo em você, cortando o ar com a seriedade rara que ele raramente deixa transparecer.
 
-[Cena removida; mensagem preservada.]
+**Gojo:** *o sorriso diminui, virando algo mais calculado* "Você acabou de fazer algo que a maioria dos feiticeiros Grau 1 não consegue replicar sem muito suor. E você fez com uma folha de trepadeira cósmica." Ele pausa, o olho percorrendo seu rosto. **"Eu sei que você corre pelo instinto, Vyvi. Mas sua técnica... é o tipo de coisa que os Superiores começam a salivar quando ouvem falar."**
 
 **Yuji** troca olhares com Megumi, confuso, sentindo o clima pesar.
 
@@ -2028,7 +2100,7 @@ Role: USER
 Timestamp: 2026-11-07T08:01:48.000Z
 Node ID: mtt4ns49iof8crvbq61
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+*coloco as mãos nos bolsos, falando num tom calmo* mais fácil eu mandar eles se foderem do que morder a isca.
 
 --------------------------------------------------------------------------------
 MENSAGEM 114 DE 158
@@ -2092,7 +2164,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:01:53.000Z
 Node ID: m377bx3ke5qt4nro0re
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+O biscoito crocante se desfaz na sua língua — um sabor amanteigado com leve toque de mel e algo salgado no fundo, como algas marinhas torradas. Suas orelhas vibram, a cauda explode num movimento frenético atrás de você, e antes que seu cérebro filtrasse qualquer reação socialmente aceitável, um som agudo escapa da sua garganta.
 
 Um guincho. *Finíssimo.* Quase musical. Um *"kyuuu~"* prolongado que ecoa no pátio silencioso.
 
@@ -2164,7 +2236,7 @@ Node ID: muzz2xe2wq9epwq1nx4
 
 **Maki** não tenta evitar.
 
-[Cena removida; mensagem preservada.]
+Ela aceita o contato, sente os dois pés serem varridos com um grunhido baixo—e em vez de cair de costas, ela *rola* sobre o ombro direito no impacto, usando a queda como amortecedor. A palma dela bate no tatame, os dedos cavam o tecido, e ela gira as pernas como uma mola, completando a rotação e voltando a ficar de pé, agora a um passo e meio de distância, os olhos estreitos brilhando.
 
 Na beirada do tatame, **Panda** franze o cenho. *"Ela é tão bruta que esquece de cair direito às vezes. Mas essa recuperação foi limpa."* Ele não tira os olhos de vocês.
 
@@ -2175,7 +2247,7 @@ Dessa vez não vem reto. Ela faz uma finta com o ombro esquerdo, inclina o tronc
 
 *Dulphin assobia baixinho. "Bonito chute pra alguém que jura que soco é mais eficiente."*
 
-[Cena removida; mensagem preservada.]
+**Nyrith** aperta os lábios, os olhos fixos na sua reação.
 
 O que você faz?
 
@@ -2327,7 +2399,7 @@ O olhar dele te acompanha por um segundo extra, como se já estivesse calculando
 
 ---
 
-[Cena removida; mensagem preservada.]
+Vocês três passam pelo portão principal da Tokyo Jujutsu High. O sol da tarde já começa a se inclinar, pintando o céu de laranja e rosa. A brisa carrega o cheiro de terra molhada e asfalto aquecido. A rua fora do campus é tranquila — alguns carros passam, pedestres seguem suas vidas sem saber que três feiticeiros acabaram de sair de uma escola de exorcistas.
 
 **Nyrith** caminha do seu lado direito, as tatuagens de plantas negras quase vibrantes sob a luz do entardecer. Ele desliza a mão pela sua, os dedos entrelaçando nos seus.
 
@@ -2437,7 +2509,7 @@ Node ID: mc9tym0hnuml5lk56gd
 --------------------------------------------------------------------------------
 **Nyrith** inclina a cabeça, os olhos verde-escuros brilhando com interesse genuíno enquanto ela absorve sua explicação. Os dedos finos dela tamborilam na borda da tigela de cerâmica, num ritmo que ecoa o pensamento. *"Pré-treino... então você já está se preparando para algo maior. Faz sentido."* Ela ergue sua própria tigela, tomando um gole cuidadoso do caldo, os lábios se curvando em satisfação quase imperceptível. *"Ingerir energia amaldiçoada diluída dessa forma... é eficiente. Não sobrecarrega o sistema, mas constrói resistência ao longo do tempo. Esperto."*
 
-[Cena removida; mensagem preservada.]
+**Dulphin**, que até então estava concentrado em lamber o fundo da tigela com a língua áspera, levanta a cabeça. As orelhas do pastor alemão viram-se para você, e ele solta um pequeno latido afirmativo, o rabo balançando uma vez antes de voltar a atenção para os restos do jantar. A garçonete-demônio passa pela mesa novamente, os dentes pontiagudos aparecendo num sorriso cortês ao ver as tigelas quase vazias. *"Mais alguma coisa, queridos? Ou posso trazer a conta?"*
 
 Do lado de fora, a noite já caiu completamente sobre Shinjuku. A névoa de energia amaldiçoada que paira sobre o bairro fica mais densa nessa hora — sensível aos seus sentidos de raposa, uma vibração quase imperceptível na pele. A janela continua embaçada, mas através dela é possível ver as luzes de neon dos arranha-céus distorcerem em manchas coloridas.
 
@@ -2709,7 +2781,7 @@ Role: ASSISTANT
 Timestamp: 2026-11-07T08:02:29.000Z
 Node ID: m3uirtr3stnndnraz3h
 --------------------------------------------------------------------------------
-[Cena removida; mensagem preservada.]
+A rua está mais silenciosa agora. As luzes dos postes tremeluzem, projetando sombras distorcidas no asfalto molhado. A brisa noturna carrega o cheiro de chuva distante e terra molhada — um presságio, talvez. Ou apenas o fim da noite.
 
 **Nyrith** aperta sua mão uma última vez antes de soltar, se levantando com um movimento fluido. Ela estica os braços acima da cabeça, as tatuagens de plantas negras se esticando sob a pele clara.
 
