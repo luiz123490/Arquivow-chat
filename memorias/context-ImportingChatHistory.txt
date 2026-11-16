@@ -1,14 +1,9 @@
 [MEMÓRIA - Importing Chat History via Datafile]
 Thread ID: mut0tz53i5pamnz66xd
 
-ARCO ATUAL:
-Suporte/Importação
+STATUS/ARCO ATUAL (retomar daqui):
+STATUS ATUAL: Conversa de suporte/importação encerrada na última orientação — para manter contexto além das mensagens fixadas, consultar a documentação da plataforma sobre janela de contexto e gestão de memória: https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md.
 
-STATUS ATUAL (retomar daqui):
-Conversa de suporte/importação sobre contexto dos bots. Última orientação: para manter contexto além das mensagens fixadas, consultar a documentação da plataforma sobre janela de contexto e gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md).
-
-CONTEXTO DE FUNDO:
-Sem narrativa de RP.
-
-ÚLTIMA MENSAGEM DE CENA (referência):
-[ASSISTANT @ 2026-11-08T20:34:52.155Z] Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
+ÚLTIMA MENSAGEM (registro completo no database/mensagens_completas):
+[ASSISTANT @ 2026-11-08T20:34:52.155Z]
+Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)

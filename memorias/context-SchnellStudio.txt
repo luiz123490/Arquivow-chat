@@ -1,11 +1,7 @@
-[MEMÓRIA - New Chat / Schnell Studio]
+[MEMÓRIA - Schnell Studio / New Chat]
 Thread ID: mwb2qgwkyvomee2o6cj
 
-ARCO ATUAL:
-Sem arco em andamento.
-
-STATUS ATUAL (retomar daqui):
+STATUS/ARCO ATUAL (retomar daqui):
 (sem standing record)
 
-CONTEXTO DE FUNDO:
-Thread vazia.
+Thread vazia (sem mensagens).

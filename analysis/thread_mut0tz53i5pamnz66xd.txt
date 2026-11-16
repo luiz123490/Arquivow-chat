@@ -1,63 +1,93 @@
 ================================================================================
-MEMÓRIA DE THREAD — Importing Chat History via Datafile
+THREAD: Importing Chat History via Datafile
 ID: mut0tz53i5pamnz66xd
-NÃO MISTURAR com outras threads/personagens.
+TOTAL MSGS: 10
+STATUS/ARCO ATUAL:
+STATUS ATUAL: Conversa de suporte/importação encerrada na última orientação — para manter contexto além das mensagens fixadas, consultar a documentação da plataforma sobre janela de contexto e gestão de memória: https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md.
 ================================================================================
 
->>> ARCO ATUAL
-Suporte/Importação
-
->>> STATUS ATUAL (RETOMAR DAQUI)
-Conversa de suporte/importação sobre contexto dos bots. Última orientação: para manter contexto além das mensagens fixadas, consultar a documentação da plataforma sobre janela de contexto e gestão de memória: [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md).
-
->>> CONTEXTO DE FUNDO (resumo breve)
-Sem narrativa de RP.
-
->>> MENSAGENS RECENTES (referência de continuidade)
-------------------------------------------------------------
-[USER] 2026-11-07T05:44:49.176Z | node mw5zbajc7vpwx7u8cy
+--- MSG 1 ---
+ROLE: user
+TIMESTAMP: 2026-11-07T05:44:49.176Z
+NODE: mw5zbajc7vpwx7u8cy
+CONTENT:
 Eu posso importar histórico de chats bo datafile?
-------------------------------------------------------------
-[ASSISTANT] 2026-11-07T05:44:49.232Z | node mw5zbakv0gpfni5cyec
+
+--- MSG 2 ---
+ROLE: assistant
+TIMESTAMP: 2026-11-07T05:44:49.232Z
+NODE: mw5zbakv0gpfni5cyec
+CONTENT:
 Para saber se é possível importar histórico de chats via datafile, você deve consultar a documentação do sistema:
 
 [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
-------------------------------------------------------------
-[USER] 2026-11-07T05:46:48.444Z | node mw5zdukcwzjry08mp8
+
+--- MSG 3 ---
+ROLE: user
+TIMESTAMP: 2026-11-07T05:46:48.444Z
+NODE: mw5zdukcwzjry08mp8
+CONTENT:
 Eu não sei, se eu criar um datafile, o histórico de chat pode ser criado?
-------------------------------------------------------------
-[ASSISTANT] 2026-11-07T05:46:48.462Z | node mw5zdukuiipozhlngak
+
+--- MSG 4 ---
+ROLE: assistant
+TIMESTAMP: 2026-11-07T05:46:48.462Z
+NODE: mw5zdukuiipozhlngak
+CONTENT:
 Não tenho a informação de que a criação de um datafile possa gerar automaticamente um histórico de chat.
 
 Para entender como a plataforma processa arquivos e se eles podem influenciar a memória ou o histórico da conversa, consulte a documentação:
 
 [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
-------------------------------------------------------------
-[USER] 2026-11-07T07:06:06.821Z | node mw627u5hz7um3am23e
+
+--- MSG 5 ---
+ROLE: user
+TIMESTAMP: 2026-11-07T07:06:06.821Z
+NODE: mw627u5hz7um3am23e
+CONTENT:
 E caso eu escolha uma mensagem alternativa assim como um chatbot normal de I.A?
-------------------------------------------------------------
-[ASSISTANT] 2026-11-07T07:06:06.857Z | node mw627u6h4awpqhyuv42
+
+--- MSG 6 ---
+ROLE: assistant
+TIMESTAMP: 2026-11-07T07:06:06.857Z
+NODE: mw627u6h4awpqhyuv42
+CONTENT:
 Se você está se referindo àquela função de "regenerar" a resposta ou escolher entre diferentes versões de uma mensagem (comum em chatbots de IA), isso geralmente serve para ajustar o tom ou a precisão da resposta atual, mas não altera a estrutura do seu datafile ou a memória permanente do agente.
 
 Caso sua dúvida seja sobre como a IA se comporta ao oferecer alternativas, a resposta depende de como a plataforma URV AI gerencia as tentativas de geração, o que é detalhado aqui:
 
 [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
-------------------------------------------------------------
-[USER] 2026-11-07T07:21:25.238Z | node mw62rit2k7o5e2kfym
+
+--- MSG 7 ---
+ROLE: user
+TIMESTAMP: 2026-11-07T07:21:25.238Z
+NODE: mw62rit2k7o5e2kfym
+CONTENT:
 As suas mensagens são limitadas?
-------------------------------------------------------------
-[ASSISTANT] 2026-11-07T07:21:25.279Z | node mw62riu7ftwd46m7zm
+
+--- MSG 8 ---
+ROLE: assistant
+TIMESTAMP: 2026-11-07T07:21:25.279Z
+NODE: mw62riu7ftwd46m7zm
+CONTENT:
 Não tenho a informação sobre a existência de limites de mensagens.
 
 Para verificar se há restrições de volume ou quotas de uso na plataforma, consulte a documentação:
 
 [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
-------------------------------------------------------------
-[USER] 2026-11-08T20:34:52.121Z | node mw8ajr6h49hx7zsb83
+
+--- MSG 9 ---
+ROLE: user
+TIMESTAMP: 2026-11-08T20:34:52.121Z
+NODE: mw8ajr6h49hx7zsb83
+CONTENT:
 Como eu faço para os bots se lembrar de todo o contexto do chat já que só tem 5 mensagens fixadas?
-------------------------------------------------------------
-[ASSISTANT] 2026-11-08T20:34:52.155Z | node mw8ajr7f0f3kc12x7bg8
+
+--- MSG 10 ---
+ROLE: assistant
+TIMESTAMP: 2026-11-08T20:34:52.155Z
+NODE: mw8ajr7f0f3kc12x7bg8
+CONTENT:
 Para que os bots mantenham o contexto além das mensagens fixadas, você deve consultar a documentação da plataforma para entender como funciona a janela de contexto e a gestão de memória:
 
 [URV AI Documentation](https://raw.githubusercontent.com/withthatway/urv-ai/main/docs/urv-ai-docs.md)
-------------------------------------------------------------
