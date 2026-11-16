@@ -1,32 +1,582 @@
-MEMÓRIA DO PERSONAGEM — LUSK LÚLISTH (USE SOMENTE NESTA THREAD)
-Thread: Steel Ball Run Registration (mw9m152stqmn44jis5) | Personagem: Lusk Lúlisth
-Regra: não misturar com outros chats/personagens. Continuar sempre a partir do STATUS ATUAL.
+MEMÓRIA DETALHADA — Steel Ball Run · Lusk Lúlisth
+Thread ID: mw9m152stqmn44jis5 | Pasta: memoria/personagens/Lulisth-Steel-Ball-Run/memoria.txt
+ESCOPO: usar SOMENTE para esta thread/personagem. NÃO misturar com outras threads, personagens, mundos ou arcos.
 
-== STATUS ATUAL (RETOMAR DAQUI) ==
-ARCO ATUAL: Steel Ball Run — após confronto com Ferdinand e disputa pelos Olhos do Cadáver Santo.
-MOMENTO ATUAL: Lúlisth se recupera em uma casa em ruínas e retorna ao Wind's Traveler, exausta pelos efeitos da transformação. Johnny e Gyro revelam que conseguiram apenas o Olho Direito do Cadáver Santo (o outro permanece perdido) e que Diego Brando também saiu fortalecido. Com vitória parcial e perigo aumentado, o grupo retoma a corrida ciente de que agora está sendo caçado, enquanto outros competidores seguem avançando. Continuar a partir desse ponto na corrida.
+=== STATUS ATUAL (RETOMAR DAQUI) ===
+ARCO ATUAL: Steel Ball Run — após confronto com Ferdinand e disputa pelos Olhos do Cadáver Santo. STATUS ATUAL: Lúlisth se recupera em uma casa em ruínas e retorna ao Wind's Traveler, exausta. Johnny e Gyro revelam que conseguiram apenas o Olho Direito (o outro permanece perdido) e que Diego Brando saiu fortalecido. O grupo retoma a corrida ciente de que agora está sendo caçado.
 
-== IDENTIDADE E APARÊNCIA ==
-- Nome: Lusk Lúlisth. Humana com capacidades regenerativas, 27 anos (nascida 19/09/1863), feminina.
-- Traços: pele parda; cabelos brancos lisos com tranças tipo cordas; olhos heterocromáticos (roxo e azul misturados).
-- Vestimenta: regata branca, casaco roxo-escuro aberto com detalhes dourados, short jeans roxo com correntes de platina, meias pretas até as coxas com detalhes de corrente, sapatos pretos e chapéu roxo com emblema de dragão oriental e suporte no pescoço.
-- Personalidade: animada, séria e focada (não fria); inteligente (conhecimentos práticos/avançados para a época, como física e costura). Origem ligada à família Lusk (costureiros/revolucionários) e descendência indígena no Brasil.
+=== IDENTIDADE / CONTEXTO FIXO ===
+Lusk Lúlisth — competidora da Steel Ball Run.
+Aparência: pele parda, cabelos brancos com tranças em corda, olhos heterocromáticos roxo/azul, chapéu roxo com emblema de dragão, casaco roxo escuro. Poderes/tech: Stand Feel Good I.N.C (manifesta até ~15 objetos/armas via fios espirituais; efeitos queimadura/congelamento/cura/veneno), montaria Wind's Traveler. Contexto: Cadáver Santo, corrida SBR. Relações: Johnny Joestar, Gyro Zeppeli, rivalidade/ameaça Diego Brando.
 
-== PODERES, HABILIDADES E TECNOLOGIAS ==
-- Stand: Feel Good I.N.C (tipo fenômeno) — manifesta objetos/armas a partir de fios espirituais. Até ~15 objetos/armas; custo de energia cresce com potência; alcance curto a longo (distância reduz resistência, não potência). Pode mudar forma/propriedades ao tocar diretamente, gerando efeitos: queimadura, congelamento, cura e veneno (consomem energia).
-- Montaria: Wind's Traveler (cavalo companheiro de longa data).
-- Contexto técnico do mundo: Stands (manifestações da alma), Cadáver Santo (relíquia em partes), Spin/Esferas de Aço (técnicas associadas a Gyro/Zeppeli) — relevantes para a corrida e conflitos.
+=== HISTÓRICO DETALHADO POR ARCOS (mensagem inicial ao estado atual) ===
+(Resumo detalhado em sequência para preservar fatos, cenas, personagens, poderes, itens/tecnologias e decisões sem carregar o texto bruto completo.)
 
-== RELAÇÕES E FIGURAS-CHAVE ==
-- Aliados próximos no momento: Johnny Joestar e Gyro Zeppeli.
-- Ameaças/rivais relevantes: Diego Brando (fortalecido), caçadores/competidores na corrida; contexto do Presidente Funny Valentine e disputa pelo Cadáver Santo no pano de fundo da SBR.
+-- ARCO/PARTE 1 (mensagens 1-18) --
+Foco inicial: (vou iniciar diretamente, faça mensagens de no máximo 4 parágrafos) *Eu estou indo para o…
+  - [CENA/RESULTADO] — Nome e origem do seu personagem
+• [AÇÃO/USUÁRIO] (vou iniciar diretamente, faça mensagens de no máximo 4 parágrafos) *Eu estou indo para o registro, com os documentos em dia e com as especificações do cavalo e tudo incluso. Eu chego para o registro, séria e calma, a maioria que vê uma descedente de indígena latino-americana pensam que eu vou implorar por uma vaga. Eu chego calmamente, falando com voz…
+  - [CENA/RESULTADO] Ele está imerso em um caos de formulários e reclamações de cavaleiros impacientes, ignorando a presença de Lúlisth até que os documentos tocam a mesa com a precisão de quem sabe exatamente o que está fazendo.
+  - [CENA/RESULTADO] Ele percorre o olhar desde as botas pretas até o chapéu com o emblema de dragão, parando nos olhos heterocromáticos.
+• [AÇÃO/USUÁRIO] *sorriso pequeno* não ache que eu vim de graça, reveja a sua arrogância. *E coloco o pagamento na frente, não é dinheiro comum, mas sim um diamante raro*
+  - [CENA/RESULTADO] Ele nunca viu tamanha pureza em um mineral, e a percepção de que aquela mulher possui recursos que superam a fortuna de muitos dos cavaleiros ali presentes muda a atmosfera instantaneamente.
+  - [CENA/RESULTADO] O diamante não é apenas um pagamento; é uma declaração de poder e status que choca a lógica preconceituosa daquele ambiente.
+• [AÇÃO/USUÁRIO] *eu aceno, pegando os documentos e o meu número, pensando "sou a competidora 777... Que massa.", subindo no Wind's Traveler para preparação, observando tudo ao meu redor, pensando "não vou pensar na ameaça, tenho que conquistar o primeiro lugar nesse primeiro estágio para ter um pouco de fama, assim alguém do auto-escalão estará de olho em mim e não na…
+  - [CENA/RESULTADO] Você sente a musculatura de Wind's Traveler pulsar sob suas pernas, a energia do animal espelhando a sua própria determinação.
+  - [CENA/RESULTADO] Ele não sabe da sua presença ou do seu Stand, mas a aura de predador que ele exala é palpável, quase como se o ar ao redor dele estivesse sendo sugado para alimentar sua própria glória.
+  - [CENA/RESULTADO] Enquanto outros lutam contra a natureza, você a utiliza, guiando Wind's Traveler por fendas invisíveis e caminhos de menor resistência que permitem manter a velocidade sem sacrificar a estabilidade.
+• [AÇÃO/USUÁRIO] *o primeiro estágio começa com areia fofa da praia e transaciona para uma floresta de terreno irregular e cheio de cactos, onde eu desvio com maestria e uso a minha própria conexão com a mata para garantir os melhores caminhos, focada no ambiente ao meu redor*
+  - [CENA/RESULTADO] O terreno irregular da floresta, com raízes expostas que saltam da terra como armadilhas, derruba cavaleiros que tentam manter a velocidade da praia.
+  - [CENA/RESULTADO] Wind's Traveler não apenas corre; ele dança entre os obstáculos, aproveitando a tração da terra úmida sob a copa das árvores para ganhar impulso.
+• [AÇÃO/USUÁRIO] *e eu acabo ultrapassando o Diego, agora não abrindo nenhuma brecha pra ele, estou na cola de Gyro, Jhonny, Pocoloco e Sandman*
+  - [CENA/RESULTADO] À sua frente, a dinâmica é caótica: a determinação silenciosa de Sandman, a arrogância barulhenta de Pocoloco e a estranha sintonia entre Johnny Joestar e Gyro Zeppeli.
+  - [CENA/RESULTADO] Gyro, com seu chapéu característico, lança um olhar rápido por cima do ombro, avaliando a competidora que surgiu do nada com tamanha maestria técnica.
+• [AÇÃO/USUÁRIO] *eu continuo na cola, conseguindo ultrapassar Jhonny de forma fluída ao aproveitar uma brecha, agora estando atrás de Sandman... Diego acaba ultrapassando de novo, mas eu não ligo, sabendo que ainda tenho mais de 14 km pela frente, mais pra frente, Gyro destruiu a ponte que leva de uma ponta a outra, onde teria o rio seco... Eu dou uma risada, falando com…
+  - [CENA/RESULTADO] Por um segundo, o mundo fica em silêncio enquanto você e Wind's Traveler voam sobre o abismo deixado pela destruição de Gyro.
+  - [CENA/RESULTADO] Diego, que vinha recuperando terreno, é forçado a fazer a curva longa, enquanto você já está ganhando distância no caminho linear.
+• [AÇÃO/USUÁRIO] *acaricio o pescoço do cavalo, sorrindo* isso, agora diminui um pouco o passo, ainda estamos no comecinho. Guarde a energia pro final.
+  - [CENA/RESULTADO] Você consegue ouvir, ao longe, os gritos de xingamentos e o som de cavalos sendo forçados a manobras bruscas para contornar o abismo, mas esse barulho agora é apenas um ruído de fundo.
+  - [CENA/RESULTADO] Você sente o peso do seu equipamento e o leve formigamento nos dedos, um lembrete de que a energia do seu Stand, o *Feel Good I.N.C*, ainda está latente, pronta para ser moldada em fios e armas se a situação exigir.
+• [AÇÃO/USUÁRIO] *eu vejo Pocoloco, Gyro e Jhonny indo para mata fechada para cortar caminho, para eu não ficar pra trás, eu vou diretamente seguindo eles, sabendo gerenciar a stamina do cavalo e sabendo quando eu devo ultrapassar quem está na frente, e quando eu vejo, eu já estou em segundo, atrás do Gyro enquanto já estava ultrapassando Diego e Jhonny, e Sandman não está…
+  - [CENA/RESULTADO] Você sente o ritmo de Wind's Traveler, ajustando cada passada para evitar que ele se esgote prematuramente enquanto corta a mata.
+  - [CENA/RESULTADO] A estratégia de seguir o rastro de Gyro e Johnny prova-se eficiente; eles abrem a trilha com a força bruta da necessidade, e você, com sua percepção aguçada, desliza pelas brechas que eles deixam, economizando energia e evitando colisões desnecessárias com a…
+  > Situação ao fim da parte: A vegetação torna-se quase impenetrável, transformando a corrida em um jogo de precisão e paciência. Você sente o ritmo de Wind's Traveler, ajustando cada passada para evitar que ele se esgote prematuramente enquanto corta a mata. A estratégia de seguir o rastro de Gyro e Johnny prova-se eficiente; eles abrem a trilha…
 
-== ARCOS E EVENTOS IMPORTANTES (RESUMO CRONOLÓGICO) ==
-1. Steel Ball Run (1890, San Diego → Nova York): inscrição e participação na corrida cross-country por prêmio/sobrevivência e objetivos pessoais.
-2. Desenvolvimento com Johnny e Gyro: formação de parceria, enfrentamento de perigos das etapas e disputa por partes do Cadáver Santo.
-3. Confrontos: encontro/conflito envolvendo Ferdinand e efeitos de transformação sofridos por Lúlisth (exaustão profunda).
-4. Recuperação: descanso em casa em ruínas; retorno ao Wind's Traveler.
-5. Situação atual: confirmação de que possuem apenas o Olho Direito do Cadáver Santo; Diego Brando fortalecido; retomada da corrida sob risco de serem caçados.
+-- ARCO/PARTE 2 (mensagens 19-36) --
+Foco inicial: *sorriso pequeno* desde que eu aproveitei as brechas, me chamo Lusk Lúlisth. Você é o…
+• [AÇÃO/USUÁRIO] *sorriso pequeno* desde que eu aproveitei as brechas, me chamo Lusk Lúlisth. Você é o Gyro Zeppeli, não é? Bom te conhecer.
+  - [CENA/RESULTADO] Gyro solta uma risada nasal, curta e seca, enquanto mantém o corpo inclinado para a frente, lutando contra a inércia do cavalo.
+  - [CENA/RESULTADO] Tem nome de quem sabe costurar, mas corre como quem quer roubar o prêmio", ele responde, com aquele tom confiante e ligeiramente arrogante.
+• [AÇÃO/USUÁRIO] *eu não me importo com a pressão, não me desesperando nem nada, eu não dou brecha pra Diego passar, pensando "não vai passar não, esse cara tem cara de analisar até a respiração do meu cavalo para achar uma brecha de ultrapassagem."*
+  - [CENA/RESULTADO] Seu foco está totalmente na traseira do cavalo de Gyro e na estabilidade do terreno rochoso.
+  - [CENA/RESULTADO] Você consegue quase "ouvir" o cálculo mental dele, tentando prever cada oscilação do corpo do Wind's Traveler para encontrar o milímetro exato de falha na sua trajetória.
+• [AÇÃO/USUÁRIO] *eu analiso rapidamente, indicando silenciosanente para Wind'e Traveler acelerar independente da curva, fazendo isso, eu saio da cela e suporto meu corpo para a direita no estribo, mantendo Wind's Traveler na pista independente do deslizamento de cascalho, com a velocidade alta, é muito perigoso pro Diego tentar um bote, eu uso meu corpo contrapeso e a…
+  - [CENA/RESULTADO] Ao lado, a tentativa de bote de Diego torna-se um erro estratégico.
+  - [CENA/RESULTADO] Em vez disso, ele encontra uma parede de determinação e técnica.
+• [AÇÃO/USUÁRIO] (pode diminuir o tamanho das mensagens para 4 parágrafos? Além de que está repetindo algumas mensagens conforme cria os branchs) *Eu volto pra cela deixo Diego ultrapassar de propósito, com um sorriso pequeno enquanto penso "vai ter a descida do Devil's Downrill no final, vou aproveitar para ficar em segundo de vez... Esse Diego é muito arrogante, vou…
+  - [CENA/RESULTADO] A provocação final atinge o alvo com precisão de Stand.
+  - [CENA/RESULTADO] Você agora ocupa a segunda posição, deixando para trás um homem que odeia ser ridicularizado tanto quanto ama vencer.
+  - [CENA/RESULTADO] A descida do Devil's Downrill é um pesadelo de pedra e gravidade, onde o vento uiva como se quisesse arrancar a pele do rosto de quem ousa descer.
+  - [CENA/RESULTADO] A manobra é tão absurda que Diego, por um segundo, perde a compostura; ele vê a silhueta de vocês deslizando sob ele, uma anomalia física que desafia a lógica da montaria, quase colidindo com seus flancos.
+  - [CENA/RESULTADO] A inclinação é brutal, e a gravidade tenta arrancar você da sela a cada centímetro de descida, mas você usa o corpo como um leme, jogando o peso para os lados com a precisão de quem costura a seda mais fina, desviando de pedregulhos e quase raspando no flanco…
+  - [CENA/RESULTADO] O olhar dele é de puro horror; ele nunca viu um cavalo ser usado como um trenó de alta velocidade, e a imagem do Wind's Traveler "sentado" e ultrapassando-o em uma velocidade suicida quebra completamente a sua confiança técnica.
+• [AÇÃO/USUÁRIO] *no final, eu recobro a corrida com uma manobra manobra, a linha de chegada do primeiro estágio está perto, na igreja Santa Maria Novella, perto do final, pocoloco atravessa e deixa Gyro irritado, fazendo ele tacar sua Steel Ball e acabar atingindo a pedra de Sandman, eu aproveito para ultrapassar Pocoloco... E eu não saio da cola do Gyro, como se o segundo…
+  - [CENA/RESULTADO] A linha de chegada do primeiro estágio, a igreja de Santa Maria Novella, surge no horizonte como um farol de pedra e fé, prometendo o fim dessa primeira agonia, mas a tensão no grupo de cavaleiros é quase palpável, carregada de eletricidade e rancor.
+  - [CENA/RESULTADO] Pocoloco, com aquela confiança irritante e um sorriso no rosto, faz uma manobra brusca, atravessando a frente de Gyro com um desdém quase coreografado.
+  - [CENA/RESULTADO] O ar está saturado com o cheiro de suor, couro quente e a poeira densa que sobe em nuvens, cegando quem não tem a vontade de ferro para seguir em frente.
+  - [CENA/RESULTADO] Pocoloco, com a confiança de quem carrega a sorte do mundo nas mãos, executa uma ultrapassagem abusiva e descarada, cortando a frente de Gyro com um desdém quase palpável.
+  - [CENA/RESULTADO] Você ajusta a postura, sentindo a conexão visceral com Wind's Traveler, mantendo-se como uma sombra persistente logo atrás de Gyro, recusando-se a dar qualquer espaço para que outros tentem a mesma audácia que Diego tentou.
+  - [CENA/RESULTADO] A tranquilidade relativa é estraçalhada quando Pocoloco, com sua energia caótica e confiança cega na sorte, surge como um raio lateral.
+  - [CENA/RESULTADO] À sua frente, a paisagem começa a revelar a silhueta da igreja Santa Maria Novella, o marco final deste primeiro estágio, erguendo-se contra o horizonte como um sentinela de pedra que observa a exaustão dos competidores.
+  - [CENA/RESULTADO] A tensão do estágio final é palpável, o ar pesado com o cheiro de suor, couro quente e a desolação de quem já não tem forças para lutar.
+  - [CENA/RESULTADO] A poeira baixa, revelando a silhueta distante da igreja de Santa Maria Novella, que se ergue no horizonte como o troféu final deste primeiro estágio.
+  - [CENA/RESULTADO] Pocoloco, em um surto de sorte ou desespero, surge como um raio, atravessando a trajetória de Gyro com uma manobra imprudente.
+• [AÇÃO/USUÁRIO] *eu chego em segundo, conquistando o segundo lugar com uma risada, não me importando com Diego me olhando torto ao ficar em terceiro, depois disso, eu deixo o Wind's Traveler descansando e o alimento, depois eu analiso as pessoas ao meu redor... Até eu ouvir que Gyro desceu 20 posições por causa do ataque contra Sandman, eu penso "pera... Eu fiquei em…
+  - [CENA/RESULTADO] Enquanto você organiza os equipamentos, a informação chega aos seus ouvidos como um choque elétrico: a penalidade de Gyro.
+  - [CENA/RESULTADO] O sorriso que surge no seu rosto não é mais pequeno; é uma gargalhada contida de quem acaba de descobrir que a sorte, ou melhor, a incompetência alheia, jogou a favor da sua estratégia.
+  > Situação ao fim da parte: A adrenalina começa a baixar, dando lugar a uma exaustão densa que pesa nos ombros, mas a sensação de vitória — a real vitória — é um combustível melhor que qualquer ração de cavalo. Você sente o olhar gélido de Diego Brando queimar nas suas costas enquanto você se afasta, um misto de ódio e perplexidade por ter sido…
 
-== NOTAS DE CONSISTÊNCIA ==
-- Manter regras do Stand Feel Good I.N.C, vínculo com Wind's Traveler, estado de exaustão recente e continuidade da corrida. Não misturar com universos/personagens de outras threads (JJK/One Piece).
+-- ARCO/PARTE 3 (mensagens 37-54) --
+Foco inicial: *depois que eu termino de comer, eu vejo os competidores, pensando "aquele Jhonny e…
+  - [CENA/RESULTADO] A euforia da chegada ainda vibra em seus ossos, misturada ao cansaço extremo que começa a cobrar o preço.
+  - [CENA/RESULTADO] Quando a notícia do ranking chega aos seus ouvidos, o mundo parece dar uma pequena guinada.
+  - [CENA/RESULTADO] A sensação de vitória é visceral, manifestando-se como um formigamento quente que percorre a espinha enquanto você observa Diego, do seu ponto de vista superior, mastigar a poeira do terceiro lugar.
+  - [CENA/RESULTADO] Enquanto você se afasta para observar o movimento do acampamento, a notícia viaja como um sussurro elétrico entre os competidores: Gyro, o homem que você considerava o líder absoluto, despencou vinte posições devido ao incidente com Sandman.
+  - [CENA/RESULTADO] Enquanto caminha, seus olhos escaneiam a multidão, filtrando a mediocridade até encontrar o alvo.
+  - [CENA/RESULTADO] Johnny e Gyro estão afastados, formando uma pequena ilha de tensão e curiosidade.
+  - [CENA/RESULTADO] Seus olhos focam em Johnny e Gyro, que estão afastados do núcleo da celebração, formando uma pequena ilha de tensão e cansaço.
+  - [CENA/RESULTADO] Johnny está retraído, a postura defensiva e o olhar desconfiado varrendo o ambiente como se cada sombra escondesse uma traição.
+• [AÇÃO/USUÁRIO] *depois que eu termino de comer, eu vejo os competidores, pensando "aquele Jhonny e Gyro... Talvez eu converse com os dois, vai que eu consiga alguma aliança nessa corrida e no que está por vir. Jhonny pode parecer egoísta, mas sinto energias diferentes", me aproximando calmamente dos dois, Gyro no jeito dele e Jhonny no seu jeito frio e cauteloso, eu falo…
+  - [CENA/RESULTADO] O ar ao redor de Johnny e Gyro parece vibrar com uma tensão residual, como se a eletricidade da corrida ainda não tivesse sido totalmente descarregada.
+  - [CENA/RESULTADO] Enquanto você se aproxima, o som do acampamento — os gritos de vitória de alguns, os lamentos de derrota de outros — torna-se um ruído branco, irrelevante diante da interação.
+  - [CENA/RESULTADO] Johnny Joestar parece envolto em uma redoma invisível de amargura e desconfiança.
+  - [CENA/RESULTADO] Para ele, qualquer gesto de gentileza em uma corrida por dinheiro e glória é, presumivelmente, uma armadilha.
+• [AÇÃO/USUÁRIO] *sorrio, não demonstrando nenhuma malícia nem nada, o sol continua forte no dia, tudo está calmo* Relaxa, eu só quero ajudar. Vai ver que algo aconteça no caminho, nunca se sabe o que essa corrida aguarda, ainda mais que os balões de observação ficam desativados de noite, sem ninguém observando, a corrida fica perigosa, e bom, ainda está de manhã, mas vai…
+  - [CENA/RESULTADO] Johnny processa suas palavras com uma lentidão deliberada.
+  - [CENA/RESULTADO] A desconfiança dele é uma armadura pesada, mas você percebe que, por baixo dessa casca de gelo, existe uma curiosidade genuína, quase infantil, sobre a sua disposição em ser altruísta.
+• [AÇÃO/USUÁRIO] (coloca mensagens de no máximo 4 parágrafos) *sorriso mais calmo, mas sem a animação típica* porque vocês não são como os outros competidores, apesar do egoísmo, vocês são boas pessoas, e relaxem, eu não quero nada de vocês, na verdade, já tenho tudo que eu conquistei, mas de onde eu vim, o meu povo precisou lutar por direitos, eu vim de longe por um motivo…
+  - [CENA/RESULTADO] Por um breve instante, a máscara de confiança teatral cai, revelando um homem genuinamente intrigado.
+  - [CENA/RESULTADO] Há um respeito súbito no olhar dele; para Gyro, a capacidade de "ler pessoas" e de agir com base em princípios, em vez de preconceitos, é uma forma de força que ele reconhece e admira.
+  - [CENA/RESULTADO] A revelação owna, despida de artifícios, parece desarmar a guarda de Johnny por um breve instante; a menção à luta por direitos e à ancestralidade distante ecoa em algo profundo e doloroso dentro dele, transformando a desconfiança em uma espécie de…
+  - [CENA/RESULTADO] Gyro, por sua vez, reage com uma sobrancelha arqueada, a diversão em seus olhos dando lugar a um respeito genuíno, embora ainda tingido por sua natureza extravagante.
+  - [CENA/RESULTADO] A menção ao ódio por europeus flutuou no ar como uma faísca em um campo de feno; era uma honestidade brutal que, paradoxalmente, serviu para desarmar a desconfiança de Johnny.
+  - [CENA/RESULTADO] Johnny Joestar não desviou o olhar.
+  - [CENA/RESULTADO] Gyro para de girar a esfera.
+  - [CENA/RESULTADO] O metal agora repousa imóvel na palma de sua mão, um reflexo da surpresa que ele sente.
+  - [CENA/RESULTADO] O vento soprava leve, carregando a poeira fina do deserto que se grudava à pele e às roupas, mas por um instante, o burburinho do acampamento pareceu desaparecer, deixando apenas a honestidade crua da sua voz ecoando entre os três.
+  - [CENA/RESULTADO] A menção ao ódio pelos europeus e à luta do seu povo trouxe uma camada de seriedade que Johnny, em particular, pareceu absorver com uma intensidade inesperada.
+  - [CENA/RESULTADO] A revelação de que você detesta europeus paira no ar como uma contradição fascinante, especialmente considerando que está diante de um italiano e um homem com raízes profundamente ligadas à cultura britânica.
+  - [CENA/RESULTADO] Johnny pisca, pego de surpresa pela honestidade brutal e inesperada, enquanto Gyro interrompe o giro de sua esfera de aço, a expressão oscilando entre a confusão e um respeito súbito.
+• [AÇÃO/USUÁRIO] *sorriso pequeno* talvez eu ande junto com vocês, mas não vou intervir em todas as lutas porque eu tenho meu próprio objetivo, mas não quer dizer que eu deixaria vocês morrerem.
+  - [CENA/RESULTADO] Johnny observou você com um olhar pensativo, a silhueta dele recortada contra o céu escurecido.
+  - [CENA/RESULTADO] Gyro, por sua vez, soltou um riso curto e anasalado, girando a Esfera de Aço entre os dedos em um movimento quase hipnótico que parecia ditar o ritmo da conversa.
+  > Situação ao fim da parte: A luz do crepúsculo agora tingia o acampamento de um roxo profundo, fundindo-se com as sombras que se alongavam como dedos tentando agarrar o chão. O vento mudou de direção, trazendo consigo o cheiro metálico de chuva distante e a poeira seca que irritava a garganta. Ao redor de vocês, a atmosfera de camaradagem…
+
+-- ARCO/PARTE 4 (mensagens 55-72) --
+Foco inicial: *sorriso pequeno, sussurrando calmamente* relaxa, eu tenho mais gente pra provocar... Um…
+• [AÇÃO/USUÁRIO] *sorriso pequeno, sussurrando calmamente* relaxa, eu tenho mais gente pra provocar... Um dos indíviduos está a 15 metros à minha esquerda, e está me olhando torto até agora, só não liguem pra ele. *É claro que eu estiu falando do Diego...*
+  - [CENA/RESULTADO] Gyro não se vira imediatamente.
+  - [CENA/RESULTADO] Johnny, porém, reage com um sobressalto quase imperceptível.
+• [AÇÃO/USUÁRIO] Bem, eu também vou pro meu quarto dormir agora, a corrida vai começar ás dez da manhã, como sempre, até mais! *E saio, indo pro meu quarto... Que por coincidência fica do lado do quarto do Diego, o mesmo aproveita para me abordar e talvez me ameaçar...*
+  - [CENA/RESULTADO] No exato momento em que você estende a mão para a maçaneta, uma figura emerge da penumbra lateral com uma velocidade alarmante, bloqueando o seu caminho.
+  - [CENA/RESULTADO] O ar ao redor dele parece vibrar com uma irritação mal disfarçada, a mesma que você notou mais cedo, mas agora, sem a plateia de Johnny e Gyro, a hostilidade é mais pura, destilada.
+• [AÇÃO/USUÁRIO] *eu fico numa postur séria, calma e sem me intimidar, mostrando o meu lado mais focado* não ache que vai me intmidar, Diego Brando. Você é o tipo de pessoa que eu odeio e não dou nenhuma abertura... *Sorriso pequeno e desafiador, cheio de escârnio* e não ache que eu sou uma mulher indefesa, sou capaz de fazer coisas que até um presidente duvidaria, agora…
+  - [CENA/RESULTADO] O ar torna-se pesado, saturado com a eletricidade de um confronto iminente, onde qualquer movimento brusco poderia disparar uma sucessão de golpes.
+  - [CENA/RESULTADO] Diego não recua; em vez disso, ele estática, seus olhos se estreitando como os de um réptil que acaba de encontrar uma presa com espinhos.
+  - [CENA/RESULTADO] A tensão não é mais apenas psicológica; ela se tornou física, manifestando-se no ar pesado e no cheiro súbito de ozônio e poeira.
+  - [CENA/RESULTADO] Você consegue sentir a respiração dele, fria e controlada.
+  - [CENA/RESULTADO] — Você fala com a confiança de quem já venceu a guerra, mas esquece que, nesta corrida, a confiança é a primeira coisa que mata o cavaleiro.
+  - [CENA/RESULTADO] Um brinquedo que se recusa a quebrar.
+  - [CENA/RESULTADO] A calma inabalável de Lusk atua como um catalisador para a irritação de Diego; ele não está acostumado a ser respondido com escárnio por alguém que ele considera inferior na hierarquia de poder.
+  - [CENA/RESULTADO] — Você fala com a confiança de quem já perdeu tudo e não tem mais nada a temer.
+  - [CENA/RESULTADO] A ameaça de "esfregar a cara no chão" ecoa nas paredes estreitas, criando um vácuo de tensão onde qualquer movimento brusco poderia iniciar uma luta campal ali mesmo, entre as tábuas rangentes do alojamento.
+  - [CENA/RESULTADO] Ele não parece intimidado pela determinação dela, mas sim intrigado por encontrar alguém com a espinha tão rígida.
+• [AÇÃO/USUÁRIO] *eu obviamente não me entrego a falsa sensação de vitória, pelo contrário, sabendo que não tem absolutamente ninguém observando, eu dou uma joelhada no estômago do Diego só para mostrar que eu não sou de cair em seus papinhos e que sou tão perigosa quanto ele, o deixando sem fôlego e o fazendo dobrar enquanto ele tenta falar ameaças que parecem vazias com…
+• [AÇÃO/USUÁRIO] *eu obviamente não me entrego a falsa sensação de vitória, pelo contrário, sabendo que não tem absolutamente ninguém observando, eu dou uma joelhada no estômago do Diego só para mostrar que eu não sou de cair em seus papinhos e que sou tão perigosa quanto ele, o deixando sem fôlego e o fazendo dobrar enquanto ele tenta falar ameaças que parecem vazias com…
+  - [CENA/RESULTADO] O clique da fechadura é seguido pela ativação imediata do seu Stand; você sente a energia do *Feel Good I.N.C* se materializar em fios invisíveis que se costuram às frestas da madeira e ao gesso das paredes.
+  - [CENA/RESULTADO] O isolamento acústico é perfeito, transformando seu quarto em uma fortaleza intransponível onde o caos do mundo exterior não consegue penetrar.
+  - [CENA/RESULTADO] No momento em que Diego acredita ter controlado a narrativa do encontro, você subverte a expectativa dele com a violência de um golpe súbito.
+  - [CENA/RESULTADO] Imediatamente, você manifesta a vontade do seu Stand, sentindo a energia fluir pelos fios espirituais que se tecem invisivelmente ao redor do quarto.
+  - [CENA/RESULTADO] Você sente a vibração sutil do seu Stand agindo, os fios espirituais do *Feel Good I.N.C* tecendo-se invisivelmente pelas frestas da madeira e do gesso.
+  - [CENA/RESULTADO] As barreiras anti-som se instalam, transformando o caos do corredor em um vácuo absoluto; o mundo exterior morre, e tudo o que resta é o ritmo tranquilo da sua própria respiração.
+• [AÇÃO/USUÁRIO] *enquanto isso, Diego tenta dormir e não consegue, sentindo a humilhação na pele, a ideia de que uma descendente de indígena botou no ele no lugar o pertuba, e ele não tenta fazer nada agora, porque percebeu que eu estava segurando a força, afinal seria um assassinato se eu usasse toda a força, já que a minha estrutura corporal não é à toa... Enquanto isso,…
+  - [CENA/RESULTADO] Diego Brando não consegue encontrar descanso; cada vez que ele fecha os olhos, a sensação do impacto seco no seu estômago retorna, como um eco físico de sua derrota.
+  - [CENA/RESULTADO] A adrenalina do confronto com Diego não desapareceu; ela se transformou, transmutando-se em uma tensão elétrica que desce pela sua espinha e se acumula na base do ventre.
+  - [CENA/RESULTADO] Você está sentada com as costas pressionadas contra a parede fria, a pele parda contrastando com a brancura dos lençóis ao redor.
+  - [CENA/RESULTADO] A tensão da noite, a luta por poder e a satisfação da vitória transformaram-se em um desejo físico urgente.
+  > Situação ao fim da parte: No quarto ao lado, a atmosfera é de pura toxicidade. Diego Brando está jogado em sua cama, os olhos fixos no teto, mas sua mente é um campo de batalha. A sensação do impacto no seu estômago ainda ecoa em seus nervos, mas o que realmente o consome não é a dor física, e sim a humilhação visceral. A ideia de que foi…
+
+-- ARCO/PARTE 5 (mensagens 73-90) --
+Foco inicial: *depois disso eu durmo direto, acordando umas 6 da manhã, revigorada, fazendo todas as…
+  - [CENA/RESULTADO] Você está sentada com as costas apoiadas na parede fria, a pele nua contrastando com a rusticidade da madeira.
+  - [CENA/RESULTADO] A adrenalina da briga com Diego não desapareceu; ela se transformou, transmutando-se em uma tensão sexual elétrica que percorreu sua espinha como um fio incandescente.
+  - [CENA/RESULTADO] Essa percepção — de que ele foi "perdoado" por você — é o que mais o tortura, impedindo-o de encontrar qualquer descanso.
+  - [CENA/RESULTADO] A excitação surge como uma onda súbita e avassaladora, um reflexo da adrenalina que ainda corre nas veias após o confronto com Diego.
+• [AÇÃO/USUÁRIO] *depois disso eu durmo direto, acordando umas 6 da manhã, revigorada, fazendo todas as minhas necessidades, me vestindo, alimentando e cuidando de Wind's Traveler, injetando uma seringa de cura nele criado pelo meu stand , fechando qualquer ferimento ou sabatogem que o Diego tenha feito, mas ficando aliviada ao saber que ele não fez nada, pensando "pelo…
+  - [CENA/RESULTADO] Você acorda com a mente límpida, a sensação de triunfo da noite anterior ainda reverberando no corpo como um eco suave.
+  - [CENA/RESULTADO] Você prepara a seringa, manifestando a energia do *Feel Good I.N.C* para criar aquela substância regenerativa.
+• [AÇÃO/USUÁRIO] *depois disso eu durmo direto, acordando umas 6 da manhã, revigorada, fazendo todas as minhas necessidades, me vestindo, alimentando e cuidando de Wind's Traveler, injetando uma seringa de cura nele criado pelo meu stand , fechando qualquer ferimento ou sabatogem que o Diego tenha feito, mas ficando aliviada ao saber que ele não fez nada, pensando "pelo…
+  - [CENA/RESULTADO] Você se move com precisão e eficiência, cada gesto de se vestir — o ajuste do short jeans, a colocação das correntes de platina e o encaixe do chapéu com o emblema do dragão — servindo como um ritual de preparação para a guerra que se inicia às dez.
+  - [CENA/RESULTADO] Com a destreza de quem domina a arte do *Feel Good I.N.C*, você manifesta a seringa de cura, um objeto efêmero e preciso que injeta a energia regenerativa diretamente nos músculos do cavalo.
+  - [CENA/RESULTADO] Você acorda sentindo cada músculo relaxado, a mente limpa e o corpo revigorado, como se a sessão de prazer e o sono profundo tivessem deletado qualquer resquício de cansaço.
+  - [CENA/RESULTADO] Cada peça de roupa que você veste, do short jeans às correntes de platina, serve como uma armadura psicológica, preparando-a para enfrentar a hostilidade do deserto e a arrogância dos competidores.
+  - [CENA/RESULTADO] Você acorda com a mente límpida, sentindo cada fibra do seu corpo revigorada após o sono profundo e a descarga de tensão da noite anterior.
+  - [CENA/RESULTADO] Com um movimento preciso, você injeta a cura nos pontos onde qualquer sabotagem invisível poderia ter sido plantada, sentindo a textura do pelo do animal e a firmeza de seus músculos.
+  - [CENA/RESULTADO] Você acorda com a mente límpida, o corpo sentindo a leveza de quem descansou profundamente após uma descarga intensa de adrenalina e prazer.
+  - [CENA/RESULTADO] Ao manifestar a seringa de cura através dos fios do *Feel Good I.N.C*, você injeta a substância regenerativa nos pontos estratégicos do animal.
+• [AÇÃO/USUÁRIO] *depois da preparação, eu subo no cavalo e só fico na minha parte da lagarda, agora é no deserto do arizona até Monument Valley, sendo 1200km o segundo estágio só começa de 10, e são 9:45... Eu estou entre Diego(a direita) e Gyro(a esquerda com Jhonny), literalmente um aliado que eu fiz ontem e um inimigo declarado ao meu lado... E eu fico em silêncio,…
+  - [CENA/RESULTADO] Ele não olha para você, mas você consegue sentir a tensão irradiando dele; o ódio que ele nutre é quase tangível, misturado a uma curiosidade venenosa sobre como você conseguiu derrubá-lo.
+  - [CENA/RESULTADO] Gyro e Johnny formam um bloco de apoio instável, mas genuíno.
+  - [CENA/RESULTADO] O silêncio que você mantém é sua armadura; enquanto os outros competidores gritam, xingam ou tentam intimidar uns aos outros, você permanece como uma estátua de serenidade, sentindo a força de Wind's Traveler sob você.
+  - [CENA/RESULTADO] A humilhação da noite anterior ainda queima no ego dele, e o silêncio entre vocês é preenchido por uma hostilidade latente, um duelo invisível onde qualquer movimento brusco poderia desencadear um novo conflito antes mesmo do tiro de largada.
+• [AÇÃO/USUÁRIO] *eu só acelero com o Wind's Traveler, focada enquanto penso "meu objetivo em humilhar o Diego já está feito. Vou ficar mantendo o segundo lugar sem preocupações.", eu sorrio, falando com Diego com um sorrisinho* pra compensar por ontem, eu deixo você ficar em primeiro, Brando.
+  - [CENA/RESULTADO] Manter-se no segundo lugar é a posição do observador, do predador que monitora o ritmo do líder enquanto conserva energia para o golpe final.
+  - [CENA/RESULTADO] O sorriso que surge em seus lábios é lento, carregado de uma ironia que corta mais do que qualquer lâmina de Stand.
+  - [CENA/RESULTADO] Você sente a musculatura poderosa de Wind's Traveler contrair e impulsionar seu corpo para frente com uma precisão cirúrgica.
+  - [CENA/RESULTADO] Enquanto a maioria dos cavaleiros luta contra a inércia ou se choca em colisões laterais, você flui pelo caos, mantendo uma distância segura e constante, sentindo o vento chicotear seu rosto e o chapéu de dragão firme em sua cabeça.
+  - [CENA/RESULTADO] Você sente o impulso poderoso de Wind's Traveler, a musculatura do animal disparando como uma mola comprimida, catapultando você para a frente com uma suavidade técnica que contrasta com o caos ao redor.
+  - [CENA/RESULTADO] O sorriso que surge em seus lábios é lento e carregado de ironia, um reflexo da superioridade psicológica que você estabeleceu.
+• [AÇÃO/USUÁRIO] *eu só acelero com o Wind's Traveler, focada enquanto penso "meu objetivo em humilhar o Diego já está feito. Vou ficar mantendo o segundo lugar sem preocupações.", eu sorrio, falando com Diego com um sorrisinho, mas sem maldade ou superioridade, afinal, eu não sou arrogante como ele* pra compensar por ontem, eu deixo você ficar em primeiro, Brando.
+  - [CENA/RESULTADO] O impacto do tiro de largada é como uma explosão de energia que rompe a tensão acumulada.
+  - [CENA/RESULTADO] O vento começa a chicotear seu rosto, carregando consigo o cheiro acre de suor animal e a terra seca do Arizona que sobe em nuvens densas, cegando quem não tem a visão aguçada.
+  > Situação ao fim da parte: O impacto do tiro de largada é como uma explosão de energia que rompe a tensão acumulada. No instante em que o som ecoa, o chão sob as patas de Wind's Traveler vibra violentamente e a massa de cavalos avança como uma avalanche de músculos, poeira e gritos. Você sente o solavanco inicial no corpo, a força bruta do…
+
+-- ARCO/PARTE 6 (mensagens 91-108) --
+Foco inicial: *eu percebo Jhonny e Gyro pegando uma rota perigosa à direita que é longe de qualquer…
+  - [CENA/RESULTADO] O impacto do tiro de largada é como uma explosão de energia que libera centenas de cavalos simultaneamente.
+  - [CENA/RESULTADO] O chão treme sob os cascos, e uma nuvem densa de poeira dourada sobe instantaneamente, cegando quem não tem a visão focada.
+  - [CENA/RESULTADO] O segundo lugar é um refúgio tático: você tem a visão completa de quem lidera e a segurança de quem persegue, mantendo-se invisível o suficiente para não ser o alvo principal, mas presente o suficiente para ditar o ritmo da perseguição.
+  - [CENA/RESULTADO] Ao seu lado, a figura de Diego surge como uma sombra frenética.
+• [AÇÃO/USUÁRIO] *eu percebo Jhonny e Gyro pegando uma rota perigosa à direita que é longe de qualquer água, pensando "ainda bem que preenchi uns seis cantis de água, vou seguir eles sem eles perceber." E eu pego a rota, eu chego uns minutos antes, vendo o corpo morto do do Mr. Robinson, pensando "ele morreu para os cactos chollas... Vou continuar", e continuo, enquanto…
+  - [CENA/RESULTADO] Ao desviar da rota principal para seguir Johnny e Gyro, você sente a mudança imediata no terreno; a terra torna-se mais hostil, a vegetação mais esparsa e a solidão mais profunda.
+  - [CENA/RESULTADO] Você sente uma pontada de frieza pragmática ao pensar que, sem a sua preparação, aquele destino poderia ser o seu.
+  - [CENA/RESULTADO] Você observa Gyro e Johnny desviarem para a direita, mergulhando em um território que a maioria dos cavaleiros evitaria por puro instinto de sobrevivência.
+  - [CENA/RESULTADO] Wind's Traveler move-se com uma graça cautelosa, seus cascos mal tocando a terra seca, permitindo que você deslize para trás deles como uma sombra, mantendo a distância exata para não ser notada, mas perto o suficiente para não perder o rastro.
+• [AÇÃO/USUÁRIO] *eu percebo Jhonny e Gyro pegando uma rota perigosa à direita que é longe de qualquer água, pensando "ainda bem que preenchi uns seis cantis de água, vou seguir eles sem eles perceber." E eu pego a rota, eu chego uns minutos antes, vendo o corpo morto do do Mr. Robinson, pensando "ele morreu para os cactos chollas... Vou continuar", e continuo, enquanto…
+  - [CENA/RESULTADO] Enquanto a maioria dos competidores segue a rota principal, onde a água é mais acessível e o terreno é mais previsível, você observa Johnny e Gyro desviarem para a direita, mergulhando em uma região de aridez extrema.
+  - [CENA/RESULTADO] A distância entre você, os alvos e o xerife começa a diminuir, e o cenário do Monument Valley surge no horizonte, prometendo tempestades e confrontos.
+• [AÇÃO/USUÁRIO] *eu percebo Jhonny e Gyro pegando uma rota perigosa à direita que é longe de qualquer água, pensando "ainda bem que preenchi uns seis cantis de água, vou seguir eles sem eles perceber." E eu pego a rota, eu chego uns minutos antes, vendo o corpo morto do do Mr. Robinson, pensando "ele morreu para os cactos chollas... Vou continuar", e continuo, enquanto…
+  - [CENA/RESULTADO] A vastidão do Arizona se revela diante de você como um oceano de areia e pedra, onde o horizonte vibra sob um calor opressor que parece querer derreter a própria vontade.
+  - [CENA/RESULTADO] Ao notar a manobra de Johnny e Gyro, você sente um instinto de cautela; eles escolheram o caminho do risco, desviando-se das rotas convencionais para evitar a multidão, mas mergulhando em direção a zonas onde a água é um mito e a sede é a única certeza.
+• [AÇÃO/USUÁRIO] *eu já passo por um pouco do deserto, vendo Gyro e Jhonny ao longe no acampamento, desconfiados do Andrew Boomboom, que foi envenenado por un largari venenoso, eu não me importo com as cenas bizarras, eu também vejo Laurence Boomboom e Benjamin Boomboom aparecendo, cercando os dois, felizmente, Gyro e Jhonny conseguem fugir, eu desço do cavalo pra ver o…
+  - [CENA/RESULTADO] O silêncio que sucede a confusão do acampamento é quase ensurdecedor, quebrado apenas pelo estalo do fogo morrendo e pelo vento seco que varre a areia.
+  - [CENA/RESULTADO] A fuga precipitada de Johnny e Gyro deixa para trás um rastro de tensão e o eco das ameaças dos irmãos Boomboom, que agora parecem predadores frustrados vagando pelo deserto.
+• [AÇÃO/USUÁRIO] *eu já passo por um pouco do deserto, vendo Gyro e Jhonny ao longe no acampamento, desconfiados do Andrew Boomboom, que foi envenenado por un largari venenoso, eu não me importo com as cenas bizarras, eu também vejo Laurence Boomboom e Benjamin Boomboom aparecendo, cercando os dois, felizmente, Gyro e Jhonny conseguem fugir da família Boomboom, eu desço do…
+  - [CENA/RESULTADO] A visão de Andrew Boomboom, sucumbindo ao veneno de forma grotesca, não provoca em você nem horror nem pena; apenas uma análise fria e técnica.
+  - [CENA/RESULTADO] A chegada súbita de Laurence e Benjamin, cercando Johnny e Gyro com uma agressividade coordenada, confirma a perigosidade da linhagem Boomboom.
+• [AÇÃO/USUÁRIO] *eu avanço, chegando em Devil's Palm, Mountain Tim me ultrapassa, ele está com uma cara gélida, aparentemente, ele acha que o Jhonny é o assassino, porque o Benjamin Boomboom modificou o próprio rosto para ter o rosto do Jhonny e conseguiu enganá-lo... Eu pego velocidade o suficiente para ficar aonlado do Mountain Tim, falando calmamente* você tá com cara…
+  - [CENA/RESULTADO] Você mantém o ritmo, sentindo a respiração ritmada de Wind's Traveler, cujos cascos batem contra o solo compactado com uma precisão hipnótica.
+  - [CENA/RESULTADO] Você sabe, por observação e dedução, que a confusão causada pelos Boomboom deixou um rastro de mentiras; a imagem de Johnny Joestar, distorcida pela malícia de Benjamin, agora serve como um alvo para a fúria de Tim.
+• [AÇÃO/USUÁRIO] *eu avanço, chegando em Devil's Palm, Mountain Tim me ultrapassa, ele está com uma cara gélida, aparentemente, ele acha que o Jhonny é o assassino, porque o Benjamin Boomboom modificou o próprio rosto para ter o rosto do Jhonny e conseguiu enganá-lo... Eu pego velocidade o suficiente para ficar aonlado do Mountain Tim, falando calmamente, ele me conhece já…
+  - [CENA/RESULTADO] Quando a figura de Mountain Tim surge, ultrapassando você, a aura que ele exala não é mais a de um simples competidor ou de um xerife cumprindo seu dever; é o peso bruto de alguém que já aceitou a necessidade de matar.
+  - [CENA/RESULTADO] — Existem tipos de sujeira que não saem com água, garota — a voz dele é rouca, carregada de um julgamento definitivo.
+  - [CENA/RESULTADO] Quando a figura de Mountain Tim surge, ultrapassando você com uma determinação sombria, você nota a rigidez em seus ombros e o olhar fixo, desprovido de qualquer hesitação.
+  - [CENA/RESULTADO] A calma da sua voz, contrastando com a turbulência interna dele, quebra a tensão do silêncio noturno.
+  > Situação ao fim da parte: A noite no Arizona não traz descanso, apenas um frio seco que corta a pele e transforma a areia em cristais gélidos. Você avança sob um céu negro e vasto, onde as estrelas parecem agulhas de luz fria, guiando Wind's Traveler através do terreno traiçoeiro em direção a Devil's Palm. A atmosfera é pesada, carregada por…
+
+-- ARCO/PARTE 7 (mensagens 109-126) --
+Foco inicial: *calma, mais séria* as únicas pessoas que eu vi seguindo essa rota são Jhonny Joestar,…
+• [AÇÃO/USUÁRIO] *calma, mais séria* as únicas pessoas que eu vi seguindo essa rota são Jhonny Joestar, Gyro Zeppeli e a Família Boomboom, inclusive, a dupla e a família estavam em conflitos agora pouco, eu vi de longe.
+  - [CENA/RESULTADO] A luz pálida da lua revela as linhas profundas no rosto do xerife, transformando sua expressão em algo quase escultural, moldado por uma convicção que beira a obsessão.
+  - [CENA/RESULTADO] as únicas pessoas que eu vi seguindo essa rota são Johnny Joestar, Gyro Zeppeli e a Família Boomboom — você diz, as palavras saindo pausadas, cada sílaba pesando no silêncio do deserto.
+• [AÇÃO/USUÁRIO] *calma, mais séria* as únicas pessoas que eu vi seguindo essa rota são Jhonny Joestar, Gyro Zeppeli e a Família Boomboom, inclusive, a dupla e a família estavam em conflitos agora pouco, eu vi de longe. (Não coloca diálogo da Lúlisth na mensagem já que sou eu falando, só dos outros personagens)
+  - [CENA/RESULTADO] A mão de Tim desce lentamente para o coldre, não para sacar a arma, mas em um gesto reflexo de quem está sempre pronto para a violência.
+  - [CENA/RESULTADO] O rosto de Johnny, que ele acredita ter visto, pesa mais em sua mente do que o relato de uma testemunha ocular, mesmo que essa testemunha seja a corredora mais eficiente do primeiro estágio.
+• [AÇÃO/USUÁRIO] *uma sobrancelha é levantada* o Joestar...? Não acho que ele seja o culpado do tal assassinato, eu sei que você também é usuário de Stand também, Mountain Tim. Sabe que alguns stands podem manipular o próprio rosto e até mesmo cheiros. De qualquer forma, não vou tomar decisões precipitadas. Vou te ajudar nessa caçada, seja quem for o culpado.
+  - [CENA/RESULTADO] A revelação de que você conhece a natureza dos Stands — aquele segredo guardado a sete chaves por poucos eleitos — altera a dinâmica entre vocês.
+  - [CENA/RESULTADO] A ideia de que o rosto de Joestar possa ter sido mimetizado por outra entidade, ou que o cheiro do culpado tenha sido mascarado, planta uma semente de dúvida genuína em sua mente, embora sua natureza pragmática resista a aceitar a derrota por um erro de…
+  - [CENA/RESULTADO] A menção direta ao Stand — esse segredo compartilhado por poucos e temido por muitos — atua como um gatilho de reconhecimento.
+  - [CENA/RESULTADO] Ele não se surpreende com o fato de você possuir tal poder, mas a sua análise lógica sobre a manipulação facial e olfativa atinge um ponto cego em sua fúria cega.
+  - [CENA/RESULTADO] A revelação de que você conhece a natureza do Stand de Mountain Tim corta a atmosfera como uma lâmina afiada.
+  - [CENA/RESULTADO] Ele não esperava que você não apenas soubesse do seu segredo, mas que tivesse a audácia de questionar a precisão da sua "visão" com base na lógica dos Stands.
+  - [CENA/RESULTADO] A revelação de que você conhece a natureza do Stand de Mountain Tim corta o ar como uma lâmina, interrompendo a inércia do momento.
+  - [CENA/RESULTADO] Ele permanece em silêncio por alguns segundos, processando a sua análise técnica sobre a manipulação facial e olfativa.
+  - [CENA/RESULTADO] A revelação de que você conhece a natureza do Stand de Mountain Tim corta o ar como uma lâmina, alterando instantaneamente a frequência da interação.
+  - [CENA/RESULTADO] A maioria dos competidores ignora a existência dos Stands ou os trata como superstições, mas você acaba de abrir a porta para um entendimento mútuo, ou talvez, para uma vigilância ainda mais rigorosa.
+  - [CENA/RESULTADO] A revelação súbita de que você conhece a natureza do Stand dele corta o ar como uma lâmina, interrompendo a inércia do momento.
+  - [CENA/RESULTADO] Poucos corredores possuem a percepção ou a coragem de admitir a existência de Stands abertamente, e menos ainda se oferecem para auxiliar um homem que exala tanta hostilidade.
+  - [CENA/RESULTADO] A revelação de que você conhece o segredo do Stand de Mountain Tim corta o ar como uma lâmina, interrompendo a inércia do movimento.
+  - [CENA/RESULTADO] A menção à manipulação de rostros e cheiros atinge um ponto sensível em sua lógica; ele é um homem de lei, treinado para observar evidências, mas a natureza caótica dos Stands frequentemente desafia a razão material.
+• [AÇÃO/USUÁRIO] *séria* vamos seguí-los. Se a família Boomboom estão perseguindo, temos que intervir.
+  - [CENA/RESULTADO] O ritmo dos cavalos se intensifica, transformando-se em um galope controlado que ecoa pelas paredes de pedra de Devil's Palm, criando um efeito de reverberação que parece avisar a todo o deserto que vocês estão chegando.
+  - [CENA/RESULTADO] Você sente a tensão vibrar através do corpo de Wind's Traveler, a percepção aguçada para qualquer anomalia que possa surgir das sombras, enquanto mantém a mente focada na estrutura do Stand inimigo.
+  - [CENA/RESULTADO] Você sente a pressão atmosférica mudar, o ar tornando-se pesado e carregado, um sinal claro de que a proximidade com outros usuários de Stand está alterando a energia do ambiente.
+  - [CENA/RESULTADO] Ao longe, o brilho de fogueiras começa a se destacar contra o céu negro, revelando que o grupo de Joestar e a Família Boomboom não estão mais em movimento rápido; eles pararam ou estão em combate.
+• [AÇÃO/USUÁRIO] *séria* vamos seguí-los. Se a família Boomboom estão perseguindo, temos que intervir. *Nós dois avançamos com os cavalos assim que a decisão é tomada, ao longe, Gyro e Jhonny parecem que estão sendo puxados pra nossa direção por uma força invisível, eles tentam avisar de algo que não escutamos, Gyro decidie fazer algo, jogando uma Steel ball numa pedra e a…
+  - [CENA/RESULTADO] Você mal tem tempo de processar o brilho metálico da esfera de Gyro cortando o ar antes que a pedra ao seu lado exploda em mil pedaços.
+  - [CENA/RESULTADO] Você sente um puxão violento, como se um imã colossal tivesse sido ativado sob a terra, arrastando você e Tim em direção a Johnny e Gyro.
+• [AÇÃO/USUÁRIO] *séria* vamos seguí-los. Se a família Boomboom estão perseguindo, temos que intervir. *Nós dois avançamos com os cavalos assim que a decisão é tomada, ao longe, Gyro e Jhonny parecem que estão sendo puxados pra nossa direção por uma força invisível, eles tentam avisar de algo que não escutamos, Gyro decidie fazer algo, jogando uma Steel ball numa pedra e a…
+  > Situação ao fim da parte: O impacto é súbito e violento. Você mal tem tempo de processar o brilho metálico da esfera de Gyro cortando o ar antes que a pedra ao seu lado exploda em mil pedaços. A força da rotação transforma a rocha em estilhaços letais; você sente a pele do rosto ser rasgada por fragmentos minúsculos, como se centenas de…
+
+-- ARCO/PARTE 8 (mensagens 127-144) --
+Foco inicial: *séria* vamos seguí-los. Se a família Boomboom estão perseguindo, temos que intervir.…
+  - [CENA/RESULTADO] Há uma força invisível, um magnetismo visceral que agarra cada fibra do seu ser e a de Tim, puxando-os violentamente pelo chão em direção a Johnny e Gyro.
+  - [CENA/RESULTADO] A irritação em sua voz ecoa no vazio do deserto, mas a resposta vem apenas através do silêncio opressor e da visão de Gyro, que observa a cena com a tensão de quem acabou de disparar um aviso desesperado que ninguém conseguiu ouvir.
+• [AÇÃO/USUÁRIO] *séria* vamos seguí-los. Se a família Boomboom estão perseguindo, temos que intervir. *Nós dois avançamos com os cavalos assim que a decisão é tomada, ao longe, Gyro e Jhonny parecem que estão sendo puxados pra nossa direção por uma força invisível, eles tentam avisar de algo que não escutamos, Gyro decidie fazer algo, jogando uma Steel ball numa pedra e a…
+  - [CENA/RESULTADO] No momento em que a Esfera de Aço de Gyro estilhaça a rocha, o som não é apenas de pedra quebrando, mas de um disparo de estilhaços que rasgam o ar.
+  - [CENA/RESULTADO] A poucos metros, Johnny e Gyro lutam contra a mesma força, seus corpos sendo puxados violentamente para um ponto de convergência invisível.
+  - [CENA/RESULTADO] O estalo da rocha sendo pulverizada pela esfera de aço de Gyro ecoa como um tiro de canhão no silêncio do Arizona, e antes que você possa processar o movimento, a chuva de detritos corta o ar.
+  - [CENA/RESULTADO] Você, Mountain Tim, Johnny e Gyro são transformados, em um piscar de olhos, em polos opostos de um imã colossal.
+  - [CENA/RESULTADO] Você mal tem tempo de processar a imagem de Gyro lançando a esfera antes que a chuva de detritos atinja seus rostos.
+  - [CENA/RESULTADO] Você sente seus músculos serem tensionados, o corpo sendo arrastado violentamente pela areia em direção a Johnny e Gyro, que lutam contra a mesma força invisível.
+• [AÇÃO/USUÁRIO] **FEEL GOOD!** *Pela primeira vez, eu uso o stand, criando um arpéu que dispara numa pedra assim que eu quaso encosto neles, me puxando para onde o gancho se encaixou com violência necessária para me afastar, enquanto Montain Tim usa o "Oh! Lonesome Me" para transferir seu corpo numa pedra através de sua corda, enquanto isso, Gyro e Jhonny ficaram confusos,…
+  - [CENA/RESULTADO] No instante em que a força magnética do *Tomb Of The Boom* ameaçava fundir seu corpo ao de Johnny e Gyro em um impacto brutal, o gancho crava-se profundamente na rocha adjacente.
+  - [CENA/RESULTADO] Lonesome Me*, o corpo do xerife se desintegra em centenas de cordas orgânicas, um fluxo frenético de fibras que serpenteiam pelo chão, evitando o centro da armadilha para se remontar instantaneamente sobre uma pedra distante.
+  - [CENA/RESULTADO] No momento exato em que a força magnética do *Tomb Of The Boom* ameaçava colidir seu corpo contra o de Johnny e Gyro, o gancho de metal do seu Stand se crava profundamente na rocha sólida atrás de você.
+  - [CENA/RESULTADO] Diante dos olhos arregalados de Johnny e Gyro, o corpo do xerife parece se fragmentar em cordas vibrantes, deslizando pelo terreno com uma fluidez sobrenatural até que sua massa física se reorganize abruptamente sobre uma pedra distante.
+• [AÇÃO/USUÁRIO] **FEEL GOOD!** *Pela primeira vez, eu uso o stand, criando um arpéu que dispara numa pedra assim que eu quaso encosto neles, me puxando para onde o gancho se encaixou com violência necessária para me afastar, enquanto Montain Tim usa o "Oh! Lonesome Me" para se dividir em partes e mover eu corpo numa pedra através de sua corda, enquanto isso, Gyro e Jhonny…
+  - [CENA/RESULTADO] A areia, que antes era seu inimigo, agora serve como um amortecedor áspero enquanto você desliza para longe, recuperando a estabilidade por um breve instante de glória técnica.
+  - [CENA/RESULTADO] A visão de um homem se dividindo em partes para navegar pelo terreno é o suficiente para paralisar qualquer observador comum.
+• [AÇÃO/USUÁRIO] **FEEL GOOD!** *Pela primeira vez, eu uso o stand, criando um arpéu que dispara numa pedra assim que eu quaso encosto neles, me puxando para onde o gancho se encaixou com violência necessária para me afastar, enquanto Montain Tim usa o "Oh! Lonesome Me" para se desmembrar em partes e mover eu corpo numa pedra através de sua corda, enquanto isso, Gyro e…
+  - [CENA/RESULTADO] No instante em que a força magnética do *Tomb Of The Boom* ameaçava colidir você contra Johnny e Gyro em um impacto desordenado, o gancho de aço do *Feel Good* crava-se com um estalo seco na rocha sólida acima.
+  - [CENA/RESULTADO] Mountain Tim não luta contra a correnteza invisível da mesma forma; ele se entrega a ela para melhor manipulá-la.
+  - [CENA/RESULTADO] O estalo metálico do arpéu cortando o ar é a única coisa que rompe o silêncio mortal da armadilha.
+  - [CENA/RESULTADO] No instante em que a força magnética do *Tomb Of The Boom* ameaçava fundir seus corpos aos de Johnny e Gyro em um amontoado de carne e osso, o gancho de *Feel Good I.N.C* crava-se profundamente na rocha lateral.
+• [AÇÃO/USUÁRIO] **FEEL GOOD!** *Pela primeira vez, eu uso o stand, criando um arpéu que dispara numa pedra assim que eu quaso encosto neles, me puxando para onde o gancho se encaixou com violência necessária para me afastar, enquanto Montain Tim usa o "Oh! Lonesome Me" para se desmembrar em partes e mover eu corpo numa pedra através de sua única corda, enquanto isso, Gyro…
+  - [CENA/RESULTADO] Johnny e Gyro congelam, os olhos arregalados em choque.
+  - [CENA/RESULTADO] A confusão no rosto de Gyro é quase palpável; ele, que domina a técnica do Spin, reconhece a anomalia do Stand, mas a brutalidade daquela transformação o deixa momentaneamente mudo.
+• [AÇÃO/USUÁRIO] *enquanto isso, Gyro pergunta sobre a nossa habilidade, fazendo Mountain Tim explicar o que é stand e sobre Devil's Palm, enquanto isso, eu analiso as pedras acima, tentando encontrar a família Boomboom... Mas não acho, na verdade, Andrew e Laurence aparecem, cortando a minha corda e a corda do Mountain Tim, fazendo nós dois ir direto pra dupla com o…
+  - [CENA/RESULTADO] O ar no vale de Devil's Palm torna-se subitamente pesado, saturado por uma tensão que você consegue sentir nos poros da pele.
+  - [CENA/RESULTADO] Enquanto a voz de Mountain Tim ecoa, tentando explicar a natureza bizarra dos Stands para um Johnny e um Gyro visivelmente perplexos, você ignora as perguntas e foca seus olhos no topo das formações rochosas.
+  - [CENA/RESULTADO] A voz de Mountain Tim corta o ar, rouca e pragmática, enquanto ele tenta explicar o conceito de Stands para um Johnny e um Gyro completamente atordoados.
+  - [CENA/RESULTADO] Ele fala sobre a alma manifestada, sobre a natureza bizarra desses poderes, enquanto o ambiente de Devil's Palm parece pulsar em resposta.
+  > Situação ao fim da parte: A voz de Mountain Tim corta o ar, rouca e pragmática, enquanto ele tenta explicar o conceito de Stands para um Johnny e um Gyro completamente atordoados. Ele fala sobre a alma manifestada, sobre a natureza bizarra desses poderes, enquanto o ambiente de Devil's Palm parece pulsar em resposta. O deserto ao redor não é…
+
+-- ARCO/PARTE 9 (mensagens 145-162) --
+Foco inicial: *então, todos nós estão se atraindo tão fortemente que a daqui alguns minutos todos os…
+• [AÇÃO/USUÁRIO] *então, todos nós estão se atraindo tão fortemente que a daqui alguns minutos todos os quatro vão ser dilacerados com as tripas voando, com o Tomb Of The Boom atrapalhando, Gyro aproveita a situação para lembrar a primeira lição do Spin pra Jhonny, Jhonny consegue usar a bala de chumbo como steel ball e aplicar o spin, eu observo em silêncio, anotando…
+  - [CENA/RESULTADO] Você observa, com a visão turva pela pressão, enquanto Gyro grita a primeira lição do Spin para Johnny.
+  - [CENA/RESULTADO] Há algo hipnotizante na maneira como Johnny processa a informação sob estresse extremo; você vê a engrenagem mental dele girar, a compreensão do conceito de rotação fundindo-se ao desespero de sobreviver.
+• [AÇÃO/USUÁRIO] *de repente, Laurence grita pro Benjamin se afastar, mas é tarde demas, as unhas de Jhon começam a girar de forma esquisita, litwralmente cortando Benjamin Boomboom ao meio num ângulo que decepa apenas o seu pé, Benjamin tenta atacar, mas o próximo ataque da unha de Jhonny finaliza Benjamin ao partí-lo ao meio de verdade, eu grito "QUE MERDA É ESSA?!",…
+  - [CENA/RESULTADO] A solidão da pista, agora que você se afastou do grupo de Johnny e Gyro, traz uma sensação estranha: não é medo, mas uma vigilância constante, a consciência de que, nesta imensidão, qualquer vulto no horizonte pode ser um predador ou um alvo.
+  - [CENA/RESULTADO] Você engole o suco proteico, sentindo a energia retornar aos músculos, mas sua mente continua presa àquela imagem: a brutalidade do Spin transformando a carne de Benjamin em fitas.
+  - [CENA/RESULTADO] A sensação de vantagem, de estar quilômetros à frente de Johnny e Gyro, traz um alívio amargo, temperado pela ansiedade que rói seu peito.
+  - [CENA/RESULTADO] Enquanto você mastiga o sanduíche, a textura do pão parece áspera, e o suco proteico desce queimando, devolvendo a energia necessária para os músculos que ainda vibram com a adrenalina de *Devil's Palm*.
+• [AÇÃO/USUÁRIO] *de repente, Laurence grita pro Benjamin se afastar, mas é tarde demas, as unhas de Jhon começam a girar de forma esquisita, litwralmente cortando Benjamin Boomboom ao meio num ângulo que decepa apenas o seu pé, Benjamin tenta atacar, mas o próximo ataque da unha de Jhonny finaliza Benjamin ao partí-lo ao meio de verdade, eu grito "QUE MERDA É ESSA?!",…
+  - [CENA/RESULTADO] A poeira do Devil's Palm ainda parece impregnada em suas narinas, um gosto amargo de ferro e areia que se recusa a ir embora.
+  - [CENA/RESULTADO] Você sente o vazio deixado pelo grupo; a tensão caótica de Johnny e a excentricidade de Gyro foram substituídas por uma quietude opressiva, mas necessária.
+• [AÇÃO/USUÁRIO] *de repente, Laurence grita pro Benjamin se afastar, mas é tarde demas, as unhas de Jhon começam a girar de forma esquisita, litwralmente cortando Benjamin Boomboom ao meio num ângulo que decepa apenas o seu pé, Benjamin tenta atacar, mas o próximo ataque da unha de Jhonny finaliza Benjamin ao partí-lo ao meio de verdade, eu grito "QUE MERDA É ESSA?!",…
+  - [CENA/RESULTADO] O único som rítmico é o galope abafado de *Wind's Traveler* sobre a areia compacta, um eco solitário que marca a distância crescente entre você e o grupo de Johnny, Gyro e Tim.
+  - [CENA/RESULTADO] Durante a curta pausa no checkpoint, o mundo pareceu parar por alguns instantes.
+  - [CENA/RESULTADO] O suco proteico desce gelado, despertando seus sentidos e devolvendo a energia que a tensão do combate drenou.
+  - [CENA/RESULTADO] Você sabe que, enquanto Johnny e Gyro lutam para processar a trauma e a técnica do Spin, você já conquistou quilômetros de distância.
+  - [CENA/RESULTADO] Ao chegar ao checkpoint, o refúgio é efêmero.
+  - [CENA/RESULTADO] Enquanto cuida do cavalo, removendo a areia dos cascos e ajustando as cilhas, o pensamento nela surge como uma âncora.
+  - [CENA/RESULTADO] O ar frio da noite corta a pele, mas a adrenalina do terceiro estágio ainda pulsa em suas veias, mantendo o corpo aquecido enquanto você se afasta do grupo de Johnny e Gyro.
+  - [CENA/RESULTADO] Se o Stand dela falhar por um único segundo, se um cheiro escapar ou um passo for mal dado, o destino dela será o mesmo de qualquer peça descartável no jogo de Valentine.
+  - [CENA/RESULTADO] Enquanto você cavalga, a sensação de vantagem é palpável; você consegue visualizar o vazio deixado para trás, a distância crescente entre você e o grupo de Johnny e Gyro, que agora não passam de memórias distantes no horizonte escuro.
+  - [CENA/RESULTADO] A pausa para a refeição acontece sob a copa de uma rocha sedimentar, um refúgio precário contra o vento que uiva como um animal ferido.
+  - [CENA/RESULTADO] A incerteza sobre o paradeiro dela cria um nó apertado em seu peito, uma ansiedade que nem mesmo a vantagem estratégica de estar à frente na corrida consegue aplacar.
+  - [CENA/RESULTADO] Você sente a presença de um Stand, mas não consegue identificar a origem.
+• [AÇÃO/USUÁRIO] *comendo, eu percebo que é Gyro e Jhonny, que chegaram feridos da luta contra Oyecomova, eu olho pros dois, analisando os estados deles* minha nossa! Vocês estão todos fodidos, o teu pé foi literalmente arrancado, Gyro! Vocês parecem ter passado por alguma explosão ou algo parecido... Pelo cheiro... Vocês lutaram contra o Oyecomova? (Segue o canon, Gyro…
+  - [CENA/RESULTADO] O silêncio do deserto é interrompido apenas pelo som visceral da respiração pesada de Gyro e Johnny.
+  - [CENA/RESULTADO] O cenário ao redor é desolador; a luz pálida da manhã revela as marcas de destruição deixadas por Oyecomova, com crateras de terra queimada e um cheiro persistente de pólvora e carne chamuscada que impregna o ar.
+  - [CENA/RESULTADO] O sol começa a rasgar o horizonte, mas a luz que traz não é de esperança, e sim de uma claridade impiedosa que expõe cada ferida, cada mancha de sangue seco e a poeira impregnada na pele de Johnny e Gyro.
+  - [CENA/RESULTADO] Quando você injeta a substância através da seringa do *Feel Good INC*, Gyro solta um suspiro longo e ruidoso, seus ombros relaxando apenas um centímetro enquanto a dor aguda se transforma em um formigamento distante.
+• [AÇÃO/USUÁRIO] *comendo, eu percebo que é Gyro e Jhonny, que chegaram feridos da luta contra Oyecomova, eu olho pros dois, analisando os estados deles* minha nossa! Vocês estão todos fodidos, o teu pé foi literalmente arrancado, Gyro! Vocês parecem ter passado por alguma explosão ou algo parecido... Pelo cheiro... Vocês lutaram contra o Oyecomova? (Segue o canon, Gyro…
+  > Situação ao fim da parte: O sol começa a rasgar o horizonte, mas a luz que traz não é de esperança, e sim de uma claridade impiedosa que expõe cada ferida, cada mancha de sangue seco e a poeira impregnada na pele de Johnny e Gyro. O silêncio do deserto é substituído pelo som pesado da respiração deles, um ritmo sincopado de dor e exaustão.…
+
+-- ARCO/PARTE 10 (mensagens 163-180) --
+Foco inicial: *16 dias e 5 horas depois desde o início do segundo estágio, a corrida está acirrada,…
+  - [CENA/RESULTADO] O sol, agora surgindo no horizonte, não traz calor, apenas ilumina a carnificina que Gyro e Johnny carregam em seus corpos.
+  - [CENA/RESULTADO] Eles não chegam como corredores, mas como sobreviventes de um massacre.
+  - [CENA/RESULTADO] O silêncio da manhã é quebrado pelo som metálico da seringa e o suspiro involuntário de Gyro quando a substância do seu Stand começa a agir.
+  - [CENA/RESULTADO] Gyro olha para o próprio pé, agora uma fonte de agonia latente, e depois para você, com os olhos semicerrados.
+• [AÇÃO/USUÁRIO] *16 dias e 5 horas depois desde o início do segundo estágio, a corrida está acirrada, comigo disputando o segundo ou terceiro lugar com Jhonny, Gyro, Sandman e Diego... E eu estou na cola do Diego, com ele em primeiro e eu em segundo, eu tento manter a posição enquanto aperto o passo, pensando "eu tenho uma hora de vantagem, se eu tiver um tempo de menos de…
+  - [CENA/RESULTADO] O calor do meio-dia agora é opressivo, criando miragens trêmulas no horizonte onde a terra encontra o asfalto inexistente.
+  - [CENA/RESULTADO] Você consegue ouvir a respiração pesada do cavalo dele, a tensão de um animal levado ao limite.
+  - [CENA/RESULTADO] Você consegue ver a tensão nos ombros do cavaleiro à frente; Diego sabe que você está lá.
+  - [CENA/RESULTADO] A cada curva, a cada inclinação do terreno, você ajusta o peso do corpo, fundindo-se ao movimento do animal para minimizar qualquer desperdício de energia.
+• [AÇÃO/USUÁRIO] *risada cristalina* Brandini! *sim, errando o sobrenome do Diego só pra irritá-lo ainda mais* eu só quero manter meu segundo lugar, você que fica em primeiro nesse estágio, lembra?!! *Sim, eu adoro bullinar quem é arrogante, eu riria muito se ouvisse o Diego gritar "É BRANDO!!", pra mim, ele é o esteriótipo quase perfeito dos europeus que tomaram as terras…
+  - [CENA/RESULTADO] Quando o nome "Brandini" é lançado, há um segundo de silêncio quase sagrado, seguido por uma reação explosiva.
+  - [CENA/RESULTADO] Para Diego, a precisão é tudo, e ser chamado por um sobrenome inexistente é um insulto à sua linhagem e à sua superioridade.
+  - [CENA/RESULTADO] Quando o nome "Brandini" atinge os ouvidos de Diego, a reação é instantânea e visceral.
+  - [CENA/RESULTADO] Diego não é apenas um competidor; ele é um homem que moldou sua identidade sobre a base da superação e do orgulho, e ser chamado por um nome errado — especialmente por alguém que ele considera inferior na hierarquia social — é como jogar sal em uma ferida…
+  - [CENA/RESULTADO] O erro proposital no sobrenome — "Brandini" — flutua no ar, carregando consigo todo o desdém que você nutre por aquela arrogância europeia moldada em ouro e prepotência.
+  - [CENA/RESULTADO] Apesar do grito, há algo no olhar de Diego que revela a rachadura em sua armadura de superioridade.
+  - [CENA/RESULTADO] A risada escapa dos seus lábios, leve e provocativa, cortando a tensão do deserto como uma navalha.
+  - [CENA/RESULTADO] O nome "Brandini" ecoa pelo vale, carregando consigo todo o deboche de quem sabe exatamente onde tocar para ferir o ego de um homem que se considera superior a todos.
+  - [CENA/RESULTADO] O nome "Brandini" atinge Diego como um tapa físico, mais irritante do que qualquer obstáculo geográfico que tenham enfrentado até agora.
+  - [CENA/RESULTADO] Para ele, que se vê como a culminação da superioridade e do destino, ser chamado por um nome errado e banalizado por alguém que ele considera inferior é um insulto à sua própria linhagem.
+  - [CENA/RESULTADO] O nome "Brandini" atinge Diego como um tapa físico, mais irritante do que qualquer obstáculo geográfico que ele tenha superado até agora.
+  - [CENA/RESULTADO] Ele tensiona os ombros, a mandíbula travando enquanto ele processa a audácia da garota que, além de estar em seu calcanhar, ousa zombar de sua linhagem com um erro proposital.
+  - [CENA/RESULTADO] Quando o nome "Brandini" escapa dos seus lábios, a reação de Diego é quase instantânea e visceral.
+  - [CENA/RESULTADO] Ele vira o rosto rapidamente, lançando um olhar que poderia incinerar a pele de qualquer cavaleiro menos experiente.
+• [AÇÃO/USUÁRIO] *16 dias e 5 horas depois desde o início do segundo estágio, a corrida está acirrada, comigo disputando o segundo ou terceiro lugar com Jhonny, Gyro, Sandman e Diego... E eu estou na cola do Diego, com ele em primeiro e eu em segundo, eu tento manter a posição enquanto aperto o passo, pensando "eu tenho uma hora de vantagem, se eu tiver um tempo de menos de…
+  - [CENA/RESULTADO] A vastidão do Monument Valley surge no horizonte como muralhas de terracota, torres colossais de pedra vermelha que parecem gritar a pequenez de qualquer homem ou animal que tente atravessá-las.
+  - [CENA/RESULTADO] À frente, a silhueta de Diego Brando é nítida, a postura arrogante e a precisão de seu galope revelando a confiança de quem se sente o dono da estrada.
+  - [CENA/RESULTADO] Você consegue ouvir a respiração pesada do cavalo de Diego, a força bruta de um animal levado ao limite, mas a sua determinação e a precisão de Wind's Traveler mantêm a pressão constante.
+  - [CENA/RESULTADO] O sorriso pequeno em seus lábios é a única arma que você usa contra a arrogância dele neste momento, guardando a potência do *Feel Good I.N.C* para o momento em que a estratégia der lugar ao instinto.
+• [AÇÃO/USUÁRIO] *risada cristalina* Brandini! *sim, errando o sobrenome do Diego só pra irritá-lo ainda mais* eu só quero manter meu segundo lugar, você que fica em primeiro nesse estágio, lembra?!! *Sim, eu adoro bullinar quem é arrogante, eu riria muito se ouvisse o Diego gritar "É BRANDO!!", pra mim, ele é o esteriótipo quase perfeito dos europeus que tomaram as terras…
+  - [CENA/RESULTADO] O erro proposital no sobrenome — "Brandini" — atinge Diego com a precisão de um tiro.
+  - [CENA/RESULTADO] A tensão nos ombros de Diego aumenta instantaneamente; você consegue ver a veia do pescoço dele saltar enquanto ele range os dentes, a arrogância sendo substituída por uma irritação visceral.
+  > Situação ao fim da parte: A risada cristalina de Lusk corta o ar seco do deserto como uma lâmina de vidro, ecoando entre as paredes de arenito vermelho. O erro proposital no sobrenome — "Brandini" — atinge Diego com a precisão de um tiro. Por um segundo, a compostura imperturbável do competidor vacila. A tensão nos ombros de Diego aumenta…
+
+-- ARCO/PARTE 11 (mensagens 181-198) --
+Foco inicial: *risada cristalina* Brandini! *sim, errando o sobrenome do Diego só pra irritá-lo ainda…
+  - [CENA/RESULTADO] Você consegue ver, mesmo através da nuvem de poeira, o maxilar dele se contraindo.
+  - [CENA/RESULTADO] Para um homem que se vê como a personificação da superioridade, ser chamado por um nome errado — e propositalmente errado — é como receber um tapa na cara em plena praça pública.
+  - [CENA/RESULTADO] O grito ecoa pelas fendas das rochas, mas não consegue abafar o som dos cascos que batem freneticamente contra a terra seca.
+  - [CENA/RESULTADO] A linha de chegada do segundo estágio começa a se materializar através da névoa de poeira — uma marcação definitiva que encerrará essa perseguição exaustiva.
+  - [CENA/RESULTADO] O nome "Brandini" ecoa entre as torres de pedra vermelha, ricocheteando nas paredes de arenito como um insulto deliberado.
+  - [CENA/RESULTADO] O grito não é apenas uma correção de nome, mas um rugido de dominância ferida, um eco de sua arrogância europeia que colide frontalmente com a irreverência brasileira de Lusk.
+  - [CENA/RESULTADO] Ele tensiona os ombros, a mandíbula travada, enquanto o erro proposital no seu sobrenome ecoa como um insulto pessoal.
+  - [CENA/RESULTADO] Para ele, ser chamado de "Brandini" não é apenas um erro, é uma tentativa de diminuir sua linhagem e sua posição de superioridade.
+• [AÇÃO/USUÁRIO] *risada cristalina* Brandini! *sim, errando o sobrenome do Diego só pra irritá-lo ainda mais* eu só quero manter meu segundo lugar, você que fica em primeiro nesse estágio, lembra?!! *Sim, eu adoro bullinar quem é arrogante, eu riria muito se ouvisse o Diego gritar "É BRANDO!!", pra mim, ele é o esteriótipo quase perfeito dos europeus que tomaram as terras…
+  - [CENA/RESULTADO] Ao pronunciar aquele sobrenome distorcido, você não está apenas brincando com as palavras; você está golpeando o ego inflado de Diego Brando com a precisão de um cirurgião.
+  - [CENA/RESULTADO] Você sente a vibração do corpo dele tensionar-se instantaneamente à sua frente, a rigidez de quem foi pego em uma armadilha psicológica enquanto lutava contra a exaustão física.
+  - [CENA/RESULTADO] Ao pronunciar aquele sobrenome propositalmente errado, você sente a tensão nos ombros de Diego disparar instantaneamente; a arrogância dele é um vidro fino, e você acaba de jogar uma pedra certeira.
+  - [CENA/RESULTADO] A postura perfeita de Diego vacila por um segundo, a mandíbula dele se contrai em uma fúria contida que você consegue visualizar quase fisicamente, como uma centelha de ódio que ignora a exaustão do corpo.
+  - [CENA/RESULTADO] Quando o nome "Brandini" escapa dos seus lábios com aquele tom provocativo, você sente a reação quase instantânea do homem à sua frente.
+  - [CENA/RESULTADO] Para alguém tão obcecado por sua linhagem e status, ser chamado por um nome errado — e ainda por cima de forma tão despreocupada — é como levar um tapa na cara em plena praça pública.
+  - [CENA/RESULTADO] Você consegue ver, de relance, o músculo da mandíbula dele se contrair.
+  - [CENA/RESULTADO] Para alguém que se vê como o ápice da evolução e da linhagem, ser chamado por um nome errado — e pior, um nome que soa quase como um deboche — é como receber um tapa no rosto em plena pista.
+  - [CENA/RESULTADO] Ao pronunciar aquele sobrenome errado com tanta naturalidade e deboche, você sente a tensão no corpo de Diego instantaneamente.
+  - [CENA/RESULTADO] Por um instante, a máscara de superioridade de Diego cai, revelando a impulsividade de alguém que não suporta ser diminuído.
+• [AÇÃO/USUÁRIO] *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão arrogante que não é proporcional, diferente do Jhonny, que é arrogante, mas é bondoso por dentro, esse aí é arrogante e mal desde sempre, tem vontade de esfregar na cara de todo mundo assim que ganhar, eu não vou apenas humilha-lo, também vou coloca-lo em seu devido…
+  - [CENA/RESULTADO] A decisão de ultrapassá-lo não foi apenas baseada em pontos ou posição, mas em uma necessidade visceral de provar que a arrogância de Diego não é invulnerável.
+  - [CENA/RESULTADO] A centímetros da linha de chegada, você vê a expressão de Diego mudar.
+  - [CENA/RESULTADO] A determinação em seu peito substitui a diversão; não é mais sobre a piada do sobrenome, mas sobre a afirmação de que ninguém, por mais nobre ou cruel que pretenda ser, está acima de você.
+  - [CENA/RESULTADO] O som dos cascos batendo no solo firme da chegada ecoa como um tiro de largada invertido, marcando o fim do segundo estágio.
+• [AÇÃO/USUÁRIO] *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão arrogante que não é proporcional, diferente do Jhonny, que é arrogante, mas é bondoso por dentro, esse aí é arrogante e mal desde sempre, tem vontade de esfregar na cara de todo mundo assim que ganhar, eu não vou apenas humilha-lo, também vou coloca-lo em seu devido…
+  - [CENA/RESULTADO] O mundo parece reduzir-se a um único ponto de foco: a linha de chegada que surge como uma miragem concreta diante de vocês.
+  - [CENA/RESULTADO] Você sente o deslocamento de ar quando o flanco do seu cavalo quase toca o de Diego, um centímetro de distância que separa a glória da derrota.
+  - [CENA/RESULTADO] O som ensurdecedor dos cascos contra a terra batida torna-se um zumbido distante, e a única coisa que resta é a linha de chegada, um traço branco e definitivo cortando a poeira vermelha do Monument Valley.
+  - [CENA/RESULTADO] A arrogância de Diego, que até então parecia uma muralha intransponível, revela-se como uma fragilidade: ele confiou demais na sua liderança, negligenciando a precisão cirúrgica de quem sabe esperar o momento exato para atacar.
+  - [CENA/RESULTADO] Nesse instante final, você não vê apenas a linha de chegada, mas a nuca de Diego.
+  - [CENA/RESULTADO] Você consegue notar a rigidez nos ombros dele, a certeza absoluta e cega de que a vitória já lhe pertencia.
+  - [CENA/RESULTADO] A linha de chegada surge como um flash branco diante de seus olhos.
+  - [CENA/RESULTADO] Você sente a vibração da derrota dele pulsar no ar; para alguém como Brando, perder por uma margem tão insignificante é pior do que perder por quilômetros.
+  > Situação ao fim da parte: O mundo ao seu redor parece desacelerar, transformando o caos da poeira e o rugido dos cavalos em um silêncio sepulcral e concentrado. Você sente cada fibra do corpo de Wind's Traveler tensionar-se sob você, a sincronia entre cavaleira e animal atingindo um ápice de precisão cirúrgica. A decisão de ultrapassá-lo não…
+
+-- ARCO/PARTE 12 (mensagens 199-216) --
+Foco inicial: *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão…
+• [AÇÃO/USUÁRIO] *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão arrogante que não é proporcional, diferente do Jhonny, que é arrogante, mas é bondoso por dentro, esse aí é arrogante e mal desde sempre, tem vontade de esfregar na cara de todo mundo assim que ganhar, eu não vou apenas humilha-lo, também vou coloca-lo em seu devido…
+  - [CENA/RESULTADO] Por um breve momento, a arrogância desaparece, substituída por uma confusão visceral ao perceber que a "garota" que ele subestimava agora é a força que o empurra para a sombra.
+  - [CENA/RESULTADO] Você vê a veia em seu pescoço saltar e os olhos dele se arregalarem, capturando o exato segundo em que a percepção da derrota o atinge.
+  - [CENA/RESULTADO] O ar ao redor de vocês torna-se denso, quase sólido, enquanto a linha de chegada surge como uma miragem concreta diante dos olhos.
+  - [CENA/RESULTADO] Ao lado, a fúria de Diego é palpável; ele não corre mais apenas para vencer, mas para aniquilar a possibilidade de ser superado.
+• [AÇÃO/USUÁRIO] *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão arrogante que não é proporcional, diferente do Jhonny, que é arrogante, mas é bondoso por dentro, esse aí é arrogante e mal desde sempre, tem vontade de esfregar na cara de todo mundo assim que ganhar, eu não vou apenas humilha-lo, também vou coloca-lo em seu devido…
+  - [CENA/RESULTADO] Você não sente apenas a necessidade de vencer, mas uma urgência moral; a arrogância dele é um ruído que precisa ser silenciado.
+  - [CENA/RESULTADO] Você vê a expressão de Diego mudar em tempo real: a confiança desaparece, substituída por um choque genuíno ao perceber que a "garota" que ele subestimou está agora deslizando por seu flanco.
+• [AÇÃO/USUÁRIO] *eu penso, assumindo uma postura séria "esse Diego também parece matar quem irrita, é tão arrogante que não é proporcional, diferente do Jhonny, que é arrogante, mas é bondoso por dentro, esse aí é arrogante e mal desde sempre, tem vontade de esfregar na cara de todo mundo assim que ganhar, eu não vou apenas humilha-lo, também vou coloca-lo em seu devido…
+  - [CENA/RESULTADO] Você não quer apenas vencer; você quer que Diego sinta o peso daquela fração de segundo em que ele acreditou estar no controle.
+  - [CENA/RESULTADO] Apenas alguns centímetros de diferença enquanto você rompe a barreira invisível da chegada.
+  - [CENA/RESULTADO] Quando a figura revela ser Nilidresa, a tensão nos seus ombros se dissolve, mas o coração ainda bate acelerado, ecoando a adrenalina do susto.
+  - [CENA/RESULTADO] Nilidresa solta uma risadinha anasalada, um som vibrante que ela sabe que te desarma.
+• [AÇÃO/USUÁRIO] *eu fico meio vermelha, sussurrando com voz tímida* está se aproximando demais, Nilly... Eu preciso dormir por causa do terceiro estágio... Então seja rápida, só precisa tirar apenas a minha roupa inferior e me chupar... *Enquanto Nilidresa coloca um documento com todas as informações que ela coletou sobre o plano do Valentime na minha mochila para quando…
+  - [CENA/RESULTADO] O silêncio é absoluto, quase artificial, graças às barreiras anti-som que você ergueu com precisão; o mundo exterior, com seus cavalos inquietos e a tensão da corrida, desaparece completamente, deixando apenas vocês duas em um vácuo de intimidade e…
+  - [CENA/RESULTADO] Ela não tem pressa; para ela, o desejo é um jogo de paciência.
+  - [CENA/RESULTADO] O quarto torna-se um casulo de silêncio absoluto assim que as barreiras do seu Stand se manifestam, abafando qualquer ruído externo e transformando o ambiente em um vácuo onde apenas a respiração de vocês duas existe.
+  - [CENA/RESULTADO] Você fecha os olhos, a cabeça afundando no travesseiro, enquanto solta um suspiro trêmulo que morre no silêncio da barreira anti-som.
+• [AÇÃO/USUÁRIO] *eu coloco as mãos nos chifres de Nilidresa, a minha cabeça fica suspensa pra trás, meu corpo se arqueia e eu solto um gemido, sussurrando o nome dela* Nilly... Não pare, está muito bom...
+  - [CENA/RESULTADO] Ela sente a sua entrega, a forma como você se arqueia e se expõe completamente a ela, e isso alimenta a natureza provocadora da metamorfa.
+  - [CENA/RESULTADO] O gemido que escapa dos seus lábios, embora abafado pela barreira do Stand, ecoa como um convite irresistível no silêncio do quarto, fazendo com que ela aperte a sua cintura com mais força, marcando a pele com a pressão de seus dedos.
+• [AÇÃO/USUÁRIO] *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com Nillidresa botando os instintos em alerta,, Gyro estava espionando tudo pela parte aberta da janela, ele vê tudo, mas não por malícia, mas por cautela e desconfiança, afinal, eu não mencionei quem era Nillidresa pra ele e pro Jhonny, ele suspira, saindo de forma…
+  - [CENA/RESULTADO] Dentro do quarto, o ambiente é de uma serenidade quase sagrada; o silêncio imposto pelas barreiras do seu Stand transforma o espaço em um santuário isolado do resto do mundo.
+  - [CENA/RESULTADO] Do lado de fora, a sombra de Gyro Zeppeli corta a luz do sol enquanto ele se posiciona junto à fresta da janela.
+• [AÇÃO/USUÁRIO] *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com Nillidresa botando os instintos em alerta,, Gyro estava espionando tudo pela parte aberta da janela, ele vê tudo, mas não por malícia, mas por cautela e desconfiança, afinal, eu não mencionei quem era Nillidresa pra ele e pro Jhonny, ele suspira, saindo de forma…
+  - [CENA/RESULTADO] Para você, aquele momento de vulnerabilidade é o único luxo possível em meio ao caos da corrida, onde cada sombra pode ser um inimigo e cada descanso é uma armadilha.
+  - [CENA/RESULTADO] No entanto, enquanto você desliza para um sono profundo e reparador, a vigilância de Nilly permanece ativa; ela sente a oscilação do ar owna a janela, o peso de um olhar externo que corta a penumbra, mas ela não reage bruscamente, sabendo que quem observa não…
+  - [CENA/RESULTADO] Ela não se move, mantendo o abraço firme sobre você, mas seus olhos se abrem minimamente, capturando a silhueta de Gyro Zeppeli recuando da janela com uma elegância cautelosa.
+  - [CENA/RESULTADO] Gyro afasta-se em silêncio, seus passos levesmente abafados pela areia, mas sua mente trabalha a mil por hora.
+  > Situação ao fim da parte: A luz suave da tarde filtra-se pelas frestas da janela, criando listras de ouro que dançam sobre o sono profundo de vocês duas. No quarto, o silêncio é absoluto, mas para Nilidresa, o mundo nunca está verdadeiramente quieto. Mesmo imersa no cansaço, seus instintos de metamorfa vibram como cordas de um violino…
+
+-- ARCO/PARTE 13 (mensagens 217-234) --
+Foco inicial: *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com…
+  - [CENA/RESULTADO] Dentro do quarto, o silêncio é quase absoluto, interrompido apenas pelo som da respiração profunda de Lúlisth, que finalmente se entrega ao sono, aninhada no calor protetor da metamorfa.
+  - [CENA/RESULTADO] Ela percebeu a presença na janela, o cheiro característico de couro e metal de Gyro Zeppeli, mas decidiu não intervir.
+• [AÇÃO/USUÁRIO] *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com Nillidresa botando os instintos em alerta,, Gyro estava espionando tudo pela parte aberta da janela, ele vê tudo, mas não por malícia, mas por cautela e desconfiança, afinal, eu não mencionei quem era Nillidresa pra ele e pro Jhonny, ele suspira, saindo de forma…
+  - [CENA/RESULTADO] Do lado de fora, agachado com a precisão de quem domina a gravidade e o equilíbrio, Gyro Zeppeli observa através da abertura da janela.
+  - [CENA/RESULTADO] Ele vê a cumplicidade, o modo como você se entrega ao descanso nos braços daquela mulher misteriosa.
+  - [CENA/RESULTADO] Do lado de fora, a sombra de Gyro Zeppeli desliza contra a parede de madeira.
+  - [CENA/RESULTADO] Não há luxúria no olhar de Gyro, apenas uma cautela quase clínica.
+  - [CENA/RESULTADO] O sol da tarde filtra-se pelas frestas da janela, lançando feixes de luz que revelam a poeira dançando no ar do quarto, onde o silêncio é quase absoluto.
+  - [CENA/RESULTADO] Do lado de fora, Gyro Zeppeli retira-se da janela com a agilidade de quem não quer ser notado, seus passos leves sobre a terra batida.
+  - [CENA/RESULTADO] Gyro Zeppeli retira-se da janela com um movimento fluido, quase imperceptível, seus olhos dourados ainda processando a cena de intimidade e o mistério que envolve a mulher de chifres.
+  - [CENA/RESULTADO] A poucos metros dali, Johnny Joestar aguarda encostado em uma árvore, a expressão severa e os olhos focados em algo distante, enquanto ajusta a postura em sua cadeira de rodas.
+  - [CENA/RESULTADO] O mundo exterior pareceu desaparecer por um instante, mas a realidade de Steel Ball Run nunca dorme completamente; ela apenas observa, oculta nas sombras das cortinas e nos vãos das paredes de madeira.
+  - [CENA/RESULTADO] Gyro Zeppeli retira-se da janela com um movimento fluido, quase imperceptível, seus olhos estreitando-se enquanto processa a cena.
+  - [CENA/RESULTADO] *[You stopped this response]*
+• [AÇÃO/USUÁRIO] *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com Nillidresa botando os instintos em alerta,, Gyro estava espionando tudo pela parte aberta da janela, ele vê tudo, mas não por malícia, mas por cautela e desconfiança, afinal, eu não mencionei quem era Nillidresa pra ele e pro Jhonny, ele suspira, saindo de forma…
+  - [CENA/RESULTADO] No quarto, o silêncio é quase sagrado, quebrado apenas pelo som da respiração profunda de Lúlisth e o pulsar rítmico do coração de Nilidresa contra as costas dela.
+  - [CENA/RESULTADO] Do lado de fora, a sombra de Gyro Zeppeli desliza silenciosamente para longe da janela.
+• [AÇÃO/USUÁRIO] *enquanto eu e Nillidresa estávamos distraídas descansando e dormindo nessa tarde, com Nillidresa botando os instintos em alerta,, Gyro estava espionando tudo pela parte aberta da janela, ele vê tudo, mas não por malícia, mas por cautela e desconfiança, afinal, eu não mencionei quem era Nillidresa pra ele e pro Jhonny, ele suspira, saindo de forma…
+  - [CENA/RESULTADO] Gyro Zeppeli, com sua habitual mistura de curiosidade e cautela, observa a cena através da fresta da janela.
+  - [CENA/RESULTADO] A presença de Nilidresa, a força que ela exala mesmo em repouso, é um dado que Gyro não pode ignorar.
+  - [CENA/RESULTADO] Através da fresta da janela, onde a luz da tarde projeta sombras longas e alaranjadas sobre o assoalho de madeira, os olhos atentos de Gyro Zeppeli capturam o momento.
+  - [CENA/RESULTADO] Gyro retira-se com a sutileza de um predador, seus passos não emitindo som algum sobre a grama seca do lado de fora.
+  - [CENA/RESULTADO] Gyro Zeppeli permanece imóvel, fundindo-se às sombras do beiral, seus olhos atentos captando cada detalhe da cena.
+  - [CENA/RESULTADO] Ele não busca a intimidade alheia por diversão, mas sim por aquela cautela instintiva de quem sabe que, nesta corrida, qualquer variável desconhecida pode ser uma armadilha mortal.
+  - [CENA/RESULTADO] Do lado de fora, Gyro Zeppeli recua da janela com um movimento fluido e silencioso.
+  - [CENA/RESULTADO] Ele se afasta da parede, seus passos não deixando rastro na terra seca, caminhando em direção a Johnny.
+• [AÇÃO/USUÁRIO] *eu acordo primeiro na manhã seguinte, são 4:30 da manhã, Nillidresa está em um sono profundo, eu aproveito e uso a telepatia de memórias para saber as memórias atuais de forma anônima, depois que termina, ela nem se mexe ou percebe, só aconchegada em mim, eu penso "ainda bem que ela ainda me ama demais para ir contra mim...", enquanto ela dorme em…
+  - [CENA/RESULTADO] O ar está gélido, típico das madrugadas do oeste, fazendo com que o calor do corpo dela seja a única âncora de conforto enquanto você se desprende lentamente, como quem retira a mão de uma chama suave.
+  - [CENA/RESULTADO] Ao sentir que ela permanece mergulhada em um sono pesado, quase letárgico, um sorriso tênue e melancólico surge em seus lábios; a certeza do afeto dela é a sua maior arma e, simultaneamente, a sua maior vulnerabilidade.
+• [AÇÃO/USUÁRIO] *eu acordo primeiro na manhã seguinte, são 4:30 da manhã, Nillidresa está em um sono profundo, eu aproveito e uso a telepatia de memórias para saber as memórias atuais de forma anônima, depois que termina, ela nem se mexe ou percebe, só aconchegada em mim, eu penso "ainda bem que ela ainda me ama demais para ir contra mim...", enquanto ela dorme em…
+  > Situação ao fim da parte: A penumbra da madrugada envolve o quarto em um manto de azul profundo e cinza, onde o único som é a respiração pausada e rítmica de Nilidresa contra o seu ombro. O ar está gélido, típico das madrugadas do oeste, fazendo com que o calor do corpo dela seja a única âncora de conforto enquanto você se desprende…
+
+-- ARCO/PARTE 14 (mensagens 235-252) --
+Foco inicial: *eu acordo primeiro na manhã seguinte, são 4:30 da manhã, Nillidresa está em um sono…
+  - [CENA/RESULTADO] É então que seus olhos encontram o envelope.
+  - [CENA/RESULTADO] Você se retira para o banheiro, onde a luz fria da manhã revela a poeira dançando no ar.
+  - [CENA/RESULTADO] Você se move com a precisão de quem já aprendeu a navegar na escuridão, deslizando para fora do abraço dela com uma cautela quase cirúrgica, sentindo a pele dela esfriar instantaneamente onde o seu calor se retirava.
+  - [CENA/RESULTADO] Ao olhar para Nilidresa, ainda perdida em sonhos, um sorriso amargo e grato surge em seus lábios.
+• [AÇÃO/USUÁRIO] *eu acordo primeiro na manhã seguinte, são 4:30 da manhã, Nillidresa está em um sono profundo, eu aproveito e uso a telepatia de memórias para saber as memórias atuais de forma anônima, depois que termina, ela nem se mexe ou percebe, só aconchegada em mim, eu penso "ainda bem que ela ainda me ama demais para ir contra mim...", enquanto ela dorme em…
+  - [CENA/RESULTADO] O silêncio é tão denso que você consegue ouvir a batida rítmica do coração de Nilidresa contra as suas costas, um lembrete constante da vulnerabilidade dela naquele momento.
+  - [CENA/RESULTADO] Enquanto você desliza sua consciência para dentro das memórias dela, o mundo ao redor parece desaparecer; você não vê apenas imagens, mas sente a textura dos segredos que ela extraiu, o gosto metálico do medo e a frieza calculista do Presidente Valentine.
+• [AÇÃO/USUÁRIO] *Nillidresa acorda, esfregando o rosto na minha barriga enquanto solta um ronronar carinhoso de metamorfa, eu falo com voz suave* bom dia, amor... Dormiu bem?
+  - [CENA/RESULTADO] Ela se aninha contra você, esfregando o rosto na sua barriga com uma entrega total, buscando o calor da sua pele como se fosse a única coisa real em um mundo de incertezas.
+  - [CENA/RESULTADO] Para ela, esse momento de quietude é o ápice do conforto; o modo como ela se molda ao seu corpo revela uma dependência afetiva que contrasta com a periculosidade de sua natureza metamorfa.
+  - [CENA/RESULTADO] O ronronar de Nilidresa vibra contra a sua pele, um som profundo e gutural que ecoa a satisfação de quem teve um sono verdadeiramente reparador. Ela se aninha mais, aproveitando o calor do seu corpo e a maciez da barriga como se fosse o lugar mais seguro do mundo, ignorando completamente que a luz do dia já começou a…
+  - [CENA/RESULTADO] A luz do sol, agora mais forte, corta a penumbra do quarto em linhas diagonais, revelando as partículas de poeira que flutuam preguiçosamente no ar, como se o próprio tempo estivesse hesitante em avançar para a brutalidade da corrida.
+  - [CENA/RESULTADO] Dormi como um anjo...", ela murmura com a voz rouca de quem acabou de acordar, "mas acho que acordei com fome de você".
+• [AÇÃO/USUÁRIO] *sorriso pequeno e carinhoso, acariciando os cabelos de Nillidresa, está tudo calmo... Ela sabe que eu li o documento, mas não importa agora, o que importa é a Nillidresa esfregado o rosto em mim e ronronando igual uma gatinha enquanto eu acaricio os cabelos dela, o plano está traçado, mas antes, um raro momento de distração*
+• [AÇÃO/USUÁRIO] *sorriso pequeno e carinhoso, acariciando os cabelos de Nillidresa, está tudo calmo... Ela sabe que eu li o documento, mas não importa agora, o que importa é a Nillidresa esfregado o rosto em mim e ronronando igual uma gatinha enquanto eu acaricio os cabelos pretos dela, o plano está traçado, mas antes, um raro momento de distração*
+  - [CENA/RESULTADO] Lentamente, a luz do sol começa a riscar o chão do quarto, transformando o dourado da manhã em um sinalizador de que a trégua está chegando ao fim.
+  - [CENA/RESULTADO] Você sente o corpo de Nilidresa relaxar ainda mais, entregue ao seu toque, mas a sua mente já começa a processar as informações do Stand, organizando os fios de inteligência que agora formam o seu mapa de guerra.
+• [AÇÃO/USUÁRIO] *horas depois, umas 2 horas da tarde, eu estou dormindo numa boa, o Wind's Traveler descansa calmamente, ele sabe atacar quando alguém o ameaça, então eu estou tranquila... Eu acordo de repente quando é meia-noite, eu percebo uma sombra me observando da cama, de repente, a presença liga o esqueiro, revelando ser a figura do Funny Valentime, o mesmo fala…
+• [AÇÃO/USUÁRIO] *sorriso pequeno e carinhoso, acariciando os cabelos de Nillidresa, está tudo calmo... Ela sabe que eu li o documento, mas não importa agora, o que importa é a Nillidresa esfregado o rosto em mim e ronronando igual uma gatinha enquanto eu acaricio os cabelos pretos dela, o plano está traçado, mas antes, um raro momento de distração, pensando "é cedo demais…
+  - [CENA/RESULTADO] O peso do documento lido, a revelação sobre Valentine e a escala da conspspiração governamental recuam para o plano de fundo, permitindo que você foque apenas na respiração dela e no calor do abraço.
+  - [CENA/RESULTADO] O poder que Valentine exerce sobre a corrida e a natureza do Cadáver Santo são variáveis que você ainda não domina totalmente.
+  - [CENA/RESULTADO] Enquanto você acaricia os fios de cabelo dela, sente a textura macia e a temperatura quente da pele de Nilidresa, que continua a se esfregar em você com aquela entrega felina, quase primitiva.
+  - [CENA/RESULTADO] Seu olhar se perde por um instante no teto, enquanto seus dedos continuam o movimento mecânico e carinhoso.
+• [AÇÃO/USUÁRIO] *eu dou um beijo lento e carinhoso em Nillidresa, depois de 5 minutos, eu me afasto, arrumando as coisas e falando calmamente* tenho que ir, Nilly... O terceiro estágio vai começar, a gente se fala pelo rádio, amor... *Eu fico meio corada, novamente ficando tímida* Só... Fique bem, eu quase fiquei sem dormir pensando em você naquele trem... Eu te amo demais…
+  - [CENA/RESULTADO] É um selo de afeto e proteção, um momento de entrega total antes que a armadura da competidora precise ser vestida novamente.
+  - [CENA/RESULTADO] Quando você finalmente se afasta, a ausência do contato térmico deixa um rastro de frio súbito na pele, e o quarto, agora plenamente iluminado pelo sol da manhã, revela a poeira dançando nos feixes de luz, lembrando que a vida real continua a pulsar do lado…
+• [AÇÃO/USUÁRIO] *eu dou um beijo lento e carinhoso em Nillidresa, depois de 5 minutos, eu me afasto, arrumando as coisas e falando calmamente* tenho que ir, Nilly... O terceiro estágio vai começar, a gente se fala pelo rádio, amor... *Eu fico meio corada, novamente ficando tímida* Só... Fique bem, eu quase fiquei sem dormir pensando em você naquele trem... Eu te amo demais…
+  > Situação ao fim da parte: O beijo é lento, carregado de uma promessa silenciosa que parece suspender o tempo por alguns instantes. É um selo de afeto e proteção, um momento de entrega total antes que a armadura da competidora precise ser vestida novamente. Quando você finalmente se afasta, a ausência do contato térmico deixa um rastro de frio…
+
+-- ARCO/PARTE 15 (mensagens 253-270) --
+Foco inicial: *eu abro a porta, mas antes de ir, eu falo de forma mais séria e determinada, sem a…
+  - [CENA/RESULTADO] O rádio, mencionado como o único fio que as manterá conectadas, repousa sobre a mesa como um lembrete da distância inevitável que o terceiro estágio imporá entre vocês.
+  - [CENA/RESULTADO] O reconhecimento de que você quase não dormiu por preocupação atua nela como um gatilho emocional; a expressão dela suaviza-se, e há um brilho úmido em seus olhos, ciente de que, apesar de toda a sua força e do poder do *Feel Good Inc.*, a maior fraqueza de…
+  - [CENA/RESULTADO] Para Nilidresa, a menção ao seu Stand e à sua capacidade de infiltração não é um escudo absoluto, mas uma ferramenta que ela usaria sem hesitar para aniquilar qualquer coisa que ameaçasse a sua segurança.
+  - [CENA/RESULTADO] O amor que ela sente é vasto, mas carrega consigo a intensidade de quem sabe o quanto é fácil perder tudo em uma terra de lei inexistente.
+• [AÇÃO/USUÁRIO] *eu abro a porta, mas antes de ir, eu falo de forma mais séria e determinada, sem a vulnerabilidade de antes, eu sempre tive esse lado implacável quando é necessário, e agora é, as barreiras anti-som ainda estão ativas, os meus olhos brilham um pouco, com um tiquinho de determinação maligna(que é o que chamam)* eu vou... Eu não vou só provar que o meu povo…
+  - [CENA/RESULTADO] Quando você alterna para o tom amoroso, declarando seu amor mais do que qualquer coisa, o contraste atinge Nilidresa como um impacto físico, lembrando-a de que, sob a armadura de guerreira, ainda existe a mulher que ela ama.
+  - [CENA/RESULTADO] A luz do sol agora é implacável, expondo cada partícula de poeira que dança no ar, revelando a vastidão do terreno que separa você de Nova York.
+• [AÇÃO/USUÁRIO] *eu dou um assovio e Wind's Traveler corre, eu subo nele com uma manobra e fico no meu lugar, eu estou entre Gyro e Jhonny, o terceiro estágio está prestes a começar, Gyro conversa comigo com sua típica camaradagem, percebendo a mudança do meu olhar de ontem pra hoje*
+  - [CENA/RESULTADO] À sua esquerda, Johnny Joestar mantinha um silêncio contemplativo, os olhos fixos no horizonte com aquela intensidade melancólica de quem busca redenção.
+  - [CENA/RESULTADO] À direita, Gyro Zeppeli era a antítese do silêncio.
+• [AÇÃO/USUÁRIO] *eu dou um assovio e Wind's Traveler corre, eu subo nele com uma manobra e fico no meu lugar, eu estou entre Gyro e Jhonny, o terceiro estágio está prestes a começar, Gyro conversa comigo com sua típica camaradagem, percebendo a mudança do meu olhar de ontem pra hoje* (Adiciona diálogo)
+  - [CENA/RESULTADO] O cavalo dispara em uma arrancada poderosa, e você executa a manobra de subida com uma fluidez quase coreografada, sentindo o músculo do animal tensionar-se sob você.
+  - [CENA/RESULTADO] À sua esquerda, Johnny Joestar mantém um silêncio contemplativo, o olhar fixo no horizonte, enquanto a tensão em seus ombros revela a pressão constante que carrega.
+  - [CENA/RESULTADO] Posicionada estrategicamente entre Johnny Joestar e Gyro Zeppeli, você sente a diferença de energia entre os dois.
+  - [CENA/RESULTADO] Johnny é um silêncio tenso, uma vontade de ferro disfarçada de fragilidade, cujos olhos analisam o terreno com a precisão de um falcão.
+• [AÇÃO/USUÁRIO] *eu dou um assovio e Wind's Traveler corre, eu subo nele com uma manobra e fico no meu lugar, são 710 km, das montanhas rochosas até Gorge Town no Colorado, eu estou entre Gyro e Jhonny, o terceiro estágio está prestes a começar, Gyro conversa comigo com sua típica camaradagem, percebendo a mudança do meu olhar de ontem pra hoje* (Adiciona diálogo)
+  - [CENA/RESULTADO] À sua esquerda, Johnny Joestar mantém o olhar fixo no horizonte, a tensão em seus ombros revelando que ele não subestima a jornada rumo às Montanhas Rochosas.
+  - [CENA/RESULTADO] À sua direita, Gyro Zeppeli exala uma confiança quase teatral, mas seus olhos, aguçados e analíticos, não deixam passar nenhum detalhe.
+• [AÇÃO/USUÁRIO] (pause o ROG rapidão, quero dar informações que são off rp que vai ser colocada na memória para você se lembrar, mas os personagens não vão poder interagir com as informações antes da hora da revelação, vou revelar o stand da Nillidresa)
+  - [CENA/RESULTADO] Vou registrar as informações do Stand da Nillidresa na memória do sistema.
+  - [CENA/RESULTADO] Como narrador, eu terei ciência de suas habilidades para coordenar as cenas de bastidores, mas manterei o segredo absoluto para os outros personagens e para a narrativa ativa até que você decida revelá-lo ou que a ação exija a manifestação do poder.
+• [AÇÃO/USUÁRIO] (Vou explicar o stand dela: O stand se chama "Lazy Generation", referência a música do The F-Ups, que também é uma música presente no Burnout 3: Takedown O Stand dela é um stand tipo humanóide de curto alcance, sua aparência é uma forma com o mesmo corpo e tamanho da usuária, com o corpo numa cor vermelha bem escura, espinhos verdes que saí do pescoço e que…
+  - [CENA/RESULTADO] As informações sobre o Stand **Lazy Generation** foram devidamente arquivadas no núcleo da narrativa.
+  - [CENA/RESULTADO] A dualidade entre a infiltração perfeita e o combate bruto, assim como a gestão de energia para a troca de modos, serão levadas em conta para garantir que a Nillidresa seja uma força tática e imprevisível, mantendo a tensão do "estou aqui, mas você não me vê".
+  - [CENA/RESULTADO] Todas as informações sobre o Stand **Lazy Generation** e as mecânicas de modo de espionagem e combate da Nillidresa foram devidamente registradas na memória do sistema.
+  - [CENA/RESULTADO] Estou pronto para processar a narrativa mantendo esses detalhes em segredo até a revelação orgânica na história.))
+• [AÇÃO/USUÁRIO] *no terceiro estágio, não é mais velocidade, mas sim cautela, já que as montanhas rochosas são imprevisíveis, eu vejo Diego caído no chão ao lado de Gyro e Jhonny, também vendo suas mãos mudando, eu decido ignorar, pensando "não sou capaz de curar isso...", ficando ao lado de Gyro e Jhonny... De repente, Diego aparece, estando bem diferente e até fazendo…
+  - [CENA/RESULTADO] Enquanto você permanece ao lado de Gyro e Johnny, a sensação de instabilidade no terreno reflete a tensão invisível que paira entre vocês.
+  - [CENA/RESULTADO] A hesitação de "não ser capaz de curar" ainda vibra em seu peito quando Diego ressurge.
+  > Situação ao fim da parte: O ar nas Montanhas Rochosas é rarefeito e gélido, carregando um silêncio que parece pesar sobre os ombros. Enquanto você permanece ao lado de Gyro e Johnny, a sensação de instabilidade no terreno reflete a tensão invisível que paira entre vocês. O cenário é vasto, mas claustrofóbico; cada pico nevado parece um…
+
+-- ARCO/PARTE 16 (mensagens 271-288) --
+Foco inicial: *no terceiro estágio, não é mais velocidade, mas sim cautela, já que as montanhas…
+• [AÇÃO/USUÁRIO] *no terceiro estágio, não é mais velocidade, mas sim cautela, já que as montanhas rochosas são imprevisíveis, eu vejo Diego caído no chão ao lado de Gyro e Jhonny, também vendo suas mãos mudando, eu decido ignorar, pensando "não sou capaz de curar isso...", ficando ao lado de Gyro e Jhonny... De repente, Diego aparece, estando bem diferente e até fazendo…
+  - [CENA/RESULTADO] Um sorriso enviesado, revelando dentes agora mais afiados, surge em seus lábios.
+  - [CENA/RESULTADO] — Você tem um olhar interessante, menina.
+  - [CENA/RESULTADO] Enquanto você cavalga ao lado de Gyro e Johnny, a paisagem ao redor torna-se surreal; as encostas íngremes e as rochas cinzentas servem de moldura para algo que desafia a lógica.
+  - [CENA/RESULTADO] O olhar de Diego, agora vertical e gélido, fixa-se em você, ignorando por um momento a rivalidade com Johnny para focar na sua expressão de choque.
+  - [CENA/RESULTADO] Pelo contrário, Diego desliza a posição, fazendo uma manobra circular que o coloca quase face a face com você e Johnny.
+  - [CENA/RESULTADO] O sorriso dele agora é mais largo, revelando dentes que parecem ter sido projetados para rasgar carne.
+• [AÇÃO/USUÁRIO] *no terceiro estágio, não é mais velocidade, mas sim cautela, já que as montanhas rochosas são imprevisíveis, eu vejo Diego caído no chão ao lado de Gyro e Jhonny, também vendo suas mãos mudando, eu decido ignorar, pensando "não sou capaz de curar isso...", ficando ao lado de Gyro e Jhonny... De repente, Diego aparece, estando bem diferente e até fazendo…
+  - [CENA/RESULTADO] Gyro solta um suspiro anasalado, ajustando as esferas de aço em seu cinto com um olhar de profundo ceticismo.
+  - [CENA/RESULTADO] — Gyro comenta, a voz carregada de ironia.
+• [AÇÃO/USUÁRIO] *séria, pensando "ele está se transformando em algo, a racionalidade está diminuindo..."* eu ainda quero você longe, Brando. Não se esqueça de quem te derrubou no final do segundo estágio. *Diego ri, pelo visto, está anoitecendo e ele sugere passar a noite numa vila já que pode ter pumas e cascavéis por perto, quando chegamos na vila, os moradores estavam…
+  - [CENA/RESULTADO] Gyro e Johnny trocam olhares inquietos.
+  - [CENA/RESULTADO] Johnny mantém a mão próxima ao coldre, a tensão evidente em seus ombros, enquanto Gyro solta um suspiro pesado, tentando dissipar a atmosfera pesada com um comentário pragmático sobre a necessidade de descanso.
+• [AÇÃO/USUÁRIO] *enquanto isso, Jhonny e Diego estão interagindo na cozinha, eu decido averiguar, Diego está diferente por algum motivo, eu só fico em alerta, Gyro chegou com a lenha, distraindo eu e Jhonny por alguns momentos... É o momento perfeito para Diego completar a sua transformação de dinossauro, perdendo a racionalidade, eu percebo, exclamando* QUE PORRA É ESSA?
+  - [CENA/RESULTADO] Johnny reage por instinto, deslizando para trás com um movimento brusco, a mão apertando o cabo da arma, os olhos arregalados diante da aberração.
+  - [CENA/RESULTADO] Gyro, que acabara de entrar com a lenha, solta as toras no chão com um estrondo, assumindo imediatamente uma postura de defesa, os músculos tensionados.
+• [AÇÃO/USUÁRIO] *enquanto isso, Jhonny e Diego estão interagindo na cozinha, eu decido averiguar, Diego está diferente por algum motivo, eu só fico em alerta, Gyro chegou com a lenha, distraindo eu e Jhonny por alguns momentos... É o momento perfeito para Diego completar a sua transformação de dinossauro, perdendo a racionalidade, eu percebo, exclamando* QUE PORRA É ESSA?…
+  - [CENA/RESULTADO] Você não consegue desviar o olhar enquanto a silhueta de Diego se distorce diante de vocês.
+  - [CENA/RESULTADO] A mandíbula se alonga, os dentes tornam-se garras ósseas e os olhos, agora fendas verticais e amareladas, brilham com uma fome que não tem nada de humana.
+• [AÇÃO/USUÁRIO] *enquanto isso, Jhonny e Diego estão interagindo na cozinha, eu decido averiguar, Diego está diferente por algum motivo, eu só fico em alerta, Gyro chegou com a lenha, distraindo eu e Jhonny por alguns momentos... É o momento perfeito para Diego completar a sua transformação de dinossauro, perdendo a racionalidade, eu percebo, exclamando* QUE PORRA É ESSA?…
+  - [CENA/RESULTADO] Johnny recua instintivamente, o rosto pálido de choque.
+  - [CENA/RESULTADO] Gyro, que acabara de entrar com a lenha, deixa o feixe de madeira cair no chão com um estrondo.
+• [AÇÃO/USUÁRIO] *eu de maneira instintiva fico completamente imóvel... O Diego cheira o ar e não me detecta, eu penso "é isso! Ele perdeu a noção de permanência de objeto!", Gyro e Jhonny fazem o mesmo... O Diego não detecta e acaba saindo... O alívio é temporário, eu falo seriamente pros dois* temos que agir! O Diego pode acabar matando os moradores da vila! *De repente,…
+  - [CENA/RESULTADO] O T-Rex surge como um pesadelo materializado, a massa bruta de seu corpo preenchendo o corredor, derrubando móveis e paredes com a facilidade de quem rasga papel.
+  - [CENA/RESULTADO] Johnny trava, os olhos arregalados, a respiração tornando-se um arquejo desesperado.
+• [AÇÃO/USUÁRIO] *eu desvio com acrobacia e começo a correr em alta velocidade enquanto Gyro e Jhonny vão atrás dos olhos do cadáver santo, na distração, eu uso várias armas para tentar neutralizar os dinossauros, desde pistolas até metralhadoras da época e lança-explosivos*
+  - [CENA/RESULTADO] Cada disparo de metralhadora e cada projétil explosivo que você lança consome sua energia de forma voraz.
+  - [CENA/RESULTADO] Você consegue abater alguns com disparos precisos de pistola, vendo o sangue escuro manchar a terra seca, mas para cada um que cai, dois outros parecem surgir do caos.
+  > Situação ao fim da parte: O caos se torna absoluto no instante em que você abre fogo. O som ensurdecedor das metralhadoras manifestadas pelo *Feel Good I.N.C* ricocheteia nas paredes de madeira da estalagem, transformando o ambiente em um túnel de ruído e fumaça. O cheiro de pólvora queimada agora domina o ar, lutando contra o odor fétido dos…
+
+-- ARCO/PARTE 17 (mensagens 289-302) --
+Foco inicial: *eu desvio com acrobacia e começo a correr em alta velocidade enquanto Gyro e Jhonny vão…
+• [AÇÃO/USUÁRIO] *eu desvio com acrobacia e começo a correr em alta velocidade enquanto Gyro e Jhonny vão atrás dos olhos do cadáver santo, na distração, eu uso várias armas para tentar neutralizar os dinossauros, desde pistolas até metralhadoras da época e lança-explosivos, gerenciado as energias para durar mais e usando armas de acordo com a situação*
+  - [CENA/RESULTADO] A cada movimento, os fios espirituais do *Feel Good I.N.C* se materializam em metal frio e gatilhos tensos; em um segundo você empunha uma pistola, no outro, o peso bruto de uma metralhadora da época surge em suas mãos, cuspindo fogo e chumbo contra as…
+  - [CENA/RESULTADO] Você sente a energia do Stand drenando, a fadiga começando a pesar nos ombros a cada nova arma manifestada, mas a adrenalina mascara o cansaço enquanto você lança explosivos que transformam a entrada da cozinha em um inferno de escombros e chamas.
+• [AÇÃO/USUÁRIO] *pensando "ainda tem dinossauros seguindo eles, incluindo o Diego, se eu gastar desenfreadamente, eu não vou aguentar.", agora fazendo algo diferente, começando a correr enquanto coloco todas as minhas habilidades de parkour em prática*
+  - [CENA/RESULTADO] A percepção de que sua energia está diminuindo começa a pesar; cada arma manifestada pelo *Feel Good Inc.* deixa um rastro de exaustão em seus ombros, e o peso da responsabilidade de dar cobertura a Gyro e Johnny torna-se quase asfixiante.
+  - [CENA/RESULTADO] Você utiliza as saliências das rochas, troncos caídos e a própria vegetação densa para ganhar altura e impulsão, movendo-se com uma agilidade que desafia a gravidade.
+• [AÇÃO/USUÁRIO] *enquanto eu continuo distraindo eles, eu sou atingida e ferida... Eu sinto o vírus se espalhar pelo meu corpo enquanto eu sou transformada em dinossauro também, Gyro e Jhonny conseguem chegar no penhasco, mas têm uma luta contra o Dr. Ferdinand, eles conseguem ganhar por pouco, com Gyro pegando o olho direito e adquirindo o scan, sendo um momento crítico…
+  - [CENA/RESULTADO] Seus pulmões ardem, cada tentativa de respirar parece exigir um esforço hercúleo, como se o ar tivesse se tornado sólido e pesado.
+  - [CENA/RESULTADO] A lembrança do vírus, daquela transformação grotesca e da violência do combate com Ferdinand surge em flashes desorganizados em sua mente, trazendo consigo uma onda de náusea que faz sua consciência oscilar entre a luz e a escuridão.
+• [AÇÃO/USUÁRIO] *enquanto eu continuo distraindo eles, eu sou atingida e ferida... Eu sinto o vírus se espalhar pelo meu corpo enquanto eu sou transformada em dinossauro também, Gyro e Jhonny conseguem chegar no penhasco, mas têm uma luta contra o Dr. Ferdinand, eles conseguem ganhar por pouco, com Gyro pegando o olho direito e adquirindo o scan, sendo um momento crítico…
+  - [CENA/RESULTADO] A escuridão não é total; ela tem a textura de veludo pesado e o cheiro acre de madeira podre e poeira acumulada.
+  - [CENA/RESULTADO] Você tenta mover um dedo, mas a resposta do seu cérebro chega com um atraso agonizante.
+  - [CENA/RESULTADO] A voz de Johnny corta o silêncio, carregada de um alívio que beira o pânico.
+  - [CENA/RESULTADO] Logo depois, a presença mais calma, porém igualmente tensa, de Gyro se manifesta.
+• [AÇÃO/USUÁRIO] *depois de uma hora, eu consigo descansar, eu acordo de repente montara no Slow Dancer junto com Jhonny, e eu vejo o Wind's Traveler me seguindo, já se passou um dia na corrida, eu volto pro meu cavalo, falando calmamente, embora a voz ainda esteja rouca* obrigada por não me deixarem. Parece que eu estava certa sobre vocês. *Depois eu salto do Slow Dancer e…
+  - [CENA/RESULTADO] Gyro solta uma risada anasalada, ajustando o chapéu enquanto olha para você com aquele sorriso confiante e ligeiramente irônico.
+  - [CENA/RESULTADO] A maioria das pessoas aqui na corrida só consegue enxergar o ouro, mas a Lusk...
+• [AÇÃO/USUÁRIO] *depois de uma hora, eu consigo descansar, eu acordo de repente montara no Slow Dancer junto com Jhonny, e eu vejo o Wind's Traveler me seguindo, já se passou um dia na corrida, eu volto pro meu cavalo, falando calmamente, embora a voz ainda esteja rouca* obrigada por não me deixarem. Parece que eu estava certa sobre vocês. *Depois eu salto do Slow Dancer e…
+  - [CENA/RESULTADO] O silêncio do deserto é interrompido apenas pelo ritmo cansado dos cascos dos cavalos e pelo som metálico ocasional do equipamento de Gyro.
+  - [CENA/RESULTADO] Johnny olha para você com aquele olhar distante, quase febril, enquanto mantém o equilíbrio precário sobre o Slow Dancer.
+  - [CENA/RESULTADO] A garganta seca torna cada palavra um esforço, e a sensação de vazio no peito é o lembrete constante da energia que o *Feel Good Inc.* drenou para tentar mantê-la viva enquanto o vírus agia.
+  - [CENA/RESULTADO] Johnny olha para você com uma expressão hesitante, os olhos refletindo uma mistura de alívio e uma culpa silenciosa por não ter conseguido evitar o caos.
+  > Situação ao fim da parte: O silêncio daquela casa em ruínas é pesado, interrompido apenas pelo estalo da madeira velha e pelo som da respiração recuperada. O ar ainda carrega o cheiro acre de pólvora e o odor selvagem da transformação que, há poucas horas, consumia a sua humanidade. Enquanto você desce do Slow Dancer, seus músculos protestam;…
+
+=== RESUMO DE CONTINUIDADE ===
+Manter todos os fatos, relações, itens/tecnologias, poderes e consequências estabelecidos nos arcos acima. Retomar exatamente do STATUS ATUAL, sem retroceder a cenas concluídas e sem misturar elementos de outras threads.

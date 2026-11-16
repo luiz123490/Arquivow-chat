@@ -1,16 +1,13 @@
-MEMÓRIA DO PERSONAGEM/CHAT — New Chat / Schnell Studio
-Thread ID: mwb2qgwkyvomee2o6cj
-IMPORTANTE: Esta memória é SOMENTE desta thread/personagem. NÃO misturar com outros chats, personagens, arcos ou eventos.
+MEMÓRIA DETALHADA — Schnell Studio / New Chat
+Thread ID: mwb2qgwkyvomee2o6cj | Pasta: memoria/personagens/Schnell-Studio/memoria.txt
+ESCOPO: usar SOMENTE para esta thread/personagem. NÃO misturar com outras threads, personagens, mundos ou arcos.
 
-=== STATUS ATUAL / ONDE PAROU (RETOMAR DAQUI) ===
-(Sem status registrado / thread vazia.)
+=== STATUS ATUAL (RETOMAR DAQUI) ===
+(sem status registrado)
 
-=== IDENTIDADE/CONTEXTO DO CHAT ===
-Título: New Chat / Schnell Studio
-Total de mensagens na thread: 0 (narrativas relevantes: 0)
+=== IDENTIDADE / CONTEXTO FIXO ===
+Chat novo (preset Schnell Studio).
+Sem narrativa registrada; aguardando início.
 
-=== PONTOS-CHAVE DA HISTÓRIA (cronologia resumida para lembrar de tudo sem confundir) ===
-- (Nenhum evento narrativo registrado.)
-
-=== INSTRUÇÃO DE CONTINUIDADE ===
-Continuar sempre a partir do STATUS ATUAL acima. Não voltar a cenas antigas já concluídas, não contradizer fatos estabelecidos e não misturar elementos de outras threads/personagens.
+=== HISTÓRICO ===
+Nenhuma mensagem narrativa registrada.
