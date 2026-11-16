@@ -1,5 +1,5 @@
 [MEMÓRIA - URV / VISÃO GERAL]
-Database: memoria/urv-database-2026-11-16T18-41-11-V12.json
+Database: memoria/urv-database-2026-11-16T19-09-00-V13.json
 
 ## One Piece RPG · Ellisyan (Lusk D. Ellisyan) (md4mx82mux4b0pzcyc3)
 ARCO ATUAL: Kaelum — preparação para o Duelo da Calamidade (Migração à Exaustão) contra os Dragões da Calamidade para obter um ovo/filhote.
