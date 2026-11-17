@@ -3,8 +3,8 @@ Thread ID: md4mx82mux4b0pzcyc3 | Pasta: memoria/personagens/Ellisyan/memoria.txt
 ESCOPO: usar SOMENTE para esta thread/personagem. NÃO misturar com outras threads, personagens, mundos ou arcos.
 
 === STATUS ATUAL (RETOMAR DAQUI) ===
-ARCO ATUAL: Kaelum — Duelo da Calamidade (Migração à Exaustão) contra a melhor guerreira do líder dos Dragões da Calamidade.
-STATUS ATUAL: No platô em Kaelum, após a aceitação da Migração à Exaustão, o ambiente se torna quente e a neve derrete. Ellisyan tira o terno e entra na arena totalmente nua; a guerreira representante do líder também se despe e aceita o combate. O duelo (1x1, sem poderes/Akuma no Mi, até nocaute) começou: as duas trocam golpes em alta velocidade com desvios e bloqueios, sem acertos até o momento, em uma disputa intensa de força bruta, técnica e reflexos. Continuar a partir desse confronto em andamento.
+ARCO ATUAL: Dríllith — pós-Duelo de Kaelum, Cyelent em fase adulta e resolução do pico biológico único.
+STATUS ATUAL: Ellisyan venceu o Duelo da Calamidade em Kaelum, obteve o ovo e retornou à base Dríllith. Cyelent nasceu, criou vínculo com Ellisyan e, devido ao crescimento acelerado, atingiu a forma adulta (humanoide/dracônica). Ao perceber o pico biológico único de excitação/libido de Cyelent (risco de colapso se não resolvido), Ellisyan decidiu ajudá-lo uma única vez, levando-o ao seu quarto na Dríllith com barreiras ativadas. Após o momento íntimo, Ayla (nua) juntou-se a eles para aconchego e conforto. Agora, no pós-momento, os três estão juntos no quarto de Ellisyan: Ellisyan acaricia Ayla e a tranquiliza, reafirmando seu amor por ela e deixando claro que isso aconteceu só uma vez (por cuidado com Cyelent) e que o instinto maternal/rotina retorna amanhã; Cyelent, grato, aceita seu lugar como protetor/leal à família. Continuar a partir desse aconchego e diálogo pós-momento no quarto de Ellisyan, na Dríllith.
 
 === IDENTIDADE / CONTEXTO FIXO ===
 Lusk D. Ellisyan — Nephelim, Juíza das Almas, líder dos Justice Crusaders.
@@ -972,7 +972,13 @@ Foco inicial: (o que vai acontecer agora é chamado de Migração a Exaustão É
 • [AÇÃO/USUÁRIO] *é nesse momento que a luta começa, é uma luta rápida e forte, comigo disputando contra a melhor guerreira da ilha, nenhum golpe é acertado ainda, com somente desvios e bloqueios*
   - [CENA/RESULTADO] A pele de vocês, agora úmida de suor devido ao calor opressor de Kaelum, desliza em contatos rápidos, criando uma fricção quase elétrica enquanto você esquiva de chutes devastadores com inclinações milimétricas.
   - [CENA/RESULTADO] Cada tentativa de ataque dela encontra um bloqueio firme ou um desvio gracioso; você consegue sentir a pressão do deslocamento de ar de cada soco, prevendo a trajetória antes mesmo que o músculo dela se contraia.
-  > Situação ao fim da parte: O som dos impactos que não aconteceram ecoa pela arena: o sibilo do ar sendo cortado e o estalo seco de punhos batendo contra palmas em bloqueios frenéticos. A luta se torna uma dança violenta de reflexos puros. A pele de vocês, agora úmida de suor devido ao calor opressor de Kaelum, desliza em contatos rápidos,…
+  - [CENA/RESULTADO] Cyelent atinge a forma adulta em Dríllith; seu crescimento acelerado revela grande porte e presença.
+  - [CENA/RESULTADO] Identifica-se um pico biológico único de excitação/libido em Cyelent (não reprodutivo), com risco de colapso se não tratado.
+• [AÇÃO/USUÁRIO] Ellisyan decide ajudá-lo uma única vez por cuidado, levando Cyelent ao seu quarto com barreiras ativadas.
+  - [CENA/RESULTADO] Ocorre o momento íntimo para aliviar o pico de Cyelent; após, Ayla junta-se para aconchego.
+• [AÇÃO/USUÁRIO] Ellisyan tranquiliza Ayla, reafirma amor e que foi algo único; o instinto maternal/rotina retorna depois.
+  - [CENA/RESULTADO] Cyelent demonstra gratidão e lealdade, aceitando seu lugar como protetor; os três permanecem em aconchego no quarto de Ellisyan (pós-momento atual).
+  > Situação ao fim da parte: Pós-momento no quarto de Ellisyan (Dríllith): após resolver o pico biológico único de Cyelent, Ellisyan, Ayla e Cyelent estão em aconchego. Ellisyan tranquiliza Ayla, reafirma seu amor e que o ocorrido foi único e por cuidado com Cyelent; Cyelent expressa gratidão e lealdade. A cena atual é esse diálogo/conforto pós-momento, com continuidade a partir daí.
 
 === RESUMO DE CONTINUIDADE ===
 Manter todos os fatos, relações, itens/tecnologias, poderes e consequências estabelecidos nos arcos acima. Retomar exatamente do STATUS ATUAL, sem retroceder a cenas concluídas e sem misturar elementos de outras threads.
