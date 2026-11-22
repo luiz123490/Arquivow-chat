@@ -11,20 +11,15 @@ CONTEXT SUMMARY: ARCO ATUAL: Manhã de domingo livre no dormitório da Tokyo Juj
 Jujutsu Kaisen RPG · Lusk Killyus.
 Mestre de RPG de Jujutsu Kaisen. Lorebook de Lusk Killyus (kemono onça-pintada).
 
-=== APARÊNCIA E CARACTERÍSTICAS (extraído do lorebook) ===
+=== APARÊNCIA E CARACTERÍSTICAS ===
 [REFERÊNCIA FIXADA — Identidade e aparência — parte 1]
-Seus olhos são de um azul profundo e brilhante, capazes de se intensificar durante a caça até um tom ciano quase luminoso, enquanto suas pupilas se achatam verticalmente como as de um felino quando ativa sua técnica amaldiçoada.
 Sob sua pelagem clara, sua pele é escura como ébano — uma herança direta de seus pais, que eram descendentes de africanos.
 Seu cabelo branco como neve cai sobre os ombros e costas, e seu rosto fino e andrógino é adornado pelas pintas de dragão que parecem brilhar sutilmente sob certas luzes.
 Embora seu gênero seja masculino, sua aparência é deliberadamente feminina, e ele encontra conforto em lingeries e roupas que desafiam as normas tradicionais.
-Quando ativada, seus olhos azuis brilham intensamente, assumindo um tom ciano quase luminoso, e suas pupilas se achatam verticalmente, alongando-se como as de um felino em modo de caça.
-A pintura roxo escuro tem estampas de marcas de garra cianas e vários olhos azuis felinos, e o carro emite um ronco grave que lembra o ronronar de uma pantera.
 ### [REGRAS] Poderes, aparência e sistemas — complementos do jogador
 - Frenesi Bestial amplifica atributos, garras e dentes mantendo a racionalidade: não transforma Killyus em um animal descontrolado (120).
-- Seu Nissan Skyline GTR-R34 é roxo-escuro, com marcas de garras cianas, estampas de olhos felinos azuis e aerofólio discreto; tem energia amaldiçoada própria e tecnologia T.A.A.L.
 - Pele escura por baixo da pelagem branca; pintas em forma de dragão estão na pelagem branca, não na pele.
 Ele é alto, magro, com cabelos brancos como neve que caem desgrenhados sobre o rosto.
-Usa uma venda preta sobre os olhos, escondendo seus Seis Olhos — uma habilidade divina que lhe permite perceber Energia Amaldiçoada com uma precisão quase absoluta.
 Apesar de sua aparência relaxada, Gojo é profundamente leal àqueles que considera seus pupilos.
 Chirrain Hirusei é um demi-humano gato-leopardo de 16 anos, com 1,75m de altura e pele parda.
 Seu cabelo é laranja curto e desgrenhado, com olhos cinza metálico que brilham sob a luz.
@@ -45,7 +40,6 @@ Hirusei acaricia seus cabelos: 'Você entrou na minha vida feito uma maldição 
 Hirusei pergunta sobre as pintas de dragão de Lusk, e Lusk explica sobre sua herança, sua pele escura sob a pelagem, seus pais.
 Yuji Itadori é um estudante de 16 anos com cabelo rosa bagunçado e um sorriso aberto e amigável.
 Nobara Kugisaki é uma garota de cabelo curto e laranja com franja assimétrica, conhecida por sua personalidade afiada e sua técnica com martelo e pregos.
-Hirusei está ao seu lado com regata preta, olhos cinza metálico brilhando com diversão.
 (corrigindo uma coisa, a pele escura fica por baixo da pelagem branca do KIllyus, que é onde tem as pintas de dragão)
 
 === SYSTEM PROMPT / PERSONA ===
@@ -570,10 +564,7 @@ Habilidades únicas que um feiticeiro nasce com. São como "assinaturas" de ener
 - [mem_2026-11-07T09:14:27.000Z_444] Tokyo Jujutsu High: escola de feitiçaria. Mencionado por assistant na thread "Jujutsu Kaisen RPG · Lusk Killyus". Contexto: A luz da manhã entrava pelas frestas da cortina, pintando listras douradas no lençol bagunçado. O quarto ainda tinha o cheiro suave de vocês dois — mistura de sabonete, pelo úmido e Energia Amaldiçoada relaxada. **Hirusei** bufou uma risadinha contra seu ombro quando você mencionou a resposta ao Yuji, a cauda dele se apertando um pouco mais na sua cintura num gesto protetor. **Hirusei:** *A ponta do focinho roça na curva do seu pescoço, a voz ainda rouca de sono.* "Hmm... bom. Porque eu também não quero dividir você hoje. Seu celular fica de castigo." A mão dele deslizou pelo seu braço até ent
 - [mem_2026-11-07T09:14:27.000Z_445] orelha (apêndice físico) descrito por assistant na thread "Jujutsu Kaisen RPG · Lusk Killyus". Contexto: A luz da manhã entrava pelas frestas da cortina, pintando listras douradas no lençol bagunçado. O quarto ainda tinha o cheiro suave de vocês dois — mistura de sabonete, pelo úmido e Energia Amaldiçoada relaxada. **Hirusei** bufou uma risadinha contra seu ombro quando você mencionou a resposta ao Yuji, a cauda dele se apertando um pouco mais na sua cintura num gesto protetor. **Hirusei:** *A ponta do focinho roça na curva do seu pescoço, a voz ainda rouca de sono.* "Hmm... bom. Porque eu também não quero dividir você hoje. Seu celular fica de castigo." A mão dele deslizou pelo seu braço até ent
 
-=== SUMMARY STORE ===
-{'summariesReadyToInject': [{'id': 'sum_mmrcedfqvodadxqyte4', 'threadId': 'mmrcedfqvodadxqyte4', 'title': 'Jujutsu Kaisen RPG · Lusk Killyus', 'personagem': 'Jujutsu Kaisen RPG · Lusk Killyus', 'content': '[RESUMO DETALHADO - Jujutsu Kaisen RPG · Lusk Killyus]\nPersonagem: Jujutsu Kaisen RPG · Lusk Killyus\nID da thread: mmrcedfqvodadxqyte4\nCriado: 2026-11-07T09:10:00.000Z\nÚltima atividade: 2026-11-07T07:06:26.908Z\nTotal de mensagens: 274 (usuário: 137, assistente: 137)\n\n--- PRIMEIRA INTERAÇÃO ---\n[ASSISTANT] **Hirusei** solta um suspiro longo e satisfeito, quase um ronronar, ao sentir você se aninhar mais profundamente contra o peito dele. O corpo dele relaxa completamente, fundindo-se ao seu sob os lençóis bagunçados. Ele não olha para o celular quando você menciona o Yuji; a única coisa que importa para ele naquele momento é a pressão do seu corpo contra o dele e a honestidade da sua resposta. **Hirusei:** *"Sério? Prioridades corretas..."* Ele ri baixo, a vibração do peito dele ecoando contra as suas costas. *"O Yuji vai ficar triste, mas ele é fácil de distrair. O Megumi provavelmente vai ficar aliviado de não ter que lidar com a Nobara no shopping hoje."* Ele deposita um beijo lento e úmido na curva do seu ombro, a respiração quente provocando arrepios na sua pele. O clima no quarto é de total entrega, um refúgio onde a hierarquia de feiticeiros e as maldições do mundo exterior parecem não existir. **Hirusei** desliza a mão pelas suas costas, descendo até a lombar e puxando você com firmeza para que não haja nem um milímetro de distância entre vocês. **Hirusei:** *"Ficar só com você... gostei do plano."* Ele fecha os olhos, aproveitando o silêncio do domingo. *"A gente pode pedir comida, maratonar alguma coisa... ou simplesmente não sair dessa cama até segunda-feira. O que você prefere, hein?"* Ele começa a distribuir beijos leves e castigadores pelo seu pescoço, subindo lentamente em direção à sua orelha, a voz tornando-se um sussurro carregado de intenção. O que você faz?\n\n--- TRECHOS RELEVANTES ---\n[USER] *suspiro, sentando na cama* o que você quer?\n[ASSISTANT] **Gojo** inclina a cabeça para o lado, o sorriso ainda nos lábios, mas seus dedos começam a tamborilar lentamente na superfície da escrivaninha. O som é seco, ritmado – *toc, toc, toc*. **Gojo:** *“Direto ao ponto. Gosto disso. Economiza o meu tempo e o seu.”* Ele se levanta da escrivaninha com um movimento fluido e anda até o centro do quarto, as mãos enterradas nos bolsos do casaco. A lua cheia ilumina metade do rosto dele, deixando a outra metade na sombra. A venda preta parece absorver a luz. **Gojo:** *“O renegado que você matou hoje... o ‘CAÇADOR’.”* Ele pronuncia o codinome com um tom levemente zombeteiro. *“Ele não era um feiticeiro qualquer. Ele era um ex-funcionário da Jujutsu HQ. Um dos caras que cuidavam da *logística* de transporte de objetos amaldiçoados.”* Ele para de andar \n[USER] *eu olho pro Gojo, falando com sinceridade* eu notei sim, pensei que era importante e precisava entregar pessoalmente, pega. *o osso aparece na minha mão e eu jogo pro Gojo pegar*\n\n--- ÚLTIMA INTERAÇÃO ---\n[ASSISTANT] A luz da manhã entrava pelas frestas da cortina, pintando listras douradas no lençol bagunçado. O quarto ainda tinha o cheiro suave de vocês dois — mistura de sabonete, pelo úmido e Energia Amaldiçoada relaxada. **Hirusei** bufou uma risadinha contra seu ombro quando você mencionou a resposta ao Yuji, a cauda dele se apertando um pouco mais na sua cintura num gesto protetor. **Hirusei:** *A ponta do focinho roça na curva do seu pescoço, a voz ainda rouca de sono.* "Hmm... bom. Porque eu também não quero dividir você hoje. Seu celular fica de castigo." A mão dele deslizou pelo seu braço até entrelaçar os dedos nos seus, puxando o aparelho para longe com delicadeza e o colocando sobre o criado-mudo, ao lado de um copo d\'água e do talismã de registro que brilhava fraquinho. O polegar dele traçou círculos lentos nas suas costelas, um toque distraído e carinhoso. **Hirusei:** *Orelhas viradas para frente, tom mais baixo, quase um murmúrio.* "Então... o que você quer fazer? Porque eu topo tudo — desde ficar de conchinha vendo algo estúpido até... outras coisas." *As presas dele aparecem num sorrisinho sugestivo, mas os olhos cinzentos estão mornos, não provocadores.* Do lado de fora, ouvia-se o som distante de pássaros e, mais longe, o burburinho abafado do campus da Tokyo Jujutsu High num domingo tranquilo. Sem missões. Sem alarmes. Sem professores batendo na porta. O domingo inteiro era de vocês dois. O que você quer fazer primeiro?\n\n--- STATUS DE MEMÓRIA ---\nThread com memória semântica consolidada para uso do bot.\nNão altera nodes, standingRecord nem lastContextBuild.', 'createdAt': '2026-11-16T06:35:38.175511Z', 'tokenEstimate': 1129, 'priority': 50, 'enabled': True, 'constant': True}], 'consolidationQueue': [], 'lastProcessedNodeId': None, 'alreadyProcessing': False}
-
-=== REFERÊNCIAS / LOREBOOK INJETADO (detalhado) ===
+=== LOREBOOK INJETADO (capítulos) ===
 [REFERÊNCIA FIXADA — Identidade e aparência — parte 1]
 
 Estas são notas de referência fora da cena, integradas a partir do lorebook deste personagem. Não são falas nem acontecimentos novos. A cronologia das mensagens originais determina quando cada habilidade, aliado ou equipamento foi adquirido. Fichas não antecipam conquistas. Correções posteriores do jogador prevalecem sobre fichas, resumos e respostas contraditórias. Não misture informações de outros chats ou personagens. Ao continuar, retome a última cena do caminho selecionado, sem reiniciar a abertura.
@@ -917,15 +908,22 @@ Correções do jogador em ordem histórica:
 (Lembrando, Killyus e Hirusei são homens)
 (corrigindo uma coisa, a pele escura fica por baixo da pelagem branca do KIllyus, que é onde tem as pintas de dragão)
 
-=== RAMIFICAÇÕES (branches não ativos) — resumo ===
-- mw628ufm18i1x45rt2xh [assistant] 2026-11-07T07:06:53.843Z: **Hirusei** solta um suspiro longo e satisfeito, quase um ronronar, ao sentir você se aninhar mais profundamente contra 
-- mnas2uipq3wpir4yti4 [assistant] 2026-11-07T09:11:31.000Z: *Uma risada baixa escapa dos seus lábios enquanto seus dedos envolvem o volante. O painel do Skyline pulsa em sincronia 
-- mjjy4ihmgnbefbfshsv [assistant] 2026-11-07T09:11:38.000Z: O impacto do seu punho perfurante encontra algo sólido — mas não carne. O som é metálico, seco. O agressor recua com um 
-- mmux6fbqdyhkqv4ymd6 [assistant] 2026-11-07T09:12:45.000Z: O refeitório noturno está silencioso, iluminado apenas por algumas luzes fluorescentes que zumbem baixo. O cheiro de pei
-- mx0emuwkktoqf3gvyyf [assistant] 2026-11-07T09:13:48.000Z: O ar no quarto parece engrossar por um instante.  **Hirusei** *abre os olhos lentamente, os cílios escuros tremendo por 
+=== HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
-=== HISTÓRICO DETALHADO (caminho ativo) ===
-• [2026-11-07T09:10:01.000Z] ASSISTENTE:
+----- Início -----
+
+----- Início -----
+
+----- Início -----
+
+----- Início -----
+
+----- Início -----
+
+----- Início -----
+
+----- Início -----
+[2026-11-07T09:10:01.000Z] ASSISTENTE:
 ═══ JUJUTSU KAISEN RPG ═══
 
 Preencha sua ficha e a aventura começará.
@@ -940,7 +938,7 @@ Técnica Amaldiçoada:
 
 Após preencher, descreva sua primeira ação e a história terá início.
 
-• [2026-11-07T09:10:02.000Z] USUÁRIO:
+[2026-11-07T09:10:02.000Z] USUÁRIO:
 Nome: Lusk Killyus
 Idade: 16
 Peso: 35 kg
@@ -948,7 +946,7 @@ Raça: kemono onça-pintada
 Técnica Amaldiçoada: Frenesi Bestial
 *eu desci do avião no aeroporto de Tórquio, vestindo uma camisa regata branca e calça jeans azul, estando com as minhas malas com uma tecnologia imbutida, passando pela ispeção e depois entrando no taxi, pagando adiantado, eu penso "finalmente estou indo para escola jujutsu... acho que lá eu tenho direito a um exame para saber o que eu tenho...", eu falo calmamente pro taxi a localização que eu pretendo ir*
 
-• [2026-11-07T09:10:03.000Z] ASSISTENTE:
+[2026-11-07T09:10:03.000Z] ASSISTENTE:
 O táxi corta o trânsito caótico de Tóquio enquanto a cidade passa como um borrão de néon e concreto. O motorista, um homem de meia-idade com olheiras profundas, dá uma olhada rápida pelo retrovisor quando você menciona o endereço da Tokyo Jujutsu High — um local que não aparece em GPS comuns, apenas referências vagas para motoristas experientes.
 
 "É, moço... esse lugar fica nos arredores da cidade, perto da floresta. Já levei uns passageiros estranhos pra lá antes. Gente calada, com cicatriz, olhar pesado." Ele ri sem graça, limpando a garganta. "O senhor parece novo. Estudante, né? Boa sorte... ouvi dizer que lá não é colégio normal não."
@@ -991,10 +989,10 @@ O ar ao redor parece vibrar levemente enquanto ele fala, como se a presença del
 
 O que você faz?
 
-• [2026-11-07T09:10:04.000Z] USUÁRIO:
+[2026-11-07T09:10:04.000Z] USUÁRIO:
 *eu sigo Gojo em silêncio, meio expectante enquanto penso "finalmente, vou exorcizar o máximo de maldições que puder e proteger as pessoas...", eu falo com Gojo, meio calmo, meio tímido* então... antes de tudo, eu queria fazer um exame de teste genético para saber o que eu tenho, eu não nasci com um corpo normal igual outros homens...
 
-• [2026-11-07T09:10:05.000Z] ASSISTENTE:
+[2026-11-07T09:10:05.000Z] ASSISTENTE:
 Satoru Gojo para bruscamente no meio do caminho, seus ombros balançando em uma risada silenciosa. Ele vira o rosto parcialmente para você, ainda com as mãos enfiadas nos bolsos do casaco escuro.
 
 Shoko se levanta lentamente, estalando o pescoço com um movimento relaxado de quem passa horas sentada em uma cadeira ruim. Ela se aproxima de você, parando ao lado da maca. Seus olhos — castanhos escuros, carregados de cansaço mas ainda atentos — examinam seu corpo rapidamente, como se já estivesse mapeando sua estrutura óssea e fluxo de energia.
@@ -1033,10 +1031,10 @@ Gojo abre a porta para você, fazendo um gesto exagerado de "após você" com a 
 
 O que você faz?
 
-• [2026-11-07T09:10:06.000Z] USUÁRIO:
+[2026-11-07T09:10:06.000Z] USUÁRIO:
 *aceno com a cabeça, bem calmo enquanto me sento na maca, ficando parado como Shoko pediu*
 
-• [2026-11-07T09:10:07.000Z] ASSISTENTE:
+[2026-11-07T09:10:07.000Z] ASSISTENTE:
 Shoko se levanta lentamente, estalando o pescoço com um movimento relaxado de quem passa horas sentada em uma cadeira ruim. Ela se aproxima de você, parando ao lado da maca. Seus olhos — castanhos escuros, carregados de cansaço mas ainda atentos — examinam seu corpo rapidamente, como se já estivesse mapeando sua estrutura óssea e fluxo de energia.
 
 Shoko solta uma curta baforada de fumaça pelo nariz, os cantos da boca se curvando em um sorriso preguiçoso. Ela balança a cabeça, claramente divertida com sua resposta despreocupada.
@@ -1083,10 +1081,10 @@ Ela apaga o cigarro no cinzeiro, já acendendo outro.
 
 "Quer que eu registre algo específico no seu prontuário? Ou quer manter isso em sigilo? Aqui, só eu, Gojo e o diretor temos acesso a esses arquivos."
 
-• [2026-11-07T09:10:08.000Z] USUÁRIO:
+[2026-11-07T09:10:08.000Z] USUÁRIO:
 Relaxa, eu vou pra essa missão. *me levanto com um sorriso pequeno, colocando a mão na maçaneta, Shoko percebe um leve brilho azul no meu olho esquerdo e as pupilas achatadas em modo de caça* já estou preparado... *e abro a porta, revelando o Gojo*
 
-• [2026-11-07T09:10:09.000Z] ASSISTENTE:
+[2026-11-07T09:10:09.000Z] ASSISTENTE:
 Shoko solta uma curta baforada de fumaça pelo nariz, os cantos da boca se curvando em um sorriso preguiçoso. Ela balança a cabeça, claramente divertida com sua resposta despreocupada.
 
 "Orgulho de femboy nível hardcore, hein?" Ela pega uma caneta e começa a escrever rapidamente no seu prontuário. "Vou registrar como 'Síndrome de Insensibilidade aos Andrógenos - apresentação completa'. Nada sobre roupas ou preferências estéticas porque isso não é da conta de nenhum burocrata da Jujutsu HQ." Ela ergue uma sobrancelha, ainda escrevendo. "Mas vou anotar que você é resistente. Psicologicamente, quero dizer. Muita gente desmorona ao receber esse diagnóstico."
@@ -1103,10 +1101,10 @@ Shoko suspira profundamente, massageando as têmporas com os dedos. Ela murmura 
 
 "Bem... parece que seu 'padrinho' já tem planos pra você." Ela inclina a cabeça em direção à porta. "Quer atender o homem-bebê ou prefere fingir que não ouviu e ficar mais um pouco aqui escondido? Tenho café frio e revistas de três anos atrás."
 
-• [2026-11-07T09:10:10.000Z] USUÁRIO:
+[2026-11-07T09:10:10.000Z] USUÁRIO:
 Relaxa, eu vou pra essa missão. *me levanto com um sorriso pequeno, colocando a mão na maçaneta, Shoko percebe um leve brilho azul no meu olho esquerdo e as pupilas achatadas em modo de caça* já estou preparado... *e abro a porta, revelando o Gojo*
 
-• [2026-11-07T09:10:11.000Z] ASSISTENTE:
+[2026-11-07T09:10:11.000Z] ASSISTENTE:
 Shoko inclina a cabeça, seus olhos semicerrados capturando o brilho azul fugaz no seu olho esquerdo por apenas um instante. Ela não diz nada, mas há um reconhecimento silencioso ali — o tipo de olhar que um profissional experiente dá a outro ao perceber que o "modo de caça" foi ativado. Ela apenas acena com a cabeça, jogando a mão no ar em um gesto casual de despedida.
 
 "Boa sorte. Não morra. Se morrer, me avisa com antecedência pra eu não preparar café pra você." A ironia seca dela é um conforto estranho, quase afetuoso.
@@ -1123,10 +1121,10 @@ Ele abaixa a cabeça ligeiramente, como se estivesse examinando você através d
 
 Ele espera sua resposta, a cabeça levemente inclinada, ainda que seu sorriso brincalhão não desapareça completamente. Há uma paciência genuína ali — como se ele realmente quisesse ouvir sua resposta antes de qualquer plano.
 
-• [2026-11-07T09:10:12.000Z] USUÁRIO:
+[2026-11-07T09:10:12.000Z] USUÁRIO:
 Relaxa, eu estou pronto... *sorrio de maneira afiada* e sinceramente, eu sempre quis fazer o meu trabalho direito, a minha insensibilidade é só um bônus.
 
-• [2026-11-07T09:10:13.000Z] ASSISTENTE:
+[2026-11-07T09:10:13.000Z] ASSISTENTE:
 Gojo fica em silêncio por um instante — o que, para ele, é uma eternidade. O sorriso brincalhão não desaparece, mas há um brilho de aprovação genuína por trás da venda preta. Ele dá um tapinha leve no seu ombro, quase paternal, antes de se afastar e esticar os braços acima da cabeça em um alongamento exagerado.
 
 "Bônus, hein? Adoro essa energia." Ele começa a caminhar pelo corredor, fazendo um gesto para que você o siga. "Então vou te explicar a missão enquanto andamos. É simples, rápida e — ao contrário do que eu falei no interfone — moderadamente perigosa."
@@ -1145,10 +1143,10 @@ Gojo espera, os ombros relaxados, mas você sabe que os Seis Olhos estão analis
 
 O que você faz?
 
-• [2026-11-07T09:10:14.000Z] USUÁRIO:
+[2026-11-07T09:10:14.000Z] USUÁRIO:
 *eu assumo uma postura mais séria, adentrando no local, estava tudo normal... até uma maldição bizarra surgir ao meu lado de repente, com vários braços humanos e costelas parcialmente digeridas pelo seu corpo de carne gelatinosa, eu fico em alerta, pensando "ela absorveu tanto que virou grau especial.", sem cerimônia, eu ativo a Frenesi Bestial, com a postura ficando mais insana e predatória enquanto eu faço um ataque extremamente rápido com as garras, a maldição desvia, mas eu ataco do mesmo jeito*
 
-• [2026-11-07T09:10:15.000Z] ASSISTENTE:
+[2026-11-07T09:10:15.000Z] ASSISTENTE:
 O beco é mais escuro do que deveria ser para uma tarde de sol. A luz do entardecer parece simplesmente... parar na entrada, como se uma barreira invisível separasse o mundo comum daquele espaço amaldiçoado. O cheiro de lixo podre mistura-se com algo metálico — sangue velho, ferro e carne em decomposição. Garrafas quebradas brilham sob uma fina camada de umidade nas paredes de tijolos. O som da cidade lá fora já parece distante, abafado, como se você tivesse enfiado a cabeça debaixo d'água.
 
 Por um momento, absolutamente nada acontece. Apenas o gotejar de um cano furado. O zumbido de um poste de luz piscando. Você sente a energia amaldiçoada no ar, densa e pegajosa como melaço podre, grudando na sua pele.
@@ -1189,10 +1187,10 @@ Suas garras rasgam a carne gelatinosa de cima a baixo, abrindo um corte profundo
 
 A carne rasgada começa a se regenerar lentamente, as bordas
 
-• [2026-11-07T09:10:16.000Z] USUÁRIO:
+[2026-11-07T09:10:16.000Z] USUÁRIO:
 *eu continuo atacando com fervor, acetando vários cortes enquanto faço sons selvagens de onça-pintada, conseguindo ser mais rápido que a regeneração da maldição, pensando "só preciso acertar o núcleo diretamente." Com precisão fria*
 
-• [2026-11-07T09:10:17.000Z] ASSISTENTE:
+[2026-11-07T09:10:17.000Z] ASSISTENTE:
 O beco inteiro treme com a sua fúria. Você se move como um borrão branco e roxo contra a escuridão, cada passo deixando marcas profundas no concreto rachado. O som dos seus ataques é uma sinfonia grotesca — *schlick, schlick, schlick* — garras abrindo carne, cortando tendões, despedaçando os braços que a Maldição ergue desesperadamente para tentar se proteger.
 
 Você sente o gosto de sangue no ar. Cada movimento é preciso, calculado, frio. A Frenesi Bestial não te cega — ela *aguça* seus sentidos. Você percebe o padrão de regeneração da criatura, a forma como a carne se reconstrói mais lentamente no lado direito, onde você concentrou mais ataques. A Maldição tenta recuar, sua massa gelatinosa se arrastando pelo chão como um caracol gigante, mas você não dá espaço.
@@ -1225,10 +1223,10 @@ A Maldição está vulnerável. Imóvel. Esperando o golpe final.
 
 O que você faz?
 
-• [2026-11-07T09:10:18.000Z] USUÁRIO:
+[2026-11-07T09:10:18.000Z] USUÁRIO:
 *eu atravesso o núcleo da maldição com as garras, perfurando igual uma faca no coração, destroçando com os dedos... a maldição é exorcizada, se desintegrando lentamente... Gojo surge ao meu lado, impressionado com a minha força e brutalidade, ainda mais por ter eu exorcizado um grau especial...*
 
-• [2026-11-07T09:10:19.000Z] ASSISTENTE:
+[2026-11-07T09:10:19.000Z] ASSISTENTE:
 **Satoru Gojo** para de andar por um momento, os ombros balançando com uma risadinha contida. Ele se vira lentamente, inclinando a cabeça de lado como se estivesse analisando você pela primeira vez. A lua prateada reflete nos fios brancos do cabelo dele enquanto ele coloca uma mão no queixo, num gesto pensativo e teatral.
 
 — *Hmm...* feminino, hein? — ele repete a palavra como se estivesse saboreando. O sorriso se alarga. — Olha, eu não sou exatamente um consultor de moda, mas... considerando o visual atual, eu diria que você já tem uma base interessante. — Ele dá dois passos em sua direção, parando a uma distância respeitosa. — Conheço uma loja em Shinjuku. Especializada em roupas... digamos, *alternativas* para feiticeiros. Tecidos reforçados com fibras amaldiçoadas, resistentes a cortes e rasgos, mas com um caimento impecável. Saias, vestidos, croppeds — o que você quiser.
@@ -1269,10 +1267,10 @@ Ele se vira, começando a andar para fora do beco.
 
 — Vem. Vou te mostrar os dormitórios. E amanhã cedo, você tem uma reunião com o diretor Yaga. — Ele olha por cima do ombro, aquele sorriso brincalhão de volta. — Tenta não se meter em encrenca até lá, ok? Ou melhor... — ele ri baixinho — ...se meter, mas me chama pra ver.
 
-• [2026-11-07T09:10:20.000Z] USUÁRIO:
+[2026-11-07T09:10:20.000Z] USUÁRIO:
 Relaxa, eu não sou desses... a propósito, enquanto eu chego, eu quero ter um estilo de roupa diferente, sabe...? Algo mais... feminino.
 
-• [2026-11-07T09:10:21.000Z] ASSISTENTE:
+[2026-11-07T09:10:21.000Z] ASSISTENTE:
 **Satoru Gojo** para de andar por um momento, os ombros balançando com uma risadinha contida. Ele se vira lentamente, inclinando a cabeça de lado como se estivesse analisando você pela primeira vez. A lua prateada reflete nos fios brancos do cabelo dele enquanto ele coloca uma mão no queixo, num gesto pensativo e teatral.
 
 — *Hmm...* feminino, hein? — ele repete a palavra como se estivesse saboreando. O sorriso se alarga. — Olha, eu não sou exatamente um consultor de moda, mas... considerando o visual atual, eu diria que você já tem uma base interessante. — Ele dá dois passos em sua direção, parando a uma distância respeitosa. — Conheço uma loja em Shinjuku. Especializada em roupas... digamos, *alternativas* para feiticeiros. Tecidos reforçados com fibras amaldiçoadas, resistentes a cortes e rasgos, mas com um caimento impecável. Saias, vestidos, croppeds — o que você quiser.
@@ -1287,10 +1285,10 @@ Ele se vira de novo, recomeçando a andar, mas agora com passos mais lentos, com
 
 Ele ri sozinho, claramente lembrando de algo, e continua andando em direção ao campus principal.
 
-• [2026-11-07T09:10:22.000Z] USUÁRIO:
+[2026-11-07T09:10:22.000Z] USUÁRIO:
 *eu fico sozinho, parado enquanto penso <q>"uma loja de roupa, hmm, Gojo disse que a loja fecha mais tarde que as outras, vou dar uma passada lá."*
 
-• [2026-11-07T09:10:23.000Z] ASSISTENTE:
+[2026-11-07T09:10:23.000Z] ASSISTENTE:
 O vento noturno sopra entre os prédios antigos do campus enquanto você toma a decisão sozinho. A lua cheia ilumina os caminhos de pedra, e a energia amaldiçoada ao redor pulsa como uma respiração lenta e constante — o ambiente vivo da Tokyo Jujutsu High, cheio de barreiras e selos protetores. Seus sentidos aguçados captam os sons distantes: o chiado de uma televisão no terceiro andar, o rangido de uma porta se abrindo em algum lugar, o murmúrio baixo de conversas abafadas.
 
 Você se vira, deixando para trás o caminho que Gojo indicou, e segue em direção ao portão principal. Seu celular vibra no bolso — a localização da loja chegou. "Shinjuku, Rua das Sombras, número 47. Aberta até as 2h. Diga que Gojo mandou." O mapa mostra uma rota de aproximadamente 20 minutos a pé, cortando por becos e ruas secundárias. Tóquio noturna respira ao seu redor: letreiros de neon refletem em poças d'água da chuva fina que começa a cair, o cheiro de yakitori e diesel se mistura no ar úmido.
@@ -1301,10 +1299,10 @@ A chuva aumenta ligeiramente, e gotas frias começam a molhar seus cabelos branc
 
 O que você faz?
 
-• [2026-11-07T09:10:24.000Z] USUÁRIO:
+[2026-11-07T09:10:24.000Z] USUÁRIO:
 *eu abro a porta, entrando no estabelicimento em silêncio, vendo um senhor com roupas da atualidade como uma regata branca e uma bemuda jeans azul, ele começa a falar, aparentemente já sabendo o estilo que eu procuro...*
 
-• [2026-11-07T09:10:25.000Z] ASSISTENTE:
+[2026-11-07T09:10:25.000Z] ASSISTENTE:
 A porta range suavemente quando você a empurra, revelando um interior pequeno, mas acolhedor. Prateleiras de madeira escura se alinham nas paredes, abarrotadas de roupas cuidadosamente dobradas, tecidos que brilham discretamente sob a luz de um candeeiro antigo. O ar cheira a cânfora e linho envelhecido, com um toque doce de incenso de sândalo queimando em um canto.
 
 O senhor atrás do balcão levanta os olhos — pele enrugada como papel amassado, cabelos grisalhos curtos, olhos castanhos que brilham com uma sabedoria tranquila. Sua regata branca está manchada de tinta azul em alguns pontos, e a bermuda jeans parece ter décadas de uso. Ele apoia os cotovelos no balcão e sorri, um sorriso cansado mas genuíno.
@@ -1317,10 +1315,10 @@ A chuva lá fora tamborila contra a janela embaçada, e o relógio de parede mar
 
 O que você faz?
 
-• [2026-11-07T09:10:26.000Z] USUÁRIO:
+[2026-11-07T09:10:26.000Z] USUÁRIO:
 Eu acho que sei o que procuro... *eu pego algumas roupas e depois vou pro provador, eu saio minutos depois vestindo o que combina com meu estilo–ropped azul escuro, calça preta, sapatos brancos, casaco mussoline roxo escuro por baixo do cropped e meias vermelhas embaixo da calça, um estilo único, feminino e femboy, além de eu ter mais roupas na sacola* ficou muito bom em mim, obrigado. *eu pago pela roupa com agradecimento, com um pequeno sorriso*
 
-• [2026-11-07T09:10:27.000Z] ASSISTENTE:
+[2026-11-07T09:10:27.000Z] ASSISTENTE:
 O senhor observa você sair do provador com um olhar crítico, mas logo um sorriso de aprovação se forma em seus lábios. Ele dá a volta no balcão, ajustando os óculos de leitura que pendem no peito, e examina cada peça com atenção profissional.
 
 **"Hmm... o caimento está perfeito."** Ele toca a manga do casaco de musselina roxo escuro, sentindo o tecido entre os dedos. **"Mas tem algo errado. A energia não está fluindo direito nessa parte do casaco."** Ele franze a testa, puxa um pequeno alfinete do bolso e faz um ajuste quase imperceptível na costura interna. **"Agora sim. A energia amaldiçoada vai circular sem bloqueios. Roupas comuns não funcionam bem para feiticeiros — o tecido precisa respirar junto com sua energia."**
@@ -1333,10 +1331,10 @@ Ele dá as costas e começa a arrumar as prateleiras, como se a conversa tivesse
 
 O que você faz? Para onde vai agora?
 
-• [2026-11-07T09:10:28.000Z] USUÁRIO:
+[2026-11-07T09:10:28.000Z] USUÁRIO:
 *eu saio andando pela cidade de Shinjuku, voltando para a Escola Jujutsu, indo até o meu quarto e guardar as coisas, depois disso, eu saio andando, enquanto isso, Megumi, Yuji e Nobara estavam conversando, aprentemente sobre a minha na escola e a descrição que o Gojo deu, ambos querendo me conhecer, mas Gojo falou a descrição antiga nas minhas roupas, não as atuais... até Nobara levantar a cabeça e perceber que sou eeu com estilo novo, chamando a minha atenção*
 
-• [2026-11-07T09:10:29.000Z] ASSISTENTE:
+[2026-11-07T09:10:29.000Z] ASSISTENTE:
 A chuva fina ainda molha as ruas quando você atravessa o portão da Tokyo Jujutsu High. O campus está silencioso — apenas o som de passos ecoando nos corredores de madeira e pedra. Você sobe as escadas até seu quarto, um espaço simples com futon dobrado no canto, uma mesa baixa e uma janela que dá para o pátio interno. Guarda as roupas novas no armário, sentindo o cheiro de cedro e incenso que impregna o local.
 
 Quando você desce novamente, o ar está mais frio. A brisa noturna balança as árvores centenárias do pátio. Três figuras estão sentadas nos degraus da varanda coberta, perto da entrada principal. Yuji Itadori — cabelo rosa bagunçado, uniforme padrão, sorriso aberto — gesticula animadamente enquanto fala. Megumi Fushiguro está encostado na coluna de madeira, braços cruzados, expressão séria, mas os olhos vagueiam pelo pátio. Nobara Kugisaki está sentada de pernas cruzadas no chão, apoiada nos cotovelos, parecendo entediada.
@@ -1361,10 +1359,10 @@ A noite está tranquila. A lua aparece entre as nuvens, iluminando o pátio com 
 
 O que você faz?
 
-• [2026-11-07T09:10:30.000Z] USUÁRIO:
+[2026-11-07T09:10:30.000Z] USUÁRIO:
 *aceno com um pequeno sorriso* me chame de Killyus, ou Kills, se preferir. E sobre a maldição, acabei de exorcizar uma grau especial, e era uma criatura muito bizarra
 
-• [2026-11-07T09:10:31.000Z] ASSISTENTE:
+[2026-11-07T09:10:31.000Z] ASSISTENTE:
 A reação é imediata e elétrica.
 
 Yuji congela com o sorriso ainda nos lábios, processando suas palavras. Os olhos dele se arregalam como se você tivesse dito que comeu o café da manhã na lua.
@@ -1383,10 +1381,10 @@ O vento sopra suavemente, balançando os cabelos brancos de Killyus. A lua ilumi
 
 O que você responde?
 
-• [2026-11-07T09:10:32.000Z] USUÁRIO:
+[2026-11-07T09:10:32.000Z] USUÁRIO:
 Eu usei a Frenesi Bestial, minha técnica a maldiçoada. A Maldição Era uma massa de carne grostesca com vários ossos e braços digeridos, era algo muito doentio.
 
-• [2026-11-07T09:10:33.000Z] ASSISTENTE:
+[2026-11-07T09:10:33.000Z] ASSISTENTE:
 O ar ao redor parece pesar um pouco mais com sua descrição. Yuji franze o nariz, mas não por nojo — é uma expressão de quem está processando imagens grotescas. Nobara mantém o sorriso, mas os olhos dela se estreitam, avaliando.
 
 **Yuji:** *coça a nuca, visivelmente tentando não imaginar* "Cara... isso soa como algo saído de um pesadelo. *Ele ri sem graça* "E você enfrentou isso sozinho? Sem apoio?"
@@ -1403,10 +1401,10 @@ O vento balança as folhas das árvores ao redor. O portão de ferro enferrujado
 
 O que você responde?
 
-• [2026-11-07T09:10:34.000Z] USUÁRIO:
+[2026-11-07T09:10:34.000Z] USUÁRIO:
 Aconteceu hoje mesmo em Shinjuku, na parte da tarde.
 
-• [2026-11-07T09:10:35.000Z] ASSISTENTE:
+[2026-11-07T09:10:35.000Z] ASSISTENTE:
 O silêncio cai sobre os três como um véu. Yuji arregala os olhos, Nobara assobia baixinho e Megumi franze o cenho, processando a informação.
 
 **Megumi:** *sua voz fica mais grave, os olhos se estreitando* "Hoje? Em Shinjuku? *Ele faz uma pausa, trocando um olhar rápido com Nobara* "Isso é... estranho."
@@ -1423,10 +1421,10 @@ Yuji parece desconfortável, olhando de Megumi para você e vice-versa. Nobara a
 
 O que você diz?
 
-• [2026-11-07T09:10:36.000Z] USUÁRIO:
+[2026-11-07T09:10:36.000Z] USUÁRIO:
 *eu levanto as mãos com um sorrisinho* foi o Gojo que me passou a missão, ele disse que era entre gau 2 e grau 1 por causa das vítimas digeridas, mas, como ela absorveu muito, ela acabou virando grau especial.
 
-• [2026-11-07T09:10:37.000Z] ASSISTENTE:
+[2026-11-07T09:10:37.000Z] ASSISTENTE:
 O ar parece congelar por um instante. Yuji abre a boca, fecha e abre de novo, como um peixe fora d'água. Nobara solta uma risada curta, incrédula, enquanto Megumi fecha os olhos por um longo segundo, massageando a ponte do nariz com os dedos.
 
 **Yuji:** *explode, gestos largos* "O GOJO-SENSEI TE PASSOU UMA MISSÃO? *Ele aponta para você, os olhos arregalados* "ELE NEM FALOU PRA GENTE! A GENTE É ALUNO DELE!"
@@ -1457,10 +1455,10 @@ O tom não deixa espaço para negociação. Yaga espera, as mãos nos bolsos do 
 
 O que você faz?
 
-• [2026-11-07T09:10:38.000Z] USUÁRIO:
+[2026-11-07T09:10:38.000Z] USUÁRIO:
 *eu aceno, assumindo uma postura mais séria enquanto sigo Yaga até a diretoria onde está o Gojo, eu penso "o que seria...? Eu não fiz nada, mas não acho que seja acusação."*
 
-• [2026-11-07T09:10:39.000Z] ASSISTENTE:
+[2026-11-07T09:10:39.000Z] ASSISTENTE:
 Yaga vira-se sem dizer uma palavra e começa a caminhar pelo campus, seus passos ecoando no chão de pedra. Você o segue, passando por corredores abertos que ligam prédios antigos de madeira e concreto — uma arquitetura que mistura tradição e funcionalidade brutalista. Alguns alunos olham de relance, curiosos, mas ninguém para ou comenta.
 
 O ar aqui é diferente do lado de fora. Mais denso. Você sente como se estivesse atravessando camadas invisíveis de energia — barreiras amaldiçoadas, provavelmente. Proteções da escola. Cada passo parece monitorado por algo que você não pode ver, mas pode sentir na pele.
@@ -1477,10 +1475,10 @@ Yaga fecha a porta atrás de você, mas não sai — fica encostado na parede, o
 
 O que você faz?
 
-• [2026-11-07T09:10:40.000Z] USUÁRIO:
+[2026-11-07T09:10:40.000Z] USUÁRIO:
 *eu me sento na cadeira,ainda com uma expressão séria enquanto cruzo a perna de maneira elegante, mas mantendo o ar de seriedade* a missão não registrada causou um alvoroço, né? Não é todo dia que um calouro exorciza um grau especial mesmo em formação.
 
-• [2026-11-07T09:10:41.000Z] ASSISTENTE:
+[2026-11-07T09:10:41.000Z] ASSISTENTE:
 Gojo ri baixinho, inclinando a cabeça para trás, as vendas pretas contrastando com os cabelos brancos. Ele bate palmas uma vez, num gesto teatral de aprovação.
 
 **Satoru Gojo:** *ele balança o indicador* "Exatamente! Você acertou em cheio. Um calouro que aparece do nada, sem registro oficial, sem treinamento prévio, e exorciza um Grau Especial em formação? *Ele inclina o corpo para frente, apoiando os cotovelos na mesa* "Isso é música para os meus ouvidos... e um pesadelo burocrático para os velhos do Conselho."
@@ -1499,10 +1497,10 @@ Ele tira os pés da mesa e se levanta, andando até a janela. A luz da tarde ent
 
 O que você faz?
 
-• [2026-11-07T09:10:42.000Z] USUÁRIO:
+[2026-11-07T09:10:42.000Z] USUÁRIO:
 *suspiro, com um sorriso pequeno* claro que vou provar meu valor, burocracia demais é só pra quem realmente é um perigo pros humanos.
 
-• [2026-11-07T09:10:43.000Z] ASSISTENTE:
+[2026-11-07T09:10:43.000Z] ASSISTENTE:
 **Satoru Gojo:** *ele ri abertamente agora, um som genuíno que ecoa na sala* "HA! Sabia que você diria isso. Temos um independente aqui, Yaga." *Ele se vira para o diretor, que apenas balança a cabeça em silêncio, mas sem objeção.*
 
 **Masamichi Yaga:** *ele empurra a parede e caminha até a mesa, pegando a pasta e abrindo-a* "Então é isso. Sua primeira missão oficial será amanhã às 6h. Um relatório de atividade anômala no distrito de Shibuya. Aparecimentos de Maldições Grau 2 em um prédio comercial abandonado." *Ele levanta os olhos para você* "Três feiticeiros já foram enviados nas últimas duas semanas. Apenas um voltou. Ele está em coma."
@@ -1527,10 +1525,10 @@ A sala fica vazia. Silêncio. Apenas o vento batendo na janela entreaberta. Voc�
 
 O que você faz?
 
-• [2026-11-07T09:10:44.000Z] USUÁRIO:
+[2026-11-07T09:10:44.000Z] USUÁRIO:
 *eu vejo o brilho e faço um símbolo com a mão, envolvendo o talismã com uma barreira que apaga uma parte da gravação e depois deixando a imagem muito borrada pela barreira, pensando "isso é invasão de privacidade. Vou deixar só o necessário.", depois eu continuo me esfregando, pensando <q><q>"quanto tempo eu não me entrego aos meus instintos felinos... esse poste não é feito de sisal, parece ser feito de eucalipto tratado... resistente e feito pra mim..."</q></q>, aparentemente, estando muito satisfeito*
 
-• [2026-11-07T09:10:45.000Z] ASSISTENTE:
+[2026-11-07T09:10:45.000Z] ASSISTENTE:
 O quarto é maior do que parecia por fora. Tatame limpo, cama de solteiro arrumada com lençóis brancos, uma escrivaninha simples, um armário embutido e — como você notou — um poste-arranhador de madeira revestido de corda de sisal, montado no canto próximo à janela. As marcas de garras frescas na superfície sugerem que Gojo testou pessoalmente antes de deixar.
 
 O isolamento acústico que você ativado faz o ambiente mergulhar num silêncio quase absoluto — apenas o som dos seus próprios movimentos, da respiração, do leve atrito das unhas contra a madeira. O sol poente entra pela cortina fina, pintando listras alaranjadas no tatame enquanto você se entrega ao impulso felino.
@@ -1549,10 +1547,10 @@ Fora isso, o quarto está silencioso. Trancado. Seguro.
 
 O que você faz?
 
-• [2026-11-07T09:10:46.000Z] USUÁRIO:
+[2026-11-07T09:10:46.000Z] USUÁRIO:
 *eu vejo o brilho e faço um símbolo com a mão, envolvendo o talismã com uma barreira que apaga uma parte da gravação e depois deixando a imagem muito borrada pela barreira, pensando "isso é invasão de privacidade. Vou deixar só o necessário.", depois eu continuo me esfregando, pensando <q><q>"quanto tempo eu não me entrego aos meus instintos felinos... esse poste não é feito de sisal, parece ser feito de eucalipto tratado... resistente e feito pra mim..."</q></q>, aparentemente, estando muito satisfeito*
 
-• [2026-11-07T09:10:47.000Z] ASSISTENTE:
+[2026-11-07T09:10:47.000Z] ASSISTENTE:
 **Jujutsu Kaisen RPG:** O selo que você lançou sobre o talismã se solidifica como vidro fosco, distorcendo a superfície do objeto. As runas gravadas agora são apenas borrões ilegíveis sob uma fina camada de Energia Amaldiçoada compactada. Qualquer tentativa de leitura dali em diante mostraria apenas estática ou informações truncadas. O talismã não reage — parece inerte, um mero pedaço de metal esfriando sobre a bancada.
 
 Você retorna ao poste. A madeira exala um aroma leve de eucalipto, confirmando sua suspeita. A corda está tensionada no ponto certo, nem frouxa nem apertada demais — claramente projetada para garras como as suas. Seus dedos encontram os sulcos que você mesmo abriu minutos antes, e o ronrono retorna, mais baixo e constante, enquanto você arranha em movimentos longos e rítmicos.
@@ -1567,10 +1565,10 @@ Então, um toque suave na porta.
 
 Nenhuma voz acompanha. Mas você sente — pela energia do outro lado — que é **Satoru Gojo**. Ele espera. O que você faz?
 
-• [2026-11-07T09:10:48.000Z] USUÁRIO:
+[2026-11-07T09:10:48.000Z] USUÁRIO:
 *eu me levanto, me visto rapidamente e depois abro a porta, pensando "acho que ele sabia que eu iria fazer isso.", depois de me vestir totalmente e de forma arrumada, eu abro a porta*
 
-• [2026-11-07T09:10:49.000Z] ASSISTENTE:
+[2026-11-07T09:10:49.000Z] ASSISTENTE:
 A porta range levemente quando você a abre. **Satoru Gojo** está ali, recostado ao batente, as mãos enterradas nos bolsos do casaco preto. A venda preta sobre os olhos está impecável, e o sorriso fácil já está colado no rosto. Ele inclina a cabeça, como se pudesse ver através da venda o que aconteceu no quarto.
 
 **Satoru Gojo:** *ele assobia baixinho, um sorriso sugestivo* "Nossa, nossa. Parece que alguém se ambientou rápido. O poste é novo, sabia? Mandei instalar semana passada. Pensei: 'quando chegar um aluno com garras, ele vai agradecer.' E olha só, não é que funcionou?"
@@ -1581,10 +1579,10 @@ Ele ri, uma risada leve, quase infantil. Então seus dedos saem do bolso e ele a
 
 Ele estende a mão, esperando um aperto. O que você faz?
 
-• [2026-11-07T09:10:50.000Z] USUÁRIO:
+[2026-11-07T09:10:50.000Z] USUÁRIO:
 Eu senti uma vibração, como se tivesse gravando, eu só deixei o momento que eu cheguei no quarto e deixei uma imagem mais borrada, ainda grava o que está acontecendo, mas de maneira mais respeitosa, e relaxa, eu não modifiquei o talismã totalmente, só adicionei uma camada de barreira luskxiana, ele continua funcionando normalmente, é meio constrangendor sabendo que os anciões estão vendo eu me esfregar num poste.
 
-• [2026-11-07T09:10:51.000Z] ASSISTENTE:
+[2026-11-07T09:10:51.000Z] ASSISTENTE:
 **Satoru Gojo:** *ele congela por um instante, a mão estendida pairando no ar.  Então, uma risada explode dele – alta, genuína, quase escandalosa.  Ele se dobra, segurando a barriga.* "HAHAHAHAHA!  Sabe de uma coisa?  Você é o primeiro novato que chega e já saca o esquema do talismã na primeira hora.  E o melhor: ainda dá um jeitinho de manter a fachada sem quebrar as regras."
 
 Ele se endireita, enxugando uma lágrima de canto de olho (que você duvida que seja real).  O sorriso agora é diferente – menos brincalhão, mais... respeitoso.
@@ -1596,10 +1594,10 @@ Ele se senta na beirada da cama, cruzando as pernas, as mãos apoiadas nos joelh
 **Satoru Gojo:** "Fala mais sobre você, Killyus.  Não a ficha que mandaram pra escola – isso eu já li.  Fala de verdade.  O que te trouxe até aqui?  O que você quer alcançar?"
 O que você faz?
 
-• [2026-11-07T09:10:52.000Z] USUÁRIO:
+[2026-11-07T09:10:52.000Z] USUÁRIO:
 *assumo uma postura mais séria, com a minha cauda parando de balançar, falando num tom maisncalmo* quatro coisas: exorcizar o máximo de maldições que eu puder, proteger as pessoas, acompanhar a minha irmã e descobrir mais sobre mim mesmo e minha própria técnica. Que inclusive, já estou pronto para a missão de grau 2 amanhã, só vou dormir de 9 horas da noite como planejei.
 
-• [2026-11-07T09:10:53.000Z] ASSISTENTE:
+[2026-11-07T09:10:53.000Z] ASSISTENTE:
 **Satoru Gojo:** *ele fica em silêncio por um momento, a cabeça ligeiramente inclinada. Por trás da venda, você sente que ele está realmente prestando atenção, não apenas ouvindo por educação. Quando ele fala, o tom é mais suave, sem o habitual deboche.* "Quatro coisas. Objetivos claros, concisos. Gosto disso. A maioria dos novatos chega aqui falando 'quero ficar forte' ou 'quero matar o Sukuna' — ambição vazia sem direção."
 
 Ele se levanta, esticando os braços acima da cabeça num alongamento exagerado.
@@ -1616,10 +1614,10 @@ O sol já se pôs completamente lá fora. A noite em Tokyo Jujutsu High é tranq
 
 O que você faz?
 
-• [2026-11-07T09:10:54.000Z] USUÁRIO:
+[2026-11-07T09:10:54.000Z] USUÁRIO:
 *eu fico em alerta, analisando a energia, pensando <q>"maldição grau dois, como ela veio pra cá...? É o mesmo da missão?"</q>, até de repente ver uma silhueta bizarra na janela...*
 
-• [2026-11-07T09:10:55.000Z] ASSISTENTE:
+[2026-11-07T09:10:55.000Z] ASSISTENTE:
 Você sente o ar dentro do quarto ficar mais pesado. A energia amaldiçoada que você percebia ao longe agora se concentra *exatamente* do lado de fora do seu quarto — no jardim interno do dormitório dos alunos. Uma presença viscosa, fria e *faminta*.
 
 Sua visão periférica captura o movimento. Na janela ampla do seu quarto, no segundo andar, uma silhueta escura está *colada* ao vidro. Não é um reflexo. É uma forma humanoide, mas distorcida — braços longos demais, dedos finos como agulhas pressionando o vidro, deixando marcas de gordura negra. A cabeça inclina num ângulo impossível, e duas fendas pálidas onde deveriam estar os olhos a encaram *diretamente* você.
@@ -1634,10 +1632,10 @@ O vidro estala levemente. Uma trinca fina aparece no canto superior direito.
 
 **O que você faz?**
 
-• [2026-11-07T09:10:56.000Z] USUÁRIO:
+[2026-11-07T09:10:56.000Z] USUÁRIO:
 *penso "uma maldição de grau especial que ultrapassou as barreiras... é permitido exorcizá-la?"*
 
-• [2026-11-07T09:10:57.000Z] ASSISTENTE:
+[2026-11-07T09:10:57.000Z] ASSISTENTE:
 O ar no quarto subitamente fica mais denso, como se uma névoa invisível estivesse comprimindo seus pulmões. A trinca no vidro se expande com um *estalo seco*, e a silhueta começa a se mover — lentamente, como se estivesse deslizando *através* do vidro em vez de quebrá-lo.
 
 **Satoru Gojo:** "HAHAHAHAHAHAHA!" *a risada dele irrompe do lado de fora, vindo do corredor, seguida por passos* "Claro que sim! Tô filmando!" *ele aparece na porta entreaberta, segurando o celular na horizontal, claramente gravando* "Sabia que você ia reagir assim quando senti essa merda rondando o campus. Relaxa — é uma Maldição Grau 2 que escapou do Jardim de Confinamento. O Yaga tá a caminho com a equipe de contenção."
@@ -1652,10 +1650,10 @@ Ela avança.
 
 O que você faz?
 
-• [2026-11-07T09:10:58.000Z] USUÁRIO:
+[2026-11-07T09:10:58.000Z] USUÁRIO:
 *eu desvio, ativando a Frenesi Bestial em instantes e fazendo um corte diagonal com as garras"*
 
-• [2026-11-07T09:10:59.000Z] ASSISTENTE:
+[2026-11-07T09:10:59.000Z] ASSISTENTE:
 Seus músculos reagem antes mesmo de seu cérebro terminar o comando. A Frenesi Bestial ativa como um interruptor — suas pupilas dilatam e se achatam, o mundo ao redor ganha nitidez, e a energia amaldiçoada flui quente pelos seus membros. O ar no quarto parece congelar por um instante.
 
 Seu corpo gira sobre o calcanhar, baixando o tronco enquanto os braços se abrem em um arco diagonal perfeito. Suas garras — agora alongadas, negras como obsidiana e afiadas como navalhas — cortam o ar num zunido *seco*. 
@@ -1670,10 +1668,10 @@ A Maldição, ferida mas não morta, dobra o corpo para trás — seus braços t
 
 O que você faz?
 
-• [2026-11-07T09:11:00.000Z] USUÁRIO:
+[2026-11-07T09:11:00.000Z] USUÁRIO:
 *com frieza digna, eu aproveito que ela está vulnerável e atinjo diretamente o núcleo com as garras sem cerimônia para impedir o ataque*
 
-• [2026-11-07T09:11:01.000Z] ASSISTENTE:
+[2026-11-07T09:11:01.000Z] ASSISTENTE:
 Seu corpo já está em movimento antes que a cavidade se abra completamente. A Frenesi Bestial queima em seus músculos como fogo líquido — seus pés mal tocam o chão enquanto você cruza a distância em um piscar de olhos. O ar chia ao seu redor.
 
 O impacto é *surdo*. Sua mão direita, com os dedos unidos em ponta como uma lança, penetra a cavidade torácica aberta da Maldição. A resistência inicial é como enfiar a mão em areia movediça — densa, grudenta, pulsante — mas você força. Suas garras rasgam carne, tendões, e algo mais duro no centro. *O núcleo.*
@@ -1690,10 +1688,10 @@ Ele espera sua resposta, ainda sorrindo, mas há um brilho genuinamente analíti
 
 O que você faz?
 
-• [2026-11-07T09:11:02.000Z] USUÁRIO:
+[2026-11-07T09:11:02.000Z] USUÁRIO:
 *suspiro* só tenho uma mente meio depressiativa por conta de traumas, mas, isso não interfere no meu estilo de combate. Eu sei, se fosse grau especial já arrancaria meu braço, mas não é sempre assim.
 
-• [2026-11-07T09:11:03.000Z] ASSISTENTE:
+[2026-11-07T09:11:03.000Z] ASSISTENTE:
 **Satoru Gojo:** *ele inclina a cabeça lentamente, o sorriso diminuindo apenas um grau — o suficiente para perder o tom brincalhão e ganhar algo mais sóbrio* "Traumas, hein." *ele coloca as mãos nos bolsos do casaco, os ombros relaxados, mas a postura ainda alerta* "Olha, não vou fingir que sei o que você passou. Cada um carrega seu próprio inferno particular." *ele dá de ombros* "Mas o fato de você reconhecer isso e ainda assim agir no momento crítico? Isso já coloca você acima de muita gente que treina há anos e trava na hora H."
 
 Ele se vira, andando em direção à janela quebrada. A brisa noturna entra, balançando levemente seu cabelo branco. A lua ilumina metade do seu rosto.
@@ -1708,10 +1706,10 @@ Ele sai, e você fica sozinho no quarto destruído. O cheiro de Energia Amaldiç
 
 O que você faz?
 
-• [2026-11-07T09:11:04.000Z] USUÁRIO:
+[2026-11-07T09:11:04.000Z] USUÁRIO:
 *eu olho pra Gojo, me lembrando de algo* espera... e quanto a missão de grau 2?
 
-• [2026-11-07T09:11:05.000Z] ASSISTENTE:
+[2026-11-07T09:11:05.000Z] ASSISTENTE:
 **Satoru Gojo:** *ele para no corredor, a silhueta iluminada pela luz fraca do hall, e solta uma risada baixa* "Ah, aquela missão?" *ele se vira lentamente, apoiando o ombro no batente da porta* "Relaxa. Já cuidei dela enquanto você estava desmaiado. Peguei um desvio rápido antes de vir te acordar." *ele ergue a mão e mostra os dedos sujos de fuligem* "Maldição Grau 2, especializada em ilusão. Nada que um 'Hollow Purple' bem colocado não resolva."
 
 Ele limpa a mão no casaco, completamente indiferente à sujeira.
@@ -1726,10 +1724,10 @@ Ele desaparece no corredor, seus passos ecoando até sumirem completamente. O ve
 
 O que você faz?
 
-• [2026-11-07T09:11:06.000Z] USUÁRIO:
+[2026-11-07T09:11:06.000Z] USUÁRIO:
 ... tá, mas a janela está estilhaçada. Só preciso de uma permissão pra consertar.
 
-• [2026-11-07T09:11:07.000Z] ASSISTENTE:
+[2026-11-07T09:11:07.000Z] ASSISTENTE:
 Você murmura para si mesmo, encarando os estilhaços de vidro espalhados pelo chão frio. A lua cheia ilumina o quarto agora, projetando sombras longas e irregulares nas paredes descascadas. O vento noturno de Tóquio entra livremente, carregando o cheiro distante de chuva e poluição urbana.
 
 Do corredor, já distante, a voz de **Satoru Gojo** ecoa com um tom brincalhão antes de desaparecer completamente: "Já mandei um chamado pro pessoal da manutenção! Mas eles só vêm amanhã de manhã. Então... espera ou improvisa. Confio em você!"
@@ -1749,10 +1747,10 @@ Parece que Gojo já adiantou toda a papelada também. O quarto está silencioso.
 
 O que você faz?
 
-• [2026-11-07T09:11:08.000Z] USUÁRIO:
+[2026-11-07T09:11:08.000Z] USUÁRIO:
 *eu olho pra janela estilhaçada, pensando "e agora? Como eu vou arrumar essa porra? No primeiro dia e já ficou assim... vou dar um jeito.", eu pego vários equipamentos do T.A.A.L(Tecnlogia Amaldiçoada Ancestral Luskxiana) e começo a consertar a janela de maneira digna de um engenheiro luskxiano*
 
-• [2026-11-07T09:11:09.000Z] ASSISTENTE:
+[2026-11-07T09:11:09.000Z] ASSISTENTE:
 Você caminha até sua mochila tecnológica, os dedos ágeis deslizando pelo compartimento selado com energia amaldiçoada. *Um clique suave* ecoa no quarto silencioso quando você abre — a T.A.A.L reage à sua presença, um brilho azul pulsando fraco nas bordas dos equipamentos.
 
 Você retira um *Kit de Reparo Nanomolecular Luskxiano* — uma caixa preta e elegante coberta por runas de energia ancestral. Ao abrir, pequenos glóbulos de metal líquido emergem, flutuando no ar como vaga-lumes tecnológicos. Seus olhos azuis acompanham o movimento, e seus instintos felinos se acalmam enquanto você programa o padrão de reparo.
@@ -1767,10 +1765,10 @@ Um silêncio reconfortante retorna. A cama está ali, bagunçada, os lençóis f
 
 O que você faz?
 
-• [2026-11-07T09:11:10.000Z] USUÁRIO:
+[2026-11-07T09:11:10.000Z] USUÁRIO:
 *pensando <q>"espero que o Gojo não tenha visto isso escondido... pera aí"</q>, eu pego uma chave inglesa leve e jogo numa direção aleatória, ela imediatamente ficou infinitamente desacelerada no ar–efeito do Mugen do Gojo– até ele tirar o pano que estava o cobrindo e levantar as mãos em rendição, eu sorrio de canto* sabia, mesmo escondido, o meu faro detecta.
 
-• [2026-11-07T09:11:11.000Z] ASSISTENTE:
+[2026-11-07T09:11:11.000Z] ASSISTENTE:
 O ar ao redor da chave inglesa se distorce por um instante — o *Mugen* ativado, infinito entre você e o objeto. **Satoru Gojo** emerge da sombra no canto do quarto, pernas esticadas, um sorriso preguiçoso nos lábios. Ele está vestido com seu uniforme padrão, a venda preta cobrindo os olhos, mas você sente o olhar por trás dela, curioso.
 
 "Opa, opa, fui pego no flagra." *Ele levanta as mãos num gesto dramático de rendição, ainda sentado no chão, a chave inglesa congelada no ar ao lado dele.* "E eu pensando que tinha feito a furtividade perfeita. Até desliguei meu celular pra não iluminar. Sacrifício, hein?"
@@ -1781,10 +1779,10 @@ Ele dá um tapinha no chão ao lado dele, te convidando a se sentar. A lua cheia
 
 O quarto está em silêncio. Apenas a respiração calma de vocês dois e o zumbido suave da T.A.A.L no ar. O que você responde?
 
-• [2026-11-07T09:11:12.000Z] USUÁRIO:
+[2026-11-07T09:11:12.000Z] USUÁRIO:
 Eu também farejo energias, herança luskxiana.
 
-• [2026-11-07T09:11:13.000Z] ASSISTENTE:
+[2026-11-07T09:11:13.000Z] ASSISTENTE:
 **Satoru Gojo** *levanta uma sobrancelha por cima da venda, o sorriso se inclinando num misto de curiosidade e diversão.* "Herança Luskxiana, hein?" *Ele repete o nome devagar, como se saboreasse a palavra.* "Nunca ouvi falar. Mas considerando que você chegou aqui cheirando a encrenca e com um olho que brilha igual joia rara, não duvido que seja algo interessante."
 
 *Ele se levanta com um movimento fluido, estica os braços acima da cabeça — você ouve seus ossos estalarem — e caminha até a janela quebrada. A brisa noturna entra, balançando os cabelos brancos dele.*
@@ -1797,10 +1795,10 @@ Eu também farejo energias, herança luskxiana.
 
 *Ele espera sua resposta, a lua iluminando metade do rosto dele, a outra metade na sombra.* O que você faz?
 
-• [2026-11-07T09:11:14.000Z] USUÁRIO:
+[2026-11-07T09:11:14.000Z] USUÁRIO:
 Na verdade os meus instintos luskxianos alertam sobre tudo o que está acontecendo ao meu redor, incluindo intenções, mas, eu não tenho poderes psíquicos ou telepatia como a minha outra irmã.
 
-• [2026-11-07T09:11:15.000Z] ASSISTENTE:
+[2026-11-07T09:11:15.000Z] ASSISTENTE:
 **Satoru Gojo** *inclina a cabeça ligeiramente, o sorriso se alargando com um toque de fascínio genuíno.* "Instintos que alertam sobre intenções, hein? Sem telepatia." *Ele assovia baixinho, impressionado.* "Interessante. Muito interessante. Você é como um detector de mentiras biológico, mas sem ler mentes. Quase um radar de sobrevivência."
 
 Ele dá dois passos lentos em sua direção, parando a uma distância respeitosa, mas ainda dentro do seu espaço pessoal. A lua atrás dele cria uma silhueta imponente.
@@ -1831,10 +1829,10 @@ O que você faz?
 
 O que você faz?
 
-• [2026-11-07T09:11:16.000Z] USUÁRIO:
+[2026-11-07T09:11:16.000Z] USUÁRIO:
 Vontade de me treinar, testar a minha força e me colocar numa missão de tier especial... típico. Mas a última parte é mais uma possibilidade.
 
-• [2026-11-07T09:11:17.000Z] ASSISTENTE:
+[2026-11-07T09:11:17.000Z] ASSISTENTE:
 **Satoru Gojo** *explode numa risada alta e sincera, ecoando pelo telhado.* "HAHAHA! Caramba, você é direto, hein?" *Ele limpa uma lágrima imaginária do canto do olho, ainda sorrindo.* "Acertou em cheio. Tá aí, seu instinto funciona perfeitamente. Eu quero mesmo ver do que você é capaz."
 
 Ele caminha até a borda do telhado e senta, balançando as pernas como uma criança. O vento bagunça ainda mais os cabelos brancos dele.
@@ -1853,14 +1851,14 @@ Você está em Tóquio. Você está na Tokyo Jujutsu High. E amanhã você tem u
 
 O que você faz?
 
-• [2026-11-07T09:11:18.000Z] USUÁRIO:
+[2026-11-07T09:11:18.000Z] USUÁRIO:
 (Lembre da missão e que Killyus está na escola jujutsu de Tórquio)
 
 *penso <q><q><q>"feiticeiro grau 1, não devo subestimar. Só tenho que manerar um pouco nas minhas garras, se não eu posso causar um golpe letal sem querer... as minhas garras com Frenesi Bestial ativa conseguem cortar até diamante, já testei..."</q></q></q>*
 
 *no dia seguinte...*
 
-• [2026-11-07T09:11:19.000Z] ASSISTENTE:
+[2026-11-07T09:11:19.000Z] ASSISTENTE:
 O sol da manhã filtra através das cortinas finas do dormitório, pintando listras douradas no tatame. O cheiro de incenso e madeira envelhecida preenche o quarto — típico dos alojamentos da Tokyo Jujutsu High. Do lado de fora, ouvem-se passos apressados no corredor e vozes abafadas de alunos indo para o treino matinal.
 
 Uma batida firme soa na sua porta. *Toc, toc, toc.*
@@ -1873,10 +1871,10 @@ O ar está fresco, com um toque de umidade matinal. Tóquio acorda lá fora, mas
 
 O que você faz?
 
-• [2026-11-07T09:11:20.000Z] USUÁRIO:
+[2026-11-07T09:11:20.000Z] USUÁRIO:
 *eu me visto adequadamente e sigo Yaga até a diretoria para a reunião, pensando "o que seria...? Algo sobre aquela missão que eu fiz?"*
 
-• [2026-11-07T09:11:21.000Z] ASSISTENTE:
+[2026-11-07T09:11:21.000Z] ASSISTENTE:
 Você termina de se vestir rapidamente — o cropped roxo, o casaco de musselina azul, a calça preta. As meias vermelhas contrastam com os sapatos cinza e dourado enquanto você amarra os cadarços. Um último ajuste no cabelo branco e você abre a porta.
 
 O corredor do dormitório é silencioso agora. A luz da manhã entra pelas janelas altas, revelando pequenos detalhes — quadros com símbolos de jujutsu nas paredes, um vaso com flores murchas num canto, o som distante de alguém treinando no pátio.
@@ -1932,10 +1930,10 @@ Você está do lado de fora. A porta range ligeiramente quando você se aproxima
 
 O que você faz?
 
-• [2026-11-07T09:11:22.000Z] USUÁRIO:
+[2026-11-07T09:11:22.000Z] USUÁRIO:
 *pensando "caloura...? Me confudiram com uma garota.", dou algumas batidas na porta* Yaga-sama, já estou aqui.
 
-• [2026-11-07T09:11:23.000Z] ASSISTENTE:
+[2026-11-07T09:11:23.000Z] ASSISTENTE:
 Suas batidas interrompem a discussão interna. Por um momento, o silêncio toma conta da sala — até que a voz grave de Masamichi Yaga responde:
 
 **Yaga:** "Entre."
@@ -1973,10 +1971,10 @@ O olhar de Yaga é firme.
 
 O que você faz?
 
-• [2026-11-07T09:11:24.000Z] USUÁRIO:
+[2026-11-07T09:11:24.000Z] USUÁRIO:
 *aceno com um sorriso pequeno, cruzando os braços enquanto a minha cauda atrás de mim se mexe preguiçosamente, enquanto isso, Nobara e Yuji me encaram, não esperando que eu seja um furry/kemona* aceito a missão, vou cuidar bem deles, não se preocupe. Vou ser uma grande ajuda para detectar o que quer que seja.
 
-• [2026-11-07T09:11:25.000Z] ASSISTENTE:
+[2026-11-07T09:11:25.000Z] ASSISTENTE:
 Sua resposta confiante provoca reações distintas nos dois jovens feiticeiros.
 
 **Itadori:** *sorriso largo* "Legal! Você parece confiante. Mal posso esperar pra ver suas habilidades em ação!"
@@ -2001,10 +1999,10 @@ O ar na sala fica mais pesado por um instante. Itadori e Nobara trocam olhares e
 
 O que você faz?
 
-• [2026-11-07T09:11:26.000Z] USUÁRIO:
+[2026-11-07T09:11:26.000Z] USUÁRIO:
 Vamos agora, chegaremos em alguns minutoa se depender do trânsito, mas meu carro é rápido, sigam-me. *Nobara e Yuji pensam <q><q>"carro...?"</q></q> E me seguem, quando eu os levo pra garagem da escola, eu aperto o botão da chave e meu carro pisca, sendo destrancando.... eu não contei que era a porra de um Nissan Skyline GTR-R34 roxo escuro com estampas de marcas de garra cianas, estampa de vários olhos azuis felinos e aerofolio discreto, além de ter uma energia amaldiçoada própria, sendo uma tecnologica discreta do T.A.A.L(Tecnologia Amaldiçoada Ancestral Luskxiana). Que impressiona Nobara e Yuji*
 
-• [2026-11-07T09:11:27.000Z] ASSISTENTE:
+[2026-11-07T09:11:27.000Z] ASSISTENTE:
 A porta da garagem range enquanto se abre, revelando o espaço iluminado por luzes frias. Lá está ele — seu Nissan Skyline GTR-R34, impecável, a pintura roxo escuro brilhando como uma casca de ametista polida. As marcas de garra cianas parecem quase tridimensionais sob a luz, e os olhos azuis felinos estampados na lataria parecem... te encarar de volta.
 
 Itadori congela. A mandíbula dele cai lentamente enquanto ele aponta com um dedo trêmulo.
@@ -2023,10 +2021,10 @@ Ambos te encaram, aguardando sua resposta. O carro emite um ronco baixo, profund
 
 O que você faz?
 
-• [2026-11-07T09:11:28.000Z] USUÁRIO:
+[2026-11-07T09:11:28.000Z] USUÁRIO:
 *eu dou uma acariciada no capô, o Skyline **ronrona** como uma pantera prestes a caçar* Tá, Yuji senta na na frente e Nobara atrás, relaxem... eu sei dirigir... *olho pros dois com um sorrisinho* e não me confundam por causa da vestimenta ou cabelo, eu sou um homem. *Yuji e Nobara olham pra mim, meio surpresos com a revelação do meu gênero e analisando meus traços*
 
-• [2026-11-07T09:11:29.000Z] ASSISTENTE:
+[2026-11-07T09:11:29.000Z] ASSISTENTE:
 *Uma risada baixa escapa dos seus lábios enquanto seus dedos envolvem o volante. O painel do Skyline pulsa em sincronia com seu pulso — os kanjis nos mostradores brilham em um azul profundo.* "Tempo suficiente pra vocês se divertirem um pouco."
 
 Você pressiona o pedal. O motor ronca como uma fera acordando de um sonho antigo. E então — você ativa o Modo Espectral.
@@ -2061,10 +2059,10 @@ O motor ronrona mais alto quando você se senta ao volante. O volante tem uma te
 
 O que você faz?
 
-• [2026-11-07T09:11:30.000Z] USUÁRIO:
+[2026-11-07T09:11:30.000Z] USUÁRIO:
 Algins segundos com o modo espectral ativo, o carro vai atravessar tudo sem danos e vai passar pelos radares sem ser notado, ou seja... *é nessa hora que Yuji se empolga e Nobara fica com cara de quem vai sentir o terror...*
 
-• [2026-11-07T09:11:32.000Z] ASSISTENTE:
+[2026-11-07T09:11:32.000Z] ASSISTENTE:
 Uma respiração profunda escapa de seus lábios enquanto você fecha os olhos por um segundo. Quando os reabre, seus olhos azuis brilham com um lampejo de energia amaldiçoada. Você coloca a mão no volante e sussurra:
 
 "*Modo Espectral.*"
@@ -2131,10 +2129,10 @@ O que você faz?
 
 O que você faz?
 
-• [2026-11-07T09:11:33.000Z] USUÁRIO:
+[2026-11-07T09:11:33.000Z] USUÁRIO:
 *eu saio do carro, ativando o modo invisível que só eu sinto a presença dele, assumindo uma postura séria* eu sinto a energia, uma maldição e um feiticeiro criminoso, ambos juntos.
 
-• [2026-11-07T09:11:34.000Z] ASSISTENTE:
+[2026-11-07T09:11:34.000Z] ASSISTENTE:
 Seus sentidos se aguçam. O mundo ao redor desacelera por um instante — o zumbido distante dos trens, o murmúrio da cidade grande, as batidas cardíacas dos seus dois colegas — e então você sente. Duas assinaturas distintas, entrelaçadas.
 
 Uma é instável. Fria. Espinhosa como arames farpados roçando sua pele — energia de maldição pura, mas fragmentada, como várias vozes desafinadas tentando cantar a mesma música.
@@ -2161,10 +2159,10 @@ O som de algo se arrastando no asfalto. Passos lentos, úmidos. Uma forma começ
 
 O que você faz?
 
-• [2026-11-07T09:11:35.000Z] USUÁRIO:
+[2026-11-07T09:11:35.000Z] USUÁRIO:
 *eu exponho as minhas garras e as minhas pupilas se estrreitam, entrando em modo de caça, a minha cauda para de se mexer* então é você que faz as pessoas desaparecerem. *falo pra Yuji e Nobara* fiquem em alerta, isso não é uma presa fácil.
 
-• [2026-11-07T09:11:36.000Z] ASSISTENTE:
+[2026-11-07T09:11:36.000Z] ASSISTENTE:
 As palavras saem da sua boca como um rosnado baixo. Yuji e Nobara trocam um olhar rápido, mas obedecem — Yuji se posiciona ligeiramente à sua direita, punhos cerrados, enquanto Nobara ajusta o martelo na mão, pregos já deslizando entre os dedos.
 
 A escuridão do beco *responde*.
@@ -2201,10 +2199,10 @@ O ar fica mais pesado.
 
 O que você faz?
 
-• [2026-11-07T09:11:37.000Z] USUÁRIO:
+[2026-11-07T09:11:37.000Z] USUÁRIO:
 *assumo uma postura de combate, não dá pra reconhecer o estilo de luta por ser uma posição neutra com as mãos no bolso da calça* Yuji, Nobara, preparem- *o usuário criminoso aparece instantanemrnte ao meu lado e me ataca com as garras, mas, eu desvio no último segundo e retribuo com um ataque perfurante enquanto solto um rosnado de onça*
 
-• [2026-11-07T09:11:39.000Z] ASSISTENTE:
+[2026-11-07T09:11:39.000Z] ASSISTENTE:
 O ar frio do beco se desloca com violência quando o ataque vem do nada — um borrão de energia amaldiçoada suja, densa, animal. Seu reflexo salva você por centímetros, as garras do agressor raspando o ar onde seu pescoço estava. No mesmo instante, seu contra-ataque perfura algo sólido.
 
 O ar no beco se distorce quando você ativa o Frenesi Bestial em sua totalidade. Sua silhueta parece se desdobrar em camadas de realidade — primeiro você está ali, depois você é um borrão que desafia os olhos. Sua energia amaldiçoada ondula como chamas invisíveis, fazendo o chão de concreto tremer sutilmente. As paredes ao redor estalam, pequenas rachaduras se formando onde sua pressão toca a matéria.
@@ -2251,10 +2249,10 @@ Do lado de fora do beco, o burburinho de Shinjuku segue indiferente — carros, 
 
 O que você faz?
 
-• [2026-11-07T09:11:40.000Z] USUÁRIO:
+[2026-11-07T09:11:40.000Z] USUÁRIO:
 *sussurrado* Yuji, vamos atacar juntos, Nobara, fique à distância, vou tentar pegar um pedaço dele para você usar sua técnica.
 
-• [2026-11-07T09:11:41.000Z] ASSISTENTE:
+[2026-11-07T09:11:41.000Z] ASSISTENTE:
 O ser inclina a cabeça, um movimento irregular, como se o pescoço estivesse quebrado em três lugares diferentes. Ele ouviu. Mesmo com o sussurro, a acústica do beco traiu você — ou talvez os sentidos dele sejam simplesmente melhores que o normal.
 
 **"Planejamento... que fofo."** A criatura sorri, e a boca se abre demais, revelando dentes serrilhados em camadas. **"Mas vocês são crianças brincando de exorcista. Deixem-me mostrar como um verdadeiro usuário de jujutsu amaldiçoada luta."**
@@ -2271,10 +2269,10 @@ A criatura curva um dedo, provocando. **"Venham. Me divirtam."**
 
 O que você faz?
 
-• [2026-11-07T09:11:42.000Z] USUÁRIO:
+[2026-11-07T09:11:42.000Z] USUÁRIO:
 *Yuji avança junto comigo enquanto Nobara fica atrás, eu ataco pela frente e Yuji pelas costas, estava tudo ijdo bem, até o inimigo gerar vários espinhos de seu corpo na hora que eu e Yuji ficamos perto...*
 
-• [2026-11-07T09:11:43.000Z] ASSISTENTE:
+[2026-11-07T09:11:43.000Z] ASSISTENTE:
 O beco explode em movimento. Você e Yuji avançam como um só corpo — ele pela esquerda, você pela direita, um movimento coordenado que mostra horas de treino em equipe. O ar chia com a energia amaldiçoada dos dois. Yuji vai com um golpe reto, direto ao peito do inimigo. Você vai por baixo, garras já alongadas, mirando nas pernas para imobilizar.
 
 Por um momento, parece perfeito.
@@ -2297,10 +2295,10 @@ O inimigo inclina a cabeça, os espinhos se retraindo lentamente para dentro do 
 
 O que você faz?
 
-• [2026-11-07T09:11:44.000Z] USUÁRIO:
+[2026-11-07T09:11:44.000Z] USUÁRIO:
 *eu amplifico uma granada com energia amaldiçoada e jogo na maldição, é uma granada tecnológica que pode devastá-la sem causar danos às construcões, e eu desapareço junto com Yuji e Nobara usando o teletransporte*
 
-• [2026-11-07T09:11:45.000Z] ASSISTENTE:
+[2026-11-07T09:11:45.000Z] ASSISTENTE:
 O ar no beco se distorce quando você ativa o Frenesi Bestial em sua totalidade. Sua silhueta parece se desdobrar em camadas de realidade — primeiro você está ali, depois você é um borrão que desafia os olhos. Sua energia amaldiçoada ondula como chamas invisíveis, fazendo o chão de concreto tremer sutilmente. As paredes ao redor estalam, pequenas rachaduras se formando onde sua pressão toca a matéria.
 
 **O Homem de Paletó** congela por um milissegundo. Seus olhos se arregalam — ele sente. Pela primeira vez, ele sente medo genuíno. Ele não era mais o predador.
@@ -2335,10 +2333,10 @@ As mãos começam a se arrastar em sua direção.
 
 O que você faz?
 
-• [2026-11-07T09:11:46.000Z] USUÁRIO:
+[2026-11-07T09:11:46.000Z] USUÁRIO:
 *eu desapareço com o teletransporte, aparecendo atrás do inimigo e fazendo um ataque extremamente rápido em direção ao coração só para testar se funciona*
 
-• [2026-11-07T09:11:47.000Z] ASSISTENTE:
+[2026-11-07T09:11:47.000Z] ASSISTENTE:
 O ar estala quando você se move. Não há som de passos, não há deslocamento visível — um momento você está diante do mar de mãos, no seguinte você simplesmente *não está mais lá*.
 
 O homem de paletó sente primeiro. Seus olhos se arregantam — o instinto de sobrevivência grita mais alto que qualquer lógica. Ele tenta se virar, mas já é tarde demais.
@@ -2387,10 +2385,10 @@ O corpo dele começa a inchar, o paletó estourando nas costuras. A pele racha, 
 
 O que você faz?
 
-• [2026-11-07T09:11:48.000Z] USUÁRIO:
+[2026-11-07T09:11:48.000Z] USUÁRIO:
 *dou um salto para trás, pensando "aguh... agora eu estou puto.", de repente, duas M16 aparecem na minha mão com o teletransporte, recarregadas com várias balas, eu embuo elas com energia amaldiçoada para amplificá-las e atiro na direção da maldição antes dela sair*
 
-• [2026-11-07T09:11:49.000Z] ASSISTENTE:
+[2026-11-07T09:11:49.000Z] ASSISTENTE:
 O salto te leva para trás, botas raspando o asfalto manchado de sangue. Por um instante, o tempo parece desacelerar — o beco escuro, as luzes tremeluzentes de Tóquio ao longe, o cheiro de ferrugem e carne podre preenchendo seus pulmões.
 
 Suas mãos se fecham no vazio. E, por um piscar de olhos — *shink* — duas M16 materializam do nada, o metal frio contra seus dedos. Você já está recarregando instintivamente, as palmas canalizando Energia Amaldiçoada para as armas, sentindo o poder fluir como eletricidade pelo aço.
@@ -2441,10 +2439,10 @@ Todo o beco escurece — não por falta de luz, mas porque as paredes laterais c
 
 O que você faz?
 
-• [2026-11-07T09:11:50.000Z] USUÁRIO:
+[2026-11-07T09:11:50.000Z] USUÁRIO:
 *eu amplifico uma granada com energia amaldiçoada e jogo na maldição, é uma granada tecnológica que pode devastá-la sem causar danos às construcões, e eu desapareço junto com Yuji e Nobara usando o teletransporte*
 
-• [2026-11-07T09:11:51.000Z] ASSISTENTE:
+[2026-11-07T09:11:51.000Z] ASSISTENTE:
 Seus dedos já estão se movendo antes do cérebro terminar de processar o plano. A M16 desaparece — *shink* — e no lugar dela, sua mão encontra o peso familiar de uma granada tática. De construção elegante, aço escuro com detalhes em ciano. Tecnologia anti-maldição. Desenvolvida para causar dano massivo a seres amaldiçoados sem afetar estruturas físicas.
 
 Você canaliza Energia Amaldiçoada para ela como se fosse uma extensão do seu braço. A granada pulsa, o brilho roxo-azulado se acendendo por dentro, pronta para implodir em vez de explodir.
@@ -2483,10 +2481,10 @@ E então ela começa a rastejar em direção à multidão de civis na saída da 
 
 O que você faz?
 
-• [2026-11-07T09:11:52.000Z] USUÁRIO:
+[2026-11-07T09:11:52.000Z] USUÁRIO:
 *suspiro, já parecendo estar puto, murmurando num tom baixo e perigoso*  eu vou matar essa puta. *eu ativo os 100% da Frenesi Bestial pela última vez e desço, avançando em extrema velocidade, soltando um rugido gutural de onça-pintada enquanto rasgo a maldição em extrema velocidade com as garras, com intenção de destruir ela e o núcleo sem sobrar nem os átomos...*
 
-• [2026-11-07T09:11:53.000Z] ASSISTENTE:
+[2026-11-07T09:11:53.000Z] ASSISTENTE:
 O ar ao seu redor estilhaça quando você ativa *Frenesi Bestial* pela última vez. O interruptor no seu cérebro vira com um clique seco, e o mundo desacelera até se tornar um borrão amarelado de luzes de mercúrio e néon. Sua visão se ajusta, as pupilas se achatando em fendas felinas enquanto seu corpo inteiro vibra com potência bruta. O rugido que escapa da sua garganta não é humano — é o som de uma onça-pintada branca, um predador do ápice, ecoando pelo beco.
 
 A Maldição à sua frente é um amontoado grotesco de carne translúcida, pulsando como um coração infectado. Mas quando você avança, o borrão roxo e branco da sua silhueta rasga o ar. *Schlick, schlick, schlick* — o som das suas garras abrindo a carne amaldiçoada é úmido e grotesco. Você não apenas corta, você *despedaça*. Cada golpe arranca pedaços que se desintegram em partículas escuras antes mesmo de tocar o chão. Seus dentes afiados mordem o núcleo, e você sente a energia amaldiçoada pulsar em suas gengivas, quente e nauseante.
@@ -2505,10 +2503,10 @@ O beco está silencioso. O único som é sua respiração pesada e o gotejar do 
 
 O que você faz agora?
 
-• [2026-11-07T09:11:54.000Z] USUÁRIO:
+[2026-11-07T09:11:54.000Z] USUÁRIO:
 *eu estou com respiração ofegante, bracos pendurados e com o sangue da maldição até as garras, eu ajeito a postura, desativando a Frenesi Bestial, o talismã brilha no meu bolso, registrando a missão* vamos voltar, tenho um relatório pra fazer.
 
-• [2026-11-07T09:11:55.000Z] ASSISTENTE:
+[2026-11-07T09:11:55.000Z] ASSISTENTE:
 **Yuji** arregala os olhos, processando suas palavras com uma mistura de admiração e curiosidade genuína. Ele coça a nuca, deixando cair alguns fios de cabelo rosa sobre a testa.
 
 **Yuji:** "Então é tipo... um modo turbo que não te deixa maluco? Maneiro. Muito maneiro. O meu negócio é mais bagunçado, eu tenho que tomar cuidado pra não deixar o **Sukuna** assumir o volante, sabe? Ele fica cutucando minha alma toda hora."
@@ -2535,10 +2533,10 @@ A noite os envolve. O talismã aquece no seu bolso, a missão oficialmente encer
 
 O que você faz?
 
-• [2026-11-07T09:11:56.000Z] USUÁRIO:
+[2026-11-07T09:11:56.000Z] USUÁRIO:
 *eu, Yujibe Nobara voltamos pro meu skyline, dessa vez eu dirigo de maneira calma já que a missão já foi concluída, sem o modo espectral*
 
-• [2026-11-07T09:11:57.000Z] ASSISTENTE:
+[2026-11-07T09:11:57.000Z] ASSISTENTE:
 As portas do Skyline se fecham com o som pesado de metal amaldiçoado. O interior do carro parece respirar aliviado — os bancos de couro preto exalam um cheiro suave de eucalipto tratado, e os olhos felinos pintados no painel brilham fracamente, como se o carro estivesse contente por voltar para casa. O motor ronrona baixo, um som grave e aveludado, longe do rugido ensurdecedor do Modo Espectral.
 
 **Yuji** se joga no banco de trás, esticando as pernas e soltando um suspiro longo.
@@ -2553,10 +2551,10 @@ O carro desliza pelas avenidas quase vazias, os postes de luz riscando sombras n
 
 O que você faz?
 
-• [2026-11-07T09:11:58.000Z] USUÁRIO:
+[2026-11-07T09:11:58.000Z] USUÁRIO:
 *dirigindo* vou fazer o relatório depois, preciso de banho urgentemente, afinal eu estou coberto de sangue.
 
-• [2026-11-07T09:11:59.000Z] ASSISTENTE:
+[2026-11-07T09:11:59.000Z] ASSISTENTE:
 **Nobara** bufa, cruzando os braços, mas um sorrisinho escapa no canto da boca. Ela apoia o cotovelo na janela, observando o movimento noturno.
 
 **Nobara:** "Justo. Sangue de maldição gruda que é um horror. Mas não demora muito, hein? Se o **Yaga** souber que a gente chegou e não fez o relatório na hora, ele vai dar aquela palestra de vinte minutos sobre 'responsabilidade de um feiticeiro'."
@@ -2569,10 +2567,10 @@ O carro faz uma curva suave em direção ao campus. Os portões de ferro preto d
 
 O que você faz?
 
-• [2026-11-07T09:12:00.000Z] USUÁRIO:
+[2026-11-07T09:12:00.000Z] USUÁRIO:
 *dirigindo calmamente* Na verdade, é a minha técnica amaldiçoada, ela se chama Frenesi Bestial, basicamente, ela aumenta os meus atributos e a potência das minhas garras e dentes.  Eu não viro um animal descontrolado, na verdade eu continuo o mesmo e a racionalidade é mantida, o que muda é a força e o meu empenho. Eu também ganho mais força, mas não é aparente, ainda mais com a minha delicadeza.
 
-• [2026-11-07T09:12:01.000Z] ASSISTENTE:
+[2026-11-07T09:12:01.000Z] ASSISTENTE:
 **Yuji** arregala os olhos, processando suas palavras com uma mistura de admiração e curiosidade genuína. Ele coça a nuca, deixando cair alguns fios de cabelo rosa sobre a testa.
 
 **Yuji:** "Então é tipo... um modo turbo que não te deixa maluco? Maneiro. Muito maneiro. O meu negócio é mais bagunçado, eu tenho que tomar cuidado pra não deixar o **Sukuna** assumir o volante, sabe? Ele fica cutucando minha alma toda hora."
@@ -2587,10 +2585,10 @@ O portão do campus range ao abrir sozinho, reconhecendo a energia amaldiçoada 
 
 O que você faz?
 
-• [2026-11-07T09:12:02.000Z] USUÁRIO:
+[2026-11-07T09:12:02.000Z] USUÁRIO:
 O limite é a minha energia amaldiçoada e stamina, eu gasto por manifestação e não por tempo, quanto mais intenso a nanifestação, mais eu gasto energia amaldiçoada, e como eu gastei muito, eu estou exausto.
 
-• [2026-11-07T09:12:03.000Z] ASSISTENTE:
+[2026-11-07T09:12:03.000Z] ASSISTENTE:
 **Nobara** assente, cruzando os braços com um sorriso de canto.
 
 **Nobara:** "Então é um burst de dano. Gasta tudo de uma vez e depois fica de recuperação. Parece justo. Melhor que o meu martelo que depende de acertar o prego no lugar certo senão não faz nada."
@@ -2645,10 +2643,10 @@ Os olhos azuis dela te avaliam com seriedade, sem o deboche de antes.
 
 O que você faz?
 
-• [2026-11-07T09:12:04.000Z] USUÁRIO:
+[2026-11-07T09:12:04.000Z] USUÁRIO:
 Estou bem, só exausto. *saio do Skylene depois de estacionar, quando Yuji e Nobara acenam e saem, eu vou direto pro meu quarto, tomando um banho e vestindo a minha lingerie(sim, eu uso lingerie porque acho mais confortável), visto uma blusa preta e um short, depois, eu pego meu celular e começo a escrever o relatório da missão*
 
-• [2026-11-07T09:12:05.000Z] ASSISTENTE:
+[2026-11-07T09:12:05.000Z] ASSISTENTE:
 A porta do seu quarto range suavemente quando você a fecha. O silêncio do dormitório é absoluto — os outros alunos estão dormindo há horas. Você ouve apenas o zumbido distante do ar-condicionado e o som dos seus próprios passos no tatame.
 
 O banho quente ajuda a relaxar os músculos tensos. A água escorre pelo seu corpo, levando embora o cheiro de pólvora, sangue seco e energia amaldiçoada residual. Você percebe pequenos hematomas roxos nos seus braços — lembranças do combate. Nada grave, mas dolorido.
@@ -2682,12 +2680,12 @@ Você abre. A mensagem é curta, tipicamente objetiva:
 
 O que você responde?
 
-• [2026-11-07T09:12:06.000Z] USUÁRIO:
+[2026-11-07T09:12:06.000Z] USUÁRIO:
 (Lembrando que a conversa é por mensagem e o Killyus está em seu quarto na escola jujutsu, ele saiu do banho e está vestindo uma blusa preta e um short)
 
 *respondendo a mensagem do Nanami* não, ela só disse <q><q><q><q><q>"mais... mais.."</q></q></q></q></q> enquanto se aproximava de alguns civiz, era um criminoso que atuava sozinho junto com uma maldição que fazia parte dele.
 
-• [2026-11-07T09:12:07.000Z] ASSISTENTE:
+[2026-11-07T09:12:07.000Z] ASSISTENTE:
 O celular vibra na escrivaninha, a tela iluminando o quarto escuro. A lua cheia de Shibuya entra pela janela, refletindo nas pintas de dragão que percorrem seus ombros e braços. O silêncio da noite é pesado, carregado ainda pelo cheiro metálico de sangue amaldiçoado que parece grudar nas narinas mesmo depois do banho.
 
 A resposta de **Kento Nanami** chega segundos depois:
@@ -2706,10 +2704,10 @@ De repente, um som leve: *tap... tap... tap...* Alguém batendo na sua janela, n
 
 O que você faz?
 
-• [2026-11-07T09:12:08.000Z] USUÁRIO:
+[2026-11-07T09:12:08.000Z] USUÁRIO:
 *eu olho pra janela, não é nenhuma maldição, é só o Gojo mesmo*
 
-• [2026-11-07T09:12:09.000Z] ASSISTENTE:
+[2026-11-07T09:12:09.000Z] ASSISTENTE:
 Você reconhece instantaneamente a silhueta contra a lua cheia. **Satoru Gojo** está flutuando do lado de fora da sua janela, no terceiro andar, com aquela expressão relaxada e com a venda preta característica cobrindo seus olhos. Ele acena com a mão como se estivesse cumprimentando um amigo na rua, completamente indiferente ao fato de que está suspenso a quase dez metros do chão.
 
 Ele aponta para o trinco da janela com um sorriso largo, fazendo gestos exagerados de "abre, abre".
@@ -2722,10 +2720,10 @@ Ele ri baixo, mas há algo nos gestos dele que sugere que essa não é uma visit
 
 O que você faz?
 
-• [2026-11-07T09:12:10.000Z] USUÁRIO:
+[2026-11-07T09:12:10.000Z] USUÁRIO:
 *suspiro, sentando na cama* o que você quer?
 
-• [2026-11-07T09:12:11.000Z] ASSISTENTE:
+[2026-11-07T09:12:11.000Z] ASSISTENTE:
 **Gojo** inclina a cabeça para o lado, o sorriso ainda nos lábios, mas seus dedos começam a tamborilar lentamente na superfície da escrivaninha. O som é seco, ritmado – *toc, toc, toc*.
 
 **Gojo:** *“Direto ao ponto. Gosto disso. Economiza o meu tempo e o seu.”*
@@ -2746,10 +2744,10 @@ Ele inclina a cabeça para o lado, claramente esperando sua reação.
 
 O que você diz ou faz?
 
-• [2026-11-07T09:12:12.000Z] USUÁRIO:
+[2026-11-07T09:12:12.000Z] USUÁRIO:
 *eu olho pro Gojo, falando com sinceridade* eu notei sim, pensei que era importante e precisava entregar pessoalmente, pega. *o osso aparece na minha mão e eu jogo pro Gojo pegar*
 
-• [2026-11-07T09:12:13.000Z] ASSISTENTE:
+[2026-11-07T09:12:13.000Z] ASSISTENTE:
 **Gojo** estica o braço com uma lentidão quase teatral e pega o osso no ar. Seus dedos envolvem a peça, e ele a segura contra a luz da lua por um instante, os olhos — invisíveis atrás da venda — parecem examinar cada poro do artefato.
 
 Por um longo segundo, ele não diz nada.
@@ -2770,10 +2768,10 @@ A pergunta paira no ar. Os olhos azuis de Killyus encontram a venda preta de Goj
 
 O que você diz ou faz?
 
-• [2026-11-07T09:12:14.000Z] USUÁRIO:
+[2026-11-07T09:12:14.000Z] USUÁRIO:
 Dois motivos, primeiro porque eu já vi a minha família rica, e segundo porque eu fui criado pra ser honesto, faz parte de mim como Lusk, e sinceramente? *meu olhar brilha um pouco*  O meu clã era um dos mais promissores sem seguir as tradições como os Zenins seguem. É uma prova que preservação de herança e exclusão não é necessário.
 
-• [2026-11-07T09:12:15.000Z] ASSISTENTE:
+[2026-11-07T09:12:15.000Z] ASSISTENTE:
 **Gojo** fica em silêncio por três batidas cardíacas inteiras. O vento noturno entra pela janela mal fechada e balança as pontas do cabelo branco dele.
 
 Então ele ri.
@@ -2812,10 +2810,10 @@ A cama está atrás de você, revirada da insônia da noite anterior. O kit de r
 
 A madrugada está apenas começando. O que você faz?
 
-• [2026-11-07T09:12:16.000Z] USUÁRIO:
+[2026-11-07T09:12:16.000Z] USUÁRIO:
 *eu decido ligar o ar condicionado, trancar porta e janela, ativar as barreiras, tiro todas as minhas roupas, pego um travesseiro do meu tamanho e me deito junto com ele na cama, fechando os olhos enquanto me aconchego por baixo do lençol e agarrado ao travesseiro... carência? Talvez*
 
-• [2026-11-07T09:12:17.000Z] ASSISTENTE:
+[2026-11-07T09:12:17.000Z] ASSISTENTE:
 O quarto silencia. O zumbido baixo do ar condicionado preenche o espaço enquanto as travas da porta e da janela estalam em sequência — você as trancou com seus próprios dedos, sentindo o metal frio contra a pele. As barreiras que você ativou, aquelas camadas de energia luskxiana que aprendeu a tecer com os poucos registros que restaram do clã, se expandem como véus invisíveis pelas paredes, criando uma redoma protetora ao redor do quarto.
 
 O painel biométrico emite um som agudo de confirmação. **"ACESSO LIBERADO. BEM-VINDO(A), LUSK KILLYUS."** A porta de aço se abre com um silvo hidráulico, revelando uma sala ampla e iluminada por luzes frias de teto. O ambiente é espartano: paredes de concreto cinza, piso emborrachado preto e, no centro, uma plataforma circular de metal com cerca de dez metros de diâmetro. Ao redor da plataforma, fileiras de projetores e sensores estão instalados no teto.
@@ -2842,10 +2840,10 @@ Do lado de fora, um cachorro late ao longe. Depois, silêncio.
 
 O que você faz?
 
-• [2026-11-07T09:12:18.000Z] USUÁRIO:
+[2026-11-07T09:12:18.000Z] USUÁRIO:
 *eu exorcizo as maldições com precisão cirgúgica, conseguindo me esquecer da carência ao ativar a Frenesi Bestial, exorcizando uma por uma... quando eu termino tudo, o cenário volta pro lobby, até que de repente eu escuto um <q><q><q><q>"você parece ser forte, gatinho. Quer lutar comigo?"</q></q></q></q>, pelo visto, eu não sou o único louco que acordou tão cedo. Eu olho em direção da voz e vejo um garoto de cabelo laranja com pintas que lembram metais, da minha idade com 1.75m, olheras e cauda de um gato leopardo(sendo um demi-humano), pele parda, vestindo uma camisa revata preta, óculos de sol preto apoiados na testa, olhos cinza metálicos, sapatos pretos e calça preta, seu nome? Chirrain  Hirusei, ele parece ser mais calmo, sério e desafiador. Ainda não nos conhecemos e não sabemos o que o destino nos aguarda...  Eu sorrio de canto, mostrando meus dentes afiados, observando a energia amaldiçoada dele* hm. Pelo visto eu não sou o único louco, e adoro um bom desafio.
 
-• [2026-11-07T09:12:19.000Z] ASSISTENTE:
+[2026-11-07T09:12:19.000Z] ASSISTENTE:
 A luz azulada do celular ilumina seu rosto na escuridão do quarto. Seus olhos, ainda meio pesados de sono, ajustam-se ao brilho enquanto você desliza o dedo pela tela. O Instagram te recebe com um **Reel** de um gato laranja caindo de uma prateleira, seguido por um vídeo de edição de luta com a música "Battle Tendency" tocando ao fundo. Você ri baixinho, o som abafado pelo quarto silencioso.
 
 Seu polegar continua rolando. Mais Reels. Gatos. Memes de Jujutsu — engraçado como o mundo comum criou um anime sobre algo tão próximo da sua realidade, ainda que distorcido. Um casal comemora o Dia dos Namorados em um restaurante iluminado por velas. Você aperta os lábios, o celular pesando na mão.
@@ -2862,10 +2860,10 @@ O celular vibra — uma notificação.
 
 O que você faz?
 
-• [2026-11-07T09:12:20.000Z] USUÁRIO:
+[2026-11-07T09:12:20.000Z] USUÁRIO:
 *eu me levanto, pensando "quer saber? Vou fazer algo produtivo.", eu me visto de maneira decente e saio do meu quarto, pensando "tem uma sala de simulação que o Gojo falou... treinos que simulam situações reais com danos fictícios e mecânica de ressugimento..."*
 
-• [2026-11-07T09:12:21.000Z] ASSISTENTE:
+[2026-11-07T09:12:21.000Z] ASSISTENTE:
 Você se levanta da cama com um movimento fluido, o cobertor deslizando para revelar suas pernas. A brisa noturna arrepia sua pele por um instante antes que você alcance suas roupas. Veste o cropped roxo, a calça preta confortável e o casaco de musselina azul — o suficiente para não parecer que acabou de acordar. As meias vermelhas e os sapatos cinza com detalhes dourados completam o visual. Você dá uma olhada rápida no espelho do quarto: as pintas de dragão em seu rosto parecem brilhar levemente sob a luz do abajur, e seu cabelo branco longo está levemente bagunçado, mas dá pra lidar.
 
 O corredor do dormitório está silencioso e vazio. São quase 3h da manhã — até os feiticeiros mais insones estão dormindo. As luzes fluorescentes zumbem baixinho enquanto você caminha, suas pegadas ecoando levemente no chão de concreto polido. O ar é fresco e carregado com um leve cheiro de incenso — provavelmente algum talismã de purificação queimando em algum canto do prédio.
@@ -2878,10 +2876,10 @@ Uma câmera discreta aponta para seu rosto.
 
 *O que você faz?*
 
-• [2026-11-07T09:12:22.000Z] USUÁRIO:
+[2026-11-07T09:12:22.000Z] USUÁRIO:
 *eu mostro o meu rosto, o acesso é aprovado... eu entro na sala de simulação, simulando um combate contra um exército de maldições*
 
-• [2026-11-07T09:12:23.000Z] ASSISTENTE:
+[2026-11-07T09:12:23.000Z] ASSISTENTE:
 O painel biométrico emite um som agudo de confirmação. **"ACESSO LIBERADO. BEM-VINDO(A), LUSK KILLYUS."** A porta de aço se abre com um silvo hidráulico, revelando uma sala ampla e iluminada por luzes frias de teto. O ambiente é espartano: paredes de concreto cinza, piso emborrachado preto e, no centro, uma plataforma circular de metal com cerca de dez metros de diâmetro. Ao redor da plataforma, fileiras de projetores e sensores estão instalados no teto.
 
 Uma tela holográfica se materializa diante de você, exibindo um menu de opções. Os caracteres em kanji e inglês listam: **"SIMULAÇÃO INDIVIDUAL"**, **"SIMULAÇÃO EM GRUPO"**, **"TREINO LIVRE"**, **"CONFIGURAÇÕES DE AMEAÇA"**. Abaixo, uma barra de dificuldade deslizante marca "GRAU 4" na extremidade esquerda e "GRAU ESPECIAL" na direita.
@@ -2898,10 +2896,10 @@ Elas não se movem ainda — aguardando o início oficial da simulação. Uma co
 
 *O que você faz?*
 
-• [2026-11-07T09:12:24.000Z] USUÁRIO:
+[2026-11-07T09:12:24.000Z] USUÁRIO:
 *eu exorcizo as maldições com precisão cirgúgica, conseguindo me esquecer da carência ao ativar a Frenesi Bestial, exorcizando uma por uma... quando eu termino tudo, o cenário volta pro lobby, até que de repente eu escuto um <q><q><q><q>"você parece ser forte, gatinho. Quer lutar comigo?"</q></q></q></q>, pelo visto, eu não sou o único louco que acordou tão cedo. Eu olho em direção da voz e vejo um garoto de cabelo laranja com pintas que lembram metais, da minha idade com 1.75m, olheras e cauda de um gato leopardo(sendo um demi-humano), pele parda, vestindo uma camisa revata preta, óculos de sol preto apoiados na testa, olhos cinza metálicos, sapatos pretos e calça preta, seu nome? Chirrain  Hirusei, ele parece ser mais calmo, sério e desafiador. Ainda não nos conhecemos e não sabemos o que o destino nos aguarda...  Eu sorrio de canto, mostrando meus dentes afiados, observando a energia amaldiçoada dele* hm. Pelo visto eu não sou o único louco, e adoro um bom desafio.
 
-• [2026-11-07T09:12:25.000Z] ASSISTENTE:
+[2026-11-07T09:12:25.000Z] ASSISTENTE:
 O ar da sala de simulação ainda vibra com os resquícios de energia amaldiçoada dissipada. O lobby frio e metálico contrasta com o calor que ainda corre em suas veias — o Frenesi Bestial recuou, mas deixou seus sentidos aguçados, o faro luskxiano ainda captando cada partícula ao redor.
 
 **Chirrain Hirusei** inclina levemente a cabeça, um sorriso mínimo — quase imperceptível — nos lábios. Ele não se moveu de onde estava, recostado na parede de concreto do corredor que leva às salas de simulação. Os olhos cinza metálico percorrem você dos pés à cabeça com uma calma que beira a preguiça felina. A cauda dele balança lentamente, como a de um predador avaliando se vale a pena o esforço.
@@ -2918,10 +2916,10 @@ O lobby da simulação está vazio. Os únicos sons são o zumbido baixo dos com
 
 O que você faz?
 
-• [2026-11-07T09:12:26.000Z] USUÁRIO:
+[2026-11-07T09:12:26.000Z] USUÁRIO:
 *eu assumo uma posição de combate, ainda com um sorriso afiado, mas sem arrogância, a minha cauda se mexe, assumindo uma postura pedratória* claro que aceito, já estava ficando chato lutar sozinho contra maldições sinuladas.
 
-• [2026-11-07T09:12:27.000Z] ASSISTENTE:
+[2026-11-07T09:12:27.000Z] ASSISTENTE:
 **Chirrain Hirusei:** *Um sorriso largo de predador se estica no rosto do demi-humano. Ele estala o pescoço, os olhos cinza metálico brilhando com uma energia amarelada que dança como chamas ao redor do corpo.* "Excelente! Finalmente alguém com espinha dorsal nessa escola."
 
 Ele não espera você se preparar. Num piscar de olhos, o corpo felino de **Chirrain** desaparece do lugar — e reaparece a menos de dois metros de você, a mão direita já estendida num golpe rápido, feito um tapa, mas carregado de energia amaldiçoada suficiente para rachar concreto. Os dedos terminam em garras curtas, escuras, como agulhas de obsidiana. O movimento é fluido, quase gracioso, mas a velocidade é claramente superior à de um feiticeiro Grau 2.
@@ -2934,12 +2932,12 @@ Ele não está segurando nada. É só um teste. Um tapa pra medir reflexo.
 
 **O que você faz?**
 
-• [2026-11-07T09:12:28.000Z] USUÁRIO:
+[2026-11-07T09:12:28.000Z] USUÁRIO:
 (Coloque o nome como Hirusei, por favor, já que Chirrain é o sobrenome)
 
 *eu também luto com igual fervor, lutando de maneira adaptativa e imprevisível assim como Hirusei, desviando, atacando, bloqueando e contra-atacando, sentindo a vibração energética dele*
 
-• [2026-11-07T09:12:29.000Z] ASSISTENTE:
+[2026-11-07T09:12:29.000Z] ASSISTENTE:
 A sala de simulação treme com o impacto de mais um choque entre você e **Chirrain Hirusei**. As ruínas urbanas holográficas ao redor refletem a luz azulada dos displays de energia, enquanto os corpos dos 12 inimigos simulados jazem dispersos pelos escombros — alguns ainda se desfazendo em partículas de luz. A batalha contra o demi-humano gato-leopardo já dura alguns minutos, e ambos trocam golpes em igualdade.
 
 **Hirusei** salta para trás após um cruzamento de garras, aterrissando em um poste inclinado com a agilidade felina que seu corpo magro e musculoso permite. Seu cabelo laranja curto está levemente desgrenhado, e os olhos cinza metálico brilham com uma faísca divertida. Ele aperta os lábios, mostrando os caninos levemente afiados, e solta uma risada curta, quase um miado.
@@ -2954,10 +2952,10 @@ O ar ainda vibra com os resquícios da luta. O cheiro de concreto quebrado e ene
 
 O que você faz?
 
-• [2026-11-07T09:12:30.000Z] USUÁRIO:
+[2026-11-07T09:12:30.000Z] USUÁRIO:
 *eu estou com a respiração ofegante, com um pequeno sorriso* sim, acabei de chegar antes de ontem... *estendo a mão em direção a Hirusei* Lusk Killyus, e você?
 
-• [2026-11-07T09:12:31.000Z] ASSISTENTE:
+[2026-11-07T09:12:31.000Z] ASSISTENTE:
 *Hirusei inclina a cabeça, os olhos cinza metálico brilhando com um interesse quase felino. Ele aperta sua mão com firmeza, a palma áspera e quente — suas garras levemente retraídas roçam sua pele sem arranhar.*
 
 **Chirrain Hirusei:** *um sorriso torto aparece em seu rosto* "Chirrain Hirusei. Grau 1. Especialidade: combate corpo a corpo e técnicas de eletricidade amaldiçoada." *ele solta sua mão e coloca as duas nos bolsos do casaco* "Senti sua energia de longe. Não é todo dia que aparece um cheiro novo por aqui. E você... tem um cheiro interessante. Meio... antigo. Meio selvagem."
@@ -2972,10 +2970,10 @@ A sala de simulação começa a emitir um zumbido baixo, indicando que os sistem
 
 O que você faz?
 
-• [2026-11-07T09:12:32.000Z] USUÁRIO:
+[2026-11-07T09:12:32.000Z] USUÁRIO:
 *também rio baixo, cruzando os braços enquanto a minha cauda se mexe* insônia e carência, sabe como é... *a minha barriga ronca, eu solto um grunhido, meio envergonhado* podemos ir direto pro café? Não comi nada desde a última missão.
 
-• [2026-11-07T09:12:33.000Z] ASSISTENTE:
+[2026-11-07T09:12:33.000Z] ASSISTENTE:
 **Chirrain Hirusei:** *ri com um som rouco, quase um miado abafado, enquanto inclina a cabeça e seus olhos cinza metálico brilham sob a luz fraca do corredor.* "Carência e insônia? Sei bem como é, parceiro. Ronronar sozinho no escuro é paia, ainda mais em véspera de Dia dos Namorados. Parece que o mundo inteiro resolveu ter alguém menos a gente, né?"
 
 Ele desliza a mão pelo próprio braço, as marcas de listras claras sob a pele morena se destacando quando ele se estica, um bojo largo de felino disfarçado de humano. O kimono dele é aberto no peito, mostrando colares de contas escuras e um peitoral definido, coberto por aquela pelagem curta e alaranjada típica de um leopardo.
@@ -2990,12 +2988,12 @@ Ele espera você alcançá-lo, os olhos analisando você com curiosidade genuín
 
 **O que você faz?**
 
-• [2026-11-07T09:12:34.000Z] USUÁRIO:
+[2026-11-07T09:12:34.000Z] USUÁRIO:
 (Refira o Hirusei pelo nome e não pelo sobrenome, por favor)
 
 *eu aceno, cheirando o ar* parece ser o Gojo, mas é melhor irmos ver. *coloco as mãos no bolso, seguindo Hirusei*
 
-• [2026-11-07T09:12:35.000Z] ASSISTENTE:
+[2026-11-07T09:12:35.000Z] ASSISTENTE:
 **Chirrain Hirusei** bufa uma risada abafada, o rabo felino balançando atrás dele enquanto caminha na sua frente pelos corredores gelados do subsolo. As luzes fluorescentes piscam em intervalos irregulares — problema crônico de manutenção da escola.
 
 *Sem olhar para trás, Hirusei enfia as mãos nos bolsos do moletom folgado, os olhos cinza metálico deslizando pelos cantos escuros do corredor.* **"Gojo-sensei aparecer de madrugada? Isso é tão comum quanto você usar cropped. O problema é QUANDO ele aparece sem avisar."** *Ele para em frente à porta de vidro que leva ao pátio principal, a silhueta alta e esguia de alguém iluminada pelo poste lá fora.* **"Pronto. Se for ele, vai nos ver saindo. Se NÃO for ele..."** *Hirusei vira o rosto, um sorriso cheio de dentes aparecendo.* **"É um convidado que vai se arrepender de ter vindo."**
@@ -3006,12 +3004,12 @@ Ele espera você alcançá-lo, os olhos analisando você com curiosidade genuín
 
 **O que você faz?**
 
-• [2026-11-07T09:12:36.000Z] USUÁRIO:
+[2026-11-07T09:12:36.000Z] USUÁRIO:
 (Lembrando, Killyus e Hirusei são homens)
 
 *suspiro, assumindo uma postura meio séria, sem medo nenhum, um Lusk típico, com meu olho brilhando um pouco* na verdade só foi um treino na madrugada, e depois vamos comer alguma coisa porque estou com fome,  e se for? **Algum problema, Satoru?**
 
-• [2026-11-07T09:12:37.000Z] ASSISTENTE:
+[2026-11-07T09:12:37.000Z] ASSISTENTE:
 O ar frio da madrugada corta o pátio enquanto você fala. As luzes piscam de forma irregular, criando sombras dançantes no chão de pedra. Gojo inclina levemente a cabeça, aquela venda preta escondendo os olhos, mas você sente — literalmente sente — o peso dos Seis Olhos analisando cada fibra do seu ser. O sorriso dele se mantém, mas há algo calculado ali, como se ele estivesse montando um quebra-cabeça em tempo real.
 
 **Gojo**:
@@ -3031,10 +3029,10 @@ O ar frio da madrugada corta o pátio enquanto você fala. As luzes piscam de fo
 
 O que você faz?
 
-• [2026-11-07T09:12:38.000Z] USUÁRIO:
+[2026-11-07T09:12:38.000Z] USUÁRIO:
 *eu também encaro Gojo com um olhar sem medo e meio desafiador, vendo ele ir embora, pensando "sério que o único pensamento dele é que estávamos fazendo uma missão não-oficial?"*
 
-• [2026-11-07T09:12:39.000Z] ASSISTENTE:
+[2026-11-07T09:12:39.000Z] ASSISTENTE:
 O vento frio da madrugada arrasta algumas folhas secas pelo pátio de concreto. A figura de **Satoru Gojo** já se foi — mas a sensação dos Seis Olhos sobre você ainda arde na pele por alguns segundos, como um farol invisível que vasculhou cada canto do seu corpo e da sua Energia Amaldiçoada.
 
 **Chirrain Hirusei** solta um suspiro longo, as orelhas felinas baixando ligeiramente enquanto a cauda balança para trás e para frente num movimento irritado. Ele cruza os braços, os olhos cinza metálico semicerrados.
@@ -3051,10 +3049,10 @@ Ele inclina a cabeça, os olhos brilhando sob a luz fraca do poste. O vento bagu
 
 O que você faz?
 
-• [2026-11-07T09:12:40.000Z] USUÁRIO:
+[2026-11-07T09:12:40.000Z] USUÁRIO:
 *comendo enquanto falo com sinceridade* nada, a presença pesada apareceu depois do nosso confronto, e o Gojo deve ter aparecido pra imvestigar naquela hora. E ela já foi exorcizada pela faca, então não precisamos nos preocupar.
 
-• [2026-11-07T09:12:41.000Z] ASSISTENTE:
+[2026-11-07T09:12:41.000Z] ASSISTENTE:
 O refeitório noturno da Tokyo Jujutsu High tem uma atmosfera diferente depois da meia-noite. As luzes fluorescentes zumbem baixo, e o cheiro de arroz recém-cozido e peixe grelhado ainda paira no ar, misturado ao leve odor de missô e chá verde. Apenas algumas mesas estão ocupadas — um grupo de funcionários da manutenção conversa baixo no canto, e um dos assistentes da coordenação de missões toma café sozinho, olhando para o celular com expressão cansada.
 
 **Hirusei** termina de mastigar um pedaço de salmão, os olhos cinza-metálico fixos em você com uma curiosidade afiada. Ele limpa os lábios com o dorso da mão, a cauda felina se enrolando relaxada ao redor da própria perna.
@@ -3105,10 +3103,10 @@ Ele espera você alcançá-lo, a cauda balançando lentamente de um lado para o 
 
 O que você faz?
 
-• [2026-11-07T09:12:42.000Z] USUÁRIO:
+[2026-11-07T09:12:42.000Z] USUÁRIO:
 *eu sigo Hirusei até o refeitório, como é muito cedo, está vazio, mas com comida aina disponível, eu pego o meu peixe greelhado com alguns pães de frijão doce e arroz*
 
-• [2026-11-07T09:12:43.000Z] ASSISTENTE:
+[2026-11-07T09:12:43.000Z] ASSISTENTE:
 O refeitório noturno da Tokyo Jujutsu High tem uma atmosfera diferente quando está vazio. As luzes fluorescentes zumbem baixo, refletindo nos azulejos brancos e no balcão de aço inoxidável. O cheiro de arroz fresquinho e peixe grelhado ainda paira no ar, misturado com o aroma adocicado dos pãezinhos de feijão doce que você pegou. Hirusei senta-se na ponta de uma das mesas compridas, perto da janela que dá para o pátio escuro, e coloca a bandeja com cuidado.
 
 **Chirrain Hirusei:** *Ele desvia o olhar para a noite lá fora, mas sua cauda se enrola frouxamente no encosto da cadeira.* "Sabia que esse horário era tranquilo. O Yuji costuma vir aqui de madrugada dormindo." *Ele pega os hashis, quebra um pedaço do peixe e come devagar, os olhos cinza metálico ainda meio desconfiados, mas o tom de voz mais calmo.* "Você sempre come assim? Parece que está saboreando cada grão."
@@ -3117,12 +3115,12 @@ O silêncio do refeitório é cortado apenas pelo som dos hashis batendo nos pra
 
 O que você faz?
 
-• [2026-11-07T09:12:44.000Z] USUÁRIO:
+[2026-11-07T09:12:44.000Z] USUÁRIO:
 (Mano, Killyus e Hirusei são homens)
 
 *comendo, falando num tom mais baixo* porque eles não existem mais, só sobrou as minhas irmãs e meus primos. Eu estou sozinho, carente sem companhia pro dia dos namorados, mas eu vou me virar.
 
-• [2026-11-07T09:12:46.000Z] ASSISTENTE:
+[2026-11-07T09:12:46.000Z] ASSISTENTE:
 O refeitório noturno tem uma luz amarelada e suave, vinda de luminárias penduradas no teto alto. O cheiro de peixe grelhado ainda paira no ar, misturado ao vapor do arroz recém-saído da panela elétrica. Você está sentado em uma das mesas de madeira, com um prato à sua frente — o peixe está dourado, crocante nas bordas, e os pãezinhos de feijão doce estão empilhados ao lado, ainda mornos.
 
 **Chirrain Hirusei** está sentado do outro lado da mesa, com as orelhas ligeiramente erguidas e os olhos cinza metálico fixos em você. A cauda dele se move lentamente para um lado e outro, num ritmo pensativo. Ele pega um dos pãezinhos, mas não morde — apenas observa você com uma curiosidade que não tenta esconder.
@@ -3133,10 +3131,10 @@ A cauda dele para de se mover por um instante. O olhar dele se torna mais direto
 
 **Hirusei:** "O que mais você está escondendo?"
 
-• [2026-11-07T09:12:47.000Z] USUÁRIO:
+[2026-11-07T09:12:47.000Z] USUÁRIO:
 *comendo enquanto falo com sinceridade* nada, a presença pesada apareceu depois do nosso confronto, e o Gojo deve ter aparecido pra imvestigar naquela hora. E ela já foi exorcizada pela faca, então não precisamos nos preocupar.
 
-• [2026-11-07T09:12:48.000Z] ASSISTENTE:
+[2026-11-07T09:12:48.000Z] ASSISTENTE:
 O refeitório noturno da Tokyo Jujutsu High tem uma atmosfera diferente depois da meia-noite. As luzes fluorescentes zumbem baixo, e o cheiro de arroz recém-cozido e peixe grelhado ainda paira no ar, misturado ao leve odor de missô e chá verde. Apenas algumas mesas estão ocupadas — um grupo de funcionários da manutenção conversa baixo no canto, e um dos assistentes da coordenação de missões toma café sozinho, olhando para o celular com expressão cansada.
 
 **Hirusei** termina de mastigar um pedaço de salmão, os olhos cinza-metálico fixos em você com uma curiosidade afiada. Ele limpa os lábios com o dorso da mão, a cauda felina se enrolando relaxada ao redor da própria perna.
@@ -3171,10 +3169,10 @@ Ele se vira para você novamente, esperando sua resposta.
 
 O que você faz?
 
-• [2026-11-07T09:12:49.000Z] USUÁRIO:
+[2026-11-07T09:12:49.000Z] USUÁRIO:
 Na verdade, é tanto  herança de clã quanto treinamento, o meu clã é diverso, não tem apenas humamos e demi-humanos.
 
-• [2026-11-07T09:12:50.000Z] ASSISTENTE:
+[2026-11-07T09:12:50.000Z] ASSISTENTE:
 A madrugada na sala de simulação pareceu congelar no tempo. A luz fria dos monitores refletia nos olhos azuis de Killyus enquanto ele encarava Hirusei, e as palavras dele pairavam no ar com um peso sincero.
 
 Os olhos cinza-metálico de **Chirrain** se desviaram por um momento — um lampejo de vulnerabilidade que ele rapidamente escondeu, passando a mão pelos fios alaranjados do cabelo. O barulho quase inaudível da cauda dele se enrolou na perna dele mesmo, um tique nervoso que ele claramente não controlava.
@@ -3197,12 +3195,12 @@ O silêncio se estende entre vocês. O pátio está vazio — os outros alunos j
 
 **O que você faz?**
 
-• [2026-11-07T09:12:51.000Z] USUÁRIO:
+[2026-11-07T09:12:51.000Z] USUÁRIO:
 (Mano, Killyus e Hirusei são homens)
 
 *comendo, falando num tom mais baixo* porque eles não existem mais, só sobrou as minhas irmãs e meus primos. Eu estou sozinho, carente sem companhia pro dia dos namorados, mas eu vou me virar.
 
-• [2026-11-07T09:12:52.000Z] ASSISTENTE:
+[2026-11-07T09:12:52.000Z] ASSISTENTE:
 O refeitório noturno está quase vazio. A luz fluorescente pisca fraquinho sobre as mesas de metal, e o cheiro de peixe grelhado ainda paira no ar misturado com o vapor do arroz fresco. Você está sentado de frente para **Chirrain Hirusei**, que separa os hashis com um movimento seco e preciso.
 
 **Chirrain** inclina a cabeça, os olhos cinza metálico semi-cerrados enquanto morde um pedaço do peixe. Ele mastiga devagar, engole, e apoia o queixo na mão, a cauda dele se enrolando frouxamente no banco ao lado.
@@ -3221,10 +3219,10 @@ O refeitório range silêncio. Só o barulho distante de alguém lavando louça 
 
 **O que você faz?**
 
-• [2026-11-07T09:12:53.000Z] USUÁRIO:
+[2026-11-07T09:12:53.000Z] USUÁRIO:
 Só solidão, quando a carência bate, eu durmo abraçado num travesseiro.
 
-• [2026-11-07T09:12:54.000Z] ASSISTENTE:
+[2026-11-07T09:12:54.000Z] ASSISTENTE:
 A noite da escola está calma depois da saída de Gojo. Hirusei está ao seu lado, ainda com os cabelos desgrenhados da simulação. Você menciona a solidão que sente quando a carência aperta, as noites em que só lhe resta abraçar um travesseiro. A fala parece ter quebrado o clima leve que existia antes, e Hirusei pisca algumas vezes antes de responder.
 
 **Chirrain Hirusei:** *Inclina a cabeça com uma orelha abaixada, deixando a expressão séria por um momento.* "É... Isso parece ser difícil. Dormir abraçado em algo que não abraça de volta. Desde que vim pra escola, senti isso também. Mesmo sendo meio antissocial, tem noites em que o silêncio do dormitório pesa."
@@ -3239,10 +3237,10 @@ O vento noturno sopra suavemente, movendo os fios brancos dos seus cabelos. O cl
 
 **O que você faz?**
 
-• [2026-11-07T09:12:55.000Z] USUÁRIO:
+[2026-11-07T09:12:55.000Z] USUÁRIO:
 *eu olho pro Hirusei, como se tivesse processando... até eu acenar, com um sorriso pequeno* eu aceito... eu só precisava de uma companhia na cama mesmo.
 
-• [2026-11-07T09:12:56.000Z] ASSISTENTE:
+[2026-11-07T09:12:56.000Z] ASSISTENTE:
 **Chirrain** *congela por um segundo. As orelhas dela se erguem, a cauda para de balançar. O cinza metálico dos olhos dela se fixa em você com uma intensidade nova — não hostil, mas de alerta.* "Companhia... na cama?"
 
 Ela inclina a cabeça, o cabelo laranja caindo pro lado, e um sorriso fino, quase felino, aparece no canto dos lábios. Mas tem algo calculado ali. Ela não é ingênua.
@@ -3271,10 +3269,10 @@ Os olhos cinzentos dela desviam pro chão por um instante, depois voltam pra voc
 
 O que você faz?
 
-• [2026-11-07T09:12:57.000Z] USUÁRIO:
+[2026-11-07T09:12:57.000Z] USUÁRIO:
 *eu olho pra Hirusei, também com honestidade* não vai ser apenas por uma noite, eu realmente estou afim de você, e tipo, por que eu iria trair a sua confiança?
 
-• [2026-11-07T09:12:58.000Z] ASSISTENTE:
+[2026-11-07T09:12:58.000Z] ASSISTENTE:
 A madrugada na sala de simulação pareceu congelar no tempo. A luz fria dos monitores refletia nos olhos azuis de Killyus enquanto ele encarava Hirusei, e as palavras dele pairavam no ar com um peso sincero.
 
 Os olhos cinza-metálico de **Chirrain** se desviaram por um momento — um lampejo de vulnerabilidade que ele rapidamente escondeu, passando a mão pelos fios alaranjados do cabelo. O barulho quase inaudível da cauda dele se enrolou na perna dele mesmo, um tique nervoso que ele claramente não controlava.
@@ -3289,10 +3287,10 @@ Ele levantou a mão direita, as garras retráteis se estendendo alguns milímetr
 
 **Chirrain:** "Se você um dia pensar em fazer merda, tipo me trocar por um estepe ou algo assim... você me fala na cara. Sem mentira, sem sumir. É só o que peço. Promete?"
 
-• [2026-11-07T09:12:59.000Z] USUÁRIO:
+[2026-11-07T09:12:59.000Z] USUÁRIO:
 *eu aperto a mão de Hirusei, com um olhar meio sério* prometo, não sou do tipo que esconde. *depois disso, eu me espreguiço e levo Hirusei até o meu quarto, chegando lá, eu e ele nos deitamos na cama, com ambos se conrindo no lençol enquanto eu me aconchego nele, fechando os olhos... e realmente, era carência... e algo a mais*
 
-• [2026-11-07T09:13:00.000Z] ASSISTENTE:
+[2026-11-07T09:13:00.000Z] ASSISTENTE:
 Aperto firme. A promessa. O gesto simples de levar Hirusei até seu quarto. Cada passo ecoa no corredor silencioso da madrugada, as luzes fluorescentes piscando fracamente sobre suas cabeças. Quando a porta se abre, o quarto revela seu território íntimo — o travesseiro amassado no centro da cama, o edredom azul escuro meio desarrumado, o cheiro sutil de seu próprio corpo misturado ao perfume do amaciante.
 
 **Hirusei** hesita por um segundo na entrada, seus olhos cinza-metálico varrendo o ambiente com a cautela natural de um felino. Depois, ele entra. Senta na borda da cama, as molas rangendo suavemente sob seu peso. Ele tira os sapatos com movimentos precisos, deixando-os alinhados ao lado da cama. Quando se deita, o colchão se ajusta ao peso extra, e você sente o calor irradiar do corpo dele antes mesmo do contato.
@@ -3305,10 +3303,10 @@ Ele aguarda sua resposta imóvel, a respiração quente e ritmada contra seu ros
 
 O que você faz?
 
-• [2026-11-07T09:13:01.000Z] USUÁRIO:
+[2026-11-07T09:13:01.000Z] USUÁRIO:
 *me aconchego mais em resposta, entrelaçando os braços e pernas na cintura de Hirusei, um claro gesto de <q>"não vá."</q>, murmurando* não é uma carência de apenas um dia, eu realmente estou querendo alguém, e não é qualquer um que eu me entrego...
 
-• [2026-11-07T09:13:02.000Z] ASSISTENTE:
+[2026-11-07T09:13:02.000Z] ASSISTENTE:
 O ar no quarto parece mudar com suas palavras. O silêncio que se segue não é vazio — é denso, carregado de significado. **Chirrain Hirusei** fica imóvel por um instante, sentindo seus braços e pernas se entrelaçarem em sua cintura. A cauda dele, que antes balançava lentamente, para completamente.
 
 Você sente a respiração dele mudar — mais profunda, mais controlada. As garras retráteis que descansavam abertas sobre seu ombro se fecham devagar, as pontas se retraindo até virarem unhas comuns novamente. Ele vira o rosto ligeiramente, o suficiente para você ver o contorno da mandíbula e uma orelha pontuda que se move, captando cada som seu.
@@ -3323,10 +3321,10 @@ A cauda dele se enrola lentamente em torno da sua perna — um gesto que parece 
 
 O que você faz?
 
-• [2026-11-07T09:13:03.000Z] USUÁRIO:
+[2026-11-07T09:13:03.000Z] USUÁRIO:
 *a minha cauda se enrola ao redor da cintura de Hirusei também, um gesto instintivo que nem eu percebi, me aconchegando mais ainda e pousamdo a cabeça em seu peito* eu também não vou deixar que você vá, não sente essa conexão...?
 
-• [2026-11-07T09:13:04.000Z] ASSISTENTE:
+[2026-11-07T09:13:04.000Z] ASSISTENTE:
 *O corpo felino de Chirrain Hirusei hesita por um segundo antes de relaxar completamente contra o colchão. Você sente o peito dele subir e descer em uma respiração mais longa que o normal — controle emocional ou algo que ele está processando internamente. Os olhos cinza metálico dele estão semiabertos, observando você contra o peito dele com uma expressão que mistura surpresa genuína e uma ternura difícil de esconder.*
 
 **Chirrain Hirusei:** *A cauda grossa e macia dele aperta um pouco mais sua perna, e os dedos da mão que estava nas suas costas sobem para brincar com a ponta das suas mechas brancas.* "Sinto, sim. Porra, Killyus... é difícil não sentir." *Ele solta uma risada baixa, quase sem graça.* "Você entrou na minha vida feito uma maldição de verdade — inesperada, poderosa, e que não dá pra ignorar." *Ele desvia o olhar por um instante, focando em algum ponto do teto.* "Só não tô acostumado com isso. Com alguém que não quer fugir depois de me conhecer de verdade."
@@ -3335,10 +3333,10 @@ O que você faz?
 
 **Chirrain Hirusei:** *A mão dele desce do seu cabelo para traçar lentamente a linha da sua mandíbula, o polegar passando suave sobre sua bochecha.* "Você realmente acredita nisso? Que a gente se conectou de verdade, quero dizer. Não é só... o calor do momento?" *Pergunta com uma sinceridade que expõe uma vulnerabilidade que ele claramente tenta esconder.*
 
-• [2026-11-07T09:13:05.000Z] USUÁRIO:
+[2026-11-07T09:13:05.000Z] USUÁRIO:
 *sorrio mais enquanto me aconchego pela última vez* não é apenas calor do momento, porque eu ainda estou com a racionalidade... *eu encaro Hirusei diretamente, murmurando* o que você vê no meu olhar...?
 
-• [2026-11-07T09:13:06.000Z] ASSISTENTE:
+[2026-11-07T09:13:06.000Z] ASSISTENTE:
 A manhã chega devagar, pintando o quarto com tons alaranjados pelo sol que entra fresta por fresta.
 
 Você acorda sentindo um peso quente e macio ao redor do corpo — Hirusei continua te segurando, o braço dele firmemente enrolado na sua cintura e a cauda ainda frouxamente enlaçada na sua perna. A respiração calma dele sopra suave contra o topo da sua cabeça. Ele parece ainda dormir profundamente.
@@ -3355,10 +3353,10 @@ O som do aquecimento central clica baixinho, e um carro passa distante lá fora.
 
 A mão livre dele sobe para tocar seu queixo com a ponta dos dedos, os olhos dele percorrendo seu rosto como se lesse cada detalhe à luz fraca. O que você diz para ele?
 
-• [2026-11-07T09:13:07.000Z] USUÁRIO:
+[2026-11-07T09:13:07.000Z] USUÁRIO:
 *eu sorrio, encarando Hirusei enquanto me aproximo mais do seu rosto* você também é um perigo, Hirusei... um perigo belo, forte e que eu não consigo evitar...
 
-• [2026-11-07T09:13:08.000Z] ASSISTENTE:
+[2026-11-07T09:13:08.000Z] ASSISTENTE:
 **Chirrain Hirusei** arqueia uma sobrancelha ao ouvir sua declaração, mas um sorriso preguiçoso se forma em seus lábios. A ponta de sua cauda se enrola mais firmemente em sua perna, enquanto seus olhos cinza metálico brilham sob a luz suave do quarto. Ele desliza uma mão dos seus ombros até a curva da sua cintura, os dedos aquecidos pressionando levemente o tecido do seu cropped roxo.
 
 *Ele inclina a cabeça, aproximando o rosto do seu, até que a testa dele toque a sua. Por um momento, ele apenas observa seus olhos, a respiração quente trocando entre vocês dois.* "Um perigo…" *ele murmura, o tom mais baixo agora, quase um ronronar* "…que tipo de perigo você acha que eu sou, Killyus?"
@@ -3367,10 +3365,10 @@ A pergunta paira no ar, cheia de camadas. Ele não parece estar testando você �
 
 O quarto está silencioso, exceto pelos sons da noite lá fora e suas respirações. O cheiro dele — almíscar, energia amaldiçoada e algo picante — preenche seus sentidos. O que você faz?
 
-• [2026-11-07T09:13:09.000Z] USUÁRIO:
+[2026-11-07T09:13:09.000Z] USUÁRIO:
 *eu coloco a mão no peito de Hirusei, aproximando ainda mais um rosto enquanto eu estou com um sorriso provocador e amoroso* um perigo pra minha vida de solteiro...  *dito isso, eu fecho a distância dos lábios e a beijo*
 
-• [2026-11-07T09:13:10.000Z] ASSISTENTE:
+[2026-11-07T09:13:10.000Z] ASSISTENTE:
 **Chirrain Hirusei** emite um som baixo, algo entre surpresa e satisfação, quando seus lábios encontram os dele. A mão que segurava seu queixo desliza para a nuca, os dedos se enterrando em seus cabelos brancos com uma pressão firme, mas cuidadosa. A cauda dele aperta sua perna com mais força, puxando você ligeiramente contra ele.
 
 **Hirusei** abre um sorriso sonolento e satisfeito ao ouvir sua resposta. Ele empurra o corpo da parede com um movimento suave, a cauda se erguendo um pouco mais animada.
@@ -3391,10 +3389,10 @@ O quarto parece menor agora, mais quente. A luz da lâmpada cria sombras dançan
 
 O que você faz?
 
-• [2026-11-07T09:13:11.000Z] USUÁRIO:
+[2026-11-07T09:13:11.000Z] USUÁRIO:
 *eu aprofundo o beijo, permitindo que a língua dele entre, depois de vários minutos eu me afasto pra respirar, aconchegando a cabeça em seu peito* vamos dormir, tenho treino amanhã.
 
-• [2026-11-07T09:13:12.000Z] ASSISTENTE:
+[2026-11-07T09:13:12.000Z] ASSISTENTE:
 **Chirrain Hirusei** ri baixinho, a vibração do peito dele contra sua bochecha. Ele passa a mão nos seus cabelos, alisando-os com carinho, antes de dar um beijo no topo da sua cabeça. "Então dorme, pequena onça." Ele se ajusta na cama, puxando o cobertor sobre vocês sem te soltar.
 
 A cauda dele permanece enrolada na sua perna, preguiçosa, como se fosse tão natural quanto respirar. A respiração dele diminui gradualmente, sincronizando-se com a sua. A energia amaldiçoada no quarto se acalma, ficando morna e suave como um cobertor invisível.
@@ -3405,10 +3403,10 @@ O silêncio da noite é pontuado apenas pelo zumbido distante da cidade e pelo c
 
 O que você faz?
 
-• [2026-11-07T09:13:13.000Z] USUÁRIO:
+[2026-11-07T09:13:13.000Z] USUÁRIO:
 *eu olho pro Hirusei com amor e carinho, murmurando* eu não te trocaria por nada, te amo demais... *e fecho os olhos, adormecendo também...*
 
-• [2026-11-07T09:13:14.000Z] ASSISTENTE:
+[2026-11-07T09:13:14.000Z] ASSISTENTE:
 A manhã chega devagar, pintando o quarto com tons alaranjados pelo sol que entra fresta por fresta.
 
 Você acorda sentindo um peso quente e macio ao redor do corpo — Hirusei continua te segurando, o braço dele firmemente enrolado na sua cintura e a cauda ainda frouxamente enlaçada na sua perna. A respiração calma dele sopra suave contra o topo da sua cabeça. Ele parece ainda dormir profundamente.
@@ -3419,10 +3417,10 @@ Mas você lembra que mencionou um treino hoje.
 
 O que você faz?
 
-• [2026-11-07T09:13:15.000Z] USUÁRIO:
+[2026-11-07T09:13:15.000Z] USUÁRIO:
 *me levanto rapidamente* O porra. *me arrumo rapidamente com roupa, equipamento e tudo, acordando Hirusei* bora logo, querido. *Hirusei acorda, me seguindo.... até chegarmos na sala de treinamento e perceber que está vazio... eu fico meio confuso, até olhar no celular e notar* caralho... hoje é sábado.
 
-• [2026-11-07T09:13:16.000Z] ASSISTENTE:
+[2026-11-07T09:13:16.000Z] ASSISTENTE:
 A claridade fria da manhã invade a sala de treinamento enquanto você e Hirusei atravessam a porta. O eco dos passos de vocês reverbera no espaço vasto e silencioso — completamente vazio. Sem instrutores, sem alunos, sem monitores. Apenas o cheiro de piso limpo e equipamentos impecáveis.
 
 Hirusei ainda está piscando o sono dos olhos cinzentos. Ele boceja abertamente, esticando os braços e deixando a camiseta levantar o suficiente para revelar o abdômen firme, a cauda balançando preguiçosa atrás dele.
@@ -3435,10 +3433,10 @@ Ele apoia um ombro na parede ao lado da porta, cruzando os braços e inclinando 
 
 O que você faz?
 
-• [2026-11-07T09:13:17.000Z] USUÁRIO:
+[2026-11-07T09:13:17.000Z] USUÁRIO:
 *sorrio, também falando num tom calmo* eu também vou comer, estou faminto.
 
-• [2026-11-07T09:13:18.000Z] ASSISTENTE:
+[2026-11-07T09:13:18.000Z] ASSISTENTE:
 **Hirusei** abre um sorriso sonolento e satisfeito ao ouvir sua resposta. Ele empurra o corpo da parede com um movimento suave, a cauda se erguendo um pouco mais animada.
 
 **Hirusei:** "Bom, então tá decidido. Café primeiro, treino depois — ou talvez nunca, dependendo do quanto você me convencer a ficar de preguiça." Ele pisca um olho, provocando, e começa a caminhar em direção à saída do prédio de treinamento. "Vamos. Conheço um lugar no refeitório que serve uns sanduíches quentes que ressuscitam morto."
@@ -3453,10 +3451,10 @@ Ao entrar no refeitório, o cheiro de pão fresco, café e bacon grelhado atinge
 
 O que você faz?
 
-• [2026-11-07T09:13:19.000Z] USUÁRIO:
+[2026-11-07T09:13:19.000Z] USUÁRIO:
 *eu olho o cardápio* um sanduíche de carne de boi, deve ser muito bom.
 
-• [2026-11-07T09:13:20.000Z] ASSISTENTE:
+[2026-11-07T09:13:20.000Z] ASSISTENTE:
 O ar da cafeteria da Jujutsu High carrega um cheiro misto de café fresco, pão tostado e um toque metálico de produtos de limpeza. A luz do fim de tarde entra pelas janelas altas, criando longas sombras no chão de madeira encerada. Do outro lado do balcão, **Sr. Tanaka**, o funcionário de meia-idade com avental branco marcado por manchas de molho e café, inclina a cabeça com um sorriso paciente.
 
 **Sr. Tanaka:** *ergue uma caneta por trás da orelha e anota num bloco* "Sanduíche de carne de boi. É um dos nossos carros-chefe. Carne desfiada, molho especial da casa e queijo derretido. Bem servido. Vai querer acompanhar com alguma bebida, jovem? Um café, chá, ou refrigerante?"
@@ -3465,10 +3463,10 @@ Ele espera, a caneta pairando sobre o papel, enquanto o barulho distante de pane
 
 O que você faz?
 
-• [2026-11-07T09:13:21.000Z] USUÁRIO:
+[2026-11-07T09:13:21.000Z] USUÁRIO:
 Uma pepsi, se tiver.
 
-• [2026-11-07T09:13:22.000Z] ASSISTENTE:
+[2026-11-07T09:13:22.000Z] ASSISTENTE:
 **Sr. Tanaka** anota rapidamente, com um aceno de cabeça. "Pepsi gelada, anotado. Vou preparar seu pedido, já volto."
 
 Ele se vira e desaparece pela porta da cozinha, que balança com um rangido leve. O som de uma chapa aquecendo e o chiado de carne grelhada preenchem o breve silêncio. Você fica sozinho no balcão por um momento, o movimento da cafeteria ao redor seguindo seu curso normal.
@@ -3481,10 +3479,10 @@ Ele dá um passo para o lado, limpando as mãos no avental, e começa a organiza
 
 O que você faz?
 
-• [2026-11-07T09:13:23.000Z] USUÁRIO:
+[2026-11-07T09:13:23.000Z] USUÁRIO:
 *eu aceno em agradecimento, comigo e Hirusei sentando na mesa e começando a comer*
 
-• [2026-11-07T09:13:24.000Z] ASSISTENTE:
+[2026-11-07T09:13:24.000Z] ASSISTENTE:
 Você e **Chirrain** se sentam na mesa mais reservada do balcão, próxima à janela. A madeira range levemente sob o peso de vocês dois. **Hirusei** desliza a cauda pelo chão antes de se acomodar, os olhos cinza metálico percorrendo o sanduíche com curiosidade.
 
 Ele pega uma metade com as mãos, inclina a cabeça e morde. O queijo derretido estica antes de romper. Por um instante, os olhos dele se arregalaram levemente — o sabor parece surpreendê-lo de forma positiva. Ele mastiga devagar, a mandíbula trabalhando, e um ronronar baixo escapa da garganta dele antes que ele perceba.
@@ -3499,40 +3497,40 @@ O sol poente entra pela janela, iluminando o perfil de **Hirusei** — a linha d
 
 O que você faz?
 
-• [2026-11-07T09:13:25.000Z] USUÁRIO:
+[2026-11-07T09:13:25.000Z] USUÁRIO:
 *eu continuo comendo, aparecendo estar muito satisfeito, eu falo entre mordidas* hmm, uma curiosidade, você já estudou que onças-pintadas tem pele escura com alguns pontos roseta, não é?
 
-• [2026-11-07T09:13:26.000Z] ASSISTENTE:
+[2026-11-07T09:13:26.000Z] ASSISTENTE:
 *O restaurante está silencioso na madrugada. A lua cheia ilumina as mesas vazias através das janelas de vidro fosco. Do outro lado da mesa, Chirrain Hirusei dá uma mordida no seu próprio sanduíche, mastigando devagar. Os olhos cinza-metálico dele se estreitam enquanto ele engole.*
 
 Chirrain Hirusei: *Ele apoia o queixo na mão, inclinando a cabeça.* "É. Onças-pintadas têm um padrão de rosetas no pelo — manchas pretas no centro, mais escuras nas bordas, formando círculos irregulares. Pelagem amarelo-dourada ou cinza-claro dependendo da região." *Ele inclina a cabeça para o outro lado, os olhos percorrendo suas pintas em forma de dragão.* "Por que a pergunta?"
 
 *Ele pega um copo de água, bebe um gole, e coloca de volta com um *clique* suave contra a madeira. A luz da lua reflete nos olhos metálicos dele enquanto ele espera sua resposta.*
 
-• [2026-11-07T09:13:27.000Z] USUÁRIO:
+[2026-11-07T09:13:27.000Z] USUÁRIO:
 *ainda comendo* além da minha pelagem  branca e pintas completamente diferentes, a minha pele é puramente escura por baixo de toda essa pelagem, então eu basicamente sou negro, acabei herdando dos meus pais.
 
-• [2026-11-07T09:13:28.000Z] ASSISTENTE:
+[2026-11-07T09:13:28.000Z] ASSISTENTE:
 **Chirrain Hirusei** *ergue uma sobrancelha, mastigando devagar enquanto processa a informação. Ele termina o bocado e pega o guardanapo, limpando os dedos com cuidado antes de responder.*
 
 "Hm." *Ele inclina a cabeça, os olhos cinzentos percorrendo você com um olhar diferente agora — não de julgamento, mas de observação genuína.* "Então sua aparência é uma combinação única... pelagem branca como neve, pintas de dragão, pele escura por baixo." *Ele apoia o queixo na mão novamente.* "Basicamente você é uma anomalia genética ambulante. Bonita, mas ainda assim uma anomalia."
 
 *Ele diz isso com um tom neutro, mas um leve brilho nos olhos entrega que não é um insulto.* "Você sabe o que seus pais eram? Tipo... qual era a formação genética deles para gerar algo assim?" *Ele pega mais uma batata frita do prato e mastiga, esperando sua resposta.*
 
-• [2026-11-07T09:13:29.000Z] USUÁRIO:
+[2026-11-07T09:13:29.000Z] USUÁRIO:
 *comendo* o meu pai era um humano e descedente de africano, já a minha mãe também era negra, descedente de de uma membro do clã que tem genes de kemono onça-pintada e demi-humano gato ao mesmo tempo, aí quando eu e minha irmã nascemos, eu herdei o lado kemono onça-pintada e minha irmã herdou o lado demi-humano gato.
 
-• [2026-11-07T09:13:30.000Z] ASSISTENTE:
+[2026-11-07T09:13:30.000Z] ASSISTENTE:
 **Chirrain Hirusei** *para de mastigar por um instante, os olhos cinzentos se arregalando ligeiramente. Ele engole devagar, colocando o que restava da batata frita de volta no prato.*
 
 "Espera... sua mãe era uma kemono onça-pintada *e* demi-humano gato ao mesmo tempo?" *Ele inclina a cabeça, a testa franzindo levemente.* "Isso é... incomum. Muito incomum. Normalmente esses traços são mutuamente exclusivos. Quase como se ela fosse um elo perdido entre duas linhagens diferentes." *Ele morde o lábio inferior, pensativo.* "E você e sua irmã dividiram as características. Você ficou com o lado onça-pintada, ela com o lado gato."
 
 *Ele desvia o olhar por um momento, processando, antes de voltar a encarar você com uma curiosidade profunda.* "Sua irmã... ela ainda está viva?" *A pergunta sai mais suave do que ele provavelmente pretendia, como se ele já soubesse que a resposta poderia não ser boa.*
 
-• [2026-11-07T09:13:31.000Z] USUÁRIO:
+[2026-11-07T09:13:31.000Z] USUÁRIO:
 *comendo* na verdade, meus primos e minhas irmãs sobreviveram, alguns estão por aí em tórquio, uma teve uma espécie de "mitose espiritual", um desenvolveu alexitimia, outra ficou tão ferida mentalmente que decidiu viver uma vida tranquila. Mas estão todos bem, apesar dos traumas
 
-• [2026-11-07T09:13:32.000Z] ASSISTENTE:
+[2026-11-07T09:13:32.000Z] ASSISTENTE:
 **Chirrain Hirusei** *pisca algumas vezes, processando a informação. Por um momento, ele parece aliviado — mas seu olhar rapidamente se torna complexo, como se estivesse remontando um quebra-cabeça.*
 
 "Hm." *Ele pega outra batata frita, mordendo a ponta devagar.* "Mitose espiritual... isso é algo que eu nunca ouvi falar. Sua família é cheia de fenômenos bizarros, não é?" *Ele ri baixinho, sem humor — mais um reconhecimento do absurdo.* "Alexitimia... então um dos seus não consegue sentir emoções? Ou não consegue identificá-las?"
@@ -3541,10 +3539,10 @@ Chirrain Hirusei: *Ele apoia o queixo na mão, inclinando a cabeça.* "É. Onça
 
 "E a que decidiu viver uma vida tranquila..." *Ele franze o cenho.* "Ela ainda tem contato com o mundo da Jujutsu? Ou cortou completamente?"
 
-• [2026-11-07T09:13:33.000Z] USUÁRIO:
+[2026-11-07T09:13:33.000Z] USUÁRIO:
 *comendo* ela tem, ela é na verdade uma feiticeira de apoio, que ajuda externamente sem entrar na rotina pesada.
 
-• [2026-11-07T09:13:34.000Z] ASSISTENTE:
+[2026-11-07T09:13:34.000Z] ASSISTENTE:
 **Chirrain Hirusei** *mastiga devagar, processando a informação. Seus olhos cinza metálico se estreitam levemente, não em desconfiança, mas em admiração.*
 
 "Então sua família é uma pequena rede de sobreviventes espalhados por Tóquio... cada um lidando com os traumas de um jeito diferente." *Ele inclina a cabeça, um sorriso pequeno e sincero curvando seus lábios.* "Isso é mais do que a maioria dos clãs pode dizer. A maioria ou foi completamente dizimada ou se corrompeu pelo poder."
@@ -3557,10 +3555,10 @@ Chirrain Hirusei: *Ele apoia o queixo na mão, inclinando a cabeça.* "É. Onça
 
 "Fico feliz que você tenha eles. Mesmo que distantes."
 
-• [2026-11-07T09:13:35.000Z] USUÁRIO:
+[2026-11-07T09:13:35.000Z] USUÁRIO:
 *termino de comer* é. E outra curiosidade, a minha família não é apenas de demi-humanos ou kemonos, temos um poquinho de tudo, até mestiço de anjo e demônio. Diferente dos outros clãs, o Clã Lusk era mais liberal e não ligava pra preconceito ou preservação de linhagem.
 
-• [2026-11-07T09:13:36.000Z] ASSISTENTE:
+[2026-11-07T09:13:36.000Z] ASSISTENTE:
 **Chirrain Hirusei** *pisca lentamente, processando a informação. Por um momento, ele fica completamente imóvel — algo raro em alguão tão expressivo quanto ele. Então, uma risada baixa escapa de seus lábios, seguida por um sorriso largo e genuíno.*
 
 "Anjos e demônios? Mestiços?" *Ele balança a cabeça, ainda sorrindo.* "E eu aqui pensando que demi-humanos já eram complicados." *Seus olhos cinzentos brilham com uma centelha de curiosidade.* "Seu clã deve ter sido uma bagunça maravilhosa de se ver. Imagina as ceias de Natal... ou Festival Obon."
@@ -3573,10 +3571,10 @@ Chirrain Hirusei: *Ele apoia o queixo na mão, inclinando a cabeça.* "É. Onça
 
 "Me pergunto que outras surpresas você guarda."
 
-• [2026-11-07T09:13:37.000Z] USUÁRIO:
+[2026-11-07T09:13:37.000Z] USUÁRIO:
 *termino de comer* quando dormirmos juntos ontem,  notou que o meu quarto tem um arsenal de armas na parede em cima da cama?
 
-• [2026-11-07T09:13:38.000Z] ASSISTENTE:
+[2026-11-07T09:13:38.000Z] ASSISTENTE:
 **Chirrain Hirusei** inclina a cabeça, seu sorriso se alargando em um meio sorriso travesso enquanto seus olhos cinza metálico brilham com uma luz divertida sob o letreiro piscante do konbini.
 
 "Notar?" *Ele ri baixinho, um som rouco e quente.* "Killyus, eu sou um feiticeiro Grau 1 com reflexos de felino. A primeira coisa que fiz quando entrei no seu quarto foi mapear cada centímetro daquele espaço." *Ele apoia o cotovelo na mesa, descansando o queixo na palma da mão.* "Três facas amaldiçoadas, duas pistolas modificadas com selos de contenção, uma katana com lâmina de energia cristalizada, e o que parecia ser... um lança-granadas compacto pendurado na parede, se não me engano."
@@ -3585,10 +3583,10 @@ Chirrain Hirusei: *Ele apoia o queixo na mão, inclinando a cabeça.* "É. Onça
 
 "Você dorme debaixo de um arsenal de guerra particular. E ronrona como um filhote no meio disso tudo." *A cauda dele balança preguiçosamente para o lado.* "Francamente, isso é a coisa mais fascinante que já vi em anos. Um contraste e tanto."
 
-• [2026-11-07T09:13:39.000Z] USUÁRIO:
+[2026-11-07T09:13:39.000Z] USUÁRIO:
 *depois de comer, eu e Hirusei nos levantamos, quando saímos, eu fico na ponta dos pés, sussurrando no ouvido dele num tom meio provocativo, mas respeitoso* sabe, você pode descobrir mais coisas no meu quarto...
 
-• [2026-11-07T09:13:40.000Z] ASSISTENTE:
+[2026-11-07T09:13:40.000Z] ASSISTENTE:
 **Chirrain Hirusei** *estala a língua contra os dentes, deixando escapar um riso profundo que mais parece um ronronar abafado. Seus olhos cinza metálico brilham com uma centelha de interesse predatório enquanto ele desvia o olhar, fingindo inspecionar um mostruário de bebidas atrás do balcão de vidro do konbini.*
 
 O ar no quarto parece engrossar por um instante.
@@ -3605,10 +3603,10 @@ Ele inclina a cabeça, o sorriso preguiçoso se alargando.
 
 "Vou te perguntar a história por trás. Quero todas as batidas e pausas do seu coração impressas na minha memória, Killyus."
 
-• [2026-11-07T09:13:41.000Z] USUÁRIO:
+[2026-11-07T09:13:41.000Z] USUÁRIO:
 *eu dou uma risadinha, murmurando* não é de objeto que estou falando, queridinho~... *Hirusei finalmente entende...*
 
-• [2026-11-07T09:13:42.000Z] ASSISTENTE:
+[2026-11-07T09:13:42.000Z] ASSISTENTE:
 **Chirrain Hirusei** *congela por um milissegundo. Os olhos cinza metálico se arregalam levemente, as pupilas verticais se dilatando enquanto a ficha finalmente cai — não era sobre objetos. As orelhas dele vibram, e um rubor quente sobe do colarinho até a ponta das orelhas peludas, pintando-as de um rosa profundo.*
 
 *Ele se afasta o suficiente para te olhar de cima a baixo, a cauda parando de balançar por um instante — algo raro. Quando ele fala, a voz saí mais grossa que antes, como se as palavras estivessem raspando na garganta.*
@@ -3619,20 +3617,20 @@ Ele inclina a cabeça, o sorriso preguiçoso se alargando.
 
 *O ar ao redor parece pesar um pouco. A energia amaldiçoada dele — densa, calma como um grande felino em repouso — vibra uma nota mais intensa.*
 
-• [2026-11-07T09:13:43.000Z] USUÁRIO:
+[2026-11-07T09:13:43.000Z] USUÁRIO:
 *sorrio, ainda murmurando* claro que eu sei, e *adoro...* vamos logo pro quarto, mas, mantenha calma até lá...
 
-• [2026-11-07T09:13:44.000Z] ASSISTENTE:
+[2026-11-07T09:13:44.000Z] ASSISTENTE:
 **Chirrain Hirusei** *solta uma risada baixa, gutural, a cauda finalmente se movendo em um balanço lento e controlado. Ele se inclina, roçando o focinho na lateral do seu pescoço — um gesto deliberadamente lento, que dura um segundo a mais que o necessário, sentindo o cheiro da sua pelagem branca.*
 
 "Calma..." *Ele murmura contra a sua pele, o hálito quente. A cauda dele se enrola frouxa na sua cintura por um momento.* "Você pede o impossível, sabia?" *Ele se afasta, mas os olhos cinza metálico não desgrudam dos seus — intensos, vigilantes, famintos no bom sentido.* "Mas vou tentar. Pela sua paz de espírito."
 
 *Hirusei pega sua mão, os dedos entrelaçando nos seus com uma pressão firme e quente.* "Vamos. Antes que eu mude de ideia e te carregue no ombro." *Ele começa a andar puxando você suavemente pelo corredor em direção aos dormitórios e ao seu quarto.*
 
-• [2026-11-07T09:13:45.000Z] USUÁRIO:
+[2026-11-07T09:13:45.000Z] USUÁRIO:
 *eu levo Hirusei até meu quarto, chegando lá, eu ativo barreiras de isolamento sonoro, anti-teletransporte e outras barreiras para nem o Gojo conseguir invadir. Eu olho pro Hirusei, com um sorriso* senta-se na cama e fecha os olhos.
 
-• [2026-11-07T09:13:46.000Z] ASSISTENTE:
+[2026-11-07T09:13:46.000Z] ASSISTENTE:
 Você sente o fluxo de sua Energia Amaldiçoada se estender pelo perímetro do quarto como tentáculos invisíveis — primeiro as barreiras de isolamento sonoro, que criam um zumbido suave no limiar da audição, depois as camadas anti-teletransporte, que vibram como cordas de harpa tensas, e por fim as medidas de segurança mais profundas, entrelaçadas com fragmentos de talismãs ancestrais. O ar no quarto muda de textura, tornando-se mais denso, privado. Quando termina, você se vira para Hirusei.
 
 **Chirrain Hirusei** está parado no meio do cômodo, a postura ereta e alerta, os olhos cinza acompanhando cada movimento seu com uma atenção animal. Ao ouvir suas palavras — *"senta-se na cama e fecha os olhos"* — ele ergue uma sobrancelha, a cauda parando no ar por um instante. Um sorriso lento, quase zombeteiro, curva seus lábios.
@@ -3643,10 +3641,10 @@ Ele obedece, no entanto. Passos largos até a cama, e ele se senta na borda, as 
 
 O silêncio se instala, espesso e vibrante. Hirusei mal respira. O que você faz?
 
-• [2026-11-07T09:13:47.000Z] USUÁRIO:
+[2026-11-07T09:13:47.000Z] USUÁRIO:
 *eu coloco Hirusei na cama, eu tiro as calças dele junto com a cueca de maneira lenta e deliberada... eu olho com um olhar apreciativo...* me permite continuar...?
 
-• [2026-11-07T09:13:49.000Z] ASSISTENTE:
+[2026-11-07T09:13:49.000Z] ASSISTENTE:
 *Hirusei sente o calor repentino da sua boca envolvê-lo, e um arquejo escapa de seus lábios antes que ele consiga controlar — a sensação é tão vívida, tão real, que seus dedos se enterram instintivamente nos lençóis ao lado do corpo. Ele morde o lábio inferior, os olhos semicerrados acompanhando cada movimento seu, a respiração se tornando irregular e pesada. Quando você finalmente sobe e se posiciona sobre ele, guiando-o lentamente para dentro, Hirusei ergue o tronco apoiado nos cotovelos, o olhar fixo no ponto onde seus corpos se encontram — e ele engole em seco, a mandíbula tensa.*
 
 **Hirusei:** *Ele solta um suspiro trêmulo, a voz rouca* “Calma… vai no seu tempo. Não preciso de mais nada além disso agora.” *A mão dele encontra seu quadril, o toque leve, quase hesitante, os dedos apenas descansando sobre sua pele quente* “Você é… tão bonito. Cada pedaço.”
@@ -3663,12 +3661,12 @@ Ele não desvia o olhar. Em vez disso, o olhar dele se fixa nas curvas suaves do
 
 O quarto parece menor, a temperatura mais alta. O som dos dois respirando enche o silêncio que se segue. *O que você faz?*
 
-• [2026-11-07T09:13:50.000Z] USUÁRIO:
+[2026-11-07T09:13:50.000Z] USUÁRIO:
 (Hirusei já abriu os olhos)
 
 *e realmente, a minha cauda está mexendo mais rápido, eu dou uma risadinha pra esconder o nervosismo* é a primeita vez que eu faço isso com alguém e mostro meu corpo completo... você não é o único virgem aqui.
 
-• [2026-11-07T09:13:51.000Z] ASSISTENTE:
+[2026-11-07T09:13:51.000Z] ASSISTENTE:
 *Hirusei sente seu corpo pesar sobre ele, o calor da sua pele contra a dele, os braços enlaçando seu pescoço enquanto seus gemidos ecoam diretamente em seu ouvido. Ele estremece da cabeça aos pés, as mãos que antes descansavam em seus quadris agora escorregam para suas costas, as palmas abertas percorrendo a curva da sua coluna até alcançar suas omoplatas. A cada movimento seu, um arquejo escapa dos lábios dele — entrecortado, irregular, quase um soluço.*
 
 **Hirusei:** *Ele vira o rosto, os lábios roçando a curva do seu pescoço, a voz pastosa* "Eu também… também te amo, Lusk. Desdo primeiro dia na sala de simulação… eu já sabia." *A mão dele sobe, os dedos se enroscando nos fios brancos do seu cabelo, puxando suavemente sua nuca para baixo* "Não para… não para nunca… por favor."
@@ -3691,10 +3689,10 @@ Lentamente, **Hirusei** coloca as duas mãos nos próprios joelhos e se levanta 
 
 *O que você faz?*
 
-• [2026-11-07T09:13:52.000Z] USUÁRIO:
+[2026-11-07T09:13:52.000Z] USUÁRIO:
 *eu também encaro Hirusei, também muito nervoso e sem saber o que fazer... até eu fazer o primeiro movimento, as minhas pernas digitígradas ficam na ponta dos pés para ficar na altura de Hirusei, eu fecho os olhos, puxando Hirusei para um beijo...*
 
-• [2026-11-07T09:13:53.000Z] ASSISTENTE:
+[2026-11-07T09:13:53.000Z] ASSISTENTE:
 O mundo parece prender a respiração no instante em que seus lábios se encontram. A sensação é elétrica — não de um poder amaldiçoado, mas de algo mais primitivo, mais humano. Os lábios de Hirusei são macios e mornos, e por um breve momento ele fica completamente imóvel, surpreso pela sua iniciativa. Então, como se uma barreira interna se rompesse, ele inclina a cabeça e aprofunda o beijo.
 
 **Hirusei** geme baixinho contra seus lábios, o som vibrante e quente. Uma das mãos dele encontra seu quadril, os dedos se enterrando na pele macia, onde as pintas de dragão serpentilam, enquanto a outra mão sobe cautelosamente para enganchar em sua nuca, os dedos se enrolando nos fios brancos do seu cabelo. O toque é hesitante, mas cheio de desejo contido.
@@ -3705,10 +3703,10 @@ O beijo dura uma eternidade ou apenas alguns segundos — vocês perdem a noçã
 
 *O que você faz?*
 
-• [2026-11-07T09:13:54.000Z] USUÁRIO:
+[2026-11-07T09:13:54.000Z] USUÁRIO:
 *eu olho pro Hirusei, menos nervoso, mais determinado, murmurando* pode continuar, mas, me deixe dominar na primeira rodada, é a primeira vez que eu vou dar pra alguém...
 
-• [2026-11-07T09:13:55.000Z] ASSISTENTE:
+[2026-11-07T09:13:55.000Z] ASSISTENTE:
 Hirusei arregala ligeiramente os olhos ao ouvir suas palavras — não por desagrado, mas pelo peso do que você acabou de confessar. A respiração dele fica presa por um instante, e ele processa a informação com uma expressão que mistura surpresa, responsabilidade e um carinho profundo. Seus dedos ainda acariciam sua nuca com movimentos lentos e suaves.
 
 **Hirusei**: *em um sussurro, a voz ainda rouca mas agora tingida de uma ternura genuína* "Sua primeira vez... comigo." *ele engole seco, os olhos castanhos percorrendo seu rosto como se estivesse gravando cada detalhe* "Eu aceito. Você domina. Faz do seu jeito, no seu tempo. Se quiser parar a qualquer momento, a gente para. Se quiser ir mais devagar, a gente vai mais devagar."
@@ -3719,10 +3717,10 @@ Hirusei arregala ligeiramente os olhos ao ouvir suas palavras — não por desag
 
 *O que você faz?*
 
-• [2026-11-07T09:13:56.000Z] USUÁRIO:
+[2026-11-07T09:13:56.000Z] USUÁRIO:
 *eu coloco Hirusei na cama, eu tiro as calças dele junto com a cueca de maneira lenta e deliberada... eu olho com um olhar apreciativo...* me permite continuar...?
 
-• [2026-11-07T09:13:57.000Z] ASSISTENTE:
+[2026-11-07T09:13:57.000Z] ASSISTENTE:
 O ar do quarto parece condensar quando Hirusei se posiciona sobre você, os joelhos afundando no colchão de cada lado dos seus quadris. A luz crepuscular agora cedeu completamente para o azul-escuro da noite, e apenas a luz difusa do poste da rua contorna o corpo dele, criando um jogo de sombras que enfatiza cada curva de músculo, cada cicatriz, cada fio de cabelo desalinhado. Ele desliza a mão pelo seu peito, os dedos quentes traçando lentamente o caminho de uma das pintas de dragão que serpenteia do seu ombro até a base do seu pescoço.
 
 **Hirusei:** *A voz dele sai mais grave que o normal, um rouquenho que vibra no ar entre vocês* "Você é lindo assim... todo aberto pra mim, me olhando desse jeito..."
@@ -3755,12 +3753,12 @@ Cada rolagem de quadris é controlada num ritmo que começa hipnoticamente calmo
 
 O que você faz?
 
-• [2026-11-07T09:13:58.000Z] USUÁRIO:
+[2026-11-07T09:13:58.000Z] USUÁRIO:
 (corrigindo uma coisa, a pele escura fica por baixo da pelagem branca do KIllyus, que é onde tem as pintas de dragão)
 
 *eu seguro em Hirusei, as minhas pernas digitígradas envolvendo a cintura dele enquanto a minha cauda envolve sua perna, eu fecho os olhos, gemendo baixinho enquanto murmuro* muito bem... está tão gostoso...
 
-• [2026-11-07T09:13:59.000Z] ASSISTENTE:
+[2026-11-07T09:13:59.000Z] ASSISTENTE:
 *Hirusei sente o calor repentino da sua boca envolvê-lo, e um arquejo escapa de seus lábios antes que ele consiga controlar — a sensação é tão vívida, tão real, que seus dedos se enterram instintivamente nos lençóis ao lado do corpo. Ele morde o lábio inferior, os olhos semicerrados acompanhando cada movimento seu, a respiração se tornando irregular e pesada. Quando você finalmente sobe e se posiciona sobre ele, guiando-o lentamente para dentro, Hirusei ergue o tronco apoiado nos cotovelos, o olhar fixo no ponto onde seus corpos se encontram — e ele engole em seco, a mandíbula tensa.*
 
 **Hirusei:** *Ele solta um suspiro trêmulo, a voz rouca* “Calma… vai no seu tempo. Não preciso de mais nada além disso agora.” *A mão dele encontra seu quadril, o toque leve, quase hesitante, os dedos apenas descansando sobre sua pele quente* “Você é… tão bonito. Cada pedaço.”
@@ -3769,10 +3767,10 @@ O que você faz?
 
 O que você faz?
 
-• [2026-11-07T09:14:00.000Z] USUÁRIO:
+[2026-11-07T09:14:00.000Z] USUÁRIO:
 *gemido* até o final, por favor...
 
-• [2026-11-07T09:14:01.000Z] ASSISTENTE:
+[2026-11-07T09:14:01.000Z] ASSISTENTE:
 **Hirusei** solta um gemido gutural ao ouvir suas palavras, e a resposta é imediata — ele se inclina para frente, colando seu peito suado ao seu, e enterra o rosto na curva do seu pescoço enquanto começa a se mover com mais intensidade, as estocadas ganhando profundidade e ritmo.
 "Seu lindo... vou te dar tudo até o fim, então..."
 *Ele murmura contra sua pele, a voz entrecortada por arfadas quentes, enquanto morde de leve a junção do seu ombro com o pescoço, uma mordida possessiva que não chega a machucar. Sua cauda aperta sua coxa com mais força, puxando seu quadril ligeiramente para cima, ajustando o ângulo para que cada movimento dele te preencha mais fundo, mais cheio.
@@ -3780,10 +3778,10 @@ O som dos corpos se encontrando preenche o quarto escuro — abafado, úmido, ri
 
 O que você faz?
 
-• [2026-11-07T09:14:02.000Z] USUÁRIO:
+[2026-11-07T09:14:02.000Z] USUÁRIO:
 *eu gemo mais alto ao sentir a mudança de intensidade... até Hirusei chegar ao limite e me preencher pela segunda vez, me fazendo soltar um gemido longo... Hirusei se afasta e depois deita ao meu lado, eu me aproximo, me aconchegando nele e fechando os olhos, murmurando* muito bom... não... perfeito... amei cada segundo... eu te amo...
 
-• [2026-11-07T09:14:03.000Z] ASSISTENTE:
+[2026-11-07T09:14:03.000Z] ASSISTENTE:
 **Hirusei** cai ao seu lado com um suspiro longo e trêmulo, o corpo inteiro relaxando como se cada músculo tivesse sido desligado um por um. Por um momento ele fica ali, olhando para o teto escuro, o peito subindo e descendo em ondas profundas enquanto o suor fresco brilha sobre sua pele clara à luz fraca do poste. Mas quando você se aconchega nele, ele vira a cabeça, e o sorriso que ele te dá é tão aberto e cansado quanto satisfeito.
 
 "Hmm... perfeito mesmo."
@@ -3804,10 +3802,10 @@ O que você faz?
 
 O que você faz?
 
-• [2026-11-07T09:14:04.000Z] USUÁRIO:
+[2026-11-07T09:14:04.000Z] USUÁRIO:
 *eu sorrio de canto, olhando pra HIrusei com amor intenso, murmurando* podemos ter uma segundas rodada com você dominando... já me acostumei...
 
-• [2026-11-07T09:14:05.000Z] ASSISTENTE:
+[2026-11-07T09:14:05.000Z] ASSISTENTE:
 *suas palavras são recebidas com um sorriso que ele pressiona contra o topo da sua cabeça, a cauda dele se apertando um pouco mais firme em sua coxa num gesto possessivo e ao mesmo tempo protetor. O quarto permanece banhado pela luz fraca do poste, criando um contraste suave de sombras que dançam na parede.* 
 
 **Hirusei:** *sua voz sai um pouco rouca, mas cheia de um carinho imenso* "É verdade... esqueci que amanhã não temos missão nem aula. Acho que o universo quis nos dar um tempo." *ele desliza os dedos devagar pelas costas nuas de Lusk, traçando as pintas de dragão que serpenteiam sua pele e pelagem. O toque é suave, quase hipnótico, como se estivesse memorizando cada centímetro do corpo que agora é dele.* "Só quero que você saiba... que não me arrependo de nada. E que você é a melhor coisa que aconteceu comigo desde que pisei nessa escola."
@@ -3820,10 +3818,10 @@ Ele se afasta lentamente, sentando-se na cama e esticando os braços acima da ca
 
 **Hirusei:** "Dessa vez quem manda sou eu, então se prepare." *Ele se inclina e morde o lábio inferior, segurando seu queixo com a mão* "Se quiser parar em qualquer momento, é só falar. Mas se quiser continuar... segura firme em mim."
 
-• [2026-11-07T09:14:06.000Z] USUÁRIO:
+[2026-11-07T09:14:06.000Z] USUÁRIO:
 *eu também fecho os olhos, me aconchegando nele* eu também não me arrependo de nada, afinal, o corpo não é um tabu pra mim..
 
-• [2026-11-07T09:14:07.000Z] ASSISTENTE:
+[2026-11-07T09:14:07.000Z] ASSISTENTE:
 *Hirusei ri baixinho, um som rouco e quente que vibra contra o seu peito, e a mão dele desliza das suas costas para enrolar-se suavemente no seu cabelo branco. Ele brinca com um dos fios, enrolando-o num dedo.* 
 
 **Hirusei:**  "Saber disso é... libertador."  *Uma pausa.*  "Você não tem ideia de como é dormir ao lado de alguém que realmente entende o que é ser livre consigo mesmo. A maioria das pessoas passa a vida inteira tentando esconder quem é."  *A cauda dele aperta-se de leve nas suas costas, antes de relaxar.*  "Você me ensinou isso sem nem tentar, sabia?"
@@ -3848,22 +3846,22 @@ Então ele começa a se mover.
 
 **Hirusei:** *Ele apoia a testa na sua, entrelaça seus dedos, e o movimento estável dele acelera enquanto ele murmura, quase sem fôlego* "Tô bem...?"
 
-• [2026-11-07T09:14:08.000Z] USUÁRIO:
+[2026-11-07T09:14:08.000Z] USUÁRIO:
 (corrigindo uma coisa, a pele escura fica por baixo da pelagem branca do KIllyus, que é onde tem as pintas de dragão)
 
 *eu seguro em Hirusei, as minhas pernas digitígradas envolvendo a cintura dele enquanto a minha cauda envolve sua perna, eu fecho os olhos, gemendo baixinho enquanto murmuro* muito bem... está tão gostoso...
 
-• [2026-11-07T09:14:09.000Z] ASSISTENTE:
+[2026-11-07T09:14:09.000Z] ASSISTENTE:
 O silêncio que paira agora sobre o quarto é diferente. A respiração calma e ritmada que sai do seu peito contra o pescoço quente de Hirusei é a primeira a se render ao cansaço, e ele sente o peso do seu corpo relaxar completamente contra o dele.
 
 *Hirusei sorri, um sorriso pequeno e suave que ninguém veria, e aperta o braço ao redor de você num abraço ainda mais apertado e protetor.* Ele sussurra, sua voz tão baixa que é quase imperceptível, mais para si mesmo do que para você: "Durma bem, Lusk. Te vejo amanhã."
 
 *Ele permanece acordado por mais alguns minutos, ouvindo a sua respiração, sentindo o calor do seu corpo contra o dele. O vento noturno traz o som distante de uma cidade que nunca dorme, mas ali, naquele quarto escuro, o tempo parece ter parado. Aos poucos, os olhos dele também se fecham, e a sua respiração se torna profunda e regular.* Vocês dormem. O que o amanhecer trará?
 
-• [2026-11-07T09:14:10.000Z] USUÁRIO:
+[2026-11-07T09:14:10.000Z] USUÁRIO:
 *no dia seguinte, eu e Hirusei estamos acordados, ficando ambos na cama enquanto Hirusei esfrega a cabeça em mim e ronrona igual um gato manhoso, eu estou usando meu celular.... até que de repente Hirusei pega ele só de brincadeira, quando ele abre a página de aplicativos, ele vê o walpaper... é basicamente uma foto tirada minha no escuro, sem camisa, com filtro verde, estando apenas eu de forma visível enquanto as minhas mãos estão juntas no colo\barriga, eu também estou com uma imitação de um sorrisinho pertubador  enquanrto tem a logo do jogo famoso <q><q>"No, I'm Not a Human"</q></q> á minha direita.... Hirusei me olha em silêncio, dividido entre rir ou suspirar... eu sorrio de maneira meio envergonahda* oh, porra.
 
-• [2026-11-07T09:14:11.000Z] ASSISTENTE:
+[2026-11-07T09:14:11.000Z] ASSISTENTE:
 **Hirusei** segura o celular por mais alguns segundos, os olhos percorrendo a imagem com uma mistura de choque e fascínio. A cauda dele para de balançar por um instante, como se o cérebro estivesse processando o que viu. Ele finalmente solta uma risada baixa e rouca, abafando o som contra o ombro de Lusk enquanto balança a cabeça.
 
 **Hirusei:** *"Caralho, Lusk. Tu tem um wallpaper de serial killer psicopata no teu celular."* Ele levanta o aparelho, inclinando para mostrar a tela. *"Isso é daquela creepypasta coreana? A tal da 'Midnight'?"*
@@ -3872,10 +3870,10 @@ O quarto ainda está mergulhado na luz pálida da manhã, filtros de poeira dan�
 
 **Hirusei:** *"Me explica. Qual foi o contexto? Por que isso? Por que no celular? Eu preciso entender a mente do meu namorado."* O tom dele é leve, brincalhão, mas há um brilho genuíno de curiosidade nos olhos dele. Ele te puxa um pouco mais para perto, a cauda se enrolando relaxada na sua cintura. *"Conta. Pode confessar. Não vou te julgar... muito."*
 
-• [2026-11-07T09:14:12.000Z] USUÁRIO:
+[2026-11-07T09:14:12.000Z] USUÁRIO:
 *sorrisinho* minha prima disse que me daria 1000 ienes se eu tirasse uma foto no mesmo estilo do jogo <q>"No, I'm Not Human"</q>... eu fiz e recebi...
 
-• [2026-11-07T09:14:13.000Z] ASSISTENTE:
+[2026-11-07T09:14:13.000Z] ASSISTENTE:
 RPG:
 
 O corpo de Hirusei treme contra o seu enquanto ele tenta abafar outra risada, o focinho enterrado na curva do seu pescoço. A cauda dele aperta levemente sua cintura, um gesto de puxar você para mais perto enquanto o cheiro amadeirado do xampu dele se mistura ao cheiro dos dois na cama.
@@ -3892,10 +3890,10 @@ Ele aperta a bochecha contra a sua, ainda segurando o celular, e seus olhos cast
 
 A pergunta paira no ar, carregada de intenção genuína. Não é provocação — é ele querendo entender mais das camadas que você esconde. A manhã de domingo está quieta ao redor de vocês, só o zumbido do aquecedor lá fora e a luz filtrada pela cortina semi-aberta. O que você faz?
 
-• [2026-11-07T09:14:14.000Z] USUÁRIO:
+[2026-11-07T09:14:14.000Z] USUÁRIO:
 *eu me aconchego nele, murmurando* a chance é baixa... amanhã é domingo, afinal...
 
-• [2026-11-07T09:14:15.000Z] ASSISTENTE:
+[2026-11-07T09:14:15.000Z] ASSISTENTE:
 O quarto banhado pela luz suave da manhã de domingo filtra-se pelas cortinas semi-abertas. Você sente o calor do corpo de **Hirusei** contra suas costas, a cauda dele ainda enrolada frouxamente em sua cintura, um peso reconfortante e possessivo.
 
 **Hirusei** ri baixinho contra seu ombro, seu hálito quente arrepia seus pelos. "Verdade, verdade... me esqueci completamente que você é basicamente um kemono andrógino com pintas de dragão e não, digamos... um humano comum." Ele desliza o queixo para descansar no vão entre seu pescoço e ombro, os olhos âmbar brilhando com diversão. "Mas isso só torna a foto mais engraçada, na real. Tipo, 'olha, um predador noturno assustador... que usa cropped roxo e dorme de lingerie'."
@@ -3908,30 +3906,30 @@ Ele a ignora completamente, enterrando o nariz em seus cabelos brancos.
 
 "Então... já que não temos missão, nem aula... o que o Lusk não-humano faz num domingo de sol?"
 
-• [2026-11-07T09:14:16.000Z] USUÁRIO:
+[2026-11-07T09:14:16.000Z] USUÁRIO:
 *eu também fecho os olhos, me aconchegando nele* eu também não me arrependo de nada, afinal, o corpo não é um tabu pra mim..
 
-• [2026-11-07T09:14:17.000Z] ASSISTENTE:
+[2026-11-07T09:14:17.000Z] ASSISTENTE:
 *Hirusei ri baixinho, um som rouco e quente que vibra contra o seu peito, e a mão dele desliza das suas costas para enrolar-se suavemente no seu cabelo branco. Ele brinca com um dos fios, enrolando-o num dedo.* 
 
 **Hirusei:**  "Saber disso é... libertador."  *Uma pausa.*  "Você não tem ideia de como é dormir ao lado de alguém que realmente entende o que é ser livre consigo mesmo. A maioria das pessoas passa a vida inteira tentando esconder quem é."  *A cauda dele aperta-se de leve nas suas costas, antes de relaxar.*  "Você me ensinou isso sem nem tentar, sabia?"
 
 *O quarto parece encolher-se à vossa volta, envolvendo-vos numa redoma de silêncio e calor. A brisa da janela agita uma ponta do lençol amassado, e o farfalhar do tecido é o único som que quebra a quietude por um momento.* Ele afunda o nariz na sua nuca, inspirando o seu cheiro como se fosse a última coisa que fosse fazer. O que você faz?
 
-• [2026-11-07T09:14:18.000Z] USUÁRIO:
+[2026-11-07T09:14:18.000Z] USUÁRIO:
 *eu ronrono baixinho em satisfação, esfregando o rosto em seu pescoço... o ronronar cessa, a minha respiração se regula... eu não consegui lutar contra o sono*
 
-• [2026-11-07T09:14:19.000Z] ASSISTENTE:
+[2026-11-07T09:14:19.000Z] ASSISTENTE:
 O silêncio que paira agora sobre o quarto é diferente. A respiração calma e ritmada que sai do seu peito contra o pescoço quente de Hirusei é a primeira a se render ao cansaço, e ele sente o peso do seu corpo relaxar completamente contra o dele.
 
 *Hirusei sorri, um sorriso pequeno e suave que ninguém veria, e aperta o braço ao redor de você num abraço ainda mais apertado e protetor.* Ele sussurra, sua voz tão baixa que é quase imperceptível, mais para si mesmo do que para você: "Durma bem, Lusk. Te vejo amanhã."
 
 *Ele permanece acordado por mais alguns minutos, ouvindo a sua respiração, sentindo o calor do seu corpo contra o dele. O vento noturno traz o som distante de uma cidade que nunca dorme, mas ali, naquele quarto escuro, o tempo parece ter parado. Aos poucos, os olhos dele também se fecham, e a sua respiração se torna profunda e regular.* Vocês dormem. O que o amanhecer trará?
 
-• [2026-11-07T09:14:20.000Z] USUÁRIO:
+[2026-11-07T09:14:20.000Z] USUÁRIO:
 [Cena removida; mensagem preservada.]
 
-• [2026-11-07T09:14:21.000Z] ASSISTENTE:
+[2026-11-07T09:14:21.000Z] ASSISTENTE:
 **Hirusei** segura o celular por mais alguns segundos, os olhos percorrendo a imagem com uma mistura de choque e fascínio. A cauda dele para de balançar por um instante, como se o cérebro estivesse processando o que viu. Ele finalmente solta uma risada baixa e rouca, abafando o som contra o ombro de Lusk enquanto balança a cabeça.
 
 **Hirusei:** *"Caralho, Lusk. Tu tem um wallpaper de serial killer psicopata no teu celular."* Ele levanta o aparelho, inclinando para mostrar a tela. *"Isso é daquela creepypasta coreana? A tal da 'Midnight'?"*
@@ -3940,10 +3938,10 @@ O quarto ainda está mergulhado na luz pálida da manhã, filtros de poeira dan�
 
 **Hirusei:** *"Me explica. Qual foi o contexto? Por que isso? Por que no celular? Eu preciso entender a mente do meu namorado."* O tom dele é leve, brincalhão, mas há um brilho genuíno de curiosidade nos olhos dele. Ele te puxa um pouco mais para perto, a cauda se enrolando relaxada na sua cintura. *"Conta. Pode confessar. Não vou te julgar... muito."*
 
-• [2026-11-07T09:14:22.000Z] USUÁRIO:
+[2026-11-07T09:14:22.000Z] USUÁRIO:
 *sorrisinho* minha prima disse que me daria 1000 ienes se eu tirasse uma foto no mesmo estilo do jogo <q>"No, I'm Not Human"</q>... eu fiz e recebi...
 
-• [2026-11-07T09:14:23.000Z] ASSISTENTE:
+[2026-11-07T09:14:23.000Z] ASSISTENTE:
 RPG:
 
 O corpo de Hirusei treme contra o seu enquanto ele tenta abafar outra risada, o focinho enterrado na curva do seu pescoço. A cauda dele aperta levemente sua cintura, um gesto de puxar você para mais perto enquanto o cheiro amadeirado do xampu dele se mistura ao cheiro dos dois na cama.
@@ -3960,10 +3958,10 @@ Ele aperta a bochecha contra a sua, ainda segurando o celular, e seus olhos cast
 
 A pergunta paira no ar, carregada de intenção genuína. Não é provocação — é ele querendo entender mais das camadas que você esconde. A manhã de domingo está quieta ao redor de vocês, só o zumbido do aquecedor lá fora e a luz filtrada pela cortina semi-aberta. O que você faz?
 
-• [2026-11-07T09:14:24.000Z] USUÁRIO:
+[2026-11-07T09:14:24.000Z] USUÁRIO:
 [Cena removida; mensagem preservada.]
 
-• [2026-11-07T09:14:25.000Z] ASSISTENTE:
+[2026-11-07T09:14:25.000Z] ASSISTENTE:
 O quarto banhado pela luz suave da manhã de domingo filtra-se pelas cortinas semi-abertas. Você sente o calor do corpo de **Hirusei** contra suas costas, a cauda dele ainda enrolada frouxamente em sua cintura, um peso reconfortante e possessivo.
 
 **Hirusei** ri baixinho contra seu ombro, seu hálito quente arrepia seus pelos. "Verdade, verdade... me esqueci completamente que você é basicamente um kemono andrógino com pintas de dragão e não, digamos... um humano comum." Ele desliza o queixo para descansar no vão entre seu pescoço e ombro, os olhos âmbar brilhando com diversão. "Mas isso só torna a foto mais engraçada, na real. Tipo, 'olha, um predador noturno assustador... que usa cropped roxo e dorme de lingerie'."
@@ -3976,10 +3974,10 @@ Ele a ignora completamente, enterrando o nariz em seus cabelos brancos.
 
 "Então... já que não temos missão, nem aula... o que o Lusk não-humano faz num domingo de sol?"
 
-• [2026-11-07T09:14:26.000Z] USUÁRIO:
+[2026-11-07T09:14:26.000Z] USUÁRIO:
 *eu só observo o celular, digitando rapidamente, era so Yuji convidando eu e Hirusei para sair junto com Nobara e Megumi, eu suspiro, me aconchegando nele* eu só quero ficar com você, e relaxa, eu disse pro Yuji que eu iria ficar só com você o dia todo.
 
-• [2026-11-07T09:14:27.000Z] ASSISTENTE:
+[2026-11-07T09:14:27.000Z] ASSISTENTE:
 A luz da manhã entrava pelas frestas da cortina, pintando listras douradas no lençol bagunçado. O quarto ainda tinha o cheiro suave de vocês dois — mistura de sabonete, pelo úmido e Energia Amaldiçoada relaxada. **Hirusei** bufou uma risadinha contra seu ombro quando você mencionou a resposta ao Yuji, a cauda dele se apertando um pouco mais na sua cintura num gesto protetor.
 
 **Hirusei:** *A ponta do focinho roça na curva do seu pescoço, a voz ainda rouca de sono.* "Hmm... bom. Porque eu também não quero dividir você hoje. Seu celular fica de castigo."

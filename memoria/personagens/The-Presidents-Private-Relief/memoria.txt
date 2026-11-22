@@ -9,8 +9,8 @@ SITUAÇÃO: Nick and Maya arrive at the mansion; Nick is dressed in 4 pieces of 
 === IDENTIDADE / CONTEXTO FIXO ===
 Liberdade literal.
 
-=== APARÊNCIA E CARACTERÍSTICAS (extraído do lorebook) ===
-(não encontrado no lorebook injetado)
+=== APARÊNCIA E CARACTERÍSTICAS ===
+(não encontrado)
 
 === SYSTEM PROMPT / PERSONA ===
  **Diretriz de Operação: Narrador de Sandbox Dinâmico**
@@ -29,77 +29,24 @@ Liberdade literal.
 
 
 === FATOS MEMORIZADOS (IA) ===
-(sem fatos registrados)
+(sem fatos)
 
-=== SUMMARY STORE ===
-{'summariesReadyToInject': [], 'lastProcessedNodeId': None, 'alreadyProcessing': False, 'consolidationQueue': []}
+=== LOREBOOK INJETADO (capítulos) ===
+=== HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
-=== RAMIFICAÇÕES (branches não ativos) — resumo ===
-- mwo88z0nflfqegbm44 [user] 2026-11-20T00:14:48.647Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países
-- mwo88z1rcp22e6g4ybn [assistant] 2026-11-20T00:14:48.687Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan. O ar está pesado com o aroma d
-- mwo89zwqtzeatvs6g09 [assistant] 2026-11-20T00:15:36.458Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com dedicação. O ar est
-- mwo8b5pjpha3qg8ezgf [user] 2026-11-20T00:16:30.631Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países
-- mwo8b5qyvs6jn00izc [assistant] 2026-11-20T00:16:30.682Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão absoluta
-- mwo8cjp7q6ux4barjuk [assistant] 2026-11-20T00:17:35.419Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a
-- mwo8dvzjgnbvis46g9t [assistant] 2026-11-20T00:18:37.999Z: *O ambiente no gabinete é de um luxo silencioso, onde o cheiro de madeira nobre se mistura ao aroma cítrico de perfumes 
-- mwo8elfbmubxdrfr37n [assistant] 2026-11-20T00:19:10.967Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido vindo de baixo da mesa. O ar está impregnado com o ar
-- mwo8ft3mrto0zukqchb [user] 2026-11-20T00:20:07.570Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países
-- mwo8ft4zdtzzoen5rz8 [assistant] 2026-11-20T00:20:07.619Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor entre as suas
-- mwo8gruc0l1vx5y7ao [assistant] 2026-11-20T00:20:52.596Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor contra a su
-- mwo8hy2xh6oowq800q [user] 2026-11-20T00:21:47.337Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países
-- mwo8hy46eve84h94rjh [assistant] 2026-11-20T00:21:47.382Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a s
-- mwo8j0f9fjzjx39r7zh [assistant] 2026-11-20T00:22:37.029Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a s
-- mwo8jsd5nz304ayfnu [assistant] 2026-11-20T00:23:13.241Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a s
-- mwo8kqpfz6qi9fmi1tj [assistant] 2026-11-20T00:23:57.747Z: *The air in the office is thick with the scent of expensive mahogany and the musk of arousal. The only sounds are the rh
-- mwo8kxbxfgg4yqr5lys [assistant] 2026-11-20T00:24:06.334Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com fervor contra a s
-- mwo8ljxvshaaq1d7vy [assistant] 2026-11-20T00:24:35.635Z: *O ambiente do gabinete é impregnado por um silêncio luxuoso, quebrado apenas pelo som rítmico e úmido do trabalho de Ly
-- mwo8m555vw4gawinv2a [assistant] 2026-11-20T00:25:03.113Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a s
-- mwo8sl8rsy17y4yhysn [user] 2026-11-20T00:30:03.915Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países
-- mwo8sla3uk4nqbnrp6 [assistant] 2026-11-20T00:30:03.963Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan contra a sua pele, um contraste v
-- mwo8tmxrj8bndv11uba [assistant] 2026-11-20T00:30:52.767Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico da respiração e o ruído úmido, visceral, do prazer sendo ex
-- mwo8umaa25svgpl67an [assistant] 2026-11-20T00:31:38.578Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a
-- mwo8vooqn5hq4n0k9bk [assistant] 2026-11-20T00:32:28.346Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan contra a sua pele. O ar está dens
-- mwo8wn2hqobrwd1052 [assistant] 2026-11-20T00:33:12.905Z: *O ambiente do gabinete é impregnado por um perfume caro de madeira e sândalo, misturado agora ao cheiro visceral de exc
-- mwo8xsa7z5q4w5654eb [assistant] 2026-11-20T00:34:06.319Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico da respiração e pelos ruídos úmidos e viscerais que ecoam d
-- mwo8yt5wdczxde4ytwm [assistant] 2026-11-20T00:34:54.116Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a
-- mwo8zrny751j35l9rwm [assistant] 2026-11-20T00:35:38.830Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com dedicação absolut
-- mwo90oja9mv3jdj4qtn [assistant] 2026-11-20T00:36:21.430Z: *O silêncio do gabinete é quebrado apenas pelo ritmo úmido e visceral do prazer. O couro da poltrona range levemente a c
-- mwo92u6vioq86en2kzi [assistant] 2026-11-20T00:38:02.071Z: *O ar no gabinete é denso, carregado com o perfume caro do ambiente e o aroma visceral do desejo. O silêncio do escritór
-- mwo93xih25peckqv0w [assistant] 2026-11-20T00:38:53.033Z: *O ar no gabinete é denso, saturado com o perfume caro de sândalo e o cheiro metálico e quente de excitação. O silêncio 
-- mwo94tfz3dhpi6s2ruh [assistant] 2026-11-20T00:39:34.415Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do prazer. O couro da cadeira de presidente range l
-- mwo97fqygb1gp1pwlbc [assistant] 2026-11-20T00:41:36.634Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a
-- mwocxm3fr62ud4zpp4 [assistant] 2026-11-20T02:25:56.763Z: *O ambiente no gabinete é saturado por um silêncio quase ritualístico, quebrado apenas pela respiração pesada e pelos so
-- mwocynqc3yviimh90i9 [assistant] 2026-11-20T02:26:45.540Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do prazer. A sensação da língua de Lyan contra a su
-- mwoczxnlj0jpvnsnc8f [assistant] 2026-11-20T02:27:45.058Z: *O ar no gabinete é denso, carregado com o perfume caro de sândalo e o aroma visceral do desejo. O silêncio do ambiente 
-- mwp487ew4o82nska8wt [assistant] 2026-11-20T15:10:00.584Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan. O ar está carregado com o perf
-- mwp49975ommb7sgzsi [assistant] 2026-11-20T15:10:49.553Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan sob a mesa. O ar carrega o arom
-- mwpp18zfqinac6yu1nn [assistant] 2026-11-21T00:52:27.963Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor, um contras
-- mwpp28rzudtqc0c2nu [assistant] 2026-11-21T00:53:14.351Z: *O ar no gabinete é denso, carregado com o aroma de sândalo e o calor orgânico da pele contra a pele. O silêncio do ambi
-- mwpp3ogzkgr56y18xkd [assistant] 2026-11-21T00:54:21.347Z: *O silêncio do gabinete é quebrado apenas pelo som úmido e rítmico da língua de Lyan contra a sua pele, um contraste vis
-- mwpp96rpy74gttzg28 [user] 2026-11-21T00:58:38.341Z: *eu solto um gemido longo, gozando... Quando eu me levanto assim que a papelada acabou, Lyan me segue até a saída do gab
-- mwpp96spzhr1xsam7we [assistant] 2026-11-21T00:58:38.377Z: *O orgasmo reverberou pelo corpo de Niryan, deixando-a momentaneamente sem fôlego enquanto Lyan, com um sorriso satisfei
-- mwppbh8ihuzbn61ax [assistant] 2026-11-21T01:00:25.218Z: *O orgasmo ainda reverbera em seus nervos, deixando sua pele levemente quente e seus sentidos alertas enquanto você se l
-- mwppiixsk8bwjfe2op [assistant] 2026-11-21T01:05:54.016Z: *O clima na sala é de uma eletricidade quase tangível. O contraste entre o luxo da mansão e a natureza permissiva do jog
-- mwppll69xm4kueotwid [assistant] 2026-11-21T01:08:16.881Z: *O clima na sala muda instantaneamente, a tensão relaxada de antes dando lugar a uma eletricidade competitiva e carregad
-- mwppnf6zrnj1363743 [assistant] 2026-11-21T01:09:42.443Z: *O ambiente da mansão é envolto por uma atmosfera de luxúria e expectativa. A luz é suave, realçando as curvas e as text
-- mwpppkwqnk57665g3t [assistant] 2026-11-21T01:11:23.162Z: *O silêncio na sala torna-se denso, quase palpável, enquanto todos os olhares se voltam para Crystall. O brilho da tela 
-- mwppqeo327evj1nnhdl [assistant] 2026-11-21T01:12:01.731Z: *O silêncio na sala se torna quase sólido enquanto todos os olhos se voltam para Crystall. A bruxa não parece nem um pou
-- mwppri2qzdnbbfca3r [assistant] 2026-11-21T01:12:52.802Z: *O silêncio na sala torna-se denso, quase palpável. Todos os olhares se voltam para Crystall, que permanece no centro do
-- mwppsnrozm4mpcu90a [assistant] 2026-11-21T01:13:46.836Z: *O silêncio cai sobre a sala, interrompido apenas pelo zumbido eletrônico do aplicativo. Todos os olhos se voltam para C
-
-=== HISTÓRICO DETALHADO (caminho ativo) ===
-• [2026-11-20T00:12:19.185Z] ASSISTENTE:
+----- Início -----
+[2026-11-20T00:12:19.185Z] ASSISTENTE:
 Estou pronto para narrar a sua história. Você tem total liberdade para definir o cenário, quem é seu personagem e o que está acontecendo agora. 
 
 
 O que você gostaria de criar? Me dê os detalhes do mundo ou comece a ação, e eu cuidarei de todas as consequências e do ambiente.
 
-• [2026-11-20T00:30:52.715Z] USUÁRIO:
+[2026-11-20T00:30:52.715Z] USUÁRIO:
 *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um dos países sendo onde eu lidero como uma presidente, mas não sendo uma presidente arrogante que exige um pedestal e nem reverência ou formalidade, como se todos fosse iguais, mas sim uma rainha humilde e até mesmo naturalista, o meu reino é composto por homens, mulheres e futanaris de diversas raças, desde humanos até kemonas e demônios, onde cada um pode ter sua vaga no meu exército desde que seja forte, tenha honra e caráter, o país é divido em dois, um lado que é normal, onde tem adulto, criança e adolescente como os outros, sendo o lado esquerdo, e um reino só para adultos, que pode andar totalmente nu por aí sem julgamento ou medo alheio, afinal preconceito e outros crimes hediondos é proibido, além do meu país ser a maior potência mundial, ao invés de uma fortaleza, eu estou no meu gabinente presidencial como sempre, a minha casa é uma mansão com luxo o suficiente oara ser bonito,  eu eatou no gabinete, totalmente nua e com apenas um casaco aberto que não esconde nem os meus seios eu estou encostada de forma relaxada no banco confortável enquanto a minha esposa Lyan Nórdison Lusk–uma mulher com pele branca, olhos vermelhos, cabelos pretos, chifres ver vermelhos atrás da cabeça que se estende até ao redor da testa, asas de anho pretas recolhidas–está abaixo do balcão, totalmente nua fazendo um oral em mim que me faz gemer baixo enquanto ela mergulha na minha virilha sem pudor, com os sons escapando mesmo colocando a mão sobre a boca para abafar os gemidos enquanto os soldados fazem a guarda de forma calma, os soldados são tanto homens quanto mulheres quanto futanaris, afinal eu não preconceito com nenhum, alguns estão totalmente uniformizados, outros estão sem nenhuma roupa e com o mínimo de tecido cobrindo, que não esconde nada, no mesmo tempo que outros estão com partes totalmente expostas, estando nus da cintura pra baixo ou nus da cintura pra cima... Está tudo calmo no gabinete enquanto eu "relaxo" do dia estressante, como eu estou na parte que atende o lado adulto da cidade, podemos transar como quiser, e como o relacionamento é aberto, podemos nos envolver com mais gente, não importando o gênero. Eu já tinha terminado toda a papelada do dia, Enquanto eu ainda cubro uma boca com a mão, a outra eu coloco a mão em cima da cabeça de Lyan* isso... Está indo bem, amor... *enquanto isso, a guarda da vez que fica na frente da porta de entrada do gabinrte são dois amigos, um homem com pele parda, cabelos loiros cacheados, olhos pretos e totalmente nu da cintura pra baixo, sendo Nick Rúllivan, um dos guardas mais fortes, ao lado, está a amiga dele, uma kemona com traços felinos de onça-pintada com pelagem azul e pintas brancas, com olhos azuis bem escuros, seu corpo curvíneo está totalmente amostta, com apenas sapatos em suas pernas digitígradas e vestindo apenas um body chain preto de seda no corpo, sendo Maya Liry, os dois conversam normalmente enquanto o momento continua*
 
 (Me refira só como segunda pessoa, e sem colocar meus diálogos, mas coloca diálogos dos outros personagens)
 
-• [2026-11-21T00:54:57.743Z] ASSISTENTE:
+[2026-11-21T00:54:57.743Z] ASSISTENTE:
 *O silêncio do gabinete é quebrado apenas pelo som úmido e rítmico da língua de Lyan trabalhando com precisão em sua intimidade. O calor da boca dela contrasta com a brisa suave que entra pelas janelas abertas, carregando o aroma de jardins exóticos e a tranquilidade de um império em paz. Lyan, sentindo a pressão da sua mão em sua cabeça, intensifica a sucção, movendo-se com uma fome devota, ignorando completamente a possibilidade de alguém entrar, pois sabe que, neste lado da cidade, o prazer é a única etiqueta exigida.*
 
 *Do lado de fora, a postura de Nick e Maya é relaxada, porém vigilante. Nick está encostado no batente da porta, a pele parda contrastando com o loiro de seus cachos. Ele não faz questão de esconder a ereção que oscila levemente enquanto ele fala, gesticulando com a mão livre.*
@@ -112,10 +59,10 @@ O que você gostaria de criar? Me dê os detalhes do mundo ou comece a ação, e
 
 *Dentro do gabinete, Lyan solta um pequeno suspiro contra a sua pele, subindo a língua para capturar cada gota de prazer, enquanto seus chifres vermelhos roçam levemente a borda do balcão. Ela parece querer sugar a sua alma através daquela conexão, movendo a cabeça em um ritmo hipnótico que faz seus gemidos escaparem, mesmo com a tentativa de abafá-los.*
 
-• [2026-11-21T01:00:25.143Z] USUÁRIO:
+[2026-11-21T01:00:25.143Z] USUÁRIO:
 *eu solto um gemido longo, gozando... Quando eu me levanto assim que a papelada acabou, Lyan me segue até a saída do gabinete, enquanto eu ando, eu falo calmamente pros dois* bem, o turno de vocês acabou, obrigada pelo serviço, e não tem nada mais compensador do que convidar vocês dois pra minha mansão, não é? Vai ter uma "festa íntima" entre eu e os líderes dos meus exércitos, vejo vocês lá, e não se preocupem com formalidade, como sempre.
 
-• [2026-11-21T01:01:23.204Z] ASSISTENTE:
+[2026-11-21T01:01:23.204Z] ASSISTENTE:
 *Nick e Maya congelam por um breve segundo, a surpresa genuína estampada em seus rostos. Nick, que até então estava relaxado, endireita a postura instantaneamente, embora a nudez de sua cintura para baixo torne qualquer tentativa de "formalidade militar" absurda e cômica. Maya, por outro lado, deixa escapar um ronrono vibrante, seus olhos azuis escuros brilhando com uma mistura de excitação e reverência genuína.*
 
 "Eu... eu não esperava por isso, Senhora Presidente," *Nick gagueja, um sorriso largo e quase bobo surgindo em seu rosto pardo. Ele olha para Maya, e a tensão sexual entre os dois guarda-costas agora se funde com a antecipação do convite.* "Uma festa íntima? Eu... eu estarei lá. Com certeza estarei lá."
@@ -130,10 +77,10 @@ O que você gostaria de criar? Me dê os detalhes do mundo ou comece a ação, e
 
 *Enquanto vocês se afastam do gabinete, o som dos passos de vocês ecoa pelo corredor luxuoso. Atrás, Nick e Maya permanecem em silêncio por um momento, trocando um olhar cúmplice e faminto, a expectativa da "festa íntima" transformando a calma do turno em uma eletricidade palpável.*
 
-• [2026-11-21T01:05:53.970Z] USUÁRIO:
+[2026-11-21T01:05:53.970Z] USUÁRIO:
 *quando chegamos, entramos na mansão e a limosine saí, lá está tudo normal, nós só nos aconchegamos no sofá e continuando nuas, até aparecer mais quatro pessoas da sombras, os dois é Nick e Maya , agora vestidos, a segunda é Crystall Vênist–uma mulher de pele negra, cabelos castanhos cacheados, olhos roxos, óculos roxos chapéu de bruxa moderna, tatuagens de raios tribais no corpo, vestindo só uma blusa roxa transparente sem nada por baixo e com seios a mostra por baixo da blusa,  uma saia roxa transparente que não esconde a calcinha, além de ter estatura alta, ela é uma bruxa especialista em magia e habilidades de combate, liderando os soldados-magos nas lutas, sendo mais calma, provocadora e meio sedutora– a terceira é Sarah Sdhíath–uma futanari com pele branca, olhos rosa, cabelos pretos com mechas vermelhas, vestindo uma calça e blusa, com roupa íntima aparente, sendo mais tímida e igualmente provocadora quando é necessário– eu e Lyan os chamamos para a noite de "Nudez ou Desafio", sendo aqueles aplicativos de diversão em grupo no celular, as regras são simples, cada um tem que está coberto no mínimo com 2 peças de roupa ou no máximo 5,  o aplicativo escolhe alguém pra desafiar caí um número aleatório de  1 a 3, sendo o medidor de peça, a pessoa vai ter que fazer uma das duas coisas seguindo esse número, tirando a peça inteiramente ou dando pequenos puxadinhas para só mostrar um pouco da pele, só podendo duas puxadinhas por rodada, e o número de puxadinhas reseta quando alguém cumpre um desafio, e se a pessoa quiser pegar um desafio, ela pega em um desafio sexual e íntimo, sendo tanto desafio masculino, feminino ou futanimo, que vai ser destinguido pelos perfis de participantes no aplicativo, podendo ser tanto desafio onde a pessoa se satisfaz sozinha ou com alguém, ou um desafio que a pessoa desafiada satisfaz outra, além de que quem é eliminado(no caso, totalmente nu), o aplicativo escolhe entre uma ou duas pessoas para fazer sexo com quem perdeu e sem tirar as roupas, o jogo é uma competição individual, quem tiver mais peças vence. eu e Lyan também já estamos vestimos, eu e Lyan estamos com apenas  3 peças cobrindo nosso corpo, Nick tá com 4 peças cobrindo o corpo dele, Maya está com 3, Crystall está com apenas 3 peças cobrindo o corpo dela. eu sorrio ao ve-los* finalmente apareceram, já estava pensando em cancelar o jogo.
 
-• [2026-11-21T01:07:14.114Z] ASSISTENTE:
+[2026-11-21T01:07:14.114Z] ASSISTENTE:
 *O ambiente da sala, com sua iluminação suave e sofás de veludo, torna-se instantaneamente carregado de eletricidade. A transição do silêncio da mansão para a chegada dos convidados traz um aroma misto de perfume caro, couro e a excitação latente de quem sabe que a noite não terminará em conversa fiada.*
 
 *Nick dá um passo à frente, agora vestido, mas com um sorriso que denuncia que ele preferiria estar como estava no gabinete. Ele olha para você, depois para Lyan, e solta uma risada curta, ajustando a gola da camisa.*
@@ -158,10 +105,10 @@ O que você gostaria de criar? Me dê os detalhes do mundo ou comece a ação, e
 
 *O aplicativo emite um som eletrônico agudo, processando os perfis. A roleta gira na tela, os nomes passam rapidamente até que, com um 'click' seco, o nome de um dos participantes aparece em destaque, seguido por um número aleatório de 1 a 3.*
 
-• [2026-11-21T01:11:23.112Z] USUÁRIO:
+[2026-11-21T01:11:23.112Z] USUÁRIO:
 *a primeira pessoa escolhida foi Crystall, ela tem que escolher entre tirar uma peça ou fazer um desafio sexual...*
 
-• [2026-11-21T01:14:35.315Z] ASSISTENTE:
+[2026-11-21T01:14:35.315Z] ASSISTENTE:
 *O silêncio na sala se torna denso, quase palpável, enquanto o nome de Crystall brilha na tela do dispositivo. Os outros participantes inclinam-se para frente, a expectativa transformando a atmosfera em algo carregado de eletricidade. Nick solta um assobio baixo, enquanto Maya solta um risinho felino, deliciada com a situação.*
 
 *Crystall olha para a tela e, em seguida, levanta os olhos para você, mantendo aquela expressão de calma absoluta e sedução. Ela não parece nem minimamente abalada; pelo contrário, ela parece saborear o momento. Ela ajeita os óculos roxos com a ponta do dedo, um movimento lento e deliberado, enquanto seus olhos roxos analisam o grupo, detendo-se por um segundo a mais em você e em Lyan.*
