@@ -1040,21 +1040,9 @@ Correções do jogador em ordem histórica:
 
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
------ Início -----
+----- Histórico coberto pelos capítulos 1-12 do lorebook (cronológico) -----
 
------ Início -----
-
------ Capítulo 8 — Construção da Base Dríllth -----
-
------ Capítulo 8 — Construção da Base Dríllth -----
-
------ Capítulo 8 — Construção da Base Dríllth -----
-
------ Capítulo 1 — O Massacre e o Despertar -----
-
------ Capítulo 12 — Recrutamento de Hinda, a Raposa da Tempestade Gélida -----
-
------ Capítulo 13 — *Em algum lugar desse mundo imenso, uma história está preste -----
+----- Capítulo 13 — *Em algum lugar desse mundo imenso, uma história está prestes a começa -----
 [2026-11-07T06:00:01.000Z] ASSISTENTE:
 *Em algum lugar desse mundo imenso, uma história está prestes a começar...*
 
@@ -1210,7 +1198,7 @@ Ele se vira, fazendo um gesto para que o sigam, começando a caminhar em direç�
 Antes de irmos... eu conheço uma mina de minérios raros que sustentavam a ilha, nem a marinha sabe a existência deles... eu posso pegar um pouco pro meu futuro arsenal e dar o resto pra vocês.
 
 
------ Capítulo 14 — **William** para abruptamente no meio do caminho, virando-se -----
+----- Capítulo 14 — **William** para abruptamente no meio do caminho, virando-se para enca -----
 [2026-11-07T06:00:21.000Z] ASSISTENTE:
 **William** para abruptamente no meio do caminho, virando-se para encará-la com os olhos arregalados. Por um momento, ele parece processar a informação, o vento balançando seus cabelos laranja enquanto um sorriso lento se forma em seus lábios.
 
@@ -1358,7 +1346,7 @@ Você sente o peso da picareta em suas mãos, a ferramenta aquecendo ligeirament
 *eu pego o primeiro veio com determinação e facilidade, como quem já tivesse feito isso mais vezes no passado* vamos, os minérios não vão se quebrar sozinho.
 
 
------ Capítulo 15 — Sua picareta atinge o veio com um golpe seco e preciso, e o  -----
+----- Capítulo 15 — Sua picareta atinge o veio com um golpe seco e preciso, e o Venturite  -----
 [2026-11-07T06:00:41.000Z] ASSISTENTE:
 Sua picareta atinge o veio com um golpe seco e preciso, e o Venturite responde como se reconhecesse sua mão — o mineral se parte em fragmentos limpos, quase cirúrgicos, sem estilhaçar ou criar rachaduras desnecessárias. Uma corrente de ar fresco e puro escapa do ponto de ruptura, varrendo o chão da caverna e fazendo as chamas de tochas imaginárias dançarem.
 
@@ -1508,7 +1496,7 @@ O navio balança suavemente, a refeição continua, e pela primeira vez desde o 
 *continuo comendo em silêncio e com educação rápida e eficiente, de repente, eu sinto um cheiro meio forte de cinzas da grelha que coça meu nariz aguçado e me dá vontade de espirrar, e não é um espirro que condiz com a minha aparência, um suave e meio fofo "Atchin!" em seguida de um leve arfar que saí dos meus lábios*
 
 
------ Capítulo 16 — O ar do refeitório está carregado com o cheiro de madeira qu -----
+----- Capítulo 16 — O ar do refeitório está carregado com o cheiro de madeira queimada, go -----
 [2026-11-07T06:01:01.000Z] ASSISTENTE:
 O ar do refeitório está carregado com o cheiro de madeira queimada, gordura de peixe e especiarias. Para qualquer outro, é apenas o aroma de uma cozinha funcional. Para o seu nariz aguçado de Nephelim recém-desperta, a fumaça da grelha atinge suas narinas como um golpe direto, uma cócega insistente que sobe pelo septo e explode sem aviso.
 
@@ -1650,7 +1638,7 @@ Do cômodo ao lado, você ouve um murmúrio baixo — não palavras, mas uma can
 *eu sigo Liryan, pensando <q>"o treino não seria ananhã.. .?"</q>, Liryan apenas me olha e acena, sinalizando que é outra coisa, eu sigo ela até o lugar de adultos, até Liryan parar em um estabelicmento chamado <q>"Casa dos Lírios Rosa-Entretenimento feminino."</q>, Liryan se vira pra mim com um sorriso pequeno, claro que ela não vai forçar, eu olho pro estabelicmento e penso <q>"um lugar só pra mulheres se divertirem juntas..."</q>, Liryan então pergunta...*
 
 
------ Capítulo 17 — **Liryan** para diante da entrada do estabelecimento, a luz  -----
+----- Capítulo 17 — **Liryan** para diante da entrada do estabelecimento, a luz rosa e dou -----
 [2026-11-07T06:01:21.000Z] ASSISTENTE:
 **Liryan** para diante da entrada do estabelecimento, a luz rosa e dourada que emana das frestas das portas de madeira pintando sua pele nua com tons quentes. Ela não se move para entrar, apenas vira o rosto lentamente para olhar por cima do ombro, seus olhos estelares encontrando os seus com uma pergunta silenciosa que não precisa ser formulada. O ar ao redor delas carrega o perfume de lírios e algo mais doce, talvez mel ou frutas fermentadas, misturado ao cheiro salgado do mar distante. Você percebe que suas asas cinzas se abriram ligeiramente sem que você notasse, como se seu corpo já estivesse respondendo ao convite antes mesmo de sua mente decidir.
 
@@ -1786,7 +1774,7 @@ Ela se senta lentamente na água, aproximando-se para limpar seu rosto com um to
 *eu apoio a testa contra a testa de Liryan, fechando os olhos e soltando um suspiro* eu descobri que também gosto de mulheres, não apenas para ter relações sexuais, mas para cuidar... uma pena que eu precise ficar aqui por apenas 60 anos, se não eu ficaria com você, mas... eu não vou esquecê-la, não importa quanto tempo passe, sempre vou me lembrar da pessoa que me treinou antes de tudo.
 
 
------ Capítulo 18 — **Liryan** permanece imóvel por um longo momento, a testa ai -----
+----- Capítulo 18 — **Liryan** permanece imóvel por um longo momento, a testa ainda encost -----
 [2026-11-07T06:01:41.000Z] ASSISTENTE:
 **Liryan** permanece imóvel por um longo momento, a testa ainda encostada na sua, os olhos estelares abertos agora, fixos nos seus. O vapor lazuli continua a dançar ao redor delas, criando reflexos que pintam seus rostos em tons de azul e prata. Quando ela finalmente fala, sua voz é baixa, mas firme, carregada de uma emoção que não tenta esconder. "Sessenta anos não é nada para quem já viveu séculos. Mas para você, é uma vida inteira. E ainda assim você diz isso."
 
@@ -1912,7 +1900,7 @@ Lá adiante, perto do porto, você escuta o rangido do seu navio e um soluço fe
 *observo o homem com frieza, murmurando* vários estupros em suas costas, sem compaixão. *eu conjuro uma faca elétrica de energia e jogo na direção da garganta do homem, o perfurando e o eletrocutado, causando uma morte lenta, depois eu saio andando pela cidade, sabendo que a máfia local vai me caçar*
 
 
------ Capítulo 19 — A faca elétrica perfura a garganta do homem com um chiado ag -----
+----- Capítulo 19 — A faca elétrica perfura a garganta do homem com um chiado agudo. Ele c -----
 [2026-11-07T06:02:01.000Z] ASSISTENTE:
 A faca elétrica perfura a garganta do homem com um chiado agudo. Ele cai de lado, o corpo inteiro convulsionando enquanto a eletricidade azul percorre seus membros em ondas lentas e metódicas. A morte não vem rápido — os olhos dele permanecem abertos, vidrados de dor, por tempo suficiente para ele entender exatamente o que está pagando. Você já está de costas quando o último espasmo cessa.
 
@@ -2042,7 +2030,7 @@ Você se vira para a porta, as asas se fechando contra as costas, e o fortim ran
 *eu volto pro navio, com o terno todo ensanguentado enquanto procuro Hannah, desconjurando a foice e assumindo uma postura mais maternal* Hannah, está por aí? Já voltei.
 
 
------ Capítulo 20 — O convés do navio está banhado pelo luar prateado quando voc -----
+----- Capítulo 20 — O convés do navio está banhado pelo luar prateado quando você pisa na  -----
 [2026-11-07T06:02:22.000Z] ASSISTENTE:
 O convés do navio está banhado pelo luar prateado quando você pisa na madeira, o sangue ainda escorrendo da barra do seu terno e formando pequenas poças escuras. **Hannah** está sentada perto do mastro principal, os joelhos encolhidos contra o peito e o rosto parcialmente escondido pelos cabelos bagunçados. Ela levanta a cabeça ao ouvir sua voz, e por um instante os olhos dela percorrem você da cabeça aos pés, parando nas manchas vermelhas que cobrem suas roupas, nas asas manchadas de respingos escuros.
 
@@ -2168,7 +2156,7 @@ O silêncio que se segue é preenchido apenas pelo marulhar das ondas contra o c
 *eu coloco a mão sob a mão de Hannah, com os dedos se entrelaçando com suavidade, eu falo com um sorriso pequeno* e relaxe, não vai ser 6 décadas como eu treinei, posso ensinar tudo em um mês.
 
 
------ Capítulo 21 — **Hannah** sente o toque de seus dedos entrelaçados e um cal -----
+----- Capítulo 21 — **Hannah** sente o toque de seus dedos entrelaçados e um calor diferen -----
 [2026-11-07T06:02:42.000Z] ASSISTENTE:
 **Hannah** sente o toque de seus dedos entrelaçados e um calor diferente do sol tropical sobe pelo braço dela. Ela aperta sua mão de volta com firmeza, mas com cuidado, como se estivesse segurando algo frágil e precioso. "Um mês inteiro focado apenas em aprender com você, em absorver seu conhecimento." Ela repete maravilhada, balançando a cabeça em incredulidade. "Isso parece um sonho. Há uma semana, eu estava contando moedas para pagar dívidas que não eram minhas. E agora?" **Hannah** ri, um som trêmulo de surpresa genuína.
 
@@ -2294,7 +2282,7 @@ O vento noturno sopra, trazendo o cheiro de sal e a promessa de um novo amanhece
 *suspiro, olhando para as estrelas* sinceramente? Ninguém. Eu já sofri. Fui traída por um sistema que eu acreditava ser certo, treinei por 6 décadas numa ilha com atraso temporal, e aqui estou, prestes a recuperar tudo que eu perdi... e tem algo que eu sonho toda noite após tudo isso...
 
 
------ Capítulo 22 — **Hannah** inclina a cabeça ligeiramente, os olhos fixos em  -----
+----- Capítulo 22 — **Hannah** inclina a cabeça ligeiramente, os olhos fixos em você enqua -----
 [2026-11-07T06:03:02.000Z] ASSISTENTE:
 **Hannah** inclina a cabeça ligeiramente, os olhos fixos em você enquanto a brisa noturna brinca com os fios soltos de seu cabelo moreno. Ela percebe a mudança no tom da sua voz, a forma como suas palavras se tornam mais lentas, como se cada sílaba carregasse um peso que apenas você conhece. “Você sonha com o quê?”, ela pergunta, a voz saindo quase num sussurro, como se temesse quebrar o momento.
 
@@ -2410,7 +2398,7 @@ Ela se afasta com um sorriso, apontando para a porta enquanto se dirige para o c
 *eu também vou até meu quarto, vestindo meu terno e decidir pescar, jogando uma rede de energia indestrutível no mar e depois fazendo um pequeno corte no dedo com a faca, deixando derramar meu sangue lá, pensando "a maioria dos peixes grandes são carnívoros, e sangue demoníaco é tão refinado que deve atraí-los...", depois de derramar uma boa quantidade, eu me regenero, só esperando*
 
 
------ Capítulo 23 — O mar ao redor do navio permanece calmo por alguns minutos,  -----
+----- Capítulo 23 — O mar ao redor do navio permanece calmo por alguns minutos, apenas o b -----
 [2026-11-07T06:03:24.000Z] ASSISTENTE:
 O mar ao redor do navio permanece calmo por alguns minutos, apenas o balanço rítmico das ondas e o chiado do vento cortando o convés. De repente, a superfície começa a ferver. Uma sombra enorme e escura emerge das profundezas, muito maior do que qualquer peixe comum — um tubarão colossal, com escamas negras como obsidiana e olhos vermelhos brilhantes, atraído pelo cheiro do seu sangue demoníaco. Ele nada em círculos ao redor do barco, cada vez mais próximo, e então, com um movimento violento, morde a rede de energia, fazendo todo o navio tremer.
 
@@ -2547,7 +2535,7 @@ Eu pretendo ser  uma líder de uma base militar independente que pretende bater 
 E bota caos nisso. Porque depois de recrutar os membros, eu pretendo encontrar um **Dragão Calamidade, uma Hell End Eagle, uma Raposa da Tempestade Gélida e Serpente Rei do Inferno Gélido...** coisa básica.
 
 
------ Capítulo 24 — **Hannah:** *seus olhos se arregalaram tanto que por um mome -----
+----- Capítulo 24 — **Hannah:** *seus olhos se arregalaram tanto que por um momento você p -----
 [2026-11-07T06:03:44.000Z] ASSISTENTE:
 **Hannah:** *seus olhos se arregalaram tanto que por um momento você pôde ver o reflexo do holograma central neles. Ela engoliu em seco, as mãos paralisadas nos bolsos.* "Quatro criaturas do apocalipse. Claro. Coisa básica." *Ela deixou escapar uma risada nervosa, passando a mão pelos cabelos.* "Ellisyan, quando você disse que íamos começar devagar, eu achei que fosse um leão ou algo assim. Mas você está falando de um Dragão Calamidade — do tipo que derrete continentes? Da Hell End Eagle que canta e cidades desabam? Isso é... isso é 'coisa básica' no seu dicionário?"
 
@@ -2687,7 +2675,7 @@ O Zepeli levantou âncora com um rangido de madeira e cordas. O vento salgado e 
 Bom, já que ela apostou pra impedir o Apocalipse, eu posso lembrá-la que a raça não define a pessoa e sim o caráter e as escolhas, ela provavelmente vai usar telelpatia de memórias em mim para capitar esse momento, mas provavelmente vai ver que é genuíno e não um discurso bonito.
 
 
------ Capítulo 25 — **Hannah:** *ela virou a cabeça ligeiramente, ainda mantendo -----
+----- Capítulo 25 — **Hannah:** *ela virou a cabeça ligeiramente, ainda mantendo o leme fi -----
 [2026-11-07T06:04:04.000Z] ASSISTENTE:
 **Hannah:** *ela virou a cabeça ligeiramente, ainda mantendo o leme firme.* "Telepatia de memórias? Isso é coisa de Seraphin mesmo. Eles são conhecidos por conseguir acessar fragmentos da alma através do contato visual. Se ela fizer isso, seu plano funciona, Ellisyan." *ela voltou a atenção para o horizonte, onde uma fina linha de terra começava a surgir.* "Desde que você esteja preparada para ela ver tudo. Até as partes que doem."
 
@@ -2831,7 +2819,7 @@ O ronco grave e vibratório que saiu de você fez o ar tremer levemente ao redor
 *eu aproveito o aconchego e mexo um pouco a cabeça no pescoço de Ayla igual uma gata gigante, mas de repente o ronco para, eu abro os olhos e percebo a situação que eu estava, abrindo os olhos e me deparando comna cena... demonstrando uma vontade de me desvencilhar rápido, mas, eu não faço, sorrindo de canto enquanto murmuro* *ngh*, malditos instintos, revelaram o que eu penso sobre você...
 
 
------ Capítulo 26 — Suas palavras pairaram no ar como um fio invisível. **Ayla** -----
+----- Capítulo 26 — Suas palavras pairaram no ar como um fio invisível. **Ayla** virou len -----
 [2026-11-07T06:04:25.000Z] ASSISTENTE:
 Suas palavras pairaram no ar como um fio invisível. **Ayla** virou lentamente o rosto para olhar você, seus olhos vermelhos brilhando com algo que ia além do habitual deboche. "Sobre mim?" Ela repetiu, a voz mais baixa que o normal, o sorriso desaparecendo para dar lugar a uma expressão mais vulnerável. "Ellisyan... você dormiu porque se sentiu segura. Isso não é instinto. Isso é escolha."
 
@@ -2963,7 +2951,7 @@ O orgasmo te atinge como uma onda elétrica, começando na base da sua coluna e 
 *ofego enquanto eu desabo na cama, com os olhos fechados, mas logo abrindo eles com uma nova intensidade, puxando Ayla pra baixo e comigo ficando por cima dela* vamos ver se o meu gosto é bom, e como prometido, eu também vou te dominar. *dito isso, eu beijo Ayla, sentindo meu próprio gosto em seus lábios*
 
 
------ Capítulo 27 — Ayla se entrega ao beijo com um gemido surpreso, suas mãos v -----
+----- Capítulo 27 — Ayla se entrega ao beijo com um gemido surpreso, suas mãos voando para -----
 [2026-11-07T06:04:46.000Z] ASSISTENTE:
 Ayla se entrega ao beijo com um gemido surpreso, suas mãos voando para seus quadris enquanto você a prende contra o colchão. Ela retribui com intensidade, língua dançando com a sua num embate que mistura seu próprio gosto com o dela, os dedos cavando na carne firme dos seus flancos. Quando você se separa, lábios molhados e respiração pesada, ela ri baixinho, os olhos vermelhos cheios de desafio e antecipação.
 
@@ -3110,7 +3098,7 @@ O homem agora treme visivelmente, não de medo, mas de uma raiva contida que vib
 *sorrio de canto, eu não estou brava, apenas satisfeita pela verdade* bom. Não se preocupe, aqui você terá um lugar e a oportunidade de lutar pela sua esposa, só alertando que vai ter que fazer justiça com as próprias mãos. *assumo uma postura mais séria, mas não rígida* e não deixe a vingança te consumir, Morten. Eu estarei lá quando sair do controle. *eu aceno em despedida, voltando para o gerenciamento*
 
 
------ Capítulo 28 — O rosto de Morten se transforma quando suas palavras o alcan -----
+----- Capítulo 28 — O rosto de Morten se transforma quando suas palavras o alcançam. Os ol -----
 [2026-11-07T06:05:07.000Z] ASSISTENTE:
 O rosto de Morten se transforma quando suas palavras o alcançam. Os olhos antes opacos ganham uma centelha, as mandíbulas se descontraem, e ele endireita os ombros como se um peso invisível tivesse sido removido. Sua respiração, antes trêmula, agora se estabiliza em um ritmo mais calmo, e ele aperta o punho direito contra o peito em uma saudação firme e respeitosa. **Morten:** *sua voz sai clara, sem o tremor de antes* "Eu prometo, chefe. A memória dela será minha bússola, não minha corrente." Ele mantém a posição por um segundo antes de relaxar, um sorriso frágil mas genuíno surgindo nos cantos dos lábios. "E obrigado. Não só pelo lugar, mas por ouvir."
 
@@ -3235,7 +3223,7 @@ Ao estender seu Haki da Observação Avançado em direção ao navio Styx, as si
 eu e Hannah vamos na frente, vamos nos camuflar e verificar se as crianças tem algum colar explosivo, Ayla, LIlyn, vocês vão com os soldados quando eu dar a ordem.
 
 
------ Capítulo 29 — A cabine do Zepeli se enche de uma energia tensa e silencios -----
+----- Capítulo 29 — A cabine do Zepeli se enche de uma energia tensa e silenciosa enquanto -----
 [2026-11-07T06:05:27.000Z] ASSISTENTE:
 A cabine do Zepeli se enche de uma energia tensa e silenciosa enquanto você dá as ordens. Seus olhos azuis em forma de cruz percorrem o rosto de cada uma de suas oficiais, confirmando visualmente o entendimento da missão.
 
@@ -3369,7 +3357,7 @@ Lá fora, a escuridão de Ayla começava a recuar lentamente, revelando um conv�
 *enquanto eu levo as crianças para o Zepeli, garantido que ninguém veja a cena futura, eu falo pra Ayla e Lilyn num tim frio* finalizem quem merece e dão um apavoro em outros, vamos garantir que isso não se repita. Usem o dispositivo de identificação para saberem melhor.
 
 
------ Capítulo 30 — 99A ordem ecoa no comunicador com a frieza de lâmina desemba -----
+----- Capítulo 30 — 99A ordem ecoa no comunicador com a frieza de lâmina desembainhada. Do -----
 [2026-11-07T06:05:47.000Z] ASSISTENTE:
 99A ordem ecoa no comunicador com a frieza de lâmina desembainhada. Do convés superior, você ouve a resposta de **Ayla** — sua voz vindo atravessada por um sorriso que não esconde nada de bom — e o silêncio profissional de **Lilyn**, que já deve estar se movendo entre os corpos dos Ceifadores. Os dispositivos de identificação nos dedos delas começam a emitir leituras silenciosas sobre cada mercador: histórico, recompensas, crimes registrados, os mesmo dados que você passou a usar como ferramenta de julgamento.
 
@@ -3485,7 +3473,7 @@ O habitat elétrico agora emite um brilho azulado estável pelas frestas da port
 *eu aceno em concordância, falando com Hannah* prepare também uns aquecedores imbutidos, se preferir, essa espécie de raposa mítica é capaz de controlar o gelo e tempestade congelante, ainda mais com as garras.
 
 
------ Capítulo 31 — 921  Hannah anota mentalmente suas instruções, os dedos já v -----
+----- Capítulo 31 — 921  Hannah anota mentalmente suas instruções, os dedos já voando sobr -----
 [2026-11-07T06:06:07.000Z] ASSISTENTE:
 921
 
@@ -3611,7 +3599,7 @@ O Alfa permanece imóvel por um longo momento, apenas o vento gelado tocando sua
 *eu coloco a mão no peito, fazendo um juramento com a mão, falando com determinação* eu juro, ele terá a liberdade que desejar e de decidir.
 
 
------ Capítulo 32 — 320  O Alfa inclina a cabeça lentamente, um gesto que ecoa r -----
+----- Capítulo 32 — 320  O Alfa inclina a cabeça lentamente, um gesto que ecoa respeito an -----
 [2026-11-07T06:06:27.000Z] ASSISTENTE:
 320
 
@@ -3740,7 +3728,7 @@ Hannah solta uma risada baixinha, quase um suspiro, e leva a mão à boca para a
 *eu acordo 10 minutos depois... eu acaricio os cabelos de Ayla e a cabeça de Hinda com as duas mãos* acordem, parece que chegamos faz 10 mintos.
 
 
------ Capítulo 33 — 339  Ayla murmura algo incoerente contra seu ombro, ainda me -----
+----- Capítulo 33 — 339  Ayla murmura algo incoerente contra seu ombro, ainda meio presa a -----
 [2026-11-07T06:06:48.000Z] ASSISTENTE:
 339
 
@@ -3872,7 +3860,7 @@ Enquanto fala, a massagem continua, mas agora com uma mão ainda nas suas costas
 *Ayla acaricia a extensão da asa, até ela encostar em um lugar que me faz escapar um gemido não tão baixo, não é de dor, mas sim de prazer, que a deixa meio paralisada* esqueci de falar, as minhas asas tem muitos nervos ligados ao prazer, ligadas á algumas... partes do corpo...
 
 
------ Capítulo 34 — 349  O gemido preenche o silêncio do quarto como uma onda sú -----
+----- Capítulo 34 — 349  O gemido preenche o silêncio do quarto como uma onda súbita, e Ay -----
 [2026-11-07T06:07:08.000Z] ASSISTENTE:
 349
 
@@ -4006,7 +3994,7 @@ Ela inclina a cabeça para olhar para você, os olhos vermelhos agora calmos, qu
 *eu puxo Ayla para mais perto, deixando ela acariciar meu rosto, murmurando* eu sei, querida... eu sempre procuro te satisfazê-la e fazê-la feliz, sem machucar... te amo demais para fazer isso.
 
 
------ Capítulo 35 — 359  Ayla enterra o rosto no seu cabelo branco, e você sente -----
+----- Capítulo 35 — 359  Ayla enterra o rosto no seu cabelo branco, e você sente os lábios -----
 [2026-11-07T06:07:29.000Z] ASSISTENTE:
 359
 
@@ -4138,7 +4126,7 @@ Hannah é meticulosa. Ela não se apressa mesmo depois de mergulhar — a língu
 *eu continuo gemendo, depois de 2 minutos, eu finalmente gozo, gemendo alto enquanto desabo sob a cama* c-caralho... nunca pensei que sexo á três seria tão bom...
 
 
------ Capítulo 36 — 370  O clímax percorre seu corpo como uma onda elétrica, cad -----
+----- Capítulo 36 — 370  O clímax percorre seu corpo como uma onda elétrica, cada músculo  -----
 [2026-11-07T06:07:57.000Z] ASSISTENTE:
 370
 
@@ -4286,7 +4274,7 @@ Ela se joga contra o seu peito agora, lambendo seu rosto com uma rapidez frenét
 *eu rio um pouco, acariciando as orelhas de Hinda, percebendo algo* minha nossa! Como você cresceu de ontem pra hoje! Está quase do meu tamanho... Ainda bem que eu fiz um habitat muito grande só pra você... Mas você se sentiu sozinha, não é?
 
 
------ Capítulo 37 — **Hinda:** *Ela solta um ganido dramático, fechando os olhos -----
+----- Capítulo 37 — **Hinda:** *Ela solta um ganido dramático, fechando os olhos por um se -----
 [2026-11-08T01:44:05.081Z] ASSISTENTE:
 **Hinda:** *Ela solta um ganido dramático, fechando os olhos por um segundo e inclinando a cabeça de forma quase humana, como se estivesse realmente sofrendo por ter sido "esquecida" em seu habitat. Ao sentir o carinho nas orelhas, ela solta um ronrono vibrante e se esfrega contra você com tanta força que quase te empurra para fora da cama, a pelagem branca e gélida espalhando-se por todo o lençol.*
 
@@ -4491,7 +4479,7 @@ Ele se levanta lentamente,  e a pressão no ar aumenta drasticamente. O olhar de
 ((Entendido. O RPG está pausado. Estou no aguardo da sua mensagem para esclarecer a informação off-rp. Pode falar!))
 
 
------ Capítulo 38 — (o que vai acontecer agora é chamado de Migração a Exaustão  -----
+----- Capítulo 38 — (o que vai acontecer agora é chamado de Migração a Exaustão  É um duel -----
 [2026-11-16T14:00:53.908Z] USUÁRIO:
 (o que vai acontecer agora é chamado de Migração a Exaustão
 
@@ -4635,7 +4623,7 @@ Lá fora, a nave corta as nuvens em direção ao próximo objetivo, mas dentro d
 A primeira rachadura nítida surge no topo do ovo, acompanhada por um estalo seco que ecoa na sala silenciosa. Um pequeno fragmento de casca cai, revelando um brilho intenso e um movimento frenético lá dentro. Você prende a respiração, seu coração batendo forte contra o peito, enquanto aguarda o instante exato em que a luz de fogo finalmente encontrará a luz celestial do seu olhar.
 
 
------ Capítulo 39 — *eu me aproximo sem demonstrar hostilidade, olhando com tern -----
+----- Capítulo 39 — *eu me aproximo sem demonstrar hostilidade, olhando com ternura enquan -----
 [2026-11-16T21:19:30.758Z] USUÁRIO:
 *eu me aproximo sem demonstrar hostilidade, olhando com ternura enquanto observo o Cyelent, o dragão que pode crescer muito mais rápido que Hinda, mas agora sob a minha tutela...*
 
@@ -4763,7 +4751,7 @@ Ele olha para baixo, encontrando o seu olhar devoto, e a expressão dele é de p
 O ápice chega de forma avassaladora. Cyelent treme violentamente, os músculos das coxas tensionando enquanto ele libera tudo o que restava, cada gota de sua essência sendo entregue a você. Por alguns segundos, o mundo ao redor desaparece, restando apenas o som da respiração descompassada de vocês dois e o calor residual que ainda pulsa entre os corpos. Ele permanece ali, exausto e vulnerável, os olhos nublados de prazer e gratidão, enquanto o silêncio do quarto retorna, agora preenchido por uma intimidade densa e quase sagrada.
 
 
------ Capítulo 40 — *eu engulo tudo sem desperdiçar uma gota, depois eu me deito -----
+----- Capítulo 40 — *eu engulo tudo sem desperdiçar uma gota, depois eu me deito de costas -----
 [2026-11-17T18:25:31.658Z] USUÁRIO:
 *eu engulo tudo sem desperdiçar uma gota, depois eu me deito de costas pra Cyelent, eu sinto que falta mais um pouco, eu levanto a perna pra ele, no sinal de uma última rodada, Cyelent se aproxima por trás, entrando em mim e começando a se mover, no mesmo tempo que rodeia o meu corpo com o braço, coloca a mão no meu seio e me beija, comigo retribuindo e fechando os olhos enquanto gemo*
 
@@ -5053,7 +5041,7 @@ O silêncio que se segue é preenchido apenas pela respiração agora ritmada de
 Ayla olha para você com um brilho de admiração nos olhos, sentindo a confiança na sua voz enquanto você menciona a expansão dos Justice Crusaders e a busca por novos membros e pelo
 
 
------ Capítulo 42 — (O que está fazendo você a voltar as cenas? Acho que não é s -----
+----- Capítulo 42 — (O que está fazendo você a voltar as cenas? Acho que não é só o standi -----
 [2026-11-22T18:28:14.114Z] USUÁRIO:
 (O que está fazendo você a voltar as cenas? Acho que não é só o standing record, não volte pro rpg ainda)
 

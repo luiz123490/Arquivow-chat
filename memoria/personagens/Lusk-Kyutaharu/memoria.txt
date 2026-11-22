@@ -779,19 +779,9 @@ Correções do jogador em ordem histórica:
 
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
------ Início -----
+----- Histórico coberto pelos capítulos 1-12 do lorebook (cronológico) -----
 
------ Início -----
-
------ Início -----
-
------ Início -----
-
------ Início -----
-
------ Início -----
-
------ Capítulo 13 — ═══ JUJUTSU KAISEN RPG ═══  Preencha sua ficha e a aventura  -----
+----- Capítulo 13 — ═══ JUJUTSU KAISEN RPG ═══  Preencha sua ficha e a aventura começará.  -----
 [2026-11-07T09:00:01.000Z] ASSISTENTE:
 ═══ JUJUTSU KAISEN RPG ═══
 
@@ -1042,7 +1032,7 @@ O que você faz?
 *aceno, colocando uma mão no queixo, parecendo pensativo* tem molhos apimentado acompanhando o sushi?
 
 
------ Capítulo 14 — **Gojo** solta uma risada baixa, colocando as mãos nos bolso -----
+----- Capítulo 14 — **Gojo** solta uma risada baixa, colocando as mãos nos bolsos do casac -----
 [2026-11-07T09:00:21.000Z] ASSISTENTE:
 **Gojo** solta uma risada baixa, colocando as mãos nos bolsos do casaco enquanto começa a andar em direção à saída do aeroporto.
 
@@ -1213,7 +1203,7 @@ O que você faz?
 okay. *eu aceno, abaixando a máscara, revelando as minhas cicatrizes, e começo a comer o onigiri e depois beber a pepesi com naturalidade*
 
 
------ Capítulo 15 — *O som da embalagem de plástico sendo rasgada ecoa no ar not -----
+----- Capítulo 15 — *O som da embalagem de plástico sendo rasgada ecoa no ar noturno. **Go -----
 [2026-11-07T09:00:41.000Z] ASSISTENTE:
 *O som da embalagem de plástico sendo rasgada ecoa no ar noturno. **Gojo** ergue uma sobrancelha por cima da venda preta, observando você com interesse genuíno enquanto morde o onigiri de salmão. O arroz branco contrasta com a pele pálida do seu rosto agora exposto, as cicatrizes ao redor da boca e queixo capturando a luz fraca da máquina de vendas como linhas prateadas em papel envelhecido.*
 
@@ -1445,7 +1435,7 @@ O que você faz?
 *eu observo* hm. isso me lembra algo, nos registros da escola, tinha uma maldição do tipo humana no Incidente de Shibuya em 2018, mas, essa maldição não é ela... ela deve ser fruto do ódio extremo por músicas e músicos, tipo misofonia. A outra hipótese é que pode ser um espírito vingativo de uma pessoa que foi morta por um músico.
 
 
------ Capítulo 16 — *Hikari inclina levemente a cabeça, seus olhos rosados se es -----
+----- Capítulo 16 — *Hikari inclina levemente a cabeça, seus olhos rosados se estreitando  -----
 [2026-11-07T09:01:02.000Z] ASSISTENTE:
 *Hikari inclina levemente a cabeça, seus olhos rosados se estreitando com interesse enquanto ouve sua análise. O vento matinal sopra alguns fios de cabelo vermelho para fora do capuz, e ela os recolhe com um gesto distraído.* Seu conhecimento sobre registros históricos é impressionante, Kyuu-kun. A maioria dos alunos do primeiro ano nem sabe o que foi o Incidente de Shibuya direito.
 
@@ -1625,7 +1615,7 @@ Ela inclina a cabeça — e você ouve. Batidas. Lentas. Rítmicas. Vindo de den
 *penso <q><q>"pelo menos o explosivo só atinge maldições..."</q></q>, eu crio uma arma de vácuo fraca, que puxa a criança na minha direção com a velocidade meio alta, mas sem ferí-la... até eu notar a energia mudando em segundos assim que ela entra no raio de 6 metros próximos a mim... um som de <q><q>"click"</q></q> é audível, e a criança simplesmente explode como se fosse uma bomba... mas, eu já tinha saltado para trás pra fugir do raio da explosão, pensando <q><q>"filho da puta. Usou a criança como isca..."</q></q>, por dentro, eu fiquei putasso com isso, embora eu não expresse*
 
 
------ Capítulo 17 — A explosão rasga o ar como um trovão abafado e úmido. Estilh -----
+----- Capítulo 17 — A explosão rasga o ar como um trovão abafado e úmido. Estilhaços de os -----
 [2026-11-07T09:01:22.000Z] ASSISTENTE:
 A explosão rasga o ar como um trovão abafado e úmido. Estilhaços de osso e carne molecularizada batem contra a parede de concreto atrás de você, formando uma auréola carmesim que escorre lentamente. A energia amaldiçoada que exalava daquela criança agora se dissipa como fumaça de um incêndio apagado, mas algo pior a substitui.
 
@@ -1842,7 +1832,7 @@ O que você faz?
 eu.... acho que vou desmaiar. *eu caio de joelhos, com a visão embaçando enquanto eu mantenho a consciência... Hikari está preocupada mesmo não conseguindo compreender o que sente por causa da alexitimia... e de repente, Gojo surge ao nosso lado na hora certa, se deparando com o nosso estado atual...*
 
 
------ Capítulo 18 — (o som dos seus joelhos batendo no asfalto rachado ecoa no b -----
+----- Capítulo 18 — (o som dos seus joelhos batendo no asfalto rachado ecoa no beco silenc -----
 [2026-11-07T09:01:42.000Z] ASSISTENTE:
 (o som dos seus joelhos batendo no asfalto rachado ecoa no beco silencioso. Sua visão começa a escurecer nas bordas, formando um túnel. A energia amaldiçoada ao seu redor está instável, pulsando como uma chama prestes a se apagar.)
 
@@ -2054,7 +2044,7 @@ O que você faz?
 Hikari... *eu continuo acariciando o queixo de Hikari, a minha música reflete amor e devoção, enquanto a energia dela reflete o mesmo...* sabe, depois da nossa primeira missão juntos, mesmo que tenha sido miserável... algo... novo acordou dentro de mim, não sei explicar... só saiba que... *eu fico em silêncio por vários segundos, até dizer o "eu te amo" mais próximo que eu consigo* eu te aprecio... *eu fico em silêncio, esperando Hikari entender...*
 
 
------ Capítulo 19 — *Hikari continua te encarando, seus olhos rosados brilhando? -----
+----- Capítulo 19 — *Hikari continua te encarando, seus olhos rosados brilhando?? com a lu -----
 [2026-11-07T09:02:02.000Z] ASSISTENTE:
 *Hikari continua te encarando, seus olhos rosados brilhando?? com a luz fraca do amanhecer filtrada pelas cortinas. As orelhas kitsune dela se contraem levemente num movimento involuntário quando você acaricia seu queixo.*
 
@@ -2228,7 +2218,7 @@ O que você faz?
 *fico em silêmcio, olhando pra Hikari enquanto a minha música reflete devoção* eu... quero ter algo a mais com você, se é que me entende... antes de começarmos, pode parecer insensível essa pergunta que vou fazer, mas, preciso saber... você tem alguma condição de infertibilidade...? sabe, algo dos kitsunes... é só pra não ter responsabilidades inesperadas no futuro.
 
 
------ Capítulo 20 — **Hikari Yoshino** *suas orelhas de raposa se curvam levemen -----
+----- Capítulo 20 — **Hikari Yoshino** *suas orelhas de raposa se curvam levemente para tr -----
 [2026-11-07T09:02:22.000Z] ASSISTENTE:
 **Hikari Yoshino** *suas orelhas de raposa se curvam levemente para trás, mas não por medo — é uma reação de reflexão. Ela inclina a cabeça, processando suas palavras com uma seriedade que contrasta com sua postura relaxada. As luzes indiretas do quarto desenham sombras nas cicatrizes ao redor de sua boca enquanto ela sorri — um sorriso triste, mas compreensivo.*
 
@@ -2388,7 +2378,7 @@ O que você faz?
 (só lembrando que os dois tem alexitimia)
 
 
------ Capítulo 21 — Hikari congela por um instante, as bochechas corando levemen -----
+----- Capítulo 21 — Hikari congela por um instante, as bochechas corando levemente enquant -----
 [2026-11-07T09:02:42.000Z] ASSISTENTE:
 Hikari congela por um instante, as bochechas corando levemente enquanto o selinho ecoa como um acorde silencioso entre vocês. A cauda dela balança involuntariamente atrás dela, e o selo em seu pescoço emite um brilho fraco e pulsante, como uma respiração contida. Ela desvia o olhar por um segundo, os dedos dela roçando a barra da camisa larga que ela veste — a sua camisa.
 

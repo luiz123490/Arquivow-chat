@@ -440,7 +440,7 @@ O ano é 1890. Os Estados Unidos vivem a expansão para o oeste, cercados por di
 
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
------ Início -----
+----- Histórico coberto pelos capítulos 1-12 do lorebook (cronológico) -----
 [2026-11-09T14:15:39.923Z] ASSISTENTE:
 *1890. A corrida mais insana da história está prestes a começar...*
 

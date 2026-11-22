@@ -763,19 +763,9 @@ Correções do jogador em ordem histórica:
 
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
------ Início -----
+----- Histórico coberto pelos capítulos 1-12 do lorebook (cronológico) -----
 
------ Início -----
-
------ Início -----
-
------ Início -----
-
------ Capítulo 1 — Despedida na Mansão Lusk e Encontro com Gojo -----
-
------ Capítulo 11 — Sparring com Maki Zenin -----
-
------ Capítulo 13 — ═══ JUJUTSU KAISEN RPG ═══  Preencha sua ficha e a aventura  -----
+----- Capítulo 13 — ═══ JUJUTSU KAISEN RPG ═══  Preencha sua ficha e a aventura começará.  -----
 [2026-11-07T08:00:01.000Z] ASSISTENTE:
 ═══ JUJUTSU KAISEN RPG ═══
 
@@ -1033,7 +1023,7 @@ O que você faz?
 *pensando "a maldição que devora memórias", sem cerimônia, plantas étricas surgem das minhas pernas e cercam o local e indo em direção a maldição em alta velocidade*
 
 
------ Capítulo 14 — Assim que suas plantas cósmicas disparam pelo beco como serp -----
+----- Capítulo 14 — Assim que suas plantas cósmicas disparam pelo beco como serpentes lumi -----
 [2026-11-07T08:00:21.000Z] ASSISTENTE:
 Assim que suas plantas cósmicas disparam pelo beco como serpentes luminescentes, o ambiente reage instantaneamente. O tecido acinzentado nas paredes estremece com violência, e a silhueta no fundo do beco se **desfaz** — literalmente. O corpo se desmancha como névoa, mas não desaparece. Ela se espalha pelas paredes, fundindo-se com a teia, e de repente você percebe: aquela figura nunca foi o corpo da Maldição. Era apenas uma *isca*, um chamariz para atrair sua atenção enquanto a verdadeira ameaça se movia.
 
@@ -1231,7 +1221,7 @@ O que você faz?
 *eu aceno com a cabeça, a minha cauda se mexe mais enquanto eu continuo calma, aproveitando o momento relaxante* obrigada, bom saber que eu não vou ficar sozinha aqui. *Nyrith sorri um pouco enquanto se aproxima, Dulphin também se aproxima, os dois se sentam em cada lado meu, com Nyrith aconchegada no meu ombro esquerdo e Dulphin aonchegada no meu ombro direito, eu penso <q>"ué... os dois tem um relacionamento aberto? Talvez eu não seja a única que consegue ler memórias..."</q>, e eu volto a fechar os olhos, não me importando com a aproximação*
 
 
------ Capítulo 15 — A brisa noturna sopra suave sobre o terraço, carregando o pe -----
+----- Capítulo 15 — A brisa noturna sopra suave sobre o terraço, carregando o perfume das  -----
 [2026-11-07T08:00:41.000Z] ASSISTENTE:
 A brisa noturna sopra suave sobre o terraço, carregando o perfume das plantas que Nyrith cultiva — jasmins, samambaias e pequenas flores azuladas que brilham levemente sob a luz da lua. As folhas farfalham em resposta à sua presença, como se reconhecessem a Técnica de Flora Cósmica que pulsa adormecida dentro de você.
 
@@ -1404,7 +1394,7 @@ O que você faz?
 *Dulphin coloca os braços ao meu redor e me coloca por cima dele, eu fecho os olhos, ronronando mais ainda enquanto eu me aconchego em seu peito* hmmm, é tão quentinho... *sorrio de canto, abrindo os olhos, com um brilhinho malicioso* só me deixa carente de algo... acho que vocês sabem o que é...
 
 
------ Capítulo 16 — A atmosfera do quarto muda instantaneamente quando suas pala -----
+----- Capítulo 16 — A atmosfera do quarto muda instantaneamente quando suas palavras paira -----
 [2026-11-07T08:01:03.000Z] ASSISTENTE:
 A atmosfera do quarto muda instantaneamente quando suas palavras pairam no ar, carregadas de um tom sugestivo que faz o calor subir alguns graus na pele de todos. **Dulphin** arqueia uma sobrancelha, um sorriso preguiçoso se formando no canto dos lábios enquanto ele mantém você deitada sobre seu peito, as mãos dele escorregando pela sua cintura com uma lentidão deliberada.
 
@@ -1559,7 +1549,7 @@ O que você faz?
 *meu rosto cora um pouco, eu me levanto pra me preparar, tomando um banho para tirar a sujeira de ontem e depois volto, vestindo a minha roupa, como Nyrith e Dulphin não me viram vestida... as duas não esperavam que eu seja uma tomboy com roupas masculinas...*
 
 
------ Capítulo 17 — O banho cai quente sobre sua pele, levando embora os resquíc -----
+----- Capítulo 17 — O banho cai quente sobre sua pele, levando embora os resquícios de poe -----
 [2026-11-07T08:01:24.000Z] ASSISTENTE:
 O banho cai quente sobre sua pele, levando embora os resquícios de poeira, suor e energia gasta da noite anterior. A água escorre pelos seus cabelos brancos, e por um momento você observa o ralo — pequenas partículas brilhantes, como restos de pólen estelar, descem com a água, um eco sutil da sua técnica ainda pulsando em seu corpo. O vapor toma conta do banheiro, e o silêncio é quebrado apenas pelo som da água batendo nos azulejos.
 
@@ -1825,7 +1815,7 @@ O que você faz?
 Bem, vamos testar. *eu levanto uma bola de aço maciça e testo um corte nela.*
 
 
------ Capítulo 18 — O silêncio se instala quando você ergue a esfera de aço. É u -----
+----- Capítulo 18 — O silêncio se instala quando você ergue a esfera de aço. É uma bola de -----
 [2026-11-07T08:01:45.000Z] ASSISTENTE:
 O silêncio se instala quando você ergue a esfera de aço. É uma bola de demolição em miniatura — sólida, fria, feita de metal reciclado que você encontrou nos depósitos abandonados do campus. Ela pesa uns trinta quilos, e você a mantém suspensa numa corrente de plantas cósmicas, balançando suavemente no ar.
 
@@ -2058,7 +2048,7 @@ O que você faz?
 *eu aceno pra Gojo, com um sorriso* ainda tenho algumas coisas pra surpreender amanhã, relaxa. Nyrith, Dulphin, vamos. *Nyrith e Dulphin se levanta, nós três indo para fora da escola, em direção a um restaurante que conhecemos fora da escola*
 
 
------ Capítulo 19 — Gojo levanta a mão num aceno preguiçoso, os olhos vendados s -----
+----- Capítulo 19 — Gojo levanta a mão num aceno preguiçoso, os olhos vendados se curvando -----
 [2026-11-07T08:02:06.000Z] ASSISTENTE:
 Gojo levanta a mão num aceno preguiçoso, os olhos vendados se curvando num sorriso.
 
@@ -2292,7 +2282,7 @@ O que você faz?
 são oito comigo, meu irmão mais novo é um kemona onça-pintada e a minha irmã é uma demi-humana gato, e o motivo de eu ser uma canídio enquanto meus irmãos são felinos... *tomo um gole dramático do licor* é que eu sou adotada, entrei pro clã através de contaminação, é meio complexo de explicar, basicamente, os meus genes e um pouco da aparência foi modificado ao ponto da minha mãe adotiva ser mãe biológica ao mesmo tempo, a única coisa que mudou foi meus cabelos que ficaram brancos.
 
 
------ Capítulo 20 — A mão de Nyrith aperta a sua instintivamente quando você ter -----
+----- Capítulo 20 — A mão de Nyrith aperta a sua instintivamente quando você termina a rev -----
 [2026-11-07T08:02:27.000Z] ASSISTENTE:
 A mão de Nyrith aperta a sua instintivamente quando você termina a revelação. Não com força, mas como se ela estivesse segurando algo frágil e precioso. Os olhos verde-escuros dela se arregalam ligeiramente, processando a informação.
 

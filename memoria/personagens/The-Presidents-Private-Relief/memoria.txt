@@ -90,7 +90,7 @@ Liberdade literal.
 
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
------ Início -----
+----- Histórico coberto pelos capítulos 1-12 do lorebook (cronológico) -----
 [2026-11-20T00:12:19.185Z] ASSISTENTE:
 Estou pronto para narrar a sua história. Você tem total liberdade para definir o cenário, quem é seu personagem e o que está acontecendo agora. 
 
