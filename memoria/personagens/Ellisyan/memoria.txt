@@ -15,6 +15,65 @@ STATUS ATUAL: Ellisyan venceu o Duelo da Calamidade em Kaelum, obteve o ovo e re
 One Piece RPG · Ellisyan.
 Narrador de RPG de One Piece. Lorebook de Ellisyan (Nephelim, Juíza das Almas, Justice Crusaders).
 
+=== APARÊNCIA E CARACTERÍSTICAS (extraído do lorebook) ===
+[REFERÊNCIA FIXADA — Identidade e aparência — parte 1]
+Idade: 32 anos (aparência de 26 anos devido ao atraso temporal em Luminalis).
+Altura: 2,00 metros (originalmente 1,75m antes do despertar).
+Raça: Nephelim (híbrido de anjo caído e humano, com linhagem Luskxiana).
+APARÊNCIA ATUAL: Pele branca pálida.
+Cabelos brancos longos e lisos que caem sobre os ombros.
+Olhos azuis com pupila em forma de cruz — característica marcante dos Nephelins Luskxianos.
+- Transformação corporal: Pode modificar sua aparência usando Hemomancia.
+APARÊNCIA: Possui a forma de um cubo preto com uma cunha posterior traseira.
+CAPACIDADE: Pode abrigar centenas de soldados por nave, com confortos como quartos individuais, enfermaria, cozinha, sala de reuniões e área de descanso.
+Permite curar ferimentos em combate e modificar a aparência física.
+TRANSFORMAÇÃO CORPORAL: Pode modificar sua aparência usando Hemomancia, como se tornar uma criança para infiltração ou alterar características físicas.
+### [REGRAS] Poderes, aparência e sistemas — complementos do jogador
+- Correções de aparência: Lilyn tem olhos azuis; os chifres laterais de Ayla são retos.
+Idade: 27 anos.
+Altura: 1,65 metros.
+Raça: Humana.
+APARÊNCIA: Pele parda.
+Cabelos morenos e cacheados, geralmente soltos ou presos de forma prática.
+Olhos roxos brilhantes e expressivos.
+PERSONALIDADE: Inteligente, analítica e estrategista.
+Idade: 29 anos.
+Altura: 1,95 metros.
+Raça: Ancarghela (híbrida de anjo e demônio).
+APARÊNCIA: Pele branca pálida.
+Cabelos longos e pretos, geralmente soltos ou presos de forma despojada.
+Olhos vermelhos intensos que brilham com uma luz predatória.
+PERSONALIDADE: Delinquente, sarcástica e provocadora, mas com um coração leal e protetor.
+Idade: 29 anos (aparência imortal).
+Altura: 1,75 metros.
+Raça: Seraphin (anjo puro).
+APARÊNCIA: Pele branca como neve.
+Cabelos loiros lisos como seda, caindo até a cintura.
+Olhos azuis que brilham com uma imponência celestial e uma sabedoria milenar.
+PERSONALIDADE: Calma, observadora e diplomática.
+Idade: 34 anos.
+Altura: 1,80 metros.
+Raça: Humano.
+APARÊNCIA: Homem careca, com expressão cansada e olhos castanhos que carregam um peso profundo.
+Pele clara, com algumas cicatrizes nas mãos.
+PERSONALIDADE: Reservado, observador e tenso.
+Idade: Filhote (poucos meses).
+Raça: Raposa da Tempestade Gélida (*Vulpes Tempestas Glacialis*).
+APARÊNCIA: Pequena raposa fêmea com pelagem branca como neve, com tufos azuis nas pontas das orelhas, na cauda e nas patas.
+Olhos grandes de um azul tão claro que parecem quase prateados.
+PERSONALIDADE: Curiosa, observadora e confiante com Ellisyan.
+IMPACTO NA PERSONALIDADE: A perda de sua família moldou Ellisyan.
+MOMENTOS DE VULNERABILIDADE: Ellisyan frequentemente lembra de sua família em momentos de quietude.
+- Ellisyan acaricia o cabelo de Hannah
+- Ellisyan está sentada na beira da cama, olhos marejados
+- Ellisyan fecha os olhos e puxa Ayla para um abraço
+- Ellisyan assume aparência humana usando camuflagem
+- O Alfa se transfigura: corpo estica para 4 metros, olhos âmbar viram azul-gélido, pernas viram digitígradas, orelhas e cauda crescem
+- Alfa: "Você é a primeira que chega aqui e não pede uma pele para vender.
+(Vou começar a história, só lembrando que a Ellisyan está no começo da jornada, ela não tem 32 anos, não é a Juíza das Almas, não controla os poderes e muito menos tem os Justice Crusaders, inicialmente ela tem 26 anos e tem cabelos brancos, olhos azuis com a pupila normal, não tem recompensa, asas de anjo cinzas e pele branca)
+(Só lembrando, Ellisyan tem olhos azuis, Lilyn tem olhos azuis, Ayla tem olhos vernelhos e Hannah tem olhos roxos.)
+(Corrigindo, a Lilyn tem olhos azuis, não dourados)
+
 === SYSTEM PROMPT / PERSONA ===
 # Instruções de narração
 Responda sempre em português do Brasil.

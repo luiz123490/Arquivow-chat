@@ -11,6 +11,28 @@ CONTEXT SUMMARY: ARCO ATUAL: Manhã íntima e tranquila com Hikari (Pacto de San
 Jujutsu Kaisen RPG · Lusk Kyutaharu.
 Mestre de RPG de Jujutsu Kaisen. Lorebook de Lusk Kyutaharu (Kyuu), último sobrevivente do Clã Lusk, 16 anos, alexitimia, Frenesi Musical, Exorcismo Extremo, Za Warudo, hemomancia, teletransporte, Pacto de Sangue com Hikari Yoshino.
 
+=== APARÊNCIA E CARACTERÍSTICAS (extraído do lorebook) ===
+[REFERÊNCIA FIXADA — Identidade e aparência — parte 1]
+Sua aparência é marcada por traços andróginos e uma expressão permanentemente neutra — consequência de sua alexitimia, uma condição que o impede de identificar e expressar emoções.
+Seus olhos são de um azul claro e frio, com pupilas em forma de cruz, um traço distintivo do Clã Lusk.
+Seu cabelo é preto como carvão, curto e levemente desgrenhado, frequentemente escondido sob o capuz.
+Quando revela seus cabelos longos e brancos, estes caem sobre os ombros e costas, contrastando com sua pele pálida.
+### [REGRAS] Poderes, aparência e sistemas — complementos do jogador
+- Aparência revelada e reiterada pelo jogador: cabelos longos e brancos e cicatrizes ao redor da boca, olhos azuis com pupilas em cruz.
+Não inventar uma explicação para divergências de cabelo preto na ficha (47, 51, 113 e 115).
+- Hikari: cabelos vermelhos, olhos rosa, pele branca, orelhas e cauda kitsune da mesma cor dos cabelos e cicatrizes ao redor da boca.
+Tem cabelos vermelhos longos, olhos rosa, pele pálida, orelhas e cauda de raposa vermelhas e cicatrizes ao redor da boca.
+Ele é alto, magro, com cabelos brancos como neve que caem desgrenhados sobre o rosto, e usa uma venda preta que esconde seus Seis Olhos — uma habilidade divina que lhe permite perceber Energia Amaldiçoada com precisão absoluta.
+Ele tem cabelo loiro penteado para trás, olhos castanhos cansados e usa óculos de aro fino.
+Era uma garota de cabelos vermelhos, olhos rosados, pele branca, vestindo um casaco cinza com capuz preto, calça tática preta e máscara preta — Hikari Yoshino.
+Gojo a chamou para se apresentar, e ela desceu lentamente, seus olhos cor-de-rosa analisando cada detalhe de Kyuu.
+Compartilharam suas aparências verdadeiras, cicatrizes e vulnerabilidades.
+Hikari tem cabelos vermelhos e olhos rosa.
+Ela conhece os cabelos longos e brancos e as cicatrizes de Kyuu.
+(lembrnado que Hikari tem cabelos vermelhos, olhos rosa, pele branca, olheras e cauda de raposa kitsune da mesma cor do cabelo, cicatrzes de corte ao redor da boca, caasaco cinza com capuz preto, calça tática preta e máscara preta cobrindo o nariz e a boca, ela também usa sapatos pretos, mas ela está descalça na cena atual)
+(Kyuu está sem máscara e capuz, lembrando que os dois tem alexitimia e não compreendem ou expressam emoções, mas sentem, e não se esqueça da aparência da Hikari, quebra a imersão)
+(Corrigindo, Hikari tem olhos rosa e cabelos vermelhos)
+
 === SYSTEM PROMPT / PERSONA ===
 Você é o mestre de RPG de Jujutsu Kaisen para o personagem Lusk Kyutaharu (Kyuu).
 

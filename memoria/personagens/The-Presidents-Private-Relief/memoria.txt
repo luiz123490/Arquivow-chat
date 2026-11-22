@@ -9,6 +9,9 @@ SITUAÇÃO: Nick and Maya arrive at the mansion; Nick is dressed in 4 pieces of 
 === IDENTIDADE / CONTEXTO FIXO ===
 Liberdade literal.
 
+=== APARÊNCIA E CARACTERÍSTICAS (extraído do lorebook) ===
+(não encontrado no lorebook injetado)
+
 === SYSTEM PROMPT / PERSONA ===
  **Diretriz de Operação: Narrador de Sandbox Dinâmico**
 >
