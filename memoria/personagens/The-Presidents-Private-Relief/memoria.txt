@@ -31,7 +31,63 @@ Liberdade literal.
 === FATOS MEMORIZADOS (IA) ===
 (sem fatos)
 
+=== SUMMARY STORE ===
+{'summariesReadyToInject': [], 'lastProcessedNodeId': None, 'alreadyProcessing': False, 'consolidationQueue': []}
+
 === LOREBOOK INJETADO (capítulos) ===
+=== RAMIFICAÇÕES (branches não ativos) — resumo ===
+- mwo88z0nflfqegbm44 [user] 2026-11-20T00:14:48.647Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um d
+- mwo88z1rcp22e6g4ybn [assistant] 2026-11-20T00:14:48.687Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan. O ar está pesado com o aroma de sândalo e o cheiro metálico 
+- mwo89zwqtzeatvs6g09 [assistant] 2026-11-20T00:15:36.458Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com dedicação. O ar está impregnado com o aroma de sâ
+- mwo8b5pjpha3qg8ezgf [user] 2026-11-20T00:16:30.631Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um d
+- mwo8b5qyvs6jn00izc [assistant] 2026-11-20T00:16:30.682Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão absoluta. O contraste é nítido: a aust
+- mwo8cjp7q6ux4barjuk [assistant] 2026-11-20T00:17:35.419Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O ar condicionado s
+- mwo8dvzjgnbvis46g9t [assistant] 2026-11-20T00:18:37.999Z: *O ambiente no gabinete é de um luxo silencioso, onde o cheiro de madeira nobre se mistura ao aroma cítrico de perfumes caros e ao odor visceral e que
+- mwo8elfbmubxdrfr37n [assistant] 2026-11-20T00:19:10.967Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido vindo de baixo da mesa. O ar está impregnado com o aroma de sândalo e o cheiro natu
+- mwo8ft3mrto0zukqchb [user] 2026-11-20T00:20:07.570Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um d
+- mwo8ft4zdtzzoen5rz8 [assistant] 2026-11-20T00:20:07.619Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor entre as suas pernas. O contraste é nítido:
+- mwo8gruc0l1vx5y7ao [assistant] 2026-11-20T00:20:52.596Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor contra a sua pele. O ar ao redor é denso,
+- mwo8hy2xh6oowq800q [user] 2026-11-20T00:21:47.337Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um d
+- mwo8hy46eve84h94rjh [assistant] 2026-11-20T00:21:47.382Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O ar ao redor é denso
+- mwo8j0f9fjzjx39r7zh [assistant] 2026-11-20T00:22:37.029Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O ar está impregnado 
+- mwo8jsd5nz304ayfnu [assistant] 2026-11-20T00:23:13.241Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O ar ao redor é denso
+- mwo8kqpfz6qi9fmi1tj [assistant] 2026-11-20T00:23:57.747Z: *The air in the office is thick with the scent of expensive mahogany and the musk of arousal. The only sounds are the rhythmic, wet slides of Lyan's t
+- mwo8kxbxfgg4yqr5lys [assistant] 2026-11-20T00:24:06.334Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com fervor contra a sua pele. O ar condicionado sop
+- mwo8ljxvshaaq1d7vy [assistant] 2026-11-20T00:24:35.635Z: *O ambiente do gabinete é impregnado por um silêncio luxuoso, quebrado apenas pelo som rítmico e úmido do trabalho de Lyan sob a mesa. O ar carrega o 
+- mwo8m555vw4gawinv2a [assistant] 2026-11-20T00:25:03.113Z: *O silêncio do gabinete é quebrado apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O ar está impregnado 
+- mwo8sl8rsy17y4yhysn [user] 2026-11-20T00:30:03.915Z: *eu apenas crio um mundo em total paz, sendo o clássico sistema da sociedade atual, de cidades e tecnologias, com países unificados e em paz, com um d
+- mwo8sla3uk4nqbnrp6 [assistant] 2026-11-20T00:30:03.963Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan contra a sua pele, um contraste visceral com a opulência do amb
+- mwo8tmxrj8bndv11uba [assistant] 2026-11-20T00:30:52.767Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico da respiração e o ruído úmido, visceral, do prazer sendo extraído. O couro da poltrona ra
+- mwo8umaa25svgpl67an [assistant] 2026-11-20T00:31:38.578Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O contraste entre a
+- mwo8vooqn5hq4n0k9bk [assistant] 2026-11-20T00:32:28.346Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan contra a sua pele. O ar está denso, carregado com o perfume sua
+- mwo8wn2hqobrwd1052 [assistant] 2026-11-20T00:33:12.905Z: *O ambiente do gabinete é impregnado por um perfume caro de madeira e sândalo, misturado agora ao cheiro visceral de excitação e fluidos. O silêncio d
+- mwo8xsa7z5q4w5654eb [assistant] 2026-11-20T00:34:06.319Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico da respiração e pelos ruídos úmidos e viscerais que ecoam debaixo da mesa de carvalho. O 
+- mwo8yt5wdczxde4ytwm [assistant] 2026-11-20T00:34:54.116Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O contraste é nítid
+- mwo8zrny751j35l9rwm [assistant] 2026-11-20T00:35:38.830Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com dedicação absoluta. O calor do corpo dela contr
+- mwo90oja9mv3jdj4qtn [assistant] 2026-11-20T00:36:21.430Z: *O silêncio do gabinete é quebrado apenas pelo ritmo úmido e visceral do prazer. O couro da poltrona range levemente a cada movimento de Lyan, cujo en
+- mwo92u6vioq86en2kzi [assistant] 2026-11-20T00:38:02.071Z: *O ar no gabinete é denso, carregado com o perfume caro do ambiente e o aroma visceral do desejo. O silêncio do escritório é quebrado apenas pelo som 
+- mwo93xih25peckqv0w [assistant] 2026-11-20T00:38:53.033Z: *O ar no gabinete é denso, saturado com o perfume caro de sândalo e o cheiro metálico e quente de excitação. O silêncio do ambiente é quebrado apenas 
+- mwo94tfz3dhpi6s2ruh [assistant] 2026-11-20T00:39:34.415Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do prazer. O couro da cadeira de presidente range levemente a cada movimento de L
+- mwo97fqygb1gp1pwlbc [assistant] 2026-11-20T00:41:36.634Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com precisão contra a sua pele. O calor do corpo de
+- mwocxm3fr62ud4zpp4 [assistant] 2026-11-20T02:25:56.763Z: *O ambiente no gabinete é saturado por um silêncio quase ritualístico, quebrado apenas pela respiração pesada e pelos sons úmidos e rítmicos vindos de
+- mwocynqc3yviimh90i9 [assistant] 2026-11-20T02:26:45.540Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do prazer. A sensação da língua de Lyan contra a sua pele é elétrica, criando um 
+- mwoczxnlj0jpvnsnc8f [assistant] 2026-11-20T02:27:45.058Z: *O ar no gabinete é denso, carregado com o perfume caro de sândalo e o aroma visceral do desejo. O silêncio do ambiente é quebrado apenas pelo som úmi
+- mwp487ew4o82nska8wt [assistant] 2026-11-20T15:10:00.584Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan. O ar está carregado com o perfume de sândalo e o aroma metál
+- mwp49975ommb7sgzsi [assistant] 2026-11-20T15:10:49.553Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido do trabalho de Lyan sob a mesa. O ar carrega o aroma de papéis antigos, couro car
+- mwpp18zfqinac6yu1nn [assistant] 2026-11-21T00:52:27.963Z: *O silêncio do gabinete é preenchido apenas pelo som rítmico e úmido da língua de Lyan trabalhando com vigor, um contraste visceral com a opulência do
+- mwpp28rzudtqc0c2nu [assistant] 2026-11-21T00:53:14.351Z: *O ar no gabinete é denso, carregado com o aroma de sândalo e o calor orgânico da pele contra a pele. O silêncio do ambiente é quebrado apenas pelo so
+- mwpp3ogzkgr56y18xkd [assistant] 2026-11-21T00:54:21.347Z: *O silêncio do gabinete é quebrado apenas pelo som úmido e rítmico da língua de Lyan contra a sua pele, um contraste visceral com a austeridade do mob
+- mwpp96rpy74gttzg28 [user] 2026-11-21T00:58:38.341Z: *eu solto um gemido longo, gozando... Quando eu me levanto assim que a papelada acabou, Lyan me segue até a saída do gabinete, enquanto eu ando, eu fa
+- mwpp96spzhr1xsam7we [assistant] 2026-11-21T00:58:38.377Z: *O orgasmo reverberou pelo corpo de Niryan, deixando-a momentaneamente sem fôlego enquanto Lyan, com um sorriso satisfeito e os lábios úmidos, se afas
+- mwppbh8ihuzbn61ax [assistant] 2026-11-21T01:00:25.218Z: *O orgasmo ainda reverbera em seus nervos, deixando sua pele levemente quente e seus sentidos alertas enquanto você se levanta. Lyan se ergue logo em 
+- mwppiixsk8bwjfe2op [assistant] 2026-11-21T01:05:54.016Z: *O clima na sala é de uma eletricidade quase tangível. O contraste entre o luxo da mansão e a natureza permissiva do jogo cria uma tensão deliciosa. N
+- mwppll69xm4kueotwid [assistant] 2026-11-21T01:08:16.881Z: *O clima na sala muda instantaneamente, a tensão relaxada de antes dando lugar a uma eletricidade competitiva e carregada de segundas intenções. Nick,
+- mwppnf6zrnj1363743 [assistant] 2026-11-21T01:09:42.443Z: *O ambiente da mansão é envolto por uma atmosfera de luxúria e expectativa. A luz é suave, realçando as curvas e as texturas dos tecidos transparentes
+- mwpppkwqnk57665g3t [assistant] 2026-11-21T01:11:23.162Z: *O silêncio na sala torna-se denso, quase palpável, enquanto todos os olhares se voltam para Crystall. O brilho da tela do celular reflete nos óculos 
+- mwppqeo327evj1nnhdl [assistant] 2026-11-21T01:12:01.731Z: *O silêncio na sala se torna quase sólido enquanto todos os olhos se voltam para Crystall. A bruxa não parece nem um pouco abalada; pelo contrário, el
+- mwppri2qzdnbbfca3r [assistant] 2026-11-21T01:12:52.802Z: *O silêncio na sala torna-se denso, quase palpável. Todos os olhares se voltam para Crystall, que permanece no centro do grupo, a postura elegante e a
+- mwppsnrozm4mpcu90a [assistant] 2026-11-21T01:13:46.836Z: *O silêncio cai sobre a sala, interrompido apenas pelo zumbido eletrônico do aplicativo. Todos os olhos se voltam para Crystall. A bruxa permanece imó
+
 === HISTÓRICO DETALHADO POR CAPÍTULO (com base nas mensagens da thread) ===
 
 ----- Início -----
